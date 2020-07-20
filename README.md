@@ -11,7 +11,7 @@ Used for the auto-events MAD Plugin. Every event listed has event-specific Spawn
 https://raw.githubusercontent.com/ccev/pogoinfo/info/mad-events.json
 
 ### Format
-```java
+```js
 [
     {
         "name": "Event Name 1",
