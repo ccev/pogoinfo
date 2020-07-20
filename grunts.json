@@ -18,7 +18,7 @@
     "5": {
         "type": "",
         "grunt": "Female",
-        "second_reward": "false",
+        "second_reward": false,
         "encounters": {
             "first": [
                 "131_00"
@@ -42,7 +42,7 @@
     "7": {
         "type": "Bug",
         "grunt": "Male",
-        "second_reward": "false",
+        "second_reward": false,
         "encounters": {
             "first": [
                 "013_00",
@@ -67,7 +67,7 @@
     "9": {
         "type": "Ghost",
         "grunt": "Male",
-        "second_reward": "false",
+        "second_reward": false,
         "encounters": {
             "first": [
                 "200_00"
@@ -111,7 +111,7 @@
     "16": {
         "type": "Fighting",
         "grunt": "Female",
-        "second_reward": "false",
+        "second_reward": false,
         "encounters": {
             "first": [
                 "106_00",
@@ -132,7 +132,7 @@
     "18": {
         "type": "Fire",
         "grunt": "Female",
-        "second_reward": "true",
+        "second_reward": true,
         "encounters": {
             "first": [
                 "037_00",
@@ -158,7 +158,7 @@
     "20": {
         "type": "Flying",
         "grunt": "Female",
-        "second_reward": "false",
+        "second_reward": false,
         "encounters": {
             "first": [
                 "041_00",
@@ -187,7 +187,7 @@
     "23": {
         "type": "Grass",
         "grunt": "Male",
-        "second_reward": "true",
+        "second_reward": true,
         "encounters": {
             "first": [
                 "102_00"
@@ -211,7 +211,7 @@
     "25": {
         "type": "Ground",
         "grunt": "Male",
-        "second_reward": "false",
+        "second_reward": false,
         "encounters": {
             "first": [
                 "027_00",
@@ -252,7 +252,7 @@
     "31": {
         "type": "Normal",
         "grunt": "Male",
-        "second_reward": "false",
+        "second_reward": false,
         "encounters": {
             "first": [
                 "137_00"
@@ -281,7 +281,7 @@
     "35": {
         "type": "Psychic",
         "grunt": "Male",
-        "second_reward": "true",
+        "second_reward": true,
         "encounters": {
             "first": [
                 "063_00",
@@ -307,7 +307,7 @@
     "37": {
         "type": "Rock",
         "grunt": "Male",
-        "second_reward": "false",
+        "second_reward": false,
         "encounters": {
             "first": [
                 "138_00",
@@ -326,7 +326,7 @@
     "38": {
         "type": "Water",
         "grunt": "Female",
-        "second_reward": "false",
+        "second_reward": false,
         "encounters": {
             "first": [
                 "258_00",
@@ -353,7 +353,7 @@
     "41": {
         "type": "Executive Cliff",
         "grunt": "",
-        "second_reward": "false",
+        "second_reward": false,
         "encounters": {
             "first": [
                 "127_00"
@@ -373,7 +373,7 @@
     "42": {
         "type": "Executive Arlo",
         "grunt": "",
-        "second_reward": "false",
+        "second_reward": false,
         "encounters": {
             "first": [
                 "303_00"
@@ -393,7 +393,7 @@
     "43": {
         "type": "Executive Sierra",
         "grunt": "",
-        "second_reward": "false",
+        "second_reward": false,
         "encounters": {
             "first": [
                 "374_00"
@@ -413,7 +413,7 @@
     "44": {
         "type": "Giovanni or Decoy",
         "grunt": "",
-        "second_reward": "false",
+        "second_reward": false,
         "encounters": {
             "first": [
                 "244_00"
@@ -435,7 +435,7 @@
     "48": {
         "type": "Ghost",
         "grunt": "Male",
-        "second_reward": "false",
+        "second_reward": false,
         "encounters": {
             "first": [
                 "200_00"
@@ -455,7 +455,7 @@
     "49": {
         "type": "Electric",
         "grunt": "Female",
-        "second_reward": "false",
+        "second_reward": false,
         "encounters": {
             "first": [
                 "081_00",
