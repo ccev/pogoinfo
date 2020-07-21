@@ -35,5 +35,29 @@
         "start": "2020-07-28 18:00",
         "end": "2020-07-28 19:00",
         "local_times": true
+    },
+    {
+        "name": "Oddish Spotlight Hour",
+        "start": "2020-07-21 18:00",
+        "end": "2020-07-21 19:00",
+        "local_times": true
+    },
+    {
+        "name": "Buizel Spotlight Hour",
+        "start": "2020-07-28 18:00",
+        "end": "2020-07-28 19:00",
+        "local_times": true
+    },
+    {
+        "name": "Oddish Spotlight Hour",
+        "start": "2020-07-21 18:00",
+        "end": "2020-07-21 19:00",
+        "local_times": true
+    },
+    {
+        "name": "Buizel Spotlight Hour",
+        "start": "2020-07-28 18:00",
+        "end": "2020-07-28 19:00",
+        "local_times": true
     }
 ]
