@@ -54,7 +54,7 @@ https://raw.githubusercontent.com/ccev/pogoinfo/info/mad-events.json
         "name": "Event Name 2",         // Required key
         "start": "2020-07-19 11:00",    // Required key
         "end": "2020-07-19 17:00",      // Required key
-        "local_times": true,            // Optional key, defaults to false
+        "local_times": true,            // Optional key, defaults to false (If false, the times are in UTC+0)
         "lure_duration": 180            // Optional key, defaults to 30 (value is in minutes)
     }
 ]
