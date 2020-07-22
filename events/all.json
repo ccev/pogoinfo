@@ -1,1 +1,32 @@
-[]
+[
+    {
+        "name": "Oddish Spotlight Hour",
+        "type": "Pok\u00e9mon Spotlight Hour",
+        "start": "2020-07-21 18:00",
+        "end": "2020-07-21 19:00"
+    },
+    {
+        "name": "Kyurem Raid Hour",
+        "type": "Raid Hour",
+        "start": "2020-07-22 18:00",
+        "end": "2020-07-22 19:00"
+    },
+    {
+        "name": "GO Fest Week 3 Challenge: Friendship",
+        "type": "Event",
+        "start": null,
+        "end": "2020-07-22 22:00"
+    },
+    {
+        "name": "Pok\u00e9mon GO Fest 2020",
+        "type": "Pok\u00e9mon GO Fest",
+        "start": "2020-07-25 00:00",
+        "end": "2020-07-26 23:59"
+    },
+    {
+        "name": "Buizel Spotlight Hour",
+        "type": "Pok\u00e9mon Spotlight Hour",
+        "start": "2020-07-28 18:00",
+        "end": "2020-07-28 19:00"
+    }
+]
