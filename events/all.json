@@ -46,5 +46,17 @@
         "type": "Potential Ultra Unlock",
         "start": "2020-08-14 22:00",
         "end": "2020-08-21 22:00"
+    },
+    {
+        "name": "Day 1: Pok\u00e9mon GO Fest 2020",
+        "type": "Pok\u00e9mon GO Fest",
+        "start": "2020-07-25 10:00",
+        "end": "2020-07-25 20:00"
+    },
+    {
+        "name": "Day 2: Pok\u00e9mon GO Fest 2020",
+        "type": "Pok\u00e9mon GO Fest",
+        "start": "2020-07-26 10:00",
+        "end": "2020-07-26 20:00"
     }
 ]
