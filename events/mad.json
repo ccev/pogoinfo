@@ -22,5 +22,12 @@
         "start": "2020-07-28 18:00",
         "end": "2020-07-28 19:00",
         "local_times": true
+    },
+    {
+        "name": "Magikarp Community Day",
+        "start": "2020-08-08 11:00",
+        "end": "2020-08-08 17:00",
+        "local_times": true,
+        "lure_duration": 180
     }
 ]
