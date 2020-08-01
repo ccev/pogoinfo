@@ -29,5 +29,29 @@
         "end": "2020-08-08 17:00",
         "local_times": true,
         "lure_duration": 180
+    },
+    {
+        "name": "Horsea Spotlight Hour",
+        "start": "2020-08-04 18:00",
+        "end": "2020-08-04 19:00",
+        "local_times": true
+    },
+    {
+        "name": "Sableye Spotlight Hour",
+        "start": "2020-08-11 18:00",
+        "end": "2020-08-11 19:00",
+        "local_times": true
+    },
+    {
+        "name": "Venipede Spotlight Hour",
+        "start": "2020-08-18 18:00",
+        "end": "2020-08-18 19:00",
+        "local_times": true
+    },
+    {
+        "name": "Geodude Spotlight Hour",
+        "start": "2020-08-25 18:00",
+        "end": "2020-08-25 19:00",
+        "local_times": true
     }
 ]

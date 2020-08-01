@@ -58,5 +58,35 @@
         "type": "Pok\u00e9mon GO Fest",
         "start": "2020-07-26 10:00",
         "end": "2020-07-26 20:00"
+    },
+    {
+        "name": "Horsea Spotlight Hour",
+        "type": "Pok\u00e9mon Spotlight Hour",
+        "start": "2020-08-04 18:00",
+        "end": "2020-08-04 19:00"
+    },
+    {
+        "name": "Sableye Spotlight Hour",
+        "type": "Pok\u00e9mon Spotlight Hour",
+        "start": "2020-08-11 18:00",
+        "end": "2020-08-11 19:00"
+    },
+    {
+        "name": "GO Fest Makeup Event",
+        "type": "Pok\u00e9mon GO Fest",
+        "start": "2020-08-16 11:00",
+        "end": "2020-08-16 14:00"
+    },
+    {
+        "name": "Venipede Spotlight Hour",
+        "type": "Pok\u00e9mon Spotlight Hour",
+        "start": "2020-08-18 18:00",
+        "end": "2020-08-18 19:00"
+    },
+    {
+        "name": "Geodude Spotlight Hour",
+        "type": "Pok\u00e9mon Spotlight Hour",
+        "start": "2020-08-25 18:00",
+        "end": "2020-08-25 19:00"
     }
 ]
