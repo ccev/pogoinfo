@@ -1,63 +1,95 @@
-[
-    {
-        "name": "Corona Spawns",
-        "start": "2020-01-01 00:00",
-        "end": "2020-09-01 22:00",
-        "local_times": false
+{
+    "types": {
+        "cday": "Community Days",
+        "spotlight": "Spotlight Hours",
+        "event": "Regular Events",
+        "corona": "Corona Spawns"
     },
-    {
-        "name": "Oddish Spotlight Hour",
-        "start": "2020-07-21 18:00",
-        "end": "2020-07-21 19:00",
-        "local_times": true
-    },
-    {
-        "name": "GoFest 2020",
-        "start": "2020-07-25 10:00",
-        "end": "2020-07-26 20:00",
-        "local_times": true
-    },
-    {
-        "name": "Buizel Spotlight Hour",
-        "start": "2020-07-28 18:00",
-        "end": "2020-07-28 19:00",
-        "local_times": true
-    },
-    {
-        "name": "Magikarp Community Day",
-        "start": "2020-08-08 11:00",
-        "end": "2020-08-08 17:00",
-        "local_times": true,
-        "lure_duration": 180
-    },
-    {
-        "name": "Horsea Spotlight Hour",
-        "start": "2020-08-04 18:00",
-        "end": "2020-08-04 19:00",
-        "local_times": true
-    },
-    {
-        "name": "Sableye Spotlight Hour",
-        "start": "2020-08-11 18:00",
-        "end": "2020-08-11 19:00",
-        "local_times": true
-    },
-    {
-        "name": "Venipede Spotlight Hour",
-        "start": "2020-08-18 18:00",
-        "end": "2020-08-18 19:00",
-        "local_times": true
-    },
-    {
-        "name": "Geodude Spotlight Hour",
-        "start": "2020-08-25 18:00",
-        "end": "2020-08-25 19:00",
-        "local_times": true
-    },
-    {
-        "name": "Sableye Spotlight Hour",
-        "start": null,
-        "end": "2020-08-11 19:00",
-        "local_times": true
-    }
-]
+    "events": [
+        {
+            "name": "Corona Spawns",
+            "start": "2020-01-01 00:00",
+            "end": "2020-09-01 22:00",
+            "local_times": false
+        },
+        {
+            "name": "Oddish Spotlight Hour",
+            "start": "2020-07-21 18:00",
+            "end": "2020-07-21 19:00",
+            "local_times": true
+        },
+        {
+            "name": "GoFest 2020",
+            "start": "2020-07-25 10:00",
+            "end": "2020-07-26 20:00",
+            "local_times": true
+        },
+        {
+            "name": "Buizel Spotlight Hour",
+            "start": "2020-07-28 18:00",
+            "end": "2020-07-28 19:00",
+            "local_times": true
+        },
+        {
+            "name": "Magikarp Community Day",
+            "start": "2020-08-08 11:00",
+            "end": "2020-08-08 17:00",
+            "local_times": true,
+            "lure_duration": 180
+        },
+        {
+            "name": "Horsea Spotlight Hour",
+            "start": "2020-08-04 18:00",
+            "end": "2020-08-04 19:00",
+            "local_times": true
+        },
+        {
+            "name": "Sableye Spotlight Hour",
+            "start": "2020-08-11 18:00",
+            "end": "2020-08-11 19:00",
+            "local_times": true
+        },
+        {
+            "name": "Venipede Spotlight Hour",
+            "start": "2020-08-18 18:00",
+            "end": "2020-08-18 19:00",
+            "local_times": true
+        },
+        {
+            "name": "Geodude Spotlight Hour",
+            "start": "2020-08-25 18:00",
+            "end": "2020-08-25 19:00",
+            "local_times": true
+        },
+        {
+            "name": "Sableye Spotlight Hour",
+            "start": null,
+            "end": "2020-08-11 19:00",
+            "local_times": true
+        },
+        {
+            "name": "Sableye Spotlight Hour",
+            "type": "spotlight",
+            "start": null,
+            "end": "2020-08-11 19:00",
+            "lure_duration": 30,
+            "local_times": true
+        },
+        {
+            "name": "Venipede Spotlight Hour",
+            "type": "spotlight",
+            "start": "2020-08-18 18:00",
+            "end": "2020-08-18 19:00",
+            "lure_duration": 30,
+            "local_times": true
+        },
+        {
+            "name": "Geodude Spotlight Hour",
+            "type": "spotlight",
+            "start": "2020-08-25 18:00",
+            "end": "2020-08-25 19:00",
+            "lure_duration": 30,
+            "local_times": true
+        }
+    ]
+}
