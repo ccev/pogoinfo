@@ -53,5 +53,11 @@
         "start": "2020-08-25 18:00",
         "end": "2020-08-25 19:00",
         "local_times": true
+    },
+    {
+        "name": "Sableye Spotlight Hour",
+        "start": null,
+        "end": "2020-08-11 19:00",
+        "local_times": true
     }
 ]

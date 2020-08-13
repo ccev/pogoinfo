@@ -1,70 +1,74 @@
 {
-    "name": "Dragon Week - Week 1 Ultra Unlock",
-    "start": "2020-07-31 22:00",
-    "end": "2020-08-07 22:00",
+    "name": "Enigma Week - Week 2 Ultra Unlock",
+    "start": "2020-08-07 22:00",
+    "end": "2020-08-14 22:00",
     "details": {
         "bonuses": [
-            "Release of shiny Deino"
+            "Release of shiny Unown U,L,T,R,A",
+            "Release of shiny Staryu",
+            "Release of shiny Normal Forme Deoxys",
+            "Release of Elgyem"
         ],
         "eggs": [
-            "116_00",
-            "147_00",
-            "328_00",
-            "333_00",
-            "371_00",
-            "Gible (s, rare)",
-            "Deino (s, rare)"
+            "173_00",
+            "174_00",
+            "337_00",
+            "338_00",
+            "605_00",
+            "120_00",
+            "374_00"
         ],
         "spawns": [
-            "103_78",
-            "116_00",
-            "147_00",
-            "328_00",
-            "333_00",
-            "371_00",
-            "Gible (s, rare)",
-            "004_00",
-            "252_00"
+            "120_00",
+            "039_00",
+            "035_00",
+            "Solrock (spawning globally)",
+            "Lunatone (spawning globally)",
+            "343_00",
+            "436_00",
+            "605_00",
+            "374_00"
         ],
         "raids": {
             "1": [
-                "252_00",
-                "333_00",
-                "495_00",
-                "147_00"
+                "035_00",
+                "039_00",
+                "599_00",
+                "120_00"
             ],
             "2": [
-                "443_00",
-                "159_00",
-                "103_78"
+                "201_00",
+                "L",
+                "T",
+                "R",
+                "A)",
+                "577_00",
+                "605_00",
+                "574_00"
             ],
             "3": [
-                "221_00",
-                "329_00",
-                "117_00",
-                "024_00"
+                "344_00",
+                "337_00",
+                "338_00"
             ],
             "4": [
-                "365_00",
-                "006_00",
-                "373_00",
-                "149_00"
+                "437_00",
+                "176_00",
+                "376_00",
+                "105_80"
             ],
             "5": [
-                "384_00"
+                "386_33"
             ]
         },
         "quests": {
-            "Make an Excellent Throw": [
-                "371_00"
+            " Win a Raid": [
+                "120_00"
             ],
-            "Win a raid": [
-                "147_00"
+            " Make 3 Curveball Throws": [
+                "343_00"
             ],
-            "Catch a Dragon-type Pok\u00e9mon": [
-                "2 Golden Razz"
-            ],
-            "Catch 3 Dragon-type Pok\u00e9mon": [
+            " Catch 3 Psychic-type Pok\u00e9mon": [
                 "1 Rare Candy"
             ]
         }

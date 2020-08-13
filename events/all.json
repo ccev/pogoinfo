@@ -88,5 +88,11 @@
         "type": "Pok\u00e9mon Spotlight Hour",
         "start": "2020-08-25 18:00",
         "end": "2020-08-25 19:00"
+    },
+    {
+        "name": "Deoxys Raid Hour",
+        "type": "Raid Hour",
+        "start": "2020-08-12 18:00",
+        "end": "2020-08-12 19:00"
     }
 ]
