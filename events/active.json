@@ -1,75 +1,78 @@
 {
-    "name": "Enigma Week - Week 2 Ultra Unlock",
-    "start": "2020-08-07 22:00",
-    "end": "2020-08-14 22:00",
+    "name": "Unova Week - Week 3 Ultra Unlock",
+    "start": "2020-08-14 22:00",
+    "end": "2020-08-21 22:00",
     "details": {
         "bonuses": [
-            "Release of shiny Unown U,L,T,R,A",
-            "Release of shiny Staryu",
-            "Release of shiny Normal Forme Deoxys",
-            "Release of Elgyem"
+            "Release of shiny Roggenrola",
+            "Release of Sewaddle, Cottonee, Emolga, and Bouffalant",
+            "Release of shiny Genesect"
         ],
         "eggs": [
-            "173_00",
-            "174_00",
-            "337_00",
-            "338_00",
-            "605_00",
-            "120_00",
-            "374_00"
+            "540_00",
+            "546_00",
+            "519_00",
+            "572_00",
+            "527_00",
+            "587_00",
+            "554_00"
         ],
         "spawns": [
-            "120_00",
-            "039_00",
-            "035_00",
-            "Solrock (spawning globally)",
-            "Lunatone (spawning globally)",
-            "343_00",
-            "436_00",
-            "605_00",
-            "374_00"
+            "540_00",
+            "546_00",
+            "587_00",
+            "Bouffalant (in New York City and the surrounding Northeast region of the United States)",
+            "522_00",
+            "506_00",
+            "509_00",
+            "Sinvy",
+            "498_00",
+            "501_00",
+            "557_00",
+            "588_00",
+            "524_00",
+            "504_00",
+            "616_00"
         ],
         "raids": {
             "1": [
-                "035_00",
-                "039_00",
+                "546_00",
+                "532_00",
+                "548_00",
                 "599_00",
-                "120_00"
+                "557_00"
             ],
             "2": [
-                "201_00",
-                "L",
-                "T",
-                "R",
-                "A)",
-                "577_00",
-                "605_00",
-                "574_00"
+                "618_00",
+                "524_00",
+                "554_00",
+                "597_00",
+                "544_00"
             ],
             "3": [
-                "344_00",
-                "337_00",
-                "338_00"
+                "510_00",
+                "536_00",
+                "591_00"
             ],
             "4": [
-                "437_00",
-                "176_00",
-                "376_00",
+                "508_00",
+                "569_00",
                 "105_80"
             ],
             "5": [
-                "386_33"
+                "649_00"
             ]
         },
         "quests": {
             " Win a Raid": [
-                "120_00"
+                "524_00"
             ],
-            " Make 3 Curveball Throws": [
-                "343_00"
-            ],
-            " Catch 3 Psychic-type Pok\u00e9mon": [
-                "1 Rare Candy"
+            " Use 5 Berries to help catch Pokemon": [
+                "509_00",
+                "506_00",
+                "519_00",
+                "504_00",
+                "529_00"
             ]
         }
     }
