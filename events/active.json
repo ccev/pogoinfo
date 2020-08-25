@@ -1,79 +1,12 @@
 {
-    "name": "Unova Week - Week 3 Ultra Unlock",
-    "start": "2020-08-14 22:00",
-    "end": "2020-08-21 22:00",
+    "name": "Kyurem Raid Hour",
+    "start": "2020-07-22 18:00",
+    "end": "2020-07-22 19:00",
     "details": {
-        "bonuses": [
-            "Release of shiny Roggenrola",
-            "Release of Sewaddle, Cottonee, Emolga, and Bouffalant",
-            "Release of shiny Genesect"
-        ],
-        "eggs": [
-            "540_00",
-            "546_00",
-            "519_00",
-            "572_00",
-            "527_00",
-            "587_00",
-            "554_00"
-        ],
-        "spawns": [
-            "540_00",
-            "546_00",
-            "587_00",
-            "Bouffalant (in New York City and the surrounding Northeast region of the United States)",
-            "522_00",
-            "506_00",
-            "509_00",
-            "Sinvy",
-            "498_00",
-            "501_00",
-            "557_00",
-            "588_00",
-            "524_00",
-            "504_00",
-            "616_00"
-        ],
-        "raids": {
-            "1": [
-                "546_00",
-                "532_00",
-                "548_00",
-                "599_00",
-                "557_00"
-            ],
-            "2": [
-                "618_00",
-                "524_00",
-                "554_00",
-                "597_00",
-                "544_00"
-            ],
-            "3": [
-                "510_00",
-                "536_00",
-                "591_00"
-            ],
-            "4": [
-                "508_00",
-                "569_00",
-                "105_80"
-            ],
-            "5": [
-                "649_00"
-            ]
-        },
-        "quests": {
-            " Win a Raid": [
-                "524_00"
-            ],
-            " Use 5 Berries to help catch Pokemon": [
-                "509_00",
-                "506_00",
-                "519_00",
-                "504_00",
-                "529_00"
-            ]
-        }
+        "bonuses": [],
+        "eggs": [],
+        "spawns": [],
+        "raids": [],
+        "quests": {}
     }
 }
