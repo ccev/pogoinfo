@@ -3,7 +3,8 @@
         "cday": "Community Days",
         "spotlight": "Spotlight Hours",
         "event": "Regular Events",
-        "corona": "Corona Spawns"
+        "corona": "Corona Spawns",
+        "default": "DEFAULT"
     },
     "events": [
         {
