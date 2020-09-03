@@ -1,12 +1,12 @@
 {
-    "name": "Heatran Raid Hour",
-    "start": "2020-08-26 18:00",
-    "end": "2020-08-26 19:00",
+    "name": "Enigma Week - Week 2 Ultra Unlock",
+    "start": "2020-08-07 22:00",
+    "end": "2020-08-14 22:00",
     "details": {
         "bonuses": [],
         "eggs": [],
         "spawns": [],
-        "raids": [],
+        "raids": {},
         "quests": {}
     }
 }
