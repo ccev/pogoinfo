@@ -1,12 +1,53 @@
 {
-    "name": "Enigma Week - Week 2 Ultra Unlock",
-    "start": "2020-08-07 22:00",
-    "end": "2020-08-14 22:00",
+    "name": "Mega Raids - Unlock Mega Pidgeot",
+    "start": null,
+    "end": "2020-09-07 22:00",
     "details": {
-        "bonuses": [],
+        "bonuses": [
+            "Challenge: Complete two million Mega Raids to unlock Mega Pidgeot",
+            "Increased number of Mega Raids",
+            "Increased attack bonus from friends in raids (https://www.reddit.com/r/TheSilphRoad/comments/ik33ea/game_master_update_010920_friendship_raid_bonus/)"
+        ],
         "eggs": [],
-        "spawns": [],
+        "spawns": [
+            "063_00",
+            "081_00",
+            "102_00",
+            "111_00",
+            "114_00",
+            "125_00",
+            "138_00",
+            "142_00",
+            "198_00",
+            "252_00",
+            "255_00",
+            "270_00",
+            "315_00",
+            "374_00",
+            "408_00"
+        ],
         "raids": {},
-        "quests": {}
+        "quests": {
+            "Battle in a raid": [
+                "500 Stardust"
+            ],
+            "Win a Raid": [
+                "270_00"
+            ],
+            "Win 3 raids": [
+                "142_00"
+            ],
+            "Win 5 raids": [
+                "113_00"
+            ],
+            "Win a Mega Raid": [
+                "408_00"
+            ],
+            "Battle another trainer": [
+                "5 Mega Energy (Blastoise",
+                "003_00",
+                "006_00"
+            ]
+        }
     }
 }
