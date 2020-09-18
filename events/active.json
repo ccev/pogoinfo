@@ -1,52 +1,72 @@
 {
-    "name": "Mega Raids - Unlock Mega Pidgeot",
-    "start": null,
-    "end": "2020-09-07 22:00",
+    "name": "Mega Battle - Unlock Mega Houndoom",
+    "start": "2020-09-11 08:00",
+    "end": "2020-09-17 22:00",
     "details": {
         "bonuses": [
-            "Challenge: Complete two million Mega Raids to unlock Mega Pidgeot",
-            "Increased number of Mega Raids",
-            "Increased attack bonus from friends in raids (https://www.reddit.com/r/TheSilphRoad/comments/ik33ea/game_master_update_010920_friendship_raid_bonus/)"
+            "Challenge: Complete 275 million Gym, Rocket, or Trainer Battles to unlock Mega Houndoom",
+            "Release of shiny Ledyba"
         ],
         "eggs": [],
         "spawns": [
-            "063_00",
-            "081_00",
-            "102_00",
-            "111_00",
-            "114_00",
-            "125_00",
-            "138_00",
-            "142_00",
-            "198_00",
-            "252_00",
-            "255_00",
-            "270_00",
-            "315_00",
-            "374_00",
-            "408_00"
+            "347_00",
+            "412_00",
+            "010_00",
+            "415_00",
+            "557_00",
+            "401_00",
+            "165_00",
+            "046_00",
+            "204_00",
+            "127_00",
+            "123_00",
+            "451_00",
+            "167_00",
+            "543_00",
+            "048_00",
+            "013_00",
+            "265_00"
         ],
-        "raids": {},
-        "quests": {
-            "Battle in a raid": [
-                "500 Stardust"
+        "raids": {
+            "1": [
+                "274_00",
+                "281_00",
+                "574_00",
+                "215_00"
             ],
-            "Win a Raid": [
-                "270_00"
+            "3": [
+                "332_00",
+                "359_00",
+                "196_00",
+                "103_78",
+                "342_00"
             ],
-            "Win 3 raids": [
-                "142_00"
+            "5": [
+                "488_00"
             ],
-            "Win 5 raids": [
-                "113_00"
-            ],
-            "Win a Mega Raid": [
-                "408_00"
-            ],
-            "Battle another trainer": [
-                "5 Mega Energy (Blastoise",
+            "Mega": [
                 "003_00",
+                "009_00",
+                "006_00",
                 "006_00"
+            ]
+        },
+        "quests": {
+            "(Daily) Catch 5 Bug-type Pokemon": [
+                "5 Mega Beedrill Energy"
+            ],
+            "Defeat a Team Rocket Grunt": [
+                "10 Mega Beedrill energy"
+            ],
+            "Catch 5 different Bug-Type Pokemon": [
+                "165_00"
+            ],
+            " Mega Evolve a Beedrill ": [
+                "20 Mega Beedrill Energy"
+            ],
+            " Battle another trainer ": [
+                "5 Mega Energy (Charizard",
+                "003_00"
             ]
         }
     }
