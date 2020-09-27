@@ -1,72 +1,72 @@
 {
-    "name": "Mega Battle - Unlock Mega Houndoom",
-    "start": "2020-09-11 08:00",
-    "end": "2020-09-17 22:00",
+    "name": "Mega Buddy - Unlock Mega Gengar",
+    "start": "2020-09-22 08:00",
+    "end": "2020-09-28 22:00",
     "details": {
         "bonuses": [
-            "Challenge: Complete 275 million Gym, Rocket, or Trainer Battles to unlock Mega Houndoom",
-            "Release of shiny Ledyba"
+            "Mega Evolutions will last for 12 hours",
+            "Poffins will last for double their normal time",
+            "Release of shiny Doduo",
+            "Snapshots of Pokemon can be photobombed by a Mega-eligible Pokemon"
         ],
         "eggs": [],
         "spawns": [
-            "347_00",
-            "412_00",
-            "010_00",
-            "415_00",
-            "557_00",
-            "401_00",
-            "165_00",
-            "046_00",
-            "204_00",
+            "084_00",
+            "103_78",
+            "124_00",
             "127_00",
-            "123_00",
-            "451_00",
-            "167_00",
-            "543_00",
-            "048_00",
-            "013_00",
-            "265_00"
+            "131_00",
+            "143_00",
+            "162_00",
+            "202_00",
+            "226_00",
+            "227_00",
+            "106_00",
+            "107_00",
+            "297_00",
+            "095_00",
+            "320_00",
+            "206_00",
+            "024_00"
         ],
         "raids": {
             "1": [
-                "274_00",
-                "281_00",
-                "574_00",
-                "215_00"
+                "023_00",
+                "532_00",
+                "084_00",
+                "320_00",
+                "599_00"
             ],
             "3": [
-                "332_00",
-                "359_00",
-                "196_00",
+                "149_00",
+                "131_00",
+                "127_00",
                 "103_78",
-                "342_00"
+                "095_00"
             ],
             "5": [
-                "488_00"
+                "144_00"
             ],
             "Mega": [
                 "003_00",
                 "009_00",
                 "006_00",
-                "006_00"
+                "006_00",
+                "018_00"
             ]
         },
         "quests": {
-            "(Daily) Catch 5 Bug-type Pokemon": [
-                "5 Mega Beedrill Energy"
+            "Catch 7 Different Species of Pokemon": [
+                "084_00"
+            ],
+            "Mega Evolve A Beedrill": [
+                "20 Beedrill Mega Energy"
             ],
             "Defeat a Team Rocket Grunt": [
-                "10 Mega Beedrill energy"
+                "10 Beedrill Mega Energy"
             ],
-            "Catch 5 different Bug-Type Pokemon": [
-                "165_00"
-            ],
-            " Mega Evolve a Beedrill ": [
-                "20 Mega Beedrill Energy"
-            ],
-            " Battle another trainer ": [
-                "5 Mega Energy (Charizard",
-                "003_00"
+            "Battle another Trainer": [
+                "5 Starter Mega Energy"
             ]
         }
     }

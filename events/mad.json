@@ -3,8 +3,7 @@
         "cday": "Community Days",
         "spotlight": "Spotlight Hours",
         "event": "Regular Events",
-        "corona": "Corona Spawns",
-        "default": "DEFAULT"
+        "corona": "Corona Spawns"
     },
     "events": [
         {
@@ -76,6 +75,46 @@
             "type": "spotlight",
             "start": "2020-09-29 18:00",
             "end": "2020-09-29 19:00",
+            "lure_duration": 30,
+            "local_times": true
+        },
+        {
+            "name": "World Cap Pikachu Spotlight Hour",
+            "type": "spotlight",
+            "start": "2020-10-06 18:00",
+            "end": "2020-10-06 19:00",
+            "lure_duration": 30,
+            "local_times": true
+        },
+        {
+            "name": "Original Cap Pikachu Spotlight Hour",
+            "type": "spotlight",
+            "start": "2020-10-13 18:00",
+            "end": "2020-10-13 19:00",
+            "lure_duration": 30,
+            "local_times": true
+        },
+        {
+            "name": "Charmander Community Day",
+            "type": "cday",
+            "start": "2020-10-17 11:00",
+            "end": "2020-10-17 17:00",
+            "lure_duration": 30,
+            "local_times": true
+        },
+        {
+            "name": "Shuppet Spotlight Hour",
+            "type": "spotlight",
+            "start": "2020-10-20 18:00",
+            "end": "2020-10-20 19:00",
+            "lure_duration": 30,
+            "local_times": true
+        },
+        {
+            "name": "Duskull Spotlight Hour",
+            "type": "spotlight",
+            "start": "2020-10-27 18:00",
+            "end": "2020-10-27 19:00",
             "lure_duration": 30,
             "local_times": true
         }
