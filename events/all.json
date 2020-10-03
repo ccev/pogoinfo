@@ -190,5 +190,17 @@
         "type": "Raid Hour",
         "start": "2020-09-30 18:00",
         "end": "2020-09-30 19:00"
+    },
+    {
+        "name": "Niantic\u2019s Fifth Birthday Event",
+        "type": "Event",
+        "start": "2020-10-04 11:00",
+        "end": "2020-10-04 17:00"
+    },
+    {
+        "name": "Autumn Event - Changing of the Seasons",
+        "type": "Event",
+        "start": "2020-10-09 17:00",
+        "end": "2020-10-12 22:00"
     }
 ]

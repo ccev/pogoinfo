@@ -1,72 +1,65 @@
 {
-    "name": "Mega Buddy - Unlock Mega Gengar",
-    "start": "2020-09-22 08:00",
-    "end": "2020-09-28 22:00",
+    "name": "GO Fest Week 3 Challenge: Friendship",
+    "start": null,
+    "end": "2020-07-22 22:00",
     "details": {
         "bonuses": [
-            "Mega Evolutions will last for 12 hours",
-            "Poffins will last for double their normal time",
-            "Release of shiny Doduo",
-            "Snapshots of Pokemon can be photobombed by a Mega-eligible Pokemon"
+            "Release of shiny Kricketot",
+            "Photobombs of Croagunk wearing a backward cap (3 per day)",
+            "Free Longchamp avatar items in the shop",
+            "World Hat Pikachu Spotlight Hour on Oct. 6 from 6-7 p.m. local time",
+            "Original Hat Pikachu Spotlight Hour on Oct. 13 from 6-7 p.m. local time"
         ],
         "eggs": [],
         "spawns": [
-            "084_00",
-            "103_78",
-            "124_00",
-            "127_00",
-            "131_00",
-            "143_00",
-            "162_00",
-            "202_00",
-            "226_00",
-            "227_00",
-            "106_00",
-            "107_00",
-            "297_00",
-            "095_00",
-            "320_00",
-            "206_00",
-            "024_00"
+            "522_00",
+            "412_00",
+            "546_00",
+            "Croagunk wearing a backward cap",
+            "574_00",
+            "401_00",
+            "179_00",
+            "572_00",
+            "280_00",
+            "315_00",
+            "300_00"
         ],
         "raids": {
             "1": [
-                "023_00",
-                "532_00",
-                "084_00",
-                "320_00",
-                "599_00"
+                "Shinx_hat",
+                "574_00",
+                "Burmy_Trash",
+                "546_00"
             ],
             "3": [
-                "149_00",
-                "131_00",
-                "127_00",
-                "103_78",
-                "095_00"
+                "Kirlia_hat",
+                "573_00",
+                "575_00"
             ],
             "5": [
-                "144_00"
+                "145_00"
             ],
             "Mega": [
                 "003_00",
                 "009_00",
                 "006_00",
                 "006_00",
-                "018_00"
+                "018_00",
+                "229_00"
             ]
         },
         "quests": {
-            "Catch 7 Different Species of Pokemon": [
-                "084_00"
+            "Spin 3 PokeStops or Gyms": [
+                "Smoochum_bow"
             ],
-            "Mega Evolve A Beedrill": [
-                "20 Beedrill Mega Energy"
+            "Hatch an Egg.": [
+                "Smoochum_bow"
             ],
-            "Defeat a Team Rocket Grunt": [
-                "10 Beedrill Mega Energy"
+            "Take 3 snapshots": [
+                "1 Silver Pinap Berry"
             ],
-            "Battle another Trainer": [
-                "5 Starter Mega Energy"
+            "Battle in a raid": [
+                "8 Pokeballs"
             ]
         }
     }
