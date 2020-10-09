@@ -1,43 +1,55 @@
 {
-    "name": "Longchamp x Pokémon Collaboration Event",
-    "start": "2020-10-02 17:00",
-    "end": "2020-10-09 07:00",
+    "name": "Autumn Event - Changing of the Seasons",
+    "start": "2020-10-09 17:00",
+    "end": "2020-10-12 22:00",
     "details": {
         "bonuses": [
-            "Release of shiny Kricketot",
-            "Photobombs of Croagunk wearing a backward cap (3 per day)",
-            "Free Longchamp avatar items in the shop",
-            "World Hat Pikachu Spotlight Hour on Oct. 6 from 6-7 p.m. local time",
-            "Original Hat Pikachu Spotlight Hour on Oct. 13 from 6-7 p.m. local time"
+            "Surprise 1/4 egg hatch distance",
+            "Autumn Form Deerling is making its debut",
+            "Release of shiny Kanto Vulpix",
+            "Berries will be twice as effective when feeding them to your Buddy",
+            "Pinap Berries drop 4x candy (also applies to Silver Pinaps)",
+            "Berries will be dropping more frequently from PokeStops and Gyms"
         ],
-        "eggs": [],
+        "eggs": [
+            "152_00",
+            "540_00",
+            "285_00",
+            "438_00"
+        ],
         "spawns": [
-            "522_00",
-            "412_00",
-            "546_00",
-            "453_00",
-            "574_00",
-            "401_00",
-            "179_00",
-            "572_00",
-            "280_00",
-            "315_00",
-            "300_00"
+            "Burmy_Plant",
+            "153_00",
+            "585_587",
+            "590_00",
+            "163_00",
+            "043_00",
+            "204_00",
+            "509_00",
+            "273_00",
+            "285_00",
+            "185_00",
+            "037_00",
+            "193_00",
+            "263_00"
         ],
         "raids": {
             "1": [
-                "Shinx_hat",
-                "574_00",
-                "Burmy_Trash",
-                "546_00"
+                "204_00",
+                "037_00",
+                "597_00",
+                "532_00",
+                "114_00"
             ],
             "3": [
-                "Kirlia_hat",
-                "573_00",
-                "575_00"
+                "127_00",
+                "185_00",
+                "044_00",
+                "164_00",
+                "286_00"
             ],
             "5": [
-                "145_00"
+                "146_00"
             ],
             "Mega": [
                 "003_00",
@@ -49,17 +61,14 @@
             ]
         },
         "quests": {
-            "Spin 3 PokeStops or Gyms": [
-                "Smoochum_bow"
+            "Catch 5 Poison-type Pokemon": [
+                "5 Pinap Berries"
             ],
-            "Hatch an Egg.": [
-                "Smoochum_bow"
+            "Catch 5 Normal-type Pokemon": [
+                "5 Razz Berries"
             ],
-            "Take 3 snapshots": [
-                "1 Silver Pinap Berry"
-            ],
-            "Battle in a raid": [
-                "8 Pokeballs"
+            "Catch 5 Grass-type Pokemon": [
+                "037_00"
             ]
         }
     }
