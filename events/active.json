@@ -12,10 +12,15 @@
             "Berries will be dropping more frequently from PokeStops and Gyms"
         ],
         "eggs": [
-            "152_00",
-            "540_00",
-            "285_00",
-            "438_00"
+            "Chikorita - 49 (23.2%)",
+            "Shroomish - 35 (16.6%)",
+            "Bonsly - 27 (12.8%)",
+            "Sewaddle - 8 (3.8%)",
+            "Mincinno - 12 (5.7%)",
+            "Joltik - 6 (2.8%)",
+            "Shelmet - 6 (2.8%)",
+            "Karrablast - 5 (2.4%)",
+            "Trubbish - 5  (2.4%)"
         ],
         "spawns": [
             "Burmy_Plant",
