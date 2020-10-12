@@ -4,55 +4,51 @@
     "end": "2020-10-12 22:00",
     "details": {
         "bonuses": [
-            "Surprise 1/4 egg hatch distance",
-            "Autumn Form Deerling is making its debut",
-            "Release of shiny Kanto Vulpix",
-            "Berries will be twice as effective when feeding them to your Buddy",
-            "Pinap Berries drop 4x candy (also applies to Silver Pinaps)",
-            "Berries will be dropping more frequently from PokeStops and Gyms"
+            "Team GO Rocket will be appearing more frequently (3hr balloons)",
+            "Possible snapshots: Nidoran (both genders), Seedot, Oddish, Vulpix"
         ],
-        "eggs": [
-            "Chikorita - 49 (23.2%)",
-            "Shroomish - 35 (16.6%)",
-            "Bonsly - 27 (12.8%)",
-            "Sewaddle - 8 (3.8%)",
-            "Mincinno - 12 (5.7%)",
-            "Joltik - 6 (2.8%)",
-            "Shelmet - 6 (2.8%)",
-            "Karrablast - 5 (2.4%)",
-            "Trubbish - 5  (2.4%)"
-        ],
+        "eggs": [],
         "spawns": [
-            "153_00",
-            "585_587",
-            "590_00",
-            "163_00",
-            "043_00",
-            "204_00",
+            "167_00",
+            "228_00",
+            "261_00",
+            "316_00",
+            "434_00",
             "509_00",
+            "451_00",
+            "274_00",
+            "453_00",
+            "037_00",
+            "043_00",
+            "153_00",
+            "163_00",
+            "185_00",
+            "193_00",
+            "204_00",
+            "263_00",
             "273_00",
             "285_00",
-            "185_00",
-            "037_00",
-            "193_00",
-            "263_00",
             "412_00",
-            "585_00"
+            "585_00",
+            "590_00"
         ],
         "raids": {
             "1": [
-                "204_00",
-                "037_00",
-                "597_00",
+                "451_00",
+                "453_00",
+                "599_00",
+                "Grimer_Alola",
                 "532_00",
-                "114_00"
+                "204_00",
+                "215_00"
             ],
             "3": [
-                "127_00",
-                "185_00",
-                "044_00",
-                "164_00",
-                "286_00"
+                "342_00",
+                "359_00",
+                "034_00",
+                "569_00",
+                "303_00",
+                "Weezing_Galar"
             ],
             "5": [
                 "487_91"
@@ -67,14 +63,11 @@
             ]
         },
         "quests": {
-            "Catch 5 Poison-type Pokemon": [
-                "5 Pinap Berries"
-            ],
-            "Catch 5 Normal-type Pokemon": [
+            "Catch 5 Dark-type Pokemon ": [
                 "5 Razz Berries"
             ],
-            "Catch 5 Grass-type Pokemon": [
-                "037_00"
+            "Catch 5 Poison-type Pokemon": [
+                "5 Pinap Berries"
             ]
         }
     }

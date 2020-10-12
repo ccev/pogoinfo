@@ -208,5 +208,11 @@
         "type": "Raid Hour",
         "start": "2020-10-21 18:00",
         "end": "2020-10-21 19:00"
+    },
+    {
+        "name": "The Seasons Change: Part 2 - Strange Eggs",
+        "type": "Event",
+        "start": null,
+        "end": "2020-10-20 07:00"
     }
 ]
