@@ -5,8 +5,7 @@
     "details": {
         "bonuses": [
             "Team GO Rocket will be appearing more frequently (3hr balloons)",
-            "Possible snapshots: Nidoran (both genders), Seedot, Oddish, Vulpix",
-            "Continued 1/4 hatch distance"
+            "Possible snapshots: Nidoran (both genders), Seedot, Oddish, Vulpix"
         ],
         "eggs": [],
         "spawns": [
@@ -19,9 +18,9 @@
             "451_00",
             "274_00",
             "453_00",
-            "204_00",
             "037_00",
             "193_00",
+            "204_00",
             "302_00",
             "585_00"
         ],
