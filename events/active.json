@@ -79,10 +79,9 @@
                 "562_00",
                 "442_00"
             ],
-            "Power up 5 Pokemon": [
-                "004_00",
-                "007_00",
-                "001_00"
+            "Power a pokemon 5 times": [
+                "Not an event quest",
+                "but starters awarded are currently in costumes"
             ]
         }
     }
