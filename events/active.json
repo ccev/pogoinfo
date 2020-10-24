@@ -1,71 +1,88 @@
 {
-    "name": "The Seasons Change: Part 2 - Strange Eggs",
+    "name": "Halloween Event 2020",
     "start": null,
-    "end": "2020-10-20 07:00",
+    "end": "2020-11-04 02:00",
     "details": {
         "bonuses": [
-            "Team GO Rocket will be appearing more frequently (3hr balloons)",
-            "Possible snapshots: Nidoran (both genders), Seedot, Oddish, Vulpix"
+            "2x Catch Candy",
+            "2x Transfer Candy",
+            "Release of shiny Spiritomb",
+            "Release of Galarian Yamask",
+            "Costumed Gengar and Sableye",
+            "New avatar items",
+            "Misdreavus and Yamask Photobombs",
+            "Lavender Town Music",
+            "\"New\" boxes (Contents are the same)"
         ],
-        "eggs": [],
+        "eggs": [
+            "007_00"
+        ],
         "spawns": [
-            "167_00",
-            "228_00",
-            "261_00",
-            "316_00",
-            "434_00",
-            "509_00",
-            "451_00",
-            "274_00",
-            "453_00",
-            "037_00",
-            "193_00",
-            "204_00",
+            "088_74",
+            "358_00",
+            "425_00",
+            "355_00",
+            "622_00",
+            "607_00",
+            "200_00",
+            "353_00",
             "302_00",
-            "585_00"
+            "302_00",
+            "562_00",
+            "pm0025_00",
+            "088_00",
+            "092_00",
+            "104_00",
+            "198_00",
+            "pm0302_00",
+            "434_00"
         ],
         "raids": {
             "1": [
-                "451_00",
-                "453_00",
-                "599_00",
-                "Grimer_Alola",
-                "532_00",
-                "204_00",
-                "215_00"
+                "004_00",
+                "007_00",
+                "001_00",
+                "303_00",
+                "302_00",
+                "200_00"
             ],
             "3": [
-                "342_00",
+                "026_00",
+                "354_00",
                 "359_00",
-                "034_00",
-                "569_00",
-                "303_00",
-                "Weezing_Galar"
+                "094_00",
+                "105_80"
             ],
             "5": [
-                "487_91"
+                "491_00"
             ],
             "Mega": [
-                "003_00",
                 "009_00",
                 "006_00",
                 "006_00",
                 "018_00",
-                "229_00"
+                "229_00",
+                "094_00"
             ]
         },
         "quests": {
-            "Catch 5 Dark-type Pokemon ": [
-                "5 Razz Berries"
+            "Catch 18 Dark-type Pokemon": [
+                "442_00"
             ],
-            "Catch 5 Poison-type Pokemon": [
-                "5 Pinap Berries"
+            "Catch 18 Ghost-type Pokemon": [
+                "442_00"
             ],
-            "Catch 5 Normal-type Pokemon": [
-                "5 Nanab Berries"
+            "Purify 2 Shadow Pokemon": [
+                "104_00"
             ],
-            "Catch 5 Grass-type Pokemon": [
-                "037_00"
+            "Win 2 Raids": [
+                "562_00",
+                "442_00"
+            ],
+            "Power up 5 Pokemon": [
+                "004_00",
+                "007_00",
+                "001_00"
             ]
         }
     }
