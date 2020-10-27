@@ -149,6 +149,22 @@
             "end": "2020-11-24 19:00",
             "lure_duration": 30,
             "local_times": true
+        },
+        {
+            "name": "Electabuzz Community Day",
+            "type": "cday",
+            "start": "2020-11-15 11:00",
+            "end": "2020-11-15 17:00",
+            "lure_duration": 30,
+            "local_times": true
+        },
+        {
+            "name": "Magmar Community Day",
+            "type": "cday",
+            "start": "2020-11-21 11:00",
+            "end": "2020-11-21 17:00",
+            "lure_duration": 30,
+            "local_times": true
         }
     ]
 }
