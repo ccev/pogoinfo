@@ -1,14 +1,98 @@
 {
-    "name": "November Research Breakthrough",
+    "name": "Halloween Event 2020",
     "start": null,
-    "end": "2020-12-01 22:00",
+    "end": "2020-11-04 02:00",
     "details": {
-        "bonuses": [],
-        "eggs": [],
-        "spawns": [
-            "176_00"
+        "bonuses": [
+            "2x Catch Candy",
+            "2x Transfer Candy",
+            "Release of shiny Spiritomb",
+            "Release of Galarian Yamask",
+            "Costumed Gengar and Sableye",
+            "New avatar items",
+            "Misdreavus and Yamask Photobombs",
+            "Lavender Town Music",
+            "\"New\" boxes (Contents are the same)"
         ],
-        "raids": {},
-        "quests": {}
+        "eggs": [
+            "007_00",
+            "001_00",
+            "004_00",
+            "607_00",
+            "302_00",
+            "200_00",
+            "215_00",
+            "353_00",
+            "198_00",
+            "359_00",
+            "562_00"
+        ],
+        "spawns": [
+            "088_74",
+            "019_46",
+            "358_00",
+            "104_00",
+            "425_00",
+            "355_00",
+            "622_00",
+            "607_00",
+            "200_00",
+            "353_00",
+            "302_00",
+            "302_00",
+            "562_00",
+            "025_00",
+            "088_00",
+            "092_00",
+            "198_00",
+            "434_00"
+        ],
+        "raids": {
+            "1": [
+                "004_00",
+                "007_00",
+                "001_00",
+                "303_00",
+                "302_00",
+                "200_00"
+            ],
+            "3": [
+                "026_00",
+                "354_00",
+                "359_00",
+                "094_00",
+                "105_80"
+            ],
+            "5": [
+                "491_00"
+            ],
+            "Mega": [
+                "009_00",
+                "006_00",
+                "006_00",
+                "018_00",
+                "229_00",
+                "094_00"
+            ]
+        },
+        "quests": {
+            "Catch 18 Dark-type Pokemon": [
+                "442_00"
+            ],
+            "Catch 18 Ghost-type Pokemon": [
+                "442_00"
+            ],
+            "Purify 2 Shadow Pokemon": [
+                "104_00"
+            ],
+            "Win 2 Raids": [
+                "562_00",
+                "442_00"
+            ],
+            "Power a pokemon 5 times": [
+                "Not an event quest",
+                "but starters awarded are currently in costumes"
+            ]
+        }
     }
 }
