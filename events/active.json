@@ -1,73 +1,45 @@
 {
-    "name": "Pok\u00e9mon GO Special Weekend, presented by Grubhub",
-    "start": "2020-11-08 11:00",
-    "end": "2020-11-08 14:00",
+    "name": "Animation Week 2020",
+    "start": "2020-11-06 08:00",
+    "end": "2020-11-12 22:00",
     "details": {
         "bonuses": [
-            "2x Catch Candy",
-            "2x Transfer Candy",
-            "Release of shiny Spiritomb",
-            "Release of Galarian Yamask",
-            "Costumed Gengar and Sableye",
-            "New avatar items",
-            "Misdreavus and Yamask Photobombs",
-            "Lavender Town Music",
-            "\"New\" boxes (Contents are the same)"
+            "5 Scyther photobombs",
+            "Goh-inspired avatar items"
         ],
         "eggs": [
-            "007_00",
-            "001_00",
-            "004_00",
-            "607_00",
-            "302_00",
-            "200_00",
-            "215_00",
-            "353_00",
-            "198_00",
-            "359_00",
-            "562_00"
+            "172_00",
+            "458_00",
+            "447_00",
+            "104_00"
         ],
         "spawns": [
-            "088_74",
-            "019_46",
-            "358_00",
-            "104_00",
-            "425_00",
-            "355_00",
-            "622_00",
-            "607_00",
-            "200_00",
-            "353_00",
-            "302_00",
-            "302_00",
-            "562_00",
             "001_00",
-            "006_00",
-            "007_00",
+            "102_00",
+            "104_00",
+            "046_00",
+            "123_00",
+            "147_00",
+            "155_00",
+            "265_00",
+            "021_00",
+            "265_00",
             "025_00",
-            "201_00",
-            "504_00",
-            "572_00",
-            "597_00"
+            "052_00",
+            "393_00"
         ],
         "raids": {
             "1": [
-                "004_00",
-                "007_00",
-                "001_00",
-                "303_00",
-                "302_00",
-                "200_00"
+                "002_00"
             ],
             "3": [
-                "026_00",
-                "354_00",
-                "359_00",
-                "094_00",
-                "105_80"
+                "623_00",
+                "143_00",
+                "127_00"
             ],
             "5": [
-                "491_00"
+                "249_00",
+                "with Aeroblast)"
             ],
             "Mega": [
                 "009_00",
@@ -76,26 +48,14 @@
                 "018_00",
                 "229_00",
                 "094_00"
+            ],
+            "Tier": [
+                "Raid Bosses"
+            ],
+            ":-": [
+                ":-"
             ]
         },
-        "quests": {
-            "Catch 18 Dark-type Pokemon": [
-                "442_00"
-            ],
-            "Catch 18 Ghost-type Pokemon": [
-                "442_00"
-            ],
-            "Purify 2 Shadow Pokemon": [
-                "104_00"
-            ],
-            "Win 2 Raids": [
-                "562_00",
-                "442_00"
-            ],
-            "Power a pokemon 5 times": [
-                "Not an event quest",
-                "but starters awarded are currently in costumes"
-            ]
-        }
+        "quests": {}
     }
 }
