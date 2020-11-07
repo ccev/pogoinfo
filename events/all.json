@@ -280,5 +280,11 @@
         "type": "Raid Hour",
         "start": "2020-11-04 18:00",
         "end": "2020-11-04 19:00"
+    },
+    {
+        "name": "1/4 Egg Hatch Distance",
+        "type": "Event",
+        "start": null,
+        "end": "2020-11-13 23:00"
     }
 ]
