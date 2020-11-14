@@ -1,7 +1,7 @@
 {
-    "name": "Animation Week 2020",
-    "start": null,
-    "end": "2020-11-12 22:00",
+    "name": "Season 5 - The Kanto Cup",
+    "start": "2020-11-16 22:00",
+    "end": "2020-11-23 22:00",
     "details": {
         "bonuses": [
             "5 Scyther photobombs",
@@ -23,9 +23,7 @@
             "393_00",
             "123_00",
             "021_00",
-            "265_00",
-            "025_00",
-            "052_00"
+            "265_00"
         ],
         "raids": {
             "1": [
