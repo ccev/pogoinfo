@@ -166,5 +166,23 @@
         "type": "Event",
         "start": "2020-11-24 22:00",
         "end": "2020-11-30 22:00"
+    },
+    {
+        "name": "Cobalion, Terrakion & Virizion Raid Hour",
+        "type": "Raid Hour",
+        "start": "2020-11-18 18:00",
+        "end": "2020-11-18 19:00"
+    },
+    {
+        "name": "Increased Trade Distance",
+        "type": "Event",
+        "start": null,
+        "end": "2020-11-24 01:00"
+    },
+    {
+        "name": "12 Days of Friendship Event",
+        "type": "Event",
+        "start": null,
+        "end": "2020-11-30 22:00"
     }
 ]
