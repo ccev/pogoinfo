@@ -173,6 +173,14 @@
             "end": "2020-11-15 17:00",
             "lure_duration": 30,
             "local_times": true
+        },
+        {
+            "name": "Magmar Community Day",
+            "type": "cday",
+            "start": null,
+            "end": "2020-11-21 17:00",
+            "lure_duration": 30,
+            "local_times": true
         }
     ]
 }
