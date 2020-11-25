@@ -184,5 +184,47 @@
         "type": "Event",
         "start": null,
         "end": "2020-11-30 22:00"
+    },
+    {
+        "name": "Lake Guardian Raid Hour",
+        "type": "Raid Hour",
+        "start": "2020-11-25 18:00",
+        "end": "2020-11-25 19:00"
+    },
+    {
+        "name": "Seel Spotlight Hour",
+        "type": "Pok\u00e9mon Spotlight Hour",
+        "start": "2020-12-01 18:00",
+        "end": "2020-12-01 19:00"
+    },
+    {
+        "name": "Swinub Spotlight Hour",
+        "type": "Pok\u00e9mon Spotlight Hour",
+        "start": "2020-12-08 18:00",
+        "end": "2020-12-08 19:00"
+    },
+    {
+        "name": "Kalos Special Event",
+        "type": "Event",
+        "start": "2020-12-02 10:00",
+        "end": "2020-12-08 22:00"
+    },
+    {
+        "name": "Adventure Hat Pikachu Spotlight Hour",
+        "type": "Pok\u00e9mon Spotlight Hour",
+        "start": "2020-12-15 18:00",
+        "end": "2020-12-15 19:00"
+    },
+    {
+        "name": "Snorunt Spotlight Hour",
+        "type": "Pok\u00e9mon Spotlight Hour",
+        "start": "2020-12-22 18:00",
+        "end": "2020-12-22 19:00"
+    },
+    {
+        "name": "Snover Spotlight Hour",
+        "type": "Pok\u00e9mon Spotlight Hour",
+        "start": "2020-12-29 18:00",
+        "end": "2020-12-29 19:00"
     }
 ]

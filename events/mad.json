@@ -181,6 +181,46 @@
             "end": "2020-11-21 17:00",
             "lure_duration": 30,
             "local_times": true
+        },
+        {
+            "name": "Seel Spotlight Hour",
+            "type": "spotlight",
+            "start": "2020-12-01 18:00",
+            "end": "2020-12-01 19:00",
+            "lure_duration": 30,
+            "local_times": true
+        },
+        {
+            "name": "Swinub Spotlight Hour",
+            "type": "spotlight",
+            "start": "2020-12-08 18:00",
+            "end": "2020-12-08 19:00",
+            "lure_duration": 30,
+            "local_times": true
+        },
+        {
+            "name": "Adventure Hat Pikachu Spotlight Hour",
+            "type": "spotlight",
+            "start": "2020-12-15 18:00",
+            "end": "2020-12-15 19:00",
+            "lure_duration": 30,
+            "local_times": true
+        },
+        {
+            "name": "Snorunt Spotlight Hour",
+            "type": "spotlight",
+            "start": "2020-12-22 18:00",
+            "end": "2020-12-22 19:00",
+            "lure_duration": 30,
+            "local_times": true
+        },
+        {
+            "name": "Snover Spotlight Hour",
+            "type": "spotlight",
+            "start": "2020-12-29 18:00",
+            "end": "2020-12-29 19:00",
+            "lure_duration": 30,
+            "local_times": true
         }
     ]
 }
