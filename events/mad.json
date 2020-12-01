@@ -221,6 +221,14 @@
             "end": "2020-12-29 19:00",
             "lure_duration": 30,
             "local_times": true
+        },
+        {
+            "name": "December Community Day",
+            "type": "cday",
+            "start": null,
+            "end": null,
+            "lure_duration": 30,
+            "local_times": true
         }
     ]
 }
