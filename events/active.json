@@ -1,86 +1,73 @@
 {
-    "name": "Lake Legends Event",
-    "start": null,
-    "end": "2020-11-30 22:00",
+    "name": "Kalos Special Event",
+    "start": "2020-12-02 10:00",
+    "end": "2020-12-08 22:00",
     "details": {
         "bonuses": [
-            "Release of shiny Goldeen"
+            "Release of Chespin, Fennekin, Froakie, Bunnelby, Fletchling, Litleo, Noibat (400 candy evolution), Klefki (France regional),"
         ],
         "eggs": [
-            "054_00",
-            "118_00",
-            "238_00",
-            "438_00",
-            "236_00",
-            "063_00",
-            "066_00",
-            "280_00"
+            "2km: Bunnelby, Fletchling, and Litleo",
+            "5km: Chespin, Fennekin, and Froakie",
+            "10km: Espurr and Noibat"
         ],
         "spawns": [
-            "054_00",
-            "118_00",
-            "129_00",
-            "283_00",
-            "396_00",
-            "399_00",
-            "422_00",
-            "063_00",
-            "066_00",
-            "280_00",
-            "108_00",
-            "064_00",
-            "067_00",
-            "281_00"
+            "650_00",
+            "651_00",
+            "652_00",
+            "653_00",
+            "654_00",
+            "655_00",
+            "656_00",
+            "657_00",
+            "658_00",
+            "659_00",
+            "660_00",
+            "661_00",
+            "662_00",
+            "663_00",
+            "667_00",
+            "668_00",
+            "677_00",
+            "678_00",
+            "707_00",
+            "714_00",
+            "715_00"
         ],
         "raids": {
             "1": [
-                "387_00",
-                "393_00",
-                "390_00",
-                "403_00",
-                "436_00",
-                "599_00"
+                "Espurr",
+                "Litleo",
+                "Fletchling",
+                "599_00",
+                "532_00"
             ],
             "3": [
-                "457_00",
-                "202_00",
-                "026_50",
-                "359_00",
-                "340_00",
-                "419_00"
+                "530_00",
+                "068_00",
+                "306_00",
+                "303_00",
+                "105_80",
+                "297_00"
             ],
             "5": [
-                "480_00",
-                "481_00"
+                "646_00"
             ],
             "Mega": [
-                "009_00",
                 "006_00",
-                "006_00",
-                "018_00",
-                "229_00",
-                "094_00"
+                "094_00",
+                "460_00"
             ]
         },
         "quests": {
-            "Use 5 berries to help catch Pokemon": [
-                "393_00",
-                "390_00",
-                "387_00"
+            "Catch 3 Normal-type Pokemon": [
+                "Bunnelby"
             ],
-            "Catch 5 water-type Pokemon": [
-                "118_00"
+            "Catch 5 Flying-type Pokemon": [
+                "Fletchling"
             ],
-            "Send 3 Gifts": [
-                "396_00"
-            ],
-            "Win 1 Raid": [
-                "436_00"
-            ],
-            "AR Mapping": [
-                "5 Max Potions",
-                "5 Max Revives",
-                "1 Incense"
+            "Catch 7 Fire-type Pokemon": [
+                "Litleo"
             ]
         }
     }

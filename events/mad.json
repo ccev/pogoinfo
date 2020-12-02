@@ -229,6 +229,14 @@
             "end": null,
             "lure_duration": 30,
             "local_times": true
+        },
+        {
+            "name": "Seel Spotlight Hour",
+            "type": "spotlight",
+            "start": null,
+            "end": "2020-12-01 19:00",
+            "lure_duration": 30,
+            "local_times": true
         }
     ]
 }
