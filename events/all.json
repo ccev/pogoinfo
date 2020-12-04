@@ -244,5 +244,23 @@
         "type": "Raid Hour",
         "start": "2020-12-30 18:00",
         "end": "2020-12-30 19:00"
+    },
+    {
+        "name": "Explorer Pikachu Debuts",
+        "type": "Event",
+        "start": "2020-12-14 08:00",
+        "end": "2020-12-21 22:00"
+    },
+    {
+        "name": "Secrets of the Jungle Event",
+        "type": "Event",
+        "start": "2020-12-14 08:00",
+        "end": "2020-12-25 22:00"
+    },
+    {
+        "name": "Increased Meowth Balloons",
+        "type": "Event",
+        "start": "2020-12-25 08:00",
+        "end": "2020-12-25 22:00"
     }
 ]
