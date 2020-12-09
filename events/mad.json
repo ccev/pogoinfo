@@ -269,6 +269,14 @@
             "end": "2020-12-15 19:00",
             "lure_duration": 30,
             "local_times": true
+        },
+        {
+            "name": "Swinub Spotlight Hour",
+            "type": "spotlight",
+            "start": null,
+            "end": "2020-12-08 19:00",
+            "lure_duration": 30,
+            "local_times": true
         }
     ]
 }
