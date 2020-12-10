@@ -1,7 +1,7 @@
 {
-    "name": "Kalos Special Event",
-    "start": "2020-12-02 10:00",
-    "end": "2020-12-08 22:00",
+    "name": "Increased Meowth Balloons",
+    "start": "2020-12-25 08:00",
+    "end": "2020-12-25 22:00",
     "details": {
         "bonuses": [
             "Release of Chespin, Fennekin, Froakie, Bunnelby, Fletchling, Litleo, Noibat (400 candy evolution), Klefki (France regional),"
@@ -11,29 +11,7 @@
             "5km: Chespin, Fennekin, and Froakie",
             "10km: Espurr and Noibat"
         ],
-        "spawns": [
-            "650_00",
-            "651_00",
-            "652_00",
-            "653_00",
-            "654_00",
-            "655_00",
-            "656_00",
-            "657_00",
-            "658_00",
-            "659_00",
-            "660_00",
-            "661_00",
-            "662_00",
-            "663_00",
-            "667_00",
-            "668_00",
-            "677_00",
-            "678_00",
-            "707_00",
-            "714_00",
-            "715_00"
-        ],
+        "spawns": [],
         "raids": {
             "1": [
                 "Espurr",

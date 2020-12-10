@@ -274,5 +274,11 @@
         "type": "Ticketed Event",
         "start": "2021-02-20 09:00",
         "end": "2021-02-20 21:00"
+    },
+    {
+        "name": "Watch The Game Awards Event",
+        "type": "Event",
+        "start": "2020-12-11 01:00",
+        "end": "2020-12-12 01:00"
     }
 ]
