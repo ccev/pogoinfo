@@ -1,29 +1,5 @@
 [
     {
-        "name": "December Community Day - Day 1",
-        "time": "2020-12-12 11:00",
-        "length": 6,
-        "confidence": 10
-    },
-    {
-        "name": "December Community Day - Day 2",
-        "time": "2020-12-13 11:00",
-        "length": 6,
-        "confidence": 10
-    },
-    {
-        "name": "December Community Day Weekend",
-        "time": "2020-12-12 06:00",
-        "length": 16,
-        "confidence": 10
-    },
-    {
-        "name": "test",
-        "time": "2020-12-09 05:00",
-        "length": 24,
-        "confidence": 10
-    },
-    {
         "name": "December Community Day - Day 1 End",
         "time": "2020-12-12 17:00",
         "length": 24,
