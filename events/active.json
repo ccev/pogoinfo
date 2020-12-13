@@ -1,32 +1,51 @@
 {
-    "name": "Increased Meowth Balloons",
-    "start": "2020-12-25 08:00",
-    "end": "2020-12-25 22:00",
+    "name": "Secrets of the Jungle Event",
+    "start": "2020-12-14 08:00",
+    "end": "2020-12-17 22:00",
     "details": {
         "bonuses": [
-            "Release of Chespin, Fennekin, Froakie, Bunnelby, Fletchling, Litleo, Noibat (400 candy evolution), Klefki (France regional),"
+            "Release of shiny Rufflet",
+            "Jessie and James are back with new Pokemon (no end date announced)",
+            "New avatar items",
+            "Explorer Pikachu spotlight hour (Dec. 15th)",
+            "5x Wobbuffet or Meowth photobombs per day (through Dec. 21st)"
         ],
         "eggs": [
-            "2km: Bunnelby, Fletchling, and Litleo",
-            "5km: Chespin, Fennekin, and Froakie",
-            "10km: Espurr and Noibat"
+            "174_00",
+            "238_00",
+            "239_00",
+            "240_00",
+            "438_00",
+            "627_00"
         ],
-        "spawns": [],
+        "spawns": [
+            "163_00",
+            "274_00",
+            "529_00",
+            "546_00",
+            "557_00",
+            "632_00",
+            "524_00",
+            "010_00",
+            "050_00",
+            "527_00",
+            "025_00"
+        ],
         "raids": {
             "1": [
-                "Espurr",
-                "Litleo",
-                "Fletchling",
-                "599_00",
-                "532_00"
+                "303_00",
+                "524_00",
+                "627_00",
+                "025_00",
+                "102_00"
             ],
             "3": [
-                "530_00",
-                "068_00",
-                "306_00",
-                "303_00",
-                "105_80",
-                "297_00"
+                "330_00",
+                "127_00",
+                "113_00",
+                "632_00",
+                "274_00",
+                "108_00"
             ],
             "5": [
                 "646_00"
@@ -37,16 +56,6 @@
                 "460_00"
             ]
         },
-        "quests": {
-            "Catch 3 Normal-type Pokemon": [
-                "Bunnelby"
-            ],
-            "Catch 5 Flying-type Pokemon": [
-                "Fletchling"
-            ],
-            "Catch 7 Fire-type Pokemon": [
-                "Litleo"
-            ]
-        }
+        "quests": {}
     }
 }
