@@ -277,6 +277,22 @@
             "end": "2020-12-08 19:00",
             "lure_duration": 30,
             "local_times": true
+        },
+        {
+            "name": "December Community Day - Day 1",
+            "type": "cday",
+            "start": null,
+            "end": "2020-12-12 17:00",
+            "lure_duration": 30,
+            "local_times": true
+        },
+        {
+            "name": "December Community Day Weekend",
+            "type": "cday",
+            "start": null,
+            "end": "2020-12-13 22:00",
+            "lure_duration": 30,
+            "local_times": true
         }
     ]
 }
