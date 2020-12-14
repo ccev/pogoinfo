@@ -292,5 +292,17 @@
         "type": "Event",
         "start": "2020-12-18 10:00",
         "end": "2020-12-21 20:00"
+    },
+    {
+        "name": "Special Winter Weekend Event 2020",
+        "type": "Event",
+        "start": "2020-12-26 08:00",
+        "end": "2020-12-27 22:00"
+    },
+    {
+        "name": "Pok\u00e9mon GO Holidays 2020",
+        "type": "Event",
+        "start": "2020-12-22 08:00",
+        "end": "2020-12-31 22:00"
     }
 ]

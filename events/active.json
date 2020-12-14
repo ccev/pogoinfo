@@ -1,10 +1,10 @@
 {
     "name": "Secrets of the Jungle Event",
-    "start": "2020-12-14 08:00",
+    "start": null,
     "end": "2020-12-17 22:00",
     "details": {
         "bonuses": [
-            "Release of shiny Rufflet",
+            "Release of shiny Rufflet (RG data here: https://thesilphroad.com/shiny-pokemon)",
             "Jessie and James are back with Scyther and Pinsir (no end date announced)",
             "New avatar items",
             "Explorer Pikachu spotlight hour (Dec. 15th)",
