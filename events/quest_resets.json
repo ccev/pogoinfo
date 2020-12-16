@@ -2,15 +2,19 @@
     {
         "name": "Pok\u00e9mon GO Holidays 2020 Start",
         "time": "2020-12-22 08:00",
-        "type": "event",
-        "is_end": false,
+        "type": [
+            "event",
+            false
+        ],
         "confidence": 9
     },
     {
         "name": "Pok\u00e9mon GO Holidays 2020 End",
         "time": "2020-12-31 22:00",
-        "type": "event",
-        "is_end": true,
+        "type": [
+            "event",
+            true
+        ],
         "confidence": 9
     }
 ]
