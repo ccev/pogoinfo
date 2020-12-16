@@ -1,12 +1,16 @@
 [
     {
-        "name": "December Community Day - Day 2 Start",
-        "time": "2020-12-13 11:00",
-        "confidence": 10
+        "name": "Pok\u00e9mon GO Holidays 2020 Start",
+        "time": "2020-12-22 08:00",
+        "type": "event",
+        "is_end": false,
+        "confidence": 9
     },
     {
-        "name": "December Community Day - Day 2 End",
-        "time": "2020-12-13 17:00",
-        "confidence": 10
+        "name": "Pok\u00e9mon GO Holidays 2020 End",
+        "time": "2020-12-31 22:00",
+        "type": "event",
+        "is_end": true,
+        "confidence": 9
     }
 ]
