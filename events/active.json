@@ -1,7 +1,7 @@
 {
-    "name": "Secrets of the Jungle Event",
+    "name": "Season of Celebration",
     "start": null,
-    "end": "2020-12-17 22:00",
+    "end": "2021-03-01 22:00",
     "details": {
         "bonuses": [
             "Release of shiny Rufflet (RG data here: https://thesilphroad.com/shiny-pokemon)",
@@ -29,7 +29,19 @@
             "010_00",
             "050_00",
             "527_00",
-            "025_00"
+            "027_00",
+            "035_00",
+            "037_00",
+            "039_00",
+            "086_00",
+            "131_00",
+            "216_00",
+            "234_00",
+            "436_00",
+            "459_00",
+            "572_00",
+            "585_00",
+            "615_00"
         ],
         "raids": {
             "1": [
