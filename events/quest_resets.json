@@ -1,38 +1,12 @@
 [
     {
-        "name": "Pok\u00e9mon GO Holidays 2020 Start",
-        "time": "2020-12-22 08:00",
-        "type": [
-            "event",
-            "start"
-        ],
-        "confidence": 9
-    },
-    {
-        "name": "Pok\u00e9mon GO Holidays 2020 End",
-        "time": "2020-12-31 22:00",
-        "type": [
-            "event",
-            "end"
-        ],
-        "confidence": 9
-    },
-    {
         "name": "Machop Community Day Start",
         "time": "2021-01-16 11:00",
-        "type": [
-            "cday",
-            "start"
-        ],
         "confidence": 10
     },
     {
         "name": "Machop Community Day End",
         "time": "2021-01-16 17:00",
-        "type": [
-            "cday",
-            "end"
-        ],
         "confidence": 10
     }
 ]
