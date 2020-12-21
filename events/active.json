@@ -1,63 +1,53 @@
 {
-    "name": "Season of Celebration",
-    "start": null,
-    "end": "2021-03-01 22:00",
+    "name": "Pok\u00e9mon GO Holidays 2020",
+    "start": "2020-12-22 08:00",
+    "end": "2020-12-31 22:00",
     "details": {
         "bonuses": [
-            "Release of shiny Rufflet (RG data here: https://thesilphroad.com/shiny-pokemon)",
-            "Jessie and James are back with Scyther and Pinsir (no end date announced)",
-            "New avatar items",
-            "Explorer Pikachu spotlight hour (Dec. 15th)",
-            "5x Wobbuffet or Meowth photobombs per day (through Dec. 21st)"
+            "Release of Vanillite",
+            "Open 45 Gifts per day. Carry 40 Gifts in your inventory",
+            "Holiday-themed avatar items and stickers",
+            "New boxes",
+            "Dec. 22-23 - 2x Raid XP",
+            "Dec. 24-25 - 2x Catch Candy",
+            "Dec. 26-27 - 2x Starpiece duration",
+            "Dec. 28-29 - 2x Lucky Egg duration",
+            "Dec. 30-31 - 2x Catch Stardust"
         ],
         "eggs": [
-            "174_00",
+            "393_00",
+            "086_00",
+            "220_00",
             "238_00",
-            "239_00",
-            "240_00",
-            "438_00",
-            "627_00"
+            "361_00",
+            "459_00",
+            "582_00"
         ],
         "spawns": [
-            "163_00",
-            "274_00",
-            "529_00",
-            "546_00",
-            "557_00",
-            "632_00",
-            "524_00",
-            "010_00",
-            "050_00",
-            "527_00",
-            "027_00",
-            "035_00",
-            "037_00",
-            "039_00",
-            "086_00",
-            "131_00",
-            "216_00",
-            "234_00",
-            "436_00",
+            "363_00",
             "459_00",
-            "572_00",
-            "585_00",
-            "615_00"
+            "582_00",
+            "183_00",
+            "025_00",
+            "225_00",
+            "613_00"
         ],
         "raids": {
             "1": [
-                "303_00",
-                "524_00",
-                "627_00",
-                "025_00",
-                "102_00"
+                "027_52",
+                "582_00",
+                "613_00",
+                "215_00",
+                "220_00",
+                "599_00",
+                "Espurr"
             ],
             "3": [
-                "330_00",
-                "127_00",
-                "113_00",
-                "632_00",
-                "274_00",
-                "108_00"
+                "615_00",
+                "026_50",
+                "087_00",
+                "124_00",
+                "365_00"
             ],
             "5": [
                 "646_00"
@@ -68,6 +58,19 @@
                 "460_00"
             ]
         },
-        "quests": {}
+        "quests": {
+            "Send 5 Gifts": [
+                "Delibird with bow"
+            ],
+            "Catch 5 Ice-type Pokemon": [
+                "459_00"
+            ],
+            "Catch 10 Ice-type Pokemon": [
+                "582_00"
+            ],
+            "Catch 15 Ice-type Pokemon": [
+                "615_00"
+            ]
+        }
     }
 }

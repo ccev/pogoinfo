@@ -301,6 +301,14 @@
             "end": "2020-12-13 17:00",
             "lure_duration": 30,
             "local_times": true
+        },
+        {
+            "name": "Machop Community Day",
+            "type": "cday",
+            "start": "2021-01-16 11:00",
+            "end": "2021-01-16 17:00",
+            "lure_duration": 30,
+            "local_times": true
         }
     ]
 }
