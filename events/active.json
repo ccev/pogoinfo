@@ -1,6 +1,6 @@
 {
     "name": "Pok\u00e9mon GO Holidays 2020",
-    "start": "2020-12-22 08:00",
+    "start": null,
     "end": "2020-12-31 22:00",
     "details": {
         "bonuses": [
@@ -64,6 +64,9 @@
         "quests": {
             "Send 5 Gifts": [
                 "Delibird with bow"
+            ],
+            "Win 2 raids": [
+                "037_56"
             ],
             "Catch 5 Ice-type Pokemon": [
                 "459_00"
