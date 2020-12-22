@@ -8,6 +8,7 @@
             "Open 45 Gifts per day. Carry 40 Gifts in your inventory",
             "Holiday-themed avatar items and stickers",
             "New boxes",
+            "Mega Abomasnow is stronger",
             "Dec. 22-23 - 2x Raid XP",
             "Dec. 24-25 - 2x Catch Candy",
             "Dec. 26-27 - 2x Starpiece duration",
@@ -70,6 +71,10 @@
             ],
             "Catch 15 Ice-type Pokemon": [
                 "615_00"
+            ],
+            "AR Mapping": [
+                "361_00",
+                "80 Mega Abomasnow Energy"
             ]
         }
     }
