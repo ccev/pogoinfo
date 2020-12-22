@@ -1,7 +1,7 @@
 {
-    "name": "Pok\u00e9mon GO Holidays 2020",
-    "start": null,
-    "end": "2020-12-31 22:00",
+    "name": "January Research Breakthrough",
+    "start": "2021-01-01 22:00",
+    "end": "2021-02-01 22:00",
     "details": {
         "bonuses": [
             "Release of Vanillite",
@@ -31,9 +31,7 @@
             "459_00",
             "582_00",
             "183_00",
-            "025_00",
-            "225_00",
-            "613_00"
+            "113_00"
         ],
         "raids": {
             "1": [
