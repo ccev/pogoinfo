@@ -340,5 +340,11 @@
         "type": "Pok\u00e9mon Spotlight Hour",
         "start": "2021-01-26 18:00",
         "end": "2021-01-26 19:00"
+    },
+    {
+        "name": "Unova Celebration Event",
+        "type": "Event",
+        "start": "2021-01-05 22:00",
+        "end": null
     }
 ]
