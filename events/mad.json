@@ -341,6 +341,14 @@
             "end": "2021-01-26 19:00",
             "lure_duration": 30,
             "local_times": true
+        },
+        {
+            "name": "Snorunt Spotlight Hour",
+            "type": "spotlight",
+            "start": null,
+            "end": "2020-12-22 19:00",
+            "lure_duration": 30,
+            "local_times": true
         }
     ]
 }
