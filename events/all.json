@@ -346,5 +346,11 @@
         "type": "Event",
         "start": "2021-01-05 22:00",
         "end": null
+    },
+    {
+        "name": "Sinnoh Celebration Event",
+        "type": "Event",
+        "start": null,
+        "end": "2021-01-18 05:00"
     }
 ]
