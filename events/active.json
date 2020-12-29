@@ -1,7 +1,7 @@
 {
-    "name": "January Research Breakthrough",
-    "start": "2021-01-01 22:00",
-    "end": "2021-02-01 22:00",
+    "name": "New Years Event 2021",
+    "start": "2020-12-31 22:00",
+    "end": "2021-01-04 22:00",
     "details": {
         "bonuses": [
             "Release of Vanillite",
@@ -32,7 +32,8 @@
             "459_00",
             "582_00",
             "183_00",
-            "113_00"
+            "025_00",
+            "079_00"
         ],
         "raids": {
             "1": [
