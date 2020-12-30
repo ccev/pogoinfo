@@ -349,6 +349,14 @@
             "end": "2020-12-22 19:00",
             "lure_duration": 30,
             "local_times": true
+        },
+        {
+            "name": "Snover Spotlight Hour",
+            "type": "spotlight",
+            "start": null,
+            "end": "2020-12-29 19:00",
+            "lure_duration": 30,
+            "local_times": true
         }
     ]
 }
