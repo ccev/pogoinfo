@@ -17,7 +17,25 @@
             "360_00"
         ],
         "spawns": [],
-        "raids": [],
+        "raids": {
+            "1": [
+                "202_00",
+                "020_00",
+                "265_00",
+                "599_00",
+                "Espurr"
+            ],
+            "3": [
+                ""
+            ],
+            "5": [
+                "Kyurem (until 1pm on Jan 1st",
+                "PST)"
+            ],
+            "6": [
+                ""
+            ]
+        },
         "quests": {
             "Catch 5 Pokemon": [
                 "Pikachu with a New Year's hat"
