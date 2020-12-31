@@ -1,7 +1,7 @@
 {
-    "name": "Sinnoh Celebration Event",
-    "start": null,
-    "end": "2021-01-18 05:00",
+    "name": "New Years Event 2021",
+    "start": "2020-12-31 22:00",
+    "end": "2021-01-04 22:00",
     "details": {
         "bonuses": [
             "2x Hatch candy",
@@ -12,28 +12,35 @@
             "Lots of costumed Pokemon"
         ],
         "eggs": [
-            "Pichu with New Year's Hat (s?)",
+            "Pichu with New Year's Hat",
             "Slowpoke wearing 2020 glasses",
             "360_00"
         ],
-        "spawns": [],
+        "spawns": [
+            "025_00",
+            "079_00"
+        ],
         "raids": {
             "1": [
-                "202_00",
-                "020_00",
-                "265_00",
+                "Wobbuffet in a party hat",
+                "Wurmple in a party hat",
                 "599_00",
-                "Espurr"
+                "Espurr",
+                "Slowpoke in glasses"
             ],
             "3": [
-                ""
+                "Raticate in a party hat",
+                "Slowbro in glasses",
+                "026_50"
             ],
             "5": [
                 "Kyurem (until 1pm on Jan 1st",
                 "PST)"
             ],
             "6": [
-                ""
+                "460_00",
+                "006_00",
+                "094_00"
             ]
         },
         "quests": {
