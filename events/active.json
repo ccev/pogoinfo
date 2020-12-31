@@ -1,86 +1,32 @@
 {
-    "name": "Pok\u00e9mon GO Holidays 2020",
+    "name": "Sinnoh Celebration Event",
     "start": null,
-    "end": "2020-12-31 22:00",
+    "end": "2021-01-18 05:00",
     "details": {
         "bonuses": [
-            "Release of Vanillite",
-            "Open 45 Gifts per day. Carry 40 Gifts in your inventory",
-            "Holiday-themed avatar items and stickers",
-            "New boxes",
-            "Mega Abomasnow is stronger",
-            "Dec. 22-23 - 2x Raid XP",
-            "Dec. 24-25 - 2x Catch Candy",
-            "Dec. 26-27 - 2x Starpiece duration",
-            "Dec. 28-29 - 2x Lucky Egg duration",
-            "Dec. 30-31 - 2x Catch Stardust",
-            "Update: Saturday, December 26, 2020, at 8:00 a.m. to Sunday, December 27, 2020, at 10:00 p.m. local time, Jynx will be attracted to Incense"
+            "2x Hatch candy",
+            "2x Hatch stardust",
+            "1/2 Hatch distance",
+            "New boxes in the shop",
+            "New avatar items",
+            "Lots of costumed Pokemon"
         ],
         "eggs": [
-            "086_00",
-            "220_00",
-            "238_00",
-            "361_00",
-            "459_00",
-            "582_00"
+            "Pichu with New Year's Hat (s?)",
+            "Slowpoke wearing 2020 glasses",
+            "360_00"
         ],
-        "spawns": [
-            "393_00",
-            "086_00",
-            "363_00",
-            "361_00",
-            "459_00",
-            "582_00",
-            "183_00",
-            "025_00",
-            "225_00",
-            "613_00"
-        ],
-        "raids": {
-            "1": [
-                "027_52",
-                "582_00",
-                "613_00",
-                "215_00",
-                "220_00",
-                "599_00",
-                "Espurr"
-            ],
-            "3": [
-                "615_00",
-                "026_50",
-                "087_00",
-                "124_00",
-                "365_00"
-            ],
-            "5": [
-                "646_00"
-            ],
-            "Mega": [
-                "006_00",
-                "094_00",
-                "460_00"
-            ]
-        },
+        "spawns": [],
+        "raids": [],
         "quests": {
-            "Send 5 Gifts": [
-                "Delibird with bow"
+            "Catch 5 Pokemon": [
+                "Pikachu with a New Year's hat"
             ],
-            "Win 2 raids": [
-                "037_56"
+            "Catch 10 Pokemon": [
+                "Eevee with a party hat (s?)"
             ],
-            "Catch 5 Ice-type Pokemon": [
-                "459_00"
-            ],
-            "Catch 10 Ice-type Pokemon": [
-                "582_00"
-            ],
-            "Catch 15 Ice-type Pokemon": [
-                "615_00"
-            ],
-            "AR Mapping": [
-                "361_00",
-                "80 Mega Abomasnow Energy"
+            "Catch 20 Pokemon": [
+                "Slowpoke wearing 2020 glasses"
             ]
         }
     }
