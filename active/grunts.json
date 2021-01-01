@@ -1159,7 +1159,7 @@
         }
     },
     "39": {
-        "active": false,
+        "active": true,
         "character": {
             "proto_id": "CHARACTER_WATER_GRUNT_MALE",
             "gender": 1,
@@ -1168,6 +1168,43 @@
                 "id": 11,
                 "name": "WATER"
             }
+        },
+        "lineup": {
+            "rewards": [
+                0
+            ],
+            "team": [
+                [
+                    {
+                        "id": 129,
+                        "form_id": 254,
+                        "proto_id": "MAGIKARP_SHADOW",
+                        "asset_id": "129_00"
+                    }
+                ],
+                [
+                    {
+                        "id": 129,
+                        "form_id": 254,
+                        "proto_id": "MAGIKARP_SHADOW",
+                        "asset_id": "129_00"
+                    }
+                ],
+                [
+                    {
+                        "id": 129,
+                        "form_id": 254,
+                        "proto_id": "MAGIKARP_SHADOW",
+                        "asset_id": "129_00"
+                    },
+                    {
+                        "id": 130,
+                        "form_id": 257,
+                        "proto_id": "GYARADOS_SHADOW",
+                        "asset_id": "130_00"
+                    }
+                ]
+            ]
         }
     },
     "41": {
@@ -1363,12 +1400,55 @@
         }
     },
     "44": {
-        "active": false,
+        "active": true,
         "character": {
             "proto_id": "CHARACTER_GIOVANNI",
             "gender": 1,
             "boss": true,
             "type": null
+        },
+        "lineup": {
+            "rewards": [
+                2
+            ],
+            "team": [
+                [
+                    {
+                        "id": 53,
+                        "form_id": 711,
+                        "proto_id": "PERSIAN_SHADOW",
+                        "asset_id": "053_00"
+                    }
+                ],
+                [
+                    {
+                        "id": 445,
+                        "form_id": 868,
+                        "proto_id": "GARCHOMP_SHADOW",
+                        "asset_id": "445_00"
+                    },
+                    {
+                        "id": 34,
+                        "form_id": 789,
+                        "proto_id": "NIDOKING_SHADOW",
+                        "asset_id": "034_00"
+                    },
+                    {
+                        "id": 115,
+                        "form_id": 840,
+                        "proto_id": "KANGASKHAN_SHADOW",
+                        "asset_id": "115_00"
+                    }
+                ],
+                [
+                    {
+                        "id": 150,
+                        "form_id": 1113,
+                        "proto_id": "MEWTWO_SHADOW",
+                        "asset_id": "150_00"
+                    }
+                ]
+            ]
         }
     },
     "45": {
