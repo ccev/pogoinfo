@@ -1,6 +1,6 @@
 {
     "name": "New Years Event 2021",
-    "start": "2020-12-31 22:00",
+    "start": null,
     "end": "2021-01-04 22:00",
     "details": {
         "bonuses": [
@@ -32,6 +32,7 @@
                 "Raticate in a party hat",
                 "Slowbro in glasses",
                 "026_50",
+                "227_00",
                 "185_00"
             ],
             "5": [
