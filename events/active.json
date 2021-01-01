@@ -18,6 +18,7 @@
         ],
         "spawns": [
             "025_00",
+            "026_00",
             "079_00"
         ],
         "raids": {
@@ -50,7 +51,7 @@
                 "Pikachu with a New Year's hat"
             ],
             "Catch 10 Pokemon": [
-                "Eevee with a party hat (s?)"
+                "Eevee with a party hat"
             ],
             "Catch 20 Pokemon": [
                 "Slowpoke wearing 2020 glasses"
