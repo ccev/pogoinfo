@@ -1,92 +1,1692 @@
 {
-    "1": [
-        {
-            "id": 79,
-            "form_id": 2673,
-            "proto_id": "SLOWPOKE_2020",
-            "asset_id": "pm0079_00_pgo_2020"
-        },
-        {
-            "id": 202,
-            "form_id": 602,
-            "proto_id": "WOBBUFFET_NORMAL",
-            "asset_id": "202_00",
-            "costume_id": 11
-        },
-        {
-            "id": 265,
-            "proto_id": "WURMPLE",
-            "asset_id": "265_00",
-            "costume_id": 11
-        },
-        {
-            "id": 599,
-            "proto_id": "KLINK",
-            "asset_id": "599_00"
-        },
-        {
-            "id": 677,
-            "proto_id": "ESPURR",
-            "asset_id": "677_00"
+    "1": {
+        "active": false,
+        "character": {
+            "proto_id": "CHARACTER_BLANCHE",
+            "gender": 0,
+            "boss": false,
+            "type": null
         }
-    ],
-    "3": [
-        {
-            "id": 20,
-            "form_id": 47,
-            "proto_id": "RATICATE_NORMAL",
-            "asset_id": "020_00",
-            "costume_id": 11
-        },
-        {
-            "id": 26,
-            "form_id": 50,
-            "proto_id": "RAICHU_ALOLA",
-            "asset_id": "026_61"
-        },
-        {
-            "id": 80,
-            "form_id": 2674,
-            "proto_id": "SLOWBRO_2021",
-            "asset_id": "pm0080_00_pgo_2021"
-        },
-        {
-            "id": 185,
-            "proto_id": "SUDOWOODO",
-            "asset_id": "185_00"
-        },
-        {
-            "id": 227,
-            "form_id": 1295,
-            "proto_id": "SKARMORY_NORMAL",
-            "asset_id": "227_00"
+    },
+    "2": {
+        "active": false,
+        "character": {
+            "proto_id": "CHARACTER_CANDELA",
+            "gender": 0,
+            "boss": false,
+            "type": null
         }
-    ],
-    "5": [
-        {
-            "id": 250,
-            "proto_id": "HO_OH",
-            "asset_id": "250_00"
+    },
+    "3": {
+        "active": false,
+        "character": {
+            "proto_id": "CHARACTER_SPARK",
+            "gender": 1,
+            "boss": false,
+            "type": null
         }
-    ],
-    "6": [
-        {
-            "id": 6,
-            "form_id": 178,
-            "asset_id": "006_52",
-            "evolution_id": "3"
-        },
-        {
-            "id": 9,
-            "form_id": 187,
-            "asset_id": "009_51",
-            "evolution_id": "1"
-        },
-        {
-            "id": 460,
-            "form_id": 935,
-            "asset_id": "460_51",
-            "evolution_id": "1"
+    },
+    "4": {
+        "active": false,
+        "character": {
+            "proto_id": "CHARACTER_GRUNT_MALE",
+            "gender": 1,
+            "boss": false,
+            "type": null
         }
-    ]
+    },
+    "5": {
+        "active": false,
+        "character": {
+            "proto_id": "CHARACTER_GRUNT_FEMALE",
+            "gender": 0,
+            "boss": false,
+            "type": null
+        }
+    },
+    "6": {
+        "active": false,
+        "character": {
+            "proto_id": "CHARACTER_BUG_GRUNT_FEMALE",
+            "gender": 0,
+            "boss": false,
+            "type": {
+                "id": 7,
+                "name": "BUG"
+            }
+        }
+    },
+    "7": {
+        "active": true,
+        "character": {
+            "proto_id": "CHARACTER_BUG_GRUNT_MALE",
+            "gender": 1,
+            "boss": false,
+            "type": {
+                "id": 7,
+                "name": "BUG"
+            }
+        },
+        "lineup": {
+            "rewards": [
+                0
+            ],
+            "team": [
+                [
+                    {
+                        "id": 48,
+                        "form_id": 259,
+                        "proto_id": "VENONAT_NORMAL",
+                        "asset_id": "048_00"
+                    },
+                    {
+                        "id": 13,
+                        "form_id": 616,
+                        "proto_id": "WEEDLE_NORMAL",
+                        "asset_id": "013_00"
+                    },
+                    {
+                        "id": 213,
+                        "form_id": 827,
+                        "proto_id": "SHUCKLE_NORMAL",
+                        "asset_id": "213_00"
+                    }
+                ],
+                [
+                    {
+                        "id": 49,
+                        "form_id": 262,
+                        "proto_id": "VENOMOTH_NORMAL",
+                        "asset_id": "049_00"
+                    },
+                    {
+                        "id": 14,
+                        "form_id": 619,
+                        "proto_id": "KAKUNA_NORMAL",
+                        "asset_id": "014_00"
+                    },
+                    {
+                        "id": 212,
+                        "form_id": 250,
+                        "proto_id": "SCIZOR_NORMAL",
+                        "asset_id": "212_00"
+                    }
+                ],
+                [
+                    {
+                        "id": 212,
+                        "form_id": 250,
+                        "proto_id": "SCIZOR_NORMAL",
+                        "asset_id": "212_00"
+                    },
+                    {
+                        "id": 15,
+                        "form_id": 622,
+                        "proto_id": "BEEDRILL_NORMAL",
+                        "asset_id": "015_00"
+                    },
+                    {
+                        "id": 123,
+                        "form_id": 247,
+                        "proto_id": "SCYTHER_NORMAL",
+                        "asset_id": "123_00"
+                    }
+                ]
+            ]
+        }
+    },
+    "10": {
+        "active": true,
+        "character": {
+            "proto_id": "CHARACTER_DARK_GRUNT_FEMALE",
+            "gender": 0,
+            "boss": false,
+            "type": {
+                "id": 17,
+                "name": "DARK"
+            }
+        },
+        "lineup": {
+            "rewards": [
+                0
+            ],
+            "team": [
+                [
+                    {
+                        "id": 434,
+                        "form_id": 791,
+                        "proto_id": "STUNKY_NORMAL",
+                        "asset_id": "434_00"
+                    }
+                ],
+                [
+                    {
+                        "id": 435,
+                        "form_id": 794,
+                        "proto_id": "SKUNTANK_NORMAL",
+                        "asset_id": "435_00"
+                    },
+                    {
+                        "id": 302,
+                        "form_id": 923,
+                        "proto_id": "SABLEYE_NORMAL",
+                        "asset_id": "302_00"
+                    }
+                ],
+                [
+                    {
+                        "id": 435,
+                        "form_id": 794,
+                        "proto_id": "SKUNTANK_NORMAL",
+                        "asset_id": "435_00"
+                    },
+                    {
+                        "id": 275,
+                        "form_id": 631,
+                        "proto_id": "SHIFTRY_NORMAL",
+                        "asset_id": "275_00"
+                    }
+                ]
+            ]
+        }
+    },
+    "11": {
+        "active": false,
+        "character": {
+            "proto_id": "CHARACTER_DARK_GRUNT_MALE",
+            "gender": 1,
+            "boss": false,
+            "type": {
+                "id": 17,
+                "name": "DARK"
+            }
+        }
+    },
+    "12": {
+        "active": true,
+        "character": {
+            "proto_id": "CHARACTER_DRAGON_GRUNT_FEMALE",
+            "gender": 0,
+            "boss": false,
+            "type": {
+                "id": 16,
+                "name": "DRAGON"
+            }
+        },
+        "lineup": {
+            "rewards": [
+                0
+            ],
+            "team": [
+                [
+                    {
+                        "id": 147,
+                        "form_id": 190,
+                        "proto_id": "DRATINI_NORMAL",
+                        "asset_id": "147_00"
+                    }
+                ],
+                [
+                    {
+                        "id": 148,
+                        "form_id": 193,
+                        "proto_id": "DRAGONAIR_NORMAL",
+                        "asset_id": "148_00"
+                    },
+                    {
+                        "id": 330,
+                        "form_id": 752,
+                        "proto_id": "FLYGON_NORMAL",
+                        "asset_id": "330_00"
+                    }
+                ],
+                [
+                    {
+                        "id": 130,
+                        "form_id": 256,
+                        "proto_id": "GYARADOS_NORMAL",
+                        "asset_id": "130_00"
+                    },
+                    {
+                        "id": 149,
+                        "form_id": 196,
+                        "proto_id": "DRAGONITE_NORMAL",
+                        "asset_id": "149_00"
+                    },
+                    {
+                        "id": 148,
+                        "form_id": 193,
+                        "proto_id": "DRAGONAIR_NORMAL",
+                        "asset_id": "148_00"
+                    }
+                ]
+            ]
+        }
+    },
+    "13": {
+        "active": false,
+        "character": {
+            "proto_id": "CHARACTER_DRAGON_GRUNT_MALE",
+            "gender": 1,
+            "boss": false,
+            "type": {
+                "id": 16,
+                "name": "DRAGON"
+            }
+        }
+    },
+    "14": {
+        "active": false,
+        "character": {
+            "proto_id": "CHARACTER_FAIRY_GRUNT_FEMALE",
+            "gender": 0,
+            "boss": false,
+            "type": {
+                "id": 18,
+                "name": "FAIRY"
+            }
+        }
+    },
+    "15": {
+        "active": false,
+        "character": {
+            "proto_id": "CHARACTER_FAIRY_GRUNT_MALE",
+            "gender": 1,
+            "boss": false,
+            "type": {
+                "id": 18,
+                "name": "FAIRY"
+            }
+        }
+    },
+    "16": {
+        "active": true,
+        "character": {
+            "proto_id": "CHARACTER_FIGHTING_GRUNT_FEMALE",
+            "gender": 0,
+            "boss": false,
+            "type": {
+                "id": 2,
+                "name": "FIGHTING"
+            }
+        },
+        "lineup": {
+            "rewards": [
+                0
+            ],
+            "team": [
+                [
+                    {
+                        "id": 66,
+                        "form_id": 809,
+                        "proto_id": "MACHOP_NORMAL",
+                        "asset_id": "066_00"
+                    },
+                    {
+                        "id": 106,
+                        "form_id": 713,
+                        "proto_id": "HITMONLEE_NORMAL",
+                        "asset_id": "106_00"
+                    }
+                ],
+                [
+                    {
+                        "id": 106,
+                        "form_id": 713,
+                        "proto_id": "HITMONLEE_NORMAL",
+                        "asset_id": "106_00"
+                    }
+                ],
+                [
+                    {
+                        "id": 67,
+                        "form_id": 812,
+                        "proto_id": "MACHOKE_NORMAL",
+                        "asset_id": "067_00"
+                    }
+                ]
+            ]
+        }
+    },
+    "17": {
+        "active": false,
+        "character": {
+            "proto_id": "CHARACTER_FIGHTING_GRUNT_MALE",
+            "gender": 1,
+            "boss": false,
+            "type": {
+                "id": 2,
+                "name": "FIGHTING"
+            }
+        }
+    },
+    "18": {
+        "active": true,
+        "character": {
+            "proto_id": "CHARACTER_FIRE_GRUNT_FEMALE",
+            "gender": 0,
+            "boss": false,
+            "type": {
+                "id": 10,
+                "name": "FIRE"
+            }
+        },
+        "lineup": {
+            "rewards": [
+                0,
+                1
+            ],
+            "team": [
+                [
+                    {
+                        "id": 37,
+                        "form_id": 55,
+                        "proto_id": "VULPIX_NORMAL",
+                        "asset_id": "037_00"
+                    },
+                    {
+                        "id": 228,
+                        "form_id": 229,
+                        "proto_id": "HOUNDOUR_NORMAL",
+                        "asset_id": "228_00"
+                    }
+                ],
+                [
+                    {
+                        "id": 38,
+                        "form_id": 57,
+                        "proto_id": "NINETALES_NORMAL",
+                        "asset_id": "038_00"
+                    },
+                    {
+                        "id": 229,
+                        "form_id": 232,
+                        "proto_id": "HOUNDOOM_NORMAL",
+                        "asset_id": "229_00"
+                    }
+                ],
+                [
+                    {
+                        "id": 229,
+                        "form_id": 232,
+                        "proto_id": "HOUNDOOM_NORMAL",
+                        "asset_id": "229_00"
+                    },
+                    {
+                        "id": 5,
+                        "form_id": 175,
+                        "proto_id": "CHARMELEON_NORMAL",
+                        "asset_id": "005_00"
+                    },
+                    {
+                        "id": 59,
+                        "form_id": 283,
+                        "proto_id": "ARCANINE_NORMAL",
+                        "asset_id": "059_00"
+                    }
+                ]
+            ]
+        }
+    },
+    "19": {
+        "active": false,
+        "character": {
+            "proto_id": "CHARACTER_FIRE_GRUNT_MALE",
+            "gender": 1,
+            "boss": false,
+            "type": {
+                "id": 10,
+                "name": "FIRE"
+            }
+        }
+    },
+    "20": {
+        "active": true,
+        "character": {
+            "proto_id": "CHARACTER_FLYING_GRUNT_FEMALE",
+            "gender": 0,
+            "boss": false,
+            "type": {
+                "id": 3,
+                "name": "FLYING"
+            }
+        },
+        "lineup": {
+            "rewards": [
+                0
+            ],
+            "team": [
+                [
+                    {
+                        "id": 41,
+                        "form_id": 157,
+                        "proto_id": "ZUBAT_NORMAL",
+                        "asset_id": "041_00"
+                    },
+                    {
+                        "id": 42,
+                        "form_id": 160,
+                        "proto_id": "GOLBAT_NORMAL",
+                        "asset_id": "042_00"
+                    },
+                    {
+                        "id": 227,
+                        "form_id": 1295,
+                        "proto_id": "SKARMORY_NORMAL",
+                        "asset_id": "227_00"
+                    }
+                ],
+                [
+                    {
+                        "id": 169,
+                        "form_id": 202,
+                        "proto_id": "CROBAT_NORMAL",
+                        "asset_id": "169_00"
+                    },
+                    {
+                        "id": 42,
+                        "form_id": 160,
+                        "proto_id": "GOLBAT_NORMAL",
+                        "asset_id": "042_00"
+                    },
+                    {
+                        "id": 123,
+                        "form_id": 247,
+                        "proto_id": "SCYTHER_NORMAL",
+                        "asset_id": "123_00"
+                    }
+                ],
+                [
+                    {
+                        "id": 130,
+                        "form_id": 256,
+                        "proto_id": "GYARADOS_NORMAL",
+                        "asset_id": "130_00"
+                    },
+                    {
+                        "id": 149,
+                        "form_id": 196,
+                        "proto_id": "DRAGONITE_NORMAL",
+                        "asset_id": "149_00"
+                    },
+                    {
+                        "id": 169,
+                        "form_id": 202,
+                        "proto_id": "CROBAT_NORMAL",
+                        "asset_id": "169_00"
+                    }
+                ]
+            ]
+        }
+    },
+    "21": {
+        "active": false,
+        "character": {
+            "proto_id": "CHARACTER_FLYING_GRUNT_MALE",
+            "gender": 1,
+            "boss": false,
+            "type": {
+                "id": 3,
+                "name": "FLYING"
+            }
+        }
+    },
+    "22": {
+        "active": false,
+        "character": {
+            "proto_id": "CHARACTER_GRASS_GRUNT_FEMALE",
+            "gender": 0,
+            "boss": false,
+            "type": {
+                "id": 12,
+                "name": "GRASS"
+            }
+        }
+    },
+    "23": {
+        "active": true,
+        "character": {
+            "proto_id": "CHARACTER_GRASS_GRUNT_MALE",
+            "gender": 1,
+            "boss": false,
+            "type": {
+                "id": 12,
+                "name": "GRASS"
+            }
+        },
+        "lineup": {
+            "rewards": [
+                0,
+                1
+            ],
+            "team": [
+                [
+                    {
+                        "id": 187,
+                        "form_id": 1205,
+                        "proto_id": "HOPPIP_NORMAL",
+                        "asset_id": "187_00"
+                    },
+                    {
+                        "id": 1,
+                        "form_id": 163,
+                        "proto_id": "BULBASAUR_NORMAL",
+                        "asset_id": "001_00"
+                    }
+                ],
+                [
+                    {
+                        "id": 70,
+                        "form_id": 667,
+                        "proto_id": "WEEPINBELL_NORMAL",
+                        "asset_id": "070_00"
+                    },
+                    {
+                        "id": 44,
+                        "form_id": 268,
+                        "proto_id": "GLOOM_NORMAL",
+                        "asset_id": "044_00"
+                    },
+                    {
+                        "id": 2,
+                        "form_id": 166,
+                        "proto_id": "IVYSAUR_NORMAL",
+                        "asset_id": "002_00"
+                    }
+                ],
+                [
+                    {
+                        "id": 71,
+                        "form_id": 670,
+                        "proto_id": "VICTREEBEL_NORMAL",
+                        "asset_id": "071_00"
+                    },
+                    {
+                        "id": 275,
+                        "form_id": 631,
+                        "proto_id": "SHIFTRY_NORMAL",
+                        "asset_id": "275_00"
+                    },
+                    {
+                        "id": 45,
+                        "form_id": 271,
+                        "proto_id": "VILEPLUME_NORMAL",
+                        "asset_id": "045_00"
+                    }
+                ]
+            ]
+        }
+    },
+    "24": {
+        "active": false,
+        "character": {
+            "proto_id": "CHARACTER_GROUND_GRUNT_FEMALE",
+            "gender": 0,
+            "boss": false,
+            "type": {
+                "id": 5,
+                "name": "GROUND"
+            }
+        }
+    },
+    "25": {
+        "active": true,
+        "character": {
+            "proto_id": "CHARACTER_GROUND_GRUNT_MALE",
+            "gender": 1,
+            "boss": false,
+            "type": {
+                "id": 5,
+                "name": "GROUND"
+            }
+        },
+        "lineup": {
+            "rewards": [
+                0
+            ],
+            "team": [
+                [
+                    {
+                        "id": 50,
+                        "form_id": 59,
+                        "proto_id": "DIGLETT_NORMAL",
+                        "asset_id": "050_00"
+                    },
+                    {
+                        "id": 207,
+                        "form_id": 803,
+                        "proto_id": "GLIGAR_NORMAL",
+                        "asset_id": "207_00"
+                    }
+                ],
+                [
+                    {
+                        "id": 247,
+                        "form_id": 316,
+                        "proto_id": "PUPITAR_NORMAL",
+                        "asset_id": "247_00"
+                    },
+                    {
+                        "id": 105,
+                        "form_id": 79,
+                        "proto_id": "MAROWAK_NORMAL",
+                        "asset_id": "105_00"
+                    },
+                    {
+                        "id": 329,
+                        "form_id": 749,
+                        "proto_id": "VIBRAVA_NORMAL",
+                        "asset_id": "329_00"
+                    }
+                ],
+                [
+                    {
+                        "id": 472,
+                        "form_id": 806,
+                        "proto_id": "GLISCOR_NORMAL",
+                        "asset_id": "472_00"
+                    },
+                    {
+                        "id": 330,
+                        "form_id": 752,
+                        "proto_id": "FLYGON_NORMAL",
+                        "asset_id": "330_00"
+                    }
+                ]
+            ]
+        }
+    },
+    "26": {
+        "active": true,
+        "character": {
+            "proto_id": "CHARACTER_ICE_GRUNT_FEMALE",
+            "gender": 0,
+            "boss": false,
+            "type": {
+                "id": 15,
+                "name": "ICE"
+            }
+        },
+        "lineup": {
+            "rewards": [
+                0
+            ],
+            "team": [
+                [
+                    {
+                        "id": 459,
+                        "form_id": 932,
+                        "proto_id": "SNOVER_NORMAL",
+                        "asset_id": "459_00"
+                    },
+                    {
+                        "id": 91,
+                        "form_id": 879,
+                        "proto_id": "CLOYSTER_NORMAL",
+                        "asset_id": "091_00"
+                    }
+                ],
+                [
+                    {
+                        "id": 459,
+                        "form_id": 932,
+                        "proto_id": "SNOVER_NORMAL",
+                        "asset_id": "459_00"
+                    },
+                    {
+                        "id": 460,
+                        "form_id": 935,
+                        "proto_id": "ABOMASNOW_NORMAL",
+                        "asset_id": "460_00"
+                    }
+                ],
+                [
+                    {
+                        "id": 131,
+                        "form_id": 322,
+                        "proto_id": "LAPRAS_NORMAL",
+                        "asset_id": "131_00"
+                    },
+                    {
+                        "id": 460,
+                        "form_id": 935,
+                        "proto_id": "ABOMASNOW_NORMAL",
+                        "asset_id": "460_00"
+                    }
+                ]
+            ]
+        }
+    },
+    "27": {
+        "active": false,
+        "character": {
+            "proto_id": "CHARACTER_ICE_GRUNT_MALE",
+            "gender": 1,
+            "boss": false,
+            "type": {
+                "id": 15,
+                "name": "ICE"
+            }
+        }
+    },
+    "28": {
+        "active": false,
+        "character": {
+            "proto_id": "CHARACTER_METAL_GRUNT_FEMALE",
+            "gender": 0,
+            "boss": false,
+            "type": null
+        }
+    },
+    "29": {
+        "active": false,
+        "character": {
+            "proto_id": "CHARACTER_METAL_GRUNT_MALE",
+            "gender": 1,
+            "boss": false,
+            "type": null
+        }
+    },
+    "30": {
+        "active": false,
+        "character": {
+            "proto_id": "CHARACTER_NORMAL_GRUNT_FEMALE",
+            "gender": 0,
+            "boss": false,
+            "type": {
+                "id": 1,
+                "name": "NORMAL"
+            }
+        }
+    },
+    "31": {
+        "active": true,
+        "character": {
+            "proto_id": "CHARACTER_NORMAL_GRUNT_MALE",
+            "gender": 1,
+            "boss": false,
+            "type": {
+                "id": 1,
+                "name": "NORMAL"
+            }
+        },
+        "lineup": {
+            "rewards": [
+                0
+            ],
+            "team": [
+                [
+                    {
+                        "id": 216,
+                        "form_id": 1265,
+                        "proto_id": "TEDDIURSA_NORMAL",
+                        "asset_id": "216_00"
+                    }
+                ],
+                [
+                    {
+                        "id": 20,
+                        "form_id": 47,
+                        "proto_id": "RATICATE_NORMAL",
+                        "asset_id": "020_00"
+                    },
+                    {
+                        "id": 233,
+                        "form_id": 680,
+                        "proto_id": "PORYGON2_NORMAL",
+                        "asset_id": "233_00"
+                    }
+                ],
+                [
+                    {
+                        "id": 143,
+                        "form_id": 199,
+                        "proto_id": "SNORLAX_NORMAL",
+                        "asset_id": "143_00"
+                    },
+                    {
+                        "id": 474,
+                        "form_id": 683,
+                        "proto_id": "PORYGON_Z_NORMAL",
+                        "asset_id": "474_00"
+                    }
+                ]
+            ]
+        }
+    },
+    "32": {
+        "active": true,
+        "character": {
+            "proto_id": "CHARACTER_POISON_GRUNT_FEMALE",
+            "gender": 0,
+            "boss": false,
+            "type": {
+                "id": 4,
+                "name": "POISON"
+            }
+        },
+        "lineup": {
+            "rewards": [
+                0
+            ],
+            "team": [
+                [
+                    {
+                        "id": 32,
+                        "form_id": 776,
+                        "proto_id": "NIDORAN_NORMAL",
+                        "asset_id": "032_00"
+                    },
+                    {
+                        "id": 29,
+                        "form_id": 776,
+                        "proto_id": "NIDORAN_NORMAL",
+                        "asset_id": "029_00"
+                    }
+                ],
+                [
+                    {
+                        "id": 42,
+                        "form_id": 160,
+                        "proto_id": "GOLBAT_NORMAL",
+                        "asset_id": "042_00"
+                    },
+                    {
+                        "id": 89,
+                        "form_id": 75,
+                        "proto_id": "MUK_NORMAL",
+                        "asset_id": "089_00"
+                    },
+                    {
+                        "id": 88,
+                        "form_id": 73,
+                        "proto_id": "GRIMER_NORMAL",
+                        "asset_id": "088_00"
+                    }
+                ],
+                [
+                    {
+                        "id": 30,
+                        "form_id": 779,
+                        "proto_id": "NIDORINA_NORMAL",
+                        "asset_id": "030_00"
+                    },
+                    {
+                        "id": 33,
+                        "form_id": 785,
+                        "proto_id": "NIDORINO_NORMAL",
+                        "asset_id": "033_00"
+                    }
+                ]
+            ]
+        }
+    },
+    "33": {
+        "active": false,
+        "character": {
+            "proto_id": "CHARACTER_POISON_GRUNT_MALE",
+            "gender": 1,
+            "boss": false,
+            "type": {
+                "id": 4,
+                "name": "POISON"
+            }
+        }
+    },
+    "34": {
+        "active": false,
+        "character": {
+            "proto_id": "CHARACTER_PSYCHIC_GRUNT_FEMALE",
+            "gender": 0,
+            "boss": false,
+            "type": {
+                "id": 14,
+                "name": "PSYCHIC"
+            }
+        }
+    },
+    "35": {
+        "active": true,
+        "character": {
+            "proto_id": "CHARACTER_PSYCHIC_GRUNT_MALE",
+            "gender": 1,
+            "boss": false,
+            "type": {
+                "id": 14,
+                "name": "PSYCHIC"
+            }
+        },
+        "lineup": {
+            "rewards": [
+                0
+            ],
+            "team": [
+                [
+                    {
+                        "id": 202,
+                        "form_id": 602,
+                        "proto_id": "WOBBUFFET_NORMAL",
+                        "asset_id": "202_00"
+                    },
+                    {
+                        "id": 79,
+                        "form_id": 1017,
+                        "proto_id": "SLOWPOKE_NORMAL",
+                        "asset_id": "079_00"
+                    },
+                    {
+                        "id": 63,
+                        "form_id": 304,
+                        "proto_id": "ABRA_NORMAL",
+                        "asset_id": "063_00"
+                    }
+                ],
+                [
+                    {
+                        "id": 96,
+                        "form_id": 214,
+                        "proto_id": "DROWZEE_NORMAL",
+                        "asset_id": "096_00"
+                    },
+                    {
+                        "id": 280,
+                        "form_id": 292,
+                        "proto_id": "RALTS_NORMAL",
+                        "asset_id": "280_00"
+                    },
+                    {
+                        "id": 97,
+                        "form_id": 217,
+                        "proto_id": "HYPNO_NORMAL",
+                        "asset_id": "097_00"
+                    }
+                ],
+                [
+                    {
+                        "id": 64,
+                        "form_id": 307,
+                        "proto_id": "KADABRA_NORMAL",
+                        "asset_id": "064_00"
+                    },
+                    {
+                        "id": 97,
+                        "form_id": 217,
+                        "proto_id": "HYPNO_NORMAL",
+                        "asset_id": "097_00"
+                    },
+                    {
+                        "id": 281,
+                        "form_id": 295,
+                        "proto_id": "KIRLIA_NORMAL",
+                        "asset_id": "281_00"
+                    }
+                ]
+            ]
+        }
+    },
+    "36": {
+        "active": false,
+        "character": {
+            "proto_id": "CHARACTER_ROCK_GRUNT_FEMALE",
+            "gender": 0,
+            "boss": false,
+            "type": {
+                "id": 6,
+                "name": "ROCK"
+            }
+        }
+    },
+    "37": {
+        "active": true,
+        "character": {
+            "proto_id": "CHARACTER_ROCK_GRUNT_MALE",
+            "gender": 1,
+            "boss": false,
+            "type": {
+                "id": 6,
+                "name": "ROCK"
+            }
+        },
+        "lineup": {
+            "rewards": [
+                0
+            ],
+            "team": [
+                [
+                    {
+                        "id": 246,
+                        "form_id": 313,
+                        "proto_id": "LARVITAR_NORMAL",
+                        "asset_id": "246_00"
+                    },
+                    {
+                        "id": 142,
+                        "form_id": 1110,
+                        "proto_id": "AERODACTYL_NORMAL",
+                        "asset_id": "142_00"
+                    }
+                ],
+                [
+                    {
+                        "id": 247,
+                        "form_id": 316,
+                        "proto_id": "PUPITAR_NORMAL",
+                        "asset_id": "247_00"
+                    },
+                    {
+                        "id": 246,
+                        "form_id": 313,
+                        "proto_id": "LARVITAR_NORMAL",
+                        "asset_id": "246_00"
+                    }
+                ],
+                [
+                    {
+                        "id": 247,
+                        "form_id": 316,
+                        "proto_id": "PUPITAR_NORMAL",
+                        "asset_id": "247_00"
+                    },
+                    {
+                        "id": 248,
+                        "form_id": 319,
+                        "proto_id": "TYRANITAR_NORMAL",
+                        "asset_id": "248_00"
+                    }
+                ]
+            ]
+        }
+    },
+    "38": {
+        "active": true,
+        "character": {
+            "proto_id": "CHARACTER_WATER_GRUNT_FEMALE",
+            "gender": 0,
+            "boss": false,
+            "type": {
+                "id": 11,
+                "name": "WATER"
+            }
+        },
+        "lineup": {
+            "rewards": [
+                0
+            ],
+            "team": [
+                [
+                    {
+                        "id": 90,
+                        "form_id": 876,
+                        "proto_id": "SHELLDER_NORMAL",
+                        "asset_id": "090_00"
+                    },
+                    {
+                        "id": 54,
+                        "form_id": 286,
+                        "proto_id": "PSYDUCK_NORMAL",
+                        "asset_id": "054_00"
+                    }
+                ],
+                [
+                    {
+                        "id": 61,
+                        "form_id": 238,
+                        "proto_id": "POLIWHIRL_NORMAL",
+                        "asset_id": "061_00"
+                    },
+                    {
+                        "id": 55,
+                        "form_id": 289,
+                        "proto_id": "GOLDUCK_NORMAL",
+                        "asset_id": "055_00"
+                    }
+                ],
+                [
+                    {
+                        "id": 186,
+                        "form_id": 244,
+                        "proto_id": "POLITOED_NORMAL",
+                        "asset_id": "186_00"
+                    },
+                    {
+                        "id": 62,
+                        "form_id": 241,
+                        "proto_id": "POLIWRATH_NORMAL",
+                        "asset_id": "062_00"
+                    }
+                ]
+            ]
+        }
+    },
+    "39": {
+        "active": false,
+        "character": {
+            "proto_id": "CHARACTER_WATER_GRUNT_MALE",
+            "gender": 1,
+            "boss": false,
+            "type": {
+                "id": 11,
+                "name": "WATER"
+            }
+        }
+    },
+    "41": {
+        "active": true,
+        "character": {
+            "proto_id": "CHARACTER_EXECUTIVE_CLIFF",
+            "gender": 1,
+            "boss": true,
+            "type": null
+        },
+        "lineup": {
+            "rewards": [
+                0
+            ],
+            "team": [
+                [
+                    {
+                        "id": 138,
+                        "form_id": 740,
+                        "proto_id": "OMANYTE_NORMAL",
+                        "asset_id": "138_00"
+                    }
+                ],
+                [
+                    {
+                        "id": 466,
+                        "form_id": 643,
+                        "proto_id": "ELECTIVIRE_NORMAL",
+                        "asset_id": "466_00"
+                    },
+                    {
+                        "id": 95,
+                        "form_id": 902,
+                        "proto_id": "ONIX_NORMAL",
+                        "asset_id": "095_00"
+                    },
+                    {
+                        "id": 68,
+                        "form_id": 815,
+                        "proto_id": "MACHAMP_NORMAL",
+                        "asset_id": "068_00"
+                    }
+                ],
+                [
+                    {
+                        "id": 248,
+                        "form_id": 319,
+                        "proto_id": "TYRANITAR_NORMAL",
+                        "asset_id": "248_00"
+                    },
+                    {
+                        "id": 260,
+                        "form_id": 211,
+                        "proto_id": "SWAMPERT_NORMAL",
+                        "asset_id": "260_00"
+                    },
+                    {
+                        "id": 389,
+                        "form_id": 694,
+                        "proto_id": "TORTERRA_NORMAL",
+                        "asset_id": "389_00"
+                    }
+                ]
+            ]
+        }
+    },
+    "42": {
+        "active": true,
+        "character": {
+            "proto_id": "CHARACTER_EXECUTIVE_ARLO",
+            "gender": 1,
+            "boss": true,
+            "type": null
+        },
+        "lineup": {
+            "rewards": [
+                0
+            ],
+            "team": [
+                [
+                    {
+                        "id": 58,
+                        "form_id": 280,
+                        "proto_id": "GROWLITHE_NORMAL",
+                        "asset_id": "058_00"
+                    }
+                ],
+                [
+                    {
+                        "id": 208,
+                        "form_id": 905,
+                        "proto_id": "STEELIX_NORMAL",
+                        "asset_id": "208_00"
+                    },
+                    {
+                        "id": 9,
+                        "form_id": 187,
+                        "proto_id": "BLASTOISE_NORMAL",
+                        "asset_id": "009_00"
+                    },
+                    {
+                        "id": 6,
+                        "form_id": 178,
+                        "proto_id": "CHARIZARD_NORMAL",
+                        "asset_id": "006_00"
+                    }
+                ],
+                [
+                    {
+                        "id": 373,
+                        "form_id": 761,
+                        "proto_id": "SALAMENCE_NORMAL",
+                        "asset_id": "373_00"
+                    },
+                    {
+                        "id": 212,
+                        "form_id": 250,
+                        "proto_id": "SCIZOR_NORMAL",
+                        "asset_id": "212_00"
+                    },
+                    {
+                        "id": 149,
+                        "form_id": 196,
+                        "proto_id": "DRAGONITE_NORMAL",
+                        "asset_id": "149_00"
+                    }
+                ]
+            ]
+        }
+    },
+    "43": {
+        "active": true,
+        "character": {
+            "proto_id": "CHARACTER_EXECUTIVE_SIERRA",
+            "gender": 0,
+            "boss": true,
+            "type": null
+        },
+        "lineup": {
+            "rewards": [
+                0
+            ],
+            "team": [
+                [
+                    {
+                        "id": 96,
+                        "form_id": 214,
+                        "proto_id": "DROWZEE_NORMAL",
+                        "asset_id": "096_00"
+                    }
+                ],
+                [
+                    {
+                        "id": 319,
+                        "form_id": 737,
+                        "proto_id": "SHARPEDO_NORMAL",
+                        "asset_id": "319_00"
+                    },
+                    {
+                        "id": 103,
+                        "form_id": 77,
+                        "proto_id": "EXEGGUTOR_NORMAL",
+                        "asset_id": "103_00"
+                    },
+                    {
+                        "id": 131,
+                        "form_id": 322,
+                        "proto_id": "LAPRAS_NORMAL",
+                        "asset_id": "131_00"
+                    }
+                ],
+                [
+                    {
+                        "id": 229,
+                        "form_id": 232,
+                        "proto_id": "HOUNDOOM_NORMAL",
+                        "asset_id": "229_00"
+                    },
+                    {
+                        "id": 65,
+                        "form_id": 310,
+                        "proto_id": "ALAKAZAM_NORMAL",
+                        "asset_id": "065_00"
+                    },
+                    {
+                        "id": 275,
+                        "form_id": 631,
+                        "proto_id": "SHIFTRY_NORMAL",
+                        "asset_id": "275_00"
+                    }
+                ]
+            ]
+        }
+    },
+    "44": {
+        "active": false,
+        "character": {
+            "proto_id": "CHARACTER_GIOVANNI",
+            "gender": 1,
+            "boss": true,
+            "type": null
+        }
+    },
+    "45": {
+        "active": false,
+        "character": {
+            "proto_id": "CHARACTER_DECOY_GRUNT_MALE",
+            "gender": 1,
+            "boss": false,
+            "type": null
+        }
+    },
+    "46": {
+        "active": true,
+        "character": {
+            "proto_id": "CHARACTER_DECOY_GRUNT_FEMALE",
+            "gender": 0,
+            "boss": false,
+            "type": null
+        },
+        "lineup": {
+            "rewards": [
+                0,
+                1
+            ],
+            "team": [
+                [
+                    {
+                        "id": 69,
+                        "form_id": 664,
+                        "proto_id": "BELLSPROUT_NORMAL",
+                        "asset_id": "069_00"
+                    }
+                ],
+                [
+                    {
+                        "id": 20,
+                        "form_id": 47,
+                        "proto_id": "RATICATE_NORMAL",
+                        "asset_id": "020_00"
+                    },
+                    {
+                        "id": 70,
+                        "form_id": 667,
+                        "proto_id": "WEEPINBELL_NORMAL",
+                        "asset_id": "070_00"
+                    }
+                ],
+                [
+                    {
+                        "id": 20,
+                        "form_id": 47,
+                        "proto_id": "RATICATE_NORMAL",
+                        "asset_id": "020_00"
+                    },
+                    {
+                        "id": 143,
+                        "form_id": 199,
+                        "proto_id": "SNORLAX_NORMAL",
+                        "asset_id": "143_00"
+                    }
+                ]
+            ]
+        }
+    },
+    "47": {
+        "active": false,
+        "character": {
+            "proto_id": "CHARACTER_GHOST_GRUNT_FEMALE",
+            "gender": 0,
+            "boss": false,
+            "type": {
+                "id": 8,
+                "name": "GHOST"
+            }
+        }
+    },
+    "48": {
+        "active": true,
+        "character": {
+            "proto_id": "CHARACTER_GHOST_GRUNT_MALE",
+            "gender": 1,
+            "boss": false,
+            "type": {
+                "id": 8,
+                "name": "GHOST"
+            }
+        },
+        "lineup": {
+            "rewards": [
+                0
+            ],
+            "team": [
+                [
+                    {
+                        "id": 355,
+                        "form_id": 914,
+                        "proto_id": "DUSKULL_NORMAL",
+                        "asset_id": "355_00"
+                    },
+                    {
+                        "id": 353,
+                        "form_id": 908,
+                        "proto_id": "SHUPPET_NORMAL",
+                        "asset_id": "353_00"
+                    },
+                    {
+                        "id": 302,
+                        "form_id": 923,
+                        "proto_id": "SABLEYE_NORMAL",
+                        "asset_id": "302_00"
+                    }
+                ],
+                [
+                    {
+                        "id": 356,
+                        "form_id": 917,
+                        "proto_id": "DUSCLOPS_NORMAL",
+                        "asset_id": "356_00"
+                    },
+                    {
+                        "id": 302,
+                        "form_id": 923,
+                        "proto_id": "SABLEYE_NORMAL",
+                        "asset_id": "302_00"
+                    },
+                    {
+                        "id": 354,
+                        "form_id": 911,
+                        "proto_id": "BANETTE_NORMAL",
+                        "asset_id": "354_00"
+                    }
+                ],
+                [
+                    {
+                        "id": 477,
+                        "form_id": 920,
+                        "proto_id": "DUSKNOIR_NORMAL",
+                        "asset_id": "477_00"
+                    },
+                    {
+                        "id": 302,
+                        "form_id": 923,
+                        "proto_id": "SABLEYE_NORMAL",
+                        "asset_id": "302_00"
+                    },
+                    {
+                        "id": 354,
+                        "form_id": 911,
+                        "proto_id": "BANETTE_NORMAL",
+                        "asset_id": "354_00"
+                    }
+                ]
+            ]
+        }
+    },
+    "49": {
+        "active": true,
+        "character": {
+            "proto_id": "CHARACTER_ELECTRIC_GRUNT_FEMALE",
+            "gender": 0,
+            "boss": false,
+            "type": {
+                "id": 13,
+                "name": "ELECTRIC"
+            }
+        },
+        "lineup": {
+            "rewards": [
+                0
+            ],
+            "team": [
+                [
+                    {
+                        "id": 81,
+                        "form_id": 655,
+                        "proto_id": "MAGNEMITE_NORMAL",
+                        "asset_id": "081_00"
+                    },
+                    {
+                        "id": 179,
+                        "form_id": 646,
+                        "proto_id": "MAREEP_NORMAL",
+                        "asset_id": "179_00"
+                    },
+                    {
+                        "id": 125,
+                        "form_id": 640,
+                        "proto_id": "ELECTABUZZ_NORMAL",
+                        "asset_id": "125_00"
+                    }
+                ],
+                [
+                    {
+                        "id": 82,
+                        "form_id": 658,
+                        "proto_id": "MAGNETON_NORMAL",
+                        "asset_id": "082_00"
+                    },
+                    {
+                        "id": 125,
+                        "form_id": 640,
+                        "proto_id": "ELECTABUZZ_NORMAL",
+                        "asset_id": "125_00"
+                    },
+                    {
+                        "id": 180,
+                        "form_id": 649,
+                        "proto_id": "FLAAFFY_NORMAL",
+                        "asset_id": "180_00"
+                    }
+                ],
+                [
+                    {
+                        "id": 181,
+                        "form_id": 652,
+                        "proto_id": "AMPHAROS_NORMAL",
+                        "asset_id": "181_00"
+                    },
+                    {
+                        "id": 125,
+                        "form_id": 640,
+                        "proto_id": "ELECTABUZZ_NORMAL",
+                        "asset_id": "125_00"
+                    }
+                ]
+            ]
+        }
+    },
+    "50": {
+        "active": false,
+        "character": {
+            "proto_id": "CHARACTER_ELECTRIC_GRUNT_MALE",
+            "gender": 1,
+            "boss": false,
+            "type": {
+                "id": 13,
+                "name": "ELECTRIC"
+            }
+        }
+    },
+    "53": {
+        "active": true,
+        "character": {
+            "proto_id": "CHARACTER_GRUNTB_FEMALE",
+            "gender": 0,
+            "boss": false,
+            "type": null
+        },
+        "lineup": {
+            "rewards": [
+                0
+            ],
+            "team": [
+                [
+                    {
+                        "id": 123,
+                        "form_id": 247,
+                        "proto_id": "SCYTHER_NORMAL",
+                        "asset_id": "123_00"
+                    }
+                ],
+                [
+                    {
+                        "id": 23,
+                        "form_id": 697,
+                        "proto_id": "EKANS_NORMAL",
+                        "asset_id": "023_00"
+                    }
+                ],
+                [
+                    {
+                        "id": 234,
+                        "form_id": 941,
+                        "proto_id": "STANTLER_NORMAL",
+                        "asset_id": "234_00"
+                    }
+                ]
+            ]
+        }
+    },
+    "54": {
+        "active": true,
+        "character": {
+            "proto_id": "CHARACTER_GRUNTB_MALE",
+            "gender": 1,
+            "boss": false,
+            "type": null
+        },
+        "lineup": {
+            "rewards": [
+                0
+            ],
+            "team": [
+                [
+                    {
+                        "id": 127,
+                        "form_id": 898,
+                        "proto_id": "PINSIR_NORMAL",
+                        "asset_id": "127_00"
+                    }
+                ],
+                [
+                    {
+                        "id": 109,
+                        "form_id": 703,
+                        "proto_id": "KOFFING_NORMAL",
+                        "asset_id": "109_00"
+                    }
+                ],
+                [
+                    {
+                        "id": 88,
+                        "form_id": 73,
+                        "proto_id": "GRIMER_NORMAL",
+                        "asset_id": "088_00"
+                    }
+                ]
+            ]
+        }
+    }
 }
