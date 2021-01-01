@@ -75,60 +75,60 @@
                 [
                     {
                         "id": 48,
-                        "form_id": 259,
-                        "proto_id": "VENONAT_NORMAL",
+                        "form_id": 260,
+                        "proto_id": "VENONAT_SHADOW",
                         "asset_id": "048_00"
                     },
                     {
                         "id": 13,
-                        "form_id": 616,
-                        "proto_id": "WEEDLE_NORMAL",
+                        "form_id": 617,
+                        "proto_id": "WEEDLE_SHADOW",
                         "asset_id": "013_00"
                     },
                     {
                         "id": 213,
-                        "form_id": 827,
-                        "proto_id": "SHUCKLE_NORMAL",
+                        "form_id": 828,
+                        "proto_id": "SHUCKLE_SHADOW",
                         "asset_id": "213_00"
                     }
                 ],
                 [
                     {
                         "id": 49,
-                        "form_id": 262,
-                        "proto_id": "VENOMOTH_NORMAL",
+                        "form_id": 263,
+                        "proto_id": "VENOMOTH_SHADOW",
                         "asset_id": "049_00"
                     },
                     {
                         "id": 14,
-                        "form_id": 619,
-                        "proto_id": "KAKUNA_NORMAL",
+                        "form_id": 620,
+                        "proto_id": "KAKUNA_SHADOW",
                         "asset_id": "014_00"
                     },
                     {
                         "id": 212,
-                        "form_id": 250,
-                        "proto_id": "SCIZOR_NORMAL",
+                        "form_id": 251,
+                        "proto_id": "SCIZOR_SHADOW",
                         "asset_id": "212_00"
                     }
                 ],
                 [
                     {
                         "id": 212,
-                        "form_id": 250,
-                        "proto_id": "SCIZOR_NORMAL",
+                        "form_id": 251,
+                        "proto_id": "SCIZOR_SHADOW",
                         "asset_id": "212_00"
                     },
                     {
                         "id": 15,
-                        "form_id": 622,
-                        "proto_id": "BEEDRILL_NORMAL",
+                        "form_id": 623,
+                        "proto_id": "BEEDRILL_SHADOW",
                         "asset_id": "015_00"
                     },
                     {
                         "id": 123,
-                        "form_id": 247,
-                        "proto_id": "SCYTHER_NORMAL",
+                        "form_id": 248,
+                        "proto_id": "SCYTHER_SHADOW",
                         "asset_id": "123_00"
                     }
                 ]
@@ -154,36 +154,36 @@
                 [
                     {
                         "id": 434,
-                        "form_id": 791,
-                        "proto_id": "STUNKY_NORMAL",
+                        "form_id": 792,
+                        "proto_id": "STUNKY_SHADOW",
                         "asset_id": "434_00"
                     }
                 ],
                 [
                     {
                         "id": 435,
-                        "form_id": 794,
-                        "proto_id": "SKUNTANK_NORMAL",
+                        "form_id": 795,
+                        "proto_id": "SKUNTANK_SHADOW",
                         "asset_id": "435_00"
                     },
                     {
                         "id": 302,
-                        "form_id": 923,
-                        "proto_id": "SABLEYE_NORMAL",
+                        "form_id": 924,
+                        "proto_id": "SABLEYE_SHADOW",
                         "asset_id": "302_00"
                     }
                 ],
                 [
                     {
                         "id": 435,
-                        "form_id": 794,
-                        "proto_id": "SKUNTANK_NORMAL",
+                        "form_id": 795,
+                        "proto_id": "SKUNTANK_SHADOW",
                         "asset_id": "435_00"
                     },
                     {
                         "id": 275,
-                        "form_id": 631,
-                        "proto_id": "SHIFTRY_NORMAL",
+                        "form_id": 632,
+                        "proto_id": "SHIFTRY_SHADOW",
                         "asset_id": "275_00"
                     }
                 ]
@@ -221,42 +221,42 @@
                 [
                     {
                         "id": 147,
-                        "form_id": 190,
-                        "proto_id": "DRATINI_NORMAL",
+                        "form_id": 191,
+                        "proto_id": "DRATINI_SHADOW",
                         "asset_id": "147_00"
                     }
                 ],
                 [
                     {
                         "id": 148,
-                        "form_id": 193,
-                        "proto_id": "DRAGONAIR_NORMAL",
+                        "form_id": 194,
+                        "proto_id": "DRAGONAIR_SHADOW",
                         "asset_id": "148_00"
                     },
                     {
                         "id": 330,
-                        "form_id": 752,
-                        "proto_id": "FLYGON_NORMAL",
+                        "form_id": 753,
+                        "proto_id": "FLYGON_SHADOW",
                         "asset_id": "330_00"
                     }
                 ],
                 [
                     {
                         "id": 130,
-                        "form_id": 256,
-                        "proto_id": "GYARADOS_NORMAL",
+                        "form_id": 257,
+                        "proto_id": "GYARADOS_SHADOW",
                         "asset_id": "130_00"
                     },
                     {
                         "id": 149,
-                        "form_id": 196,
-                        "proto_id": "DRAGONITE_NORMAL",
+                        "form_id": 197,
+                        "proto_id": "DRAGONITE_SHADOW",
                         "asset_id": "149_00"
                     },
                     {
                         "id": 148,
-                        "form_id": 193,
-                        "proto_id": "DRAGONAIR_NORMAL",
+                        "form_id": 194,
+                        "proto_id": "DRAGONAIR_SHADOW",
                         "asset_id": "148_00"
                     }
                 ]
@@ -318,30 +318,30 @@
                 [
                     {
                         "id": 66,
-                        "form_id": 809,
-                        "proto_id": "MACHOP_NORMAL",
+                        "form_id": 810,
+                        "proto_id": "MACHOP_SHADOW",
                         "asset_id": "066_00"
                     },
                     {
                         "id": 106,
-                        "form_id": 713,
-                        "proto_id": "HITMONLEE_NORMAL",
+                        "form_id": 714,
+                        "proto_id": "HITMONLEE_SHADOW",
                         "asset_id": "106_00"
                     }
                 ],
                 [
                     {
                         "id": 106,
-                        "form_id": 713,
-                        "proto_id": "HITMONLEE_NORMAL",
+                        "form_id": 714,
+                        "proto_id": "HITMONLEE_SHADOW",
                         "asset_id": "106_00"
                     }
                 ],
                 [
                     {
                         "id": 67,
-                        "form_id": 812,
-                        "proto_id": "MACHOKE_NORMAL",
+                        "form_id": 813,
+                        "proto_id": "MACHOKE_SHADOW",
                         "asset_id": "067_00"
                     }
                 ]
@@ -380,48 +380,48 @@
                 [
                     {
                         "id": 37,
-                        "form_id": 55,
-                        "proto_id": "VULPIX_NORMAL",
+                        "form_id": 725,
+                        "proto_id": "VULPIX_SHADOW",
                         "asset_id": "037_00"
                     },
                     {
                         "id": 228,
-                        "form_id": 229,
-                        "proto_id": "HOUNDOUR_NORMAL",
+                        "form_id": 230,
+                        "proto_id": "HOUNDOUR_SHADOW",
                         "asset_id": "228_00"
                     }
                 ],
                 [
                     {
                         "id": 38,
-                        "form_id": 57,
-                        "proto_id": "NINETALES_NORMAL",
+                        "form_id": 727,
+                        "proto_id": "NINETALES_SHADOW",
                         "asset_id": "038_00"
                     },
                     {
                         "id": 229,
-                        "form_id": 232,
-                        "proto_id": "HOUNDOOM_NORMAL",
+                        "form_id": 233,
+                        "proto_id": "HOUNDOOM_SHADOW",
                         "asset_id": "229_00"
                     }
                 ],
                 [
                     {
                         "id": 229,
-                        "form_id": 232,
-                        "proto_id": "HOUNDOOM_NORMAL",
+                        "form_id": 233,
+                        "proto_id": "HOUNDOOM_SHADOW",
                         "asset_id": "229_00"
                     },
                     {
                         "id": 5,
-                        "form_id": 175,
-                        "proto_id": "CHARMELEON_NORMAL",
+                        "form_id": 176,
+                        "proto_id": "CHARMELEON_SHADOW",
                         "asset_id": "005_00"
                     },
                     {
                         "id": 59,
-                        "form_id": 283,
-                        "proto_id": "ARCANINE_NORMAL",
+                        "form_id": 284,
+                        "proto_id": "ARCANINE_SHADOW",
                         "asset_id": "059_00"
                     }
                 ]
@@ -459,60 +459,60 @@
                 [
                     {
                         "id": 41,
-                        "form_id": 157,
-                        "proto_id": "ZUBAT_NORMAL",
+                        "form_id": 158,
+                        "proto_id": "ZUBAT_SHADOW",
                         "asset_id": "041_00"
                     },
                     {
                         "id": 42,
-                        "form_id": 160,
-                        "proto_id": "GOLBAT_NORMAL",
+                        "form_id": 161,
+                        "proto_id": "GOLBAT_SHADOW",
                         "asset_id": "042_00"
                     },
                     {
                         "id": 227,
-                        "form_id": 1295,
-                        "proto_id": "SKARMORY_NORMAL",
+                        "form_id": 1296,
+                        "proto_id": "SKARMORY_SHADOW",
                         "asset_id": "227_00"
                     }
                 ],
                 [
                     {
                         "id": 169,
-                        "form_id": 202,
-                        "proto_id": "CROBAT_NORMAL",
+                        "form_id": 203,
+                        "proto_id": "CROBAT_SHADOW",
                         "asset_id": "169_00"
                     },
                     {
                         "id": 42,
-                        "form_id": 160,
-                        "proto_id": "GOLBAT_NORMAL",
+                        "form_id": 161,
+                        "proto_id": "GOLBAT_SHADOW",
                         "asset_id": "042_00"
                     },
                     {
                         "id": 123,
-                        "form_id": 247,
-                        "proto_id": "SCYTHER_NORMAL",
+                        "form_id": 248,
+                        "proto_id": "SCYTHER_SHADOW",
                         "asset_id": "123_00"
                     }
                 ],
                 [
                     {
                         "id": 130,
-                        "form_id": 256,
-                        "proto_id": "GYARADOS_NORMAL",
+                        "form_id": 257,
+                        "proto_id": "GYARADOS_SHADOW",
                         "asset_id": "130_00"
                     },
                     {
                         "id": 149,
-                        "form_id": 196,
-                        "proto_id": "DRAGONITE_NORMAL",
+                        "form_id": 197,
+                        "proto_id": "DRAGONITE_SHADOW",
                         "asset_id": "149_00"
                     },
                     {
                         "id": 169,
-                        "form_id": 202,
-                        "proto_id": "CROBAT_NORMAL",
+                        "form_id": 203,
+                        "proto_id": "CROBAT_SHADOW",
                         "asset_id": "169_00"
                     }
                 ]
@@ -563,54 +563,54 @@
                 [
                     {
                         "id": 187,
-                        "form_id": 1205,
-                        "proto_id": "HOPPIP_NORMAL",
+                        "form_id": 1206,
+                        "proto_id": "HOPPIP_SHADOW",
                         "asset_id": "187_00"
                     },
                     {
                         "id": 1,
-                        "form_id": 163,
-                        "proto_id": "BULBASAUR_NORMAL",
+                        "form_id": 164,
+                        "proto_id": "BULBASAUR_SHADOW",
                         "asset_id": "001_00"
                     }
                 ],
                 [
                     {
                         "id": 70,
-                        "form_id": 667,
-                        "proto_id": "WEEPINBELL_NORMAL",
+                        "form_id": 668,
+                        "proto_id": "WEEPINBELL_SHADOW",
                         "asset_id": "070_00"
                     },
                     {
                         "id": 44,
-                        "form_id": 268,
-                        "proto_id": "GLOOM_NORMAL",
+                        "form_id": 269,
+                        "proto_id": "GLOOM_SHADOW",
                         "asset_id": "044_00"
                     },
                     {
                         "id": 2,
-                        "form_id": 166,
-                        "proto_id": "IVYSAUR_NORMAL",
+                        "form_id": 167,
+                        "proto_id": "IVYSAUR_SHADOW",
                         "asset_id": "002_00"
                     }
                 ],
                 [
                     {
                         "id": 71,
-                        "form_id": 670,
-                        "proto_id": "VICTREEBEL_NORMAL",
+                        "form_id": 671,
+                        "proto_id": "VICTREEBEL_SHADOW",
                         "asset_id": "071_00"
                     },
                     {
                         "id": 275,
-                        "form_id": 631,
-                        "proto_id": "SHIFTRY_NORMAL",
+                        "form_id": 632,
+                        "proto_id": "SHIFTRY_SHADOW",
                         "asset_id": "275_00"
                     },
                     {
                         "id": 45,
-                        "form_id": 271,
-                        "proto_id": "VILEPLUME_NORMAL",
+                        "form_id": 272,
+                        "proto_id": "VILEPLUME_SHADOW",
                         "asset_id": "045_00"
                     }
                 ]
@@ -648,48 +648,48 @@
                 [
                     {
                         "id": 50,
-                        "form_id": 59,
-                        "proto_id": "DIGLETT_NORMAL",
+                        "form_id": 842,
+                        "proto_id": "DIGLETT_SHADOW",
                         "asset_id": "050_00"
                     },
                     {
                         "id": 207,
-                        "form_id": 803,
-                        "proto_id": "GLIGAR_NORMAL",
+                        "form_id": 804,
+                        "proto_id": "GLIGAR_SHADOW",
                         "asset_id": "207_00"
                     }
                 ],
                 [
                     {
                         "id": 247,
-                        "form_id": 316,
-                        "proto_id": "PUPITAR_NORMAL",
+                        "form_id": 317,
+                        "proto_id": "PUPITAR_SHADOW",
                         "asset_id": "247_00"
                     },
                     {
                         "id": 105,
-                        "form_id": 79,
-                        "proto_id": "MAROWAK_NORMAL",
+                        "form_id": 227,
+                        "proto_id": "MAROWAK_SHADOW",
                         "asset_id": "105_00"
                     },
                     {
                         "id": 329,
-                        "form_id": 749,
-                        "proto_id": "VIBRAVA_NORMAL",
+                        "form_id": 750,
+                        "proto_id": "VIBRAVA_SHADOW",
                         "asset_id": "329_00"
                     }
                 ],
                 [
                     {
                         "id": 472,
-                        "form_id": 806,
-                        "proto_id": "GLISCOR_NORMAL",
+                        "form_id": 807,
+                        "proto_id": "GLISCOR_SHADOW",
                         "asset_id": "472_00"
                     },
                     {
                         "id": 330,
-                        "form_id": 752,
-                        "proto_id": "FLYGON_NORMAL",
+                        "form_id": 753,
+                        "proto_id": "FLYGON_SHADOW",
                         "asset_id": "330_00"
                     }
                 ]
@@ -715,42 +715,42 @@
                 [
                     {
                         "id": 459,
-                        "form_id": 932,
-                        "proto_id": "SNOVER_NORMAL",
+                        "form_id": 933,
+                        "proto_id": "SNOVER_SHADOW",
                         "asset_id": "459_00"
                     },
                     {
                         "id": 91,
-                        "form_id": 879,
-                        "proto_id": "CLOYSTER_NORMAL",
+                        "form_id": 880,
+                        "proto_id": "CLOYSTER_SHADOW",
                         "asset_id": "091_00"
                     }
                 ],
                 [
                     {
                         "id": 459,
-                        "form_id": 932,
-                        "proto_id": "SNOVER_NORMAL",
+                        "form_id": 933,
+                        "proto_id": "SNOVER_SHADOW",
                         "asset_id": "459_00"
                     },
                     {
                         "id": 460,
-                        "form_id": 935,
-                        "proto_id": "ABOMASNOW_NORMAL",
+                        "form_id": 936,
+                        "proto_id": "ABOMASNOW_SHADOW",
                         "asset_id": "460_00"
                     }
                 ],
                 [
                     {
                         "id": 131,
-                        "form_id": 322,
-                        "proto_id": "LAPRAS_NORMAL",
+                        "form_id": 323,
+                        "proto_id": "LAPRAS_SHADOW",
                         "asset_id": "131_00"
                     },
                     {
                         "id": 460,
-                        "form_id": 935,
-                        "proto_id": "ABOMASNOW_NORMAL",
+                        "form_id": 936,
+                        "proto_id": "ABOMASNOW_SHADOW",
                         "asset_id": "460_00"
                     }
                 ]
@@ -818,36 +818,36 @@
                 [
                     {
                         "id": 216,
-                        "form_id": 1265,
-                        "proto_id": "TEDDIURSA_NORMAL",
+                        "form_id": 1266,
+                        "proto_id": "TEDDIURSA_SHADOW",
                         "asset_id": "216_00"
                     }
                 ],
                 [
                     {
                         "id": 20,
-                        "form_id": 47,
-                        "proto_id": "RATICATE_NORMAL",
+                        "form_id": 155,
+                        "proto_id": "RATICATE_SHADOW",
                         "asset_id": "020_00"
                     },
                     {
                         "id": 233,
-                        "form_id": 680,
-                        "proto_id": "PORYGON2_NORMAL",
+                        "form_id": 681,
+                        "proto_id": "PORYGON2_SHADOW",
                         "asset_id": "233_00"
                     }
                 ],
                 [
                     {
                         "id": 143,
-                        "form_id": 199,
-                        "proto_id": "SNORLAX_NORMAL",
+                        "form_id": 200,
+                        "proto_id": "SNORLAX_SHADOW",
                         "asset_id": "143_00"
                     },
                     {
                         "id": 474,
-                        "form_id": 683,
-                        "proto_id": "PORYGON_Z_NORMAL",
+                        "form_id": 684,
+                        "proto_id": "PORYGON_Z_SHADOW",
                         "asset_id": "474_00"
                     }
                 ]
@@ -873,48 +873,48 @@
                 [
                     {
                         "id": 32,
-                        "form_id": 776,
-                        "proto_id": "NIDORAN_NORMAL",
+                        "form_id": 777,
+                        "proto_id": "NIDORAN_SHADOW",
                         "asset_id": "032_00"
                     },
                     {
                         "id": 29,
-                        "form_id": 776,
-                        "proto_id": "NIDORAN_NORMAL",
+                        "form_id": 777,
+                        "proto_id": "NIDORAN_SHADOW",
                         "asset_id": "029_00"
                     }
                 ],
                 [
                     {
                         "id": 42,
-                        "form_id": 160,
-                        "proto_id": "GOLBAT_NORMAL",
+                        "form_id": 161,
+                        "proto_id": "GOLBAT_SHADOW",
                         "asset_id": "042_00"
                     },
                     {
                         "id": 89,
-                        "form_id": 75,
-                        "proto_id": "MUK_NORMAL",
+                        "form_id": 222,
+                        "proto_id": "MUK_SHADOW",
                         "asset_id": "089_00"
                     },
                     {
                         "id": 88,
-                        "form_id": 73,
-                        "proto_id": "GRIMER_NORMAL",
+                        "form_id": 220,
+                        "proto_id": "GRIMER_SHADOW",
                         "asset_id": "088_00"
                     }
                 ],
                 [
                     {
                         "id": 30,
-                        "form_id": 779,
-                        "proto_id": "NIDORINA_NORMAL",
+                        "form_id": 780,
+                        "proto_id": "NIDORINA_SHADOW",
                         "asset_id": "030_00"
                     },
                     {
                         "id": 33,
-                        "form_id": 785,
-                        "proto_id": "NIDORINO_NORMAL",
+                        "form_id": 786,
+                        "proto_id": "NIDORINO_SHADOW",
                         "asset_id": "033_00"
                     }
                 ]
@@ -964,60 +964,60 @@
                 [
                     {
                         "id": 202,
-                        "form_id": 602,
-                        "proto_id": "WOBBUFFET_NORMAL",
+                        "form_id": 686,
+                        "proto_id": "WOBBUFFET_SHADOW",
                         "asset_id": "202_00"
                     },
                     {
                         "id": 79,
-                        "form_id": 1017,
-                        "proto_id": "SLOWPOKE_NORMAL",
+                        "form_id": 1018,
+                        "proto_id": "SLOWPOKE_SHADOW",
                         "asset_id": "079_00"
                     },
                     {
                         "id": 63,
-                        "form_id": 304,
-                        "proto_id": "ABRA_NORMAL",
+                        "form_id": 305,
+                        "proto_id": "ABRA_SHADOW",
                         "asset_id": "063_00"
                     }
                 ],
                 [
                     {
                         "id": 96,
-                        "form_id": 214,
-                        "proto_id": "DROWZEE_NORMAL",
+                        "form_id": 215,
+                        "proto_id": "DROWZEE_SHADOW",
                         "asset_id": "096_00"
                     },
                     {
                         "id": 280,
-                        "form_id": 292,
-                        "proto_id": "RALTS_NORMAL",
+                        "form_id": 293,
+                        "proto_id": "RALTS_SHADOW",
                         "asset_id": "280_00"
                     },
                     {
                         "id": 97,
-                        "form_id": 217,
-                        "proto_id": "HYPNO_NORMAL",
+                        "form_id": 218,
+                        "proto_id": "HYPNO_SHADOW",
                         "asset_id": "097_00"
                     }
                 ],
                 [
                     {
                         "id": 64,
-                        "form_id": 307,
-                        "proto_id": "KADABRA_NORMAL",
+                        "form_id": 308,
+                        "proto_id": "KADABRA_SHADOW",
                         "asset_id": "064_00"
                     },
                     {
                         "id": 97,
-                        "form_id": 217,
-                        "proto_id": "HYPNO_NORMAL",
+                        "form_id": 218,
+                        "proto_id": "HYPNO_SHADOW",
                         "asset_id": "097_00"
                     },
                     {
                         "id": 281,
-                        "form_id": 295,
-                        "proto_id": "KIRLIA_NORMAL",
+                        "form_id": 296,
+                        "proto_id": "KIRLIA_SHADOW",
                         "asset_id": "281_00"
                     }
                 ]
@@ -1055,42 +1055,42 @@
                 [
                     {
                         "id": 246,
-                        "form_id": 313,
-                        "proto_id": "LARVITAR_NORMAL",
+                        "form_id": 314,
+                        "proto_id": "LARVITAR_SHADOW",
                         "asset_id": "246_00"
                     },
                     {
                         "id": 142,
-                        "form_id": 1110,
-                        "proto_id": "AERODACTYL_NORMAL",
+                        "form_id": 1111,
+                        "proto_id": "AERODACTYL_SHADOW",
                         "asset_id": "142_00"
                     }
                 ],
                 [
                     {
                         "id": 247,
-                        "form_id": 316,
-                        "proto_id": "PUPITAR_NORMAL",
+                        "form_id": 317,
+                        "proto_id": "PUPITAR_SHADOW",
                         "asset_id": "247_00"
                     },
                     {
                         "id": 246,
-                        "form_id": 313,
-                        "proto_id": "LARVITAR_NORMAL",
+                        "form_id": 314,
+                        "proto_id": "LARVITAR_SHADOW",
                         "asset_id": "246_00"
                     }
                 ],
                 [
                     {
                         "id": 247,
-                        "form_id": 316,
-                        "proto_id": "PUPITAR_NORMAL",
+                        "form_id": 317,
+                        "proto_id": "PUPITAR_SHADOW",
                         "asset_id": "247_00"
                     },
                     {
                         "id": 248,
-                        "form_id": 319,
-                        "proto_id": "TYRANITAR_NORMAL",
+                        "form_id": 320,
+                        "proto_id": "TYRANITAR_SHADOW",
                         "asset_id": "248_00"
                     }
                 ]
@@ -1116,42 +1116,42 @@
                 [
                     {
                         "id": 90,
-                        "form_id": 876,
-                        "proto_id": "SHELLDER_NORMAL",
+                        "form_id": 877,
+                        "proto_id": "SHELLDER_SHADOW",
                         "asset_id": "090_00"
                     },
                     {
                         "id": 54,
-                        "form_id": 286,
-                        "proto_id": "PSYDUCK_NORMAL",
+                        "form_id": 287,
+                        "proto_id": "PSYDUCK_SHADOW",
                         "asset_id": "054_00"
                     }
                 ],
                 [
                     {
                         "id": 61,
-                        "form_id": 238,
-                        "proto_id": "POLIWHIRL_NORMAL",
+                        "form_id": 239,
+                        "proto_id": "POLIWHIRL_SHADOW",
                         "asset_id": "061_00"
                     },
                     {
                         "id": 55,
-                        "form_id": 289,
-                        "proto_id": "GOLDUCK_NORMAL",
+                        "form_id": 290,
+                        "proto_id": "GOLDUCK_SHADOW",
                         "asset_id": "055_00"
                     }
                 ],
                 [
                     {
                         "id": 186,
-                        "form_id": 244,
-                        "proto_id": "POLITOED_NORMAL",
+                        "form_id": 245,
+                        "proto_id": "POLITOED_SHADOW",
                         "asset_id": "186_00"
                     },
                     {
                         "id": 62,
-                        "form_id": 241,
-                        "proto_id": "POLIWRATH_NORMAL",
+                        "form_id": 242,
+                        "proto_id": "POLIWRATH_SHADOW",
                         "asset_id": "062_00"
                     }
                 ]
@@ -1186,48 +1186,48 @@
                 [
                     {
                         "id": 138,
-                        "form_id": 740,
-                        "proto_id": "OMANYTE_NORMAL",
+                        "form_id": 741,
+                        "proto_id": "OMANYTE_SHADOW",
                         "asset_id": "138_00"
                     }
                 ],
                 [
                     {
                         "id": 466,
-                        "form_id": 643,
-                        "proto_id": "ELECTIVIRE_NORMAL",
+                        "form_id": 644,
+                        "proto_id": "ELECTIVIRE_SHADOW",
                         "asset_id": "466_00"
                     },
                     {
                         "id": 95,
-                        "form_id": 902,
-                        "proto_id": "ONIX_NORMAL",
+                        "form_id": 903,
+                        "proto_id": "ONIX_SHADOW",
                         "asset_id": "095_00"
                     },
                     {
                         "id": 68,
-                        "form_id": 815,
-                        "proto_id": "MACHAMP_NORMAL",
+                        "form_id": 816,
+                        "proto_id": "MACHAMP_SHADOW",
                         "asset_id": "068_00"
                     }
                 ],
                 [
                     {
                         "id": 248,
-                        "form_id": 319,
-                        "proto_id": "TYRANITAR_NORMAL",
+                        "form_id": 320,
+                        "proto_id": "TYRANITAR_SHADOW",
                         "asset_id": "248_00"
                     },
                     {
                         "id": 260,
-                        "form_id": 211,
-                        "proto_id": "SWAMPERT_NORMAL",
+                        "form_id": 212,
+                        "proto_id": "SWAMPERT_SHADOW",
                         "asset_id": "260_00"
                     },
                     {
                         "id": 389,
-                        "form_id": 694,
-                        "proto_id": "TORTERRA_NORMAL",
+                        "form_id": 695,
+                        "proto_id": "TORTERRA_SHADOW",
                         "asset_id": "389_00"
                     }
                 ]
@@ -1250,48 +1250,48 @@
                 [
                     {
                         "id": 58,
-                        "form_id": 280,
-                        "proto_id": "GROWLITHE_NORMAL",
+                        "form_id": 281,
+                        "proto_id": "GROWLITHE_SHADOW",
                         "asset_id": "058_00"
                     }
                 ],
                 [
                     {
                         "id": 208,
-                        "form_id": 905,
-                        "proto_id": "STEELIX_NORMAL",
+                        "form_id": 906,
+                        "proto_id": "STEELIX_SHADOW",
                         "asset_id": "208_00"
                     },
                     {
                         "id": 9,
-                        "form_id": 187,
-                        "proto_id": "BLASTOISE_NORMAL",
+                        "form_id": 188,
+                        "proto_id": "BLASTOISE_SHADOW",
                         "asset_id": "009_00"
                     },
                     {
                         "id": 6,
-                        "form_id": 178,
-                        "proto_id": "CHARIZARD_NORMAL",
+                        "form_id": 179,
+                        "proto_id": "CHARIZARD_SHADOW",
                         "asset_id": "006_00"
                     }
                 ],
                 [
                     {
                         "id": 373,
-                        "form_id": 761,
-                        "proto_id": "SALAMENCE_NORMAL",
+                        "form_id": 762,
+                        "proto_id": "SALAMENCE_SHADOW",
                         "asset_id": "373_00"
                     },
                     {
                         "id": 212,
-                        "form_id": 250,
-                        "proto_id": "SCIZOR_NORMAL",
+                        "form_id": 251,
+                        "proto_id": "SCIZOR_SHADOW",
                         "asset_id": "212_00"
                     },
                     {
                         "id": 149,
-                        "form_id": 196,
-                        "proto_id": "DRAGONITE_NORMAL",
+                        "form_id": 197,
+                        "proto_id": "DRAGONITE_SHADOW",
                         "asset_id": "149_00"
                     }
                 ]
@@ -1314,48 +1314,48 @@
                 [
                     {
                         "id": 96,
-                        "form_id": 214,
-                        "proto_id": "DROWZEE_NORMAL",
+                        "form_id": 215,
+                        "proto_id": "DROWZEE_SHADOW",
                         "asset_id": "096_00"
                     }
                 ],
                 [
                     {
                         "id": 319,
-                        "form_id": 737,
-                        "proto_id": "SHARPEDO_NORMAL",
+                        "form_id": 738,
+                        "proto_id": "SHARPEDO_SHADOW",
                         "asset_id": "319_00"
                     },
                     {
                         "id": 103,
-                        "form_id": 77,
-                        "proto_id": "EXEGGUTOR_NORMAL",
+                        "form_id": 732,
+                        "proto_id": "EXEGGUTOR_SHADOW",
                         "asset_id": "103_00"
                     },
                     {
                         "id": 131,
-                        "form_id": 322,
-                        "proto_id": "LAPRAS_NORMAL",
+                        "form_id": 323,
+                        "proto_id": "LAPRAS_SHADOW",
                         "asset_id": "131_00"
                     }
                 ],
                 [
                     {
                         "id": 229,
-                        "form_id": 232,
-                        "proto_id": "HOUNDOOM_NORMAL",
+                        "form_id": 233,
+                        "proto_id": "HOUNDOOM_SHADOW",
                         "asset_id": "229_00"
                     },
                     {
                         "id": 65,
-                        "form_id": 310,
-                        "proto_id": "ALAKAZAM_NORMAL",
+                        "form_id": 311,
+                        "proto_id": "ALAKAZAM_SHADOW",
                         "asset_id": "065_00"
                     },
                     {
                         "id": 275,
-                        "form_id": 631,
-                        "proto_id": "SHIFTRY_NORMAL",
+                        "form_id": 632,
+                        "proto_id": "SHIFTRY_SHADOW",
                         "asset_id": "275_00"
                     }
                 ]
@@ -1397,36 +1397,36 @@
                 [
                     {
                         "id": 69,
-                        "form_id": 664,
-                        "proto_id": "BELLSPROUT_NORMAL",
+                        "form_id": 665,
+                        "proto_id": "BELLSPROUT_SHADOW",
                         "asset_id": "069_00"
                     }
                 ],
                 [
                     {
                         "id": 20,
-                        "form_id": 47,
-                        "proto_id": "RATICATE_NORMAL",
+                        "form_id": 155,
+                        "proto_id": "RATICATE_SHADOW",
                         "asset_id": "020_00"
                     },
                     {
                         "id": 70,
-                        "form_id": 667,
-                        "proto_id": "WEEPINBELL_NORMAL",
+                        "form_id": 668,
+                        "proto_id": "WEEPINBELL_SHADOW",
                         "asset_id": "070_00"
                     }
                 ],
                 [
                     {
                         "id": 20,
-                        "form_id": 47,
-                        "proto_id": "RATICATE_NORMAL",
+                        "form_id": 155,
+                        "proto_id": "RATICATE_SHADOW",
                         "asset_id": "020_00"
                     },
                     {
                         "id": 143,
-                        "form_id": 199,
-                        "proto_id": "SNORLAX_NORMAL",
+                        "form_id": 200,
+                        "proto_id": "SNORLAX_SHADOW",
                         "asset_id": "143_00"
                     }
                 ]
@@ -1464,60 +1464,60 @@
                 [
                     {
                         "id": 355,
-                        "form_id": 914,
-                        "proto_id": "DUSKULL_NORMAL",
+                        "form_id": 915,
+                        "proto_id": "DUSKULL_SHADOW",
                         "asset_id": "355_00"
                     },
                     {
                         "id": 353,
-                        "form_id": 908,
-                        "proto_id": "SHUPPET_NORMAL",
+                        "form_id": 909,
+                        "proto_id": "SHUPPET_SHADOW",
                         "asset_id": "353_00"
                     },
                     {
                         "id": 302,
-                        "form_id": 923,
-                        "proto_id": "SABLEYE_NORMAL",
+                        "form_id": 924,
+                        "proto_id": "SABLEYE_SHADOW",
                         "asset_id": "302_00"
                     }
                 ],
                 [
                     {
                         "id": 356,
-                        "form_id": 917,
-                        "proto_id": "DUSCLOPS_NORMAL",
+                        "form_id": 918,
+                        "proto_id": "DUSCLOPS_SHADOW",
                         "asset_id": "356_00"
                     },
                     {
                         "id": 302,
-                        "form_id": 923,
-                        "proto_id": "SABLEYE_NORMAL",
+                        "form_id": 924,
+                        "proto_id": "SABLEYE_SHADOW",
                         "asset_id": "302_00"
                     },
                     {
                         "id": 354,
-                        "form_id": 911,
-                        "proto_id": "BANETTE_NORMAL",
+                        "form_id": 912,
+                        "proto_id": "BANETTE_SHADOW",
                         "asset_id": "354_00"
                     }
                 ],
                 [
                     {
                         "id": 477,
-                        "form_id": 920,
-                        "proto_id": "DUSKNOIR_NORMAL",
+                        "form_id": 921,
+                        "proto_id": "DUSKNOIR_SHADOW",
                         "asset_id": "477_00"
                     },
                     {
                         "id": 302,
-                        "form_id": 923,
-                        "proto_id": "SABLEYE_NORMAL",
+                        "form_id": 924,
+                        "proto_id": "SABLEYE_SHADOW",
                         "asset_id": "302_00"
                     },
                     {
                         "id": 354,
-                        "form_id": 911,
-                        "proto_id": "BANETTE_NORMAL",
+                        "form_id": 912,
+                        "proto_id": "BANETTE_SHADOW",
                         "asset_id": "354_00"
                     }
                 ]
@@ -1543,54 +1543,54 @@
                 [
                     {
                         "id": 81,
-                        "form_id": 655,
-                        "proto_id": "MAGNEMITE_NORMAL",
+                        "form_id": 656,
+                        "proto_id": "MAGNEMITE_SHADOW",
                         "asset_id": "081_00"
                     },
                     {
                         "id": 179,
-                        "form_id": 646,
-                        "proto_id": "MAREEP_NORMAL",
+                        "form_id": 647,
+                        "proto_id": "MAREEP_SHADOW",
                         "asset_id": "179_00"
                     },
                     {
                         "id": 125,
-                        "form_id": 640,
-                        "proto_id": "ELECTABUZZ_NORMAL",
+                        "form_id": 641,
+                        "proto_id": "ELECTABUZZ_SHADOW",
                         "asset_id": "125_00"
                     }
                 ],
                 [
                     {
                         "id": 82,
-                        "form_id": 658,
-                        "proto_id": "MAGNETON_NORMAL",
+                        "form_id": 659,
+                        "proto_id": "MAGNETON_SHADOW",
                         "asset_id": "082_00"
                     },
                     {
                         "id": 125,
-                        "form_id": 640,
-                        "proto_id": "ELECTABUZZ_NORMAL",
+                        "form_id": 641,
+                        "proto_id": "ELECTABUZZ_SHADOW",
                         "asset_id": "125_00"
                     },
                     {
                         "id": 180,
-                        "form_id": 649,
-                        "proto_id": "FLAAFFY_NORMAL",
+                        "form_id": 650,
+                        "proto_id": "FLAAFFY_SHADOW",
                         "asset_id": "180_00"
                     }
                 ],
                 [
                     {
                         "id": 181,
-                        "form_id": 652,
-                        "proto_id": "AMPHAROS_NORMAL",
+                        "form_id": 653,
+                        "proto_id": "AMPHAROS_SHADOW",
                         "asset_id": "181_00"
                     },
                     {
                         "id": 125,
-                        "form_id": 640,
-                        "proto_id": "ELECTABUZZ_NORMAL",
+                        "form_id": 641,
+                        "proto_id": "ELECTABUZZ_SHADOW",
                         "asset_id": "125_00"
                     }
                 ]
@@ -1625,24 +1625,24 @@
                 [
                     {
                         "id": 123,
-                        "form_id": 247,
-                        "proto_id": "SCYTHER_NORMAL",
+                        "form_id": 248,
+                        "proto_id": "SCYTHER_SHADOW",
                         "asset_id": "123_00"
                     }
                 ],
                 [
                     {
                         "id": 23,
-                        "form_id": 697,
-                        "proto_id": "EKANS_NORMAL",
+                        "form_id": 698,
+                        "proto_id": "EKANS_SHADOW",
                         "asset_id": "023_00"
                     }
                 ],
                 [
                     {
                         "id": 234,
-                        "form_id": 941,
-                        "proto_id": "STANTLER_NORMAL",
+                        "form_id": 942,
+                        "proto_id": "STANTLER_SHADOW",
                         "asset_id": "234_00"
                     }
                 ]
@@ -1665,24 +1665,24 @@
                 [
                     {
                         "id": 127,
-                        "form_id": 898,
-                        "proto_id": "PINSIR_NORMAL",
+                        "form_id": 899,
+                        "proto_id": "PINSIR_SHADOW",
                         "asset_id": "127_00"
                     }
                 ],
                 [
                     {
                         "id": 109,
-                        "form_id": 703,
-                        "proto_id": "KOFFING_NORMAL",
+                        "form_id": 704,
+                        "proto_id": "KOFFING_SHADOW",
                         "asset_id": "109_00"
                     }
                 ],
                 [
                     {
                         "id": 88,
-                        "form_id": 73,
-                        "proto_id": "GRIMER_NORMAL",
+                        "form_id": 220,
+                        "proto_id": "GRIMER_SHADOW",
                         "asset_id": "088_00"
                     }
                 ]
