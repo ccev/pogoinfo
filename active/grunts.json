@@ -2,7 +2,7 @@
     "1": {
         "active": false,
         "character": {
-            "proto_id": "CHARACTER_BLANCHE",
+            "template": "CHARACTER_BLANCHE",
             "gender": 0,
             "boss": false,
             "type": null
@@ -11,7 +11,7 @@
     "2": {
         "active": false,
         "character": {
-            "proto_id": "CHARACTER_CANDELA",
+            "template": "CHARACTER_CANDELA",
             "gender": 0,
             "boss": false,
             "type": null
@@ -20,7 +20,7 @@
     "3": {
         "active": false,
         "character": {
-            "proto_id": "CHARACTER_SPARK",
+            "template": "CHARACTER_SPARK",
             "gender": 1,
             "boss": false,
             "type": null
@@ -29,7 +29,7 @@
     "4": {
         "active": false,
         "character": {
-            "proto_id": "CHARACTER_GRUNT_MALE",
+            "template": "CHARACTER_GRUNT_MALE",
             "gender": 1,
             "boss": false,
             "type": null
@@ -38,7 +38,7 @@
     "5": {
         "active": false,
         "character": {
-            "proto_id": "CHARACTER_GRUNT_FEMALE",
+            "template": "CHARACTER_GRUNT_FEMALE",
             "gender": 0,
             "boss": false,
             "type": null
@@ -47,7 +47,7 @@
     "6": {
         "active": false,
         "character": {
-            "proto_id": "CHARACTER_BUG_GRUNT_FEMALE",
+            "template": "CHARACTER_BUG_GRUNT_FEMALE",
             "gender": 0,
             "boss": false,
             "type": {
@@ -59,7 +59,7 @@
     "7": {
         "active": true,
         "character": {
-            "proto_id": "CHARACTER_BUG_GRUNT_MALE",
+            "template": "CHARACTER_BUG_GRUNT_MALE",
             "gender": 1,
             "boss": false,
             "type": {
@@ -75,61 +75,61 @@
                 [
                     {
                         "id": 48,
-                        "form_id": 260,
-                        "proto_id": "VENONAT_SHADOW",
-                        "asset_id": "048_00"
+                        "form": 260,
+                        "template": "VENONAT_SHADOW",
+                        "asset": "048_00"
                     },
                     {
                         "id": 13,
-                        "form_id": 617,
-                        "proto_id": "WEEDLE_SHADOW",
-                        "asset_id": "013_00"
+                        "form": 617,
+                        "template": "WEEDLE_SHADOW",
+                        "asset": "013_00"
                     },
                     {
                         "id": 213,
-                        "form_id": 828,
-                        "proto_id": "SHUCKLE_SHADOW",
-                        "asset_id": "213_00"
+                        "form": 828,
+                        "template": "SHUCKLE_SHADOW",
+                        "asset": "213_00"
                     }
                 ],
                 [
                     {
                         "id": 49,
-                        "form_id": 263,
-                        "proto_id": "VENOMOTH_SHADOW",
-                        "asset_id": "049_00"
+                        "form": 263,
+                        "template": "VENOMOTH_SHADOW",
+                        "asset": "049_00"
                     },
                     {
                         "id": 14,
-                        "form_id": 620,
-                        "proto_id": "KAKUNA_SHADOW",
-                        "asset_id": "014_00"
+                        "form": 620,
+                        "template": "KAKUNA_SHADOW",
+                        "asset": "014_00"
                     },
                     {
                         "id": 212,
-                        "form_id": 251,
-                        "proto_id": "SCIZOR_SHADOW",
-                        "asset_id": "212_00"
+                        "form": 251,
+                        "template": "SCIZOR_SHADOW",
+                        "asset": "212_00"
                     }
                 ],
                 [
                     {
                         "id": 212,
-                        "form_id": 251,
-                        "proto_id": "SCIZOR_SHADOW",
-                        "asset_id": "212_00"
+                        "form": 251,
+                        "template": "SCIZOR_SHADOW",
+                        "asset": "212_00"
                     },
                     {
                         "id": 15,
-                        "form_id": 623,
-                        "proto_id": "BEEDRILL_SHADOW",
-                        "asset_id": "015_00"
+                        "form": 623,
+                        "template": "BEEDRILL_SHADOW",
+                        "asset": "015_00"
                     },
                     {
                         "id": 123,
-                        "form_id": 248,
-                        "proto_id": "SCYTHER_SHADOW",
-                        "asset_id": "123_00"
+                        "form": 248,
+                        "template": "SCYTHER_SHADOW",
+                        "asset": "123_00"
                     }
                 ]
             ]
@@ -138,7 +138,7 @@
     "10": {
         "active": true,
         "character": {
-            "proto_id": "CHARACTER_DARK_GRUNT_FEMALE",
+            "template": "CHARACTER_DARK_GRUNT_FEMALE",
             "gender": 0,
             "boss": false,
             "type": {
@@ -154,37 +154,37 @@
                 [
                     {
                         "id": 434,
-                        "form_id": 792,
-                        "proto_id": "STUNKY_SHADOW",
-                        "asset_id": "434_00"
+                        "form": 792,
+                        "template": "STUNKY_SHADOW",
+                        "asset": "434_00"
                     }
                 ],
                 [
                     {
                         "id": 435,
-                        "form_id": 795,
-                        "proto_id": "SKUNTANK_SHADOW",
-                        "asset_id": "435_00"
+                        "form": 795,
+                        "template": "SKUNTANK_SHADOW",
+                        "asset": "435_00"
                     },
                     {
                         "id": 302,
-                        "form_id": 924,
-                        "proto_id": "SABLEYE_SHADOW",
-                        "asset_id": "302_00"
+                        "form": 924,
+                        "template": "SABLEYE_SHADOW",
+                        "asset": "302_00"
                     }
                 ],
                 [
                     {
                         "id": 435,
-                        "form_id": 795,
-                        "proto_id": "SKUNTANK_SHADOW",
-                        "asset_id": "435_00"
+                        "form": 795,
+                        "template": "SKUNTANK_SHADOW",
+                        "asset": "435_00"
                     },
                     {
                         "id": 275,
-                        "form_id": 632,
-                        "proto_id": "SHIFTRY_SHADOW",
-                        "asset_id": "275_00"
+                        "form": 632,
+                        "template": "SHIFTRY_SHADOW",
+                        "asset": "275_00"
                     }
                 ]
             ]
@@ -193,7 +193,7 @@
     "11": {
         "active": false,
         "character": {
-            "proto_id": "CHARACTER_DARK_GRUNT_MALE",
+            "template": "CHARACTER_DARK_GRUNT_MALE",
             "gender": 1,
             "boss": false,
             "type": {
@@ -205,7 +205,7 @@
     "12": {
         "active": true,
         "character": {
-            "proto_id": "CHARACTER_DRAGON_GRUNT_FEMALE",
+            "template": "CHARACTER_DRAGON_GRUNT_FEMALE",
             "gender": 0,
             "boss": false,
             "type": {
@@ -221,43 +221,43 @@
                 [
                     {
                         "id": 147,
-                        "form_id": 191,
-                        "proto_id": "DRATINI_SHADOW",
-                        "asset_id": "147_00"
+                        "form": 191,
+                        "template": "DRATINI_SHADOW",
+                        "asset": "147_00"
                     }
                 ],
                 [
                     {
                         "id": 148,
-                        "form_id": 194,
-                        "proto_id": "DRAGONAIR_SHADOW",
-                        "asset_id": "148_00"
+                        "form": 194,
+                        "template": "DRAGONAIR_SHADOW",
+                        "asset": "148_00"
                     },
                     {
                         "id": 330,
-                        "form_id": 753,
-                        "proto_id": "FLYGON_SHADOW",
-                        "asset_id": "330_00"
+                        "form": 753,
+                        "template": "FLYGON_SHADOW",
+                        "asset": "330_00"
                     }
                 ],
                 [
                     {
                         "id": 130,
-                        "form_id": 257,
-                        "proto_id": "GYARADOS_SHADOW",
-                        "asset_id": "130_00"
+                        "form": 257,
+                        "template": "GYARADOS_SHADOW",
+                        "asset": "130_00"
                     },
                     {
                         "id": 149,
-                        "form_id": 197,
-                        "proto_id": "DRAGONITE_SHADOW",
-                        "asset_id": "149_00"
+                        "form": 197,
+                        "template": "DRAGONITE_SHADOW",
+                        "asset": "149_00"
                     },
                     {
                         "id": 148,
-                        "form_id": 194,
-                        "proto_id": "DRAGONAIR_SHADOW",
-                        "asset_id": "148_00"
+                        "form": 194,
+                        "template": "DRAGONAIR_SHADOW",
+                        "asset": "148_00"
                     }
                 ]
             ]
@@ -266,7 +266,7 @@
     "13": {
         "active": false,
         "character": {
-            "proto_id": "CHARACTER_DRAGON_GRUNT_MALE",
+            "template": "CHARACTER_DRAGON_GRUNT_MALE",
             "gender": 1,
             "boss": false,
             "type": {
@@ -278,7 +278,7 @@
     "14": {
         "active": false,
         "character": {
-            "proto_id": "CHARACTER_FAIRY_GRUNT_FEMALE",
+            "template": "CHARACTER_FAIRY_GRUNT_FEMALE",
             "gender": 0,
             "boss": false,
             "type": {
@@ -290,7 +290,7 @@
     "15": {
         "active": false,
         "character": {
-            "proto_id": "CHARACTER_FAIRY_GRUNT_MALE",
+            "template": "CHARACTER_FAIRY_GRUNT_MALE",
             "gender": 1,
             "boss": false,
             "type": {
@@ -302,7 +302,7 @@
     "16": {
         "active": true,
         "character": {
-            "proto_id": "CHARACTER_FIGHTING_GRUNT_FEMALE",
+            "template": "CHARACTER_FIGHTING_GRUNT_FEMALE",
             "gender": 0,
             "boss": false,
             "type": {
@@ -318,31 +318,31 @@
                 [
                     {
                         "id": 66,
-                        "form_id": 810,
-                        "proto_id": "MACHOP_SHADOW",
-                        "asset_id": "066_00"
+                        "form": 810,
+                        "template": "MACHOP_SHADOW",
+                        "asset": "066_00"
                     },
                     {
                         "id": 106,
-                        "form_id": 714,
-                        "proto_id": "HITMONLEE_SHADOW",
-                        "asset_id": "106_00"
+                        "form": 714,
+                        "template": "HITMONLEE_SHADOW",
+                        "asset": "106_00"
                     }
                 ],
                 [
                     {
                         "id": 106,
-                        "form_id": 714,
-                        "proto_id": "HITMONLEE_SHADOW",
-                        "asset_id": "106_00"
+                        "form": 714,
+                        "template": "HITMONLEE_SHADOW",
+                        "asset": "106_00"
                     }
                 ],
                 [
                     {
                         "id": 67,
-                        "form_id": 813,
-                        "proto_id": "MACHOKE_SHADOW",
-                        "asset_id": "067_00"
+                        "form": 813,
+                        "template": "MACHOKE_SHADOW",
+                        "asset": "067_00"
                     }
                 ]
             ]
@@ -351,7 +351,7 @@
     "17": {
         "active": false,
         "character": {
-            "proto_id": "CHARACTER_FIGHTING_GRUNT_MALE",
+            "template": "CHARACTER_FIGHTING_GRUNT_MALE",
             "gender": 1,
             "boss": false,
             "type": {
@@ -363,7 +363,7 @@
     "18": {
         "active": true,
         "character": {
-            "proto_id": "CHARACTER_FIRE_GRUNT_FEMALE",
+            "template": "CHARACTER_FIRE_GRUNT_FEMALE",
             "gender": 0,
             "boss": false,
             "type": {
@@ -380,49 +380,49 @@
                 [
                     {
                         "id": 37,
-                        "form_id": 725,
-                        "proto_id": "VULPIX_SHADOW",
-                        "asset_id": "037_00"
+                        "form": 725,
+                        "template": "VULPIX_SHADOW",
+                        "asset": "037_00"
                     },
                     {
                         "id": 228,
-                        "form_id": 230,
-                        "proto_id": "HOUNDOUR_SHADOW",
-                        "asset_id": "228_00"
+                        "form": 230,
+                        "template": "HOUNDOUR_SHADOW",
+                        "asset": "228_00"
                     }
                 ],
                 [
                     {
                         "id": 38,
-                        "form_id": 727,
-                        "proto_id": "NINETALES_SHADOW",
-                        "asset_id": "038_00"
+                        "form": 727,
+                        "template": "NINETALES_SHADOW",
+                        "asset": "038_00"
                     },
                     {
                         "id": 229,
-                        "form_id": 233,
-                        "proto_id": "HOUNDOOM_SHADOW",
-                        "asset_id": "229_00"
+                        "form": 233,
+                        "template": "HOUNDOOM_SHADOW",
+                        "asset": "229_00"
                     }
                 ],
                 [
                     {
                         "id": 229,
-                        "form_id": 233,
-                        "proto_id": "HOUNDOOM_SHADOW",
-                        "asset_id": "229_00"
+                        "form": 233,
+                        "template": "HOUNDOOM_SHADOW",
+                        "asset": "229_00"
                     },
                     {
                         "id": 5,
-                        "form_id": 176,
-                        "proto_id": "CHARMELEON_SHADOW",
-                        "asset_id": "005_00"
+                        "form": 176,
+                        "template": "CHARMELEON_SHADOW",
+                        "asset": "005_00"
                     },
                     {
                         "id": 59,
-                        "form_id": 284,
-                        "proto_id": "ARCANINE_SHADOW",
-                        "asset_id": "059_00"
+                        "form": 284,
+                        "template": "ARCANINE_SHADOW",
+                        "asset": "059_00"
                     }
                 ]
             ]
@@ -431,7 +431,7 @@
     "19": {
         "active": false,
         "character": {
-            "proto_id": "CHARACTER_FIRE_GRUNT_MALE",
+            "template": "CHARACTER_FIRE_GRUNT_MALE",
             "gender": 1,
             "boss": false,
             "type": {
@@ -443,7 +443,7 @@
     "20": {
         "active": true,
         "character": {
-            "proto_id": "CHARACTER_FLYING_GRUNT_FEMALE",
+            "template": "CHARACTER_FLYING_GRUNT_FEMALE",
             "gender": 0,
             "boss": false,
             "type": {
@@ -459,61 +459,61 @@
                 [
                     {
                         "id": 41,
-                        "form_id": 158,
-                        "proto_id": "ZUBAT_SHADOW",
-                        "asset_id": "041_00"
+                        "form": 158,
+                        "template": "ZUBAT_SHADOW",
+                        "asset": "041_00"
                     },
                     {
                         "id": 42,
-                        "form_id": 161,
-                        "proto_id": "GOLBAT_SHADOW",
-                        "asset_id": "042_00"
+                        "form": 161,
+                        "template": "GOLBAT_SHADOW",
+                        "asset": "042_00"
                     },
                     {
                         "id": 227,
-                        "form_id": 1296,
-                        "proto_id": "SKARMORY_SHADOW",
-                        "asset_id": "227_00"
+                        "form": 1296,
+                        "template": "SKARMORY_SHADOW",
+                        "asset": "227_00"
                     }
                 ],
                 [
                     {
                         "id": 169,
-                        "form_id": 203,
-                        "proto_id": "CROBAT_SHADOW",
-                        "asset_id": "169_00"
+                        "form": 203,
+                        "template": "CROBAT_SHADOW",
+                        "asset": "169_00"
                     },
                     {
                         "id": 42,
-                        "form_id": 161,
-                        "proto_id": "GOLBAT_SHADOW",
-                        "asset_id": "042_00"
+                        "form": 161,
+                        "template": "GOLBAT_SHADOW",
+                        "asset": "042_00"
                     },
                     {
                         "id": 123,
-                        "form_id": 248,
-                        "proto_id": "SCYTHER_SHADOW",
-                        "asset_id": "123_00"
+                        "form": 248,
+                        "template": "SCYTHER_SHADOW",
+                        "asset": "123_00"
                     }
                 ],
                 [
                     {
                         "id": 130,
-                        "form_id": 257,
-                        "proto_id": "GYARADOS_SHADOW",
-                        "asset_id": "130_00"
+                        "form": 257,
+                        "template": "GYARADOS_SHADOW",
+                        "asset": "130_00"
                     },
                     {
                         "id": 149,
-                        "form_id": 197,
-                        "proto_id": "DRAGONITE_SHADOW",
-                        "asset_id": "149_00"
+                        "form": 197,
+                        "template": "DRAGONITE_SHADOW",
+                        "asset": "149_00"
                     },
                     {
                         "id": 169,
-                        "form_id": 203,
-                        "proto_id": "CROBAT_SHADOW",
-                        "asset_id": "169_00"
+                        "form": 203,
+                        "template": "CROBAT_SHADOW",
+                        "asset": "169_00"
                     }
                 ]
             ]
@@ -522,7 +522,7 @@
     "21": {
         "active": false,
         "character": {
-            "proto_id": "CHARACTER_FLYING_GRUNT_MALE",
+            "template": "CHARACTER_FLYING_GRUNT_MALE",
             "gender": 1,
             "boss": false,
             "type": {
@@ -534,7 +534,7 @@
     "22": {
         "active": false,
         "character": {
-            "proto_id": "CHARACTER_GRASS_GRUNT_FEMALE",
+            "template": "CHARACTER_GRASS_GRUNT_FEMALE",
             "gender": 0,
             "boss": false,
             "type": {
@@ -546,7 +546,7 @@
     "23": {
         "active": true,
         "character": {
-            "proto_id": "CHARACTER_GRASS_GRUNT_MALE",
+            "template": "CHARACTER_GRASS_GRUNT_MALE",
             "gender": 1,
             "boss": false,
             "type": {
@@ -563,55 +563,55 @@
                 [
                     {
                         "id": 187,
-                        "form_id": 1206,
-                        "proto_id": "HOPPIP_SHADOW",
-                        "asset_id": "187_00"
+                        "form": 1206,
+                        "template": "HOPPIP_SHADOW",
+                        "asset": "187_00"
                     },
                     {
                         "id": 1,
-                        "form_id": 164,
-                        "proto_id": "BULBASAUR_SHADOW",
-                        "asset_id": "001_00"
+                        "form": 164,
+                        "template": "BULBASAUR_SHADOW",
+                        "asset": "001_00"
                     }
                 ],
                 [
                     {
                         "id": 70,
-                        "form_id": 668,
-                        "proto_id": "WEEPINBELL_SHADOW",
-                        "asset_id": "070_00"
-                    },
-                    {
-                        "id": 44,
-                        "form_id": 269,
-                        "proto_id": "GLOOM_SHADOW",
-                        "asset_id": "044_00"
+                        "form": 668,
+                        "template": "WEEPINBELL_SHADOW",
+                        "asset": "070_00"
                     },
                     {
                         "id": 2,
-                        "form_id": 167,
-                        "proto_id": "IVYSAUR_SHADOW",
-                        "asset_id": "002_00"
+                        "form": 167,
+                        "template": "IVYSAUR_SHADOW",
+                        "asset": "002_00"
+                    },
+                    {
+                        "id": 44,
+                        "form": 269,
+                        "template": "GLOOM_SHADOW",
+                        "asset": "044_00"
                     }
                 ],
                 [
                     {
                         "id": 71,
-                        "form_id": 671,
-                        "proto_id": "VICTREEBEL_SHADOW",
-                        "asset_id": "071_00"
+                        "form": 671,
+                        "template": "VICTREEBEL_SHADOW",
+                        "asset": "071_00"
                     },
                     {
                         "id": 275,
-                        "form_id": 632,
-                        "proto_id": "SHIFTRY_SHADOW",
-                        "asset_id": "275_00"
+                        "form": 632,
+                        "template": "SHIFTRY_SHADOW",
+                        "asset": "275_00"
                     },
                     {
                         "id": 45,
-                        "form_id": 272,
-                        "proto_id": "VILEPLUME_SHADOW",
-                        "asset_id": "045_00"
+                        "form": 272,
+                        "template": "VILEPLUME_SHADOW",
+                        "asset": "045_00"
                     }
                 ]
             ]
@@ -620,7 +620,7 @@
     "24": {
         "active": false,
         "character": {
-            "proto_id": "CHARACTER_GROUND_GRUNT_FEMALE",
+            "template": "CHARACTER_GROUND_GRUNT_FEMALE",
             "gender": 0,
             "boss": false,
             "type": {
@@ -632,7 +632,7 @@
     "25": {
         "active": true,
         "character": {
-            "proto_id": "CHARACTER_GROUND_GRUNT_MALE",
+            "template": "CHARACTER_GROUND_GRUNT_MALE",
             "gender": 1,
             "boss": false,
             "type": {
@@ -648,49 +648,49 @@
                 [
                     {
                         "id": 50,
-                        "form_id": 842,
-                        "proto_id": "DIGLETT_SHADOW",
-                        "asset_id": "050_00"
+                        "form": 842,
+                        "template": "DIGLETT_SHADOW",
+                        "asset": "050_00"
                     },
                     {
                         "id": 207,
-                        "form_id": 804,
-                        "proto_id": "GLIGAR_SHADOW",
-                        "asset_id": "207_00"
+                        "form": 804,
+                        "template": "GLIGAR_SHADOW",
+                        "asset": "207_00"
                     }
                 ],
                 [
                     {
                         "id": 247,
-                        "form_id": 317,
-                        "proto_id": "PUPITAR_SHADOW",
-                        "asset_id": "247_00"
+                        "form": 317,
+                        "template": "PUPITAR_SHADOW",
+                        "asset": "247_00"
                     },
                     {
                         "id": 105,
-                        "form_id": 227,
-                        "proto_id": "MAROWAK_SHADOW",
-                        "asset_id": "105_00"
+                        "form": 227,
+                        "template": "MAROWAK_SHADOW",
+                        "asset": "105_00"
                     },
                     {
                         "id": 329,
-                        "form_id": 750,
-                        "proto_id": "VIBRAVA_SHADOW",
-                        "asset_id": "329_00"
+                        "form": 750,
+                        "template": "VIBRAVA_SHADOW",
+                        "asset": "329_00"
                     }
                 ],
                 [
                     {
                         "id": 472,
-                        "form_id": 807,
-                        "proto_id": "GLISCOR_SHADOW",
-                        "asset_id": "472_00"
+                        "form": 807,
+                        "template": "GLISCOR_SHADOW",
+                        "asset": "472_00"
                     },
                     {
                         "id": 330,
-                        "form_id": 753,
-                        "proto_id": "FLYGON_SHADOW",
-                        "asset_id": "330_00"
+                        "form": 753,
+                        "template": "FLYGON_SHADOW",
+                        "asset": "330_00"
                     }
                 ]
             ]
@@ -699,7 +699,7 @@
     "26": {
         "active": true,
         "character": {
-            "proto_id": "CHARACTER_ICE_GRUNT_FEMALE",
+            "template": "CHARACTER_ICE_GRUNT_FEMALE",
             "gender": 0,
             "boss": false,
             "type": {
@@ -715,43 +715,43 @@
                 [
                     {
                         "id": 459,
-                        "form_id": 933,
-                        "proto_id": "SNOVER_SHADOW",
-                        "asset_id": "459_00"
+                        "form": 933,
+                        "template": "SNOVER_SHADOW",
+                        "asset": "459_00"
                     },
                     {
                         "id": 91,
-                        "form_id": 880,
-                        "proto_id": "CLOYSTER_SHADOW",
-                        "asset_id": "091_00"
+                        "form": 880,
+                        "template": "CLOYSTER_SHADOW",
+                        "asset": "091_00"
                     }
                 ],
                 [
                     {
                         "id": 459,
-                        "form_id": 933,
-                        "proto_id": "SNOVER_SHADOW",
-                        "asset_id": "459_00"
+                        "form": 933,
+                        "template": "SNOVER_SHADOW",
+                        "asset": "459_00"
                     },
                     {
                         "id": 460,
-                        "form_id": 936,
-                        "proto_id": "ABOMASNOW_SHADOW",
-                        "asset_id": "460_00"
+                        "form": 936,
+                        "template": "ABOMASNOW_SHADOW",
+                        "asset": "460_00"
                     }
                 ],
                 [
                     {
-                        "id": 131,
-                        "form_id": 323,
-                        "proto_id": "LAPRAS_SHADOW",
-                        "asset_id": "131_00"
+                        "id": 460,
+                        "form": 936,
+                        "template": "ABOMASNOW_SHADOW",
+                        "asset": "460_00"
                     },
                     {
-                        "id": 460,
-                        "form_id": 936,
-                        "proto_id": "ABOMASNOW_SHADOW",
-                        "asset_id": "460_00"
+                        "id": 131,
+                        "form": 323,
+                        "template": "LAPRAS_SHADOW",
+                        "asset": "131_00"
                     }
                 ]
             ]
@@ -760,7 +760,7 @@
     "27": {
         "active": false,
         "character": {
-            "proto_id": "CHARACTER_ICE_GRUNT_MALE",
+            "template": "CHARACTER_ICE_GRUNT_MALE",
             "gender": 1,
             "boss": false,
             "type": {
@@ -772,7 +772,7 @@
     "28": {
         "active": false,
         "character": {
-            "proto_id": "CHARACTER_METAL_GRUNT_FEMALE",
+            "template": "CHARACTER_METAL_GRUNT_FEMALE",
             "gender": 0,
             "boss": false,
             "type": null
@@ -781,7 +781,7 @@
     "29": {
         "active": false,
         "character": {
-            "proto_id": "CHARACTER_METAL_GRUNT_MALE",
+            "template": "CHARACTER_METAL_GRUNT_MALE",
             "gender": 1,
             "boss": false,
             "type": null
@@ -790,7 +790,7 @@
     "30": {
         "active": false,
         "character": {
-            "proto_id": "CHARACTER_NORMAL_GRUNT_FEMALE",
+            "template": "CHARACTER_NORMAL_GRUNT_FEMALE",
             "gender": 0,
             "boss": false,
             "type": {
@@ -802,7 +802,7 @@
     "31": {
         "active": true,
         "character": {
-            "proto_id": "CHARACTER_NORMAL_GRUNT_MALE",
+            "template": "CHARACTER_NORMAL_GRUNT_MALE",
             "gender": 1,
             "boss": false,
             "type": {
@@ -818,37 +818,37 @@
                 [
                     {
                         "id": 216,
-                        "form_id": 1266,
-                        "proto_id": "TEDDIURSA_SHADOW",
-                        "asset_id": "216_00"
+                        "form": 1266,
+                        "template": "TEDDIURSA_SHADOW",
+                        "asset": "216_00"
                     }
                 ],
                 [
                     {
                         "id": 20,
-                        "form_id": 155,
-                        "proto_id": "RATICATE_SHADOW",
-                        "asset_id": "020_00"
+                        "form": 155,
+                        "template": "RATICATE_SHADOW",
+                        "asset": "020_00"
                     },
                     {
                         "id": 233,
-                        "form_id": 681,
-                        "proto_id": "PORYGON2_SHADOW",
-                        "asset_id": "233_00"
+                        "form": 681,
+                        "template": "PORYGON2_SHADOW",
+                        "asset": "233_00"
                     }
                 ],
                 [
                     {
                         "id": 143,
-                        "form_id": 200,
-                        "proto_id": "SNORLAX_SHADOW",
-                        "asset_id": "143_00"
+                        "form": 200,
+                        "template": "SNORLAX_SHADOW",
+                        "asset": "143_00"
                     },
                     {
                         "id": 474,
-                        "form_id": 684,
-                        "proto_id": "PORYGON_Z_SHADOW",
-                        "asset_id": "474_00"
+                        "form": 684,
+                        "template": "PORYGON_Z_SHADOW",
+                        "asset": "474_00"
                     }
                 ]
             ]
@@ -857,7 +857,7 @@
     "32": {
         "active": true,
         "character": {
-            "proto_id": "CHARACTER_POISON_GRUNT_FEMALE",
+            "template": "CHARACTER_POISON_GRUNT_FEMALE",
             "gender": 0,
             "boss": false,
             "type": {
@@ -873,49 +873,49 @@
                 [
                     {
                         "id": 32,
-                        "form_id": 777,
-                        "proto_id": "NIDORAN_SHADOW",
-                        "asset_id": "032_00"
+                        "form": 777,
+                        "template": "NIDORAN_SHADOW",
+                        "asset": "032_00"
                     },
                     {
                         "id": 29,
-                        "form_id": 777,
-                        "proto_id": "NIDORAN_SHADOW",
-                        "asset_id": "029_00"
+                        "form": 777,
+                        "template": "NIDORAN_SHADOW",
+                        "asset": "029_00"
                     }
                 ],
                 [
                     {
                         "id": 42,
-                        "form_id": 161,
-                        "proto_id": "GOLBAT_SHADOW",
-                        "asset_id": "042_00"
+                        "form": 161,
+                        "template": "GOLBAT_SHADOW",
+                        "asset": "042_00"
                     },
                     {
                         "id": 89,
-                        "form_id": 222,
-                        "proto_id": "MUK_SHADOW",
-                        "asset_id": "089_00"
+                        "form": 222,
+                        "template": "MUK_SHADOW",
+                        "asset": "089_00"
                     },
                     {
                         "id": 88,
-                        "form_id": 220,
-                        "proto_id": "GRIMER_SHADOW",
-                        "asset_id": "088_00"
+                        "form": 220,
+                        "template": "GRIMER_SHADOW",
+                        "asset": "088_00"
                     }
                 ],
                 [
                     {
                         "id": 30,
-                        "form_id": 780,
-                        "proto_id": "NIDORINA_SHADOW",
-                        "asset_id": "030_00"
+                        "form": 780,
+                        "template": "NIDORINA_SHADOW",
+                        "asset": "030_00"
                     },
                     {
                         "id": 33,
-                        "form_id": 786,
-                        "proto_id": "NIDORINO_SHADOW",
-                        "asset_id": "033_00"
+                        "form": 786,
+                        "template": "NIDORINO_SHADOW",
+                        "asset": "033_00"
                     }
                 ]
             ]
@@ -924,7 +924,7 @@
     "33": {
         "active": false,
         "character": {
-            "proto_id": "CHARACTER_POISON_GRUNT_MALE",
+            "template": "CHARACTER_POISON_GRUNT_MALE",
             "gender": 1,
             "boss": false,
             "type": {
@@ -936,7 +936,7 @@
     "34": {
         "active": false,
         "character": {
-            "proto_id": "CHARACTER_PSYCHIC_GRUNT_FEMALE",
+            "template": "CHARACTER_PSYCHIC_GRUNT_FEMALE",
             "gender": 0,
             "boss": false,
             "type": {
@@ -948,7 +948,7 @@
     "35": {
         "active": true,
         "character": {
-            "proto_id": "CHARACTER_PSYCHIC_GRUNT_MALE",
+            "template": "CHARACTER_PSYCHIC_GRUNT_MALE",
             "gender": 1,
             "boss": false,
             "type": {
@@ -964,61 +964,61 @@
                 [
                     {
                         "id": 202,
-                        "form_id": 686,
-                        "proto_id": "WOBBUFFET_SHADOW",
-                        "asset_id": "202_00"
+                        "form": 686,
+                        "template": "WOBBUFFET_SHADOW",
+                        "asset": "202_00"
                     },
                     {
                         "id": 79,
-                        "form_id": 1018,
-                        "proto_id": "SLOWPOKE_SHADOW",
-                        "asset_id": "079_00"
+                        "form": 1018,
+                        "template": "SLOWPOKE_SHADOW",
+                        "asset": "079_00"
                     },
                     {
                         "id": 63,
-                        "form_id": 305,
-                        "proto_id": "ABRA_SHADOW",
-                        "asset_id": "063_00"
+                        "form": 305,
+                        "template": "ABRA_SHADOW",
+                        "asset": "063_00"
                     }
                 ],
                 [
                     {
                         "id": 96,
-                        "form_id": 215,
-                        "proto_id": "DROWZEE_SHADOW",
-                        "asset_id": "096_00"
+                        "form": 215,
+                        "template": "DROWZEE_SHADOW",
+                        "asset": "096_00"
                     },
                     {
                         "id": 280,
-                        "form_id": 293,
-                        "proto_id": "RALTS_SHADOW",
-                        "asset_id": "280_00"
+                        "form": 293,
+                        "template": "RALTS_SHADOW",
+                        "asset": "280_00"
                     },
                     {
                         "id": 97,
-                        "form_id": 218,
-                        "proto_id": "HYPNO_SHADOW",
-                        "asset_id": "097_00"
+                        "form": 218,
+                        "template": "HYPNO_SHADOW",
+                        "asset": "097_00"
                     }
                 ],
                 [
                     {
                         "id": 64,
-                        "form_id": 308,
-                        "proto_id": "KADABRA_SHADOW",
-                        "asset_id": "064_00"
+                        "form": 308,
+                        "template": "KADABRA_SHADOW",
+                        "asset": "064_00"
                     },
                     {
                         "id": 97,
-                        "form_id": 218,
-                        "proto_id": "HYPNO_SHADOW",
-                        "asset_id": "097_00"
+                        "form": 218,
+                        "template": "HYPNO_SHADOW",
+                        "asset": "097_00"
                     },
                     {
                         "id": 281,
-                        "form_id": 296,
-                        "proto_id": "KIRLIA_SHADOW",
-                        "asset_id": "281_00"
+                        "form": 296,
+                        "template": "KIRLIA_SHADOW",
+                        "asset": "281_00"
                     }
                 ]
             ]
@@ -1027,7 +1027,7 @@
     "36": {
         "active": false,
         "character": {
-            "proto_id": "CHARACTER_ROCK_GRUNT_FEMALE",
+            "template": "CHARACTER_ROCK_GRUNT_FEMALE",
             "gender": 0,
             "boss": false,
             "type": {
@@ -1039,7 +1039,7 @@
     "37": {
         "active": true,
         "character": {
-            "proto_id": "CHARACTER_ROCK_GRUNT_MALE",
+            "template": "CHARACTER_ROCK_GRUNT_MALE",
             "gender": 1,
             "boss": false,
             "type": {
@@ -1055,43 +1055,43 @@
                 [
                     {
                         "id": 246,
-                        "form_id": 314,
-                        "proto_id": "LARVITAR_SHADOW",
-                        "asset_id": "246_00"
+                        "form": 314,
+                        "template": "LARVITAR_SHADOW",
+                        "asset": "246_00"
                     },
                     {
                         "id": 142,
-                        "form_id": 1111,
-                        "proto_id": "AERODACTYL_SHADOW",
-                        "asset_id": "142_00"
+                        "form": 1111,
+                        "template": "AERODACTYL_SHADOW",
+                        "asset": "142_00"
                     }
                 ],
                 [
                     {
                         "id": 247,
-                        "form_id": 317,
-                        "proto_id": "PUPITAR_SHADOW",
-                        "asset_id": "247_00"
+                        "form": 317,
+                        "template": "PUPITAR_SHADOW",
+                        "asset": "247_00"
                     },
                     {
                         "id": 246,
-                        "form_id": 314,
-                        "proto_id": "LARVITAR_SHADOW",
-                        "asset_id": "246_00"
+                        "form": 314,
+                        "template": "LARVITAR_SHADOW",
+                        "asset": "246_00"
                     }
                 ],
                 [
                     {
                         "id": 247,
-                        "form_id": 317,
-                        "proto_id": "PUPITAR_SHADOW",
-                        "asset_id": "247_00"
+                        "form": 317,
+                        "template": "PUPITAR_SHADOW",
+                        "asset": "247_00"
                     },
                     {
                         "id": 248,
-                        "form_id": 320,
-                        "proto_id": "TYRANITAR_SHADOW",
-                        "asset_id": "248_00"
+                        "form": 320,
+                        "template": "TYRANITAR_SHADOW",
+                        "asset": "248_00"
                     }
                 ]
             ]
@@ -1100,7 +1100,7 @@
     "38": {
         "active": true,
         "character": {
-            "proto_id": "CHARACTER_WATER_GRUNT_FEMALE",
+            "template": "CHARACTER_WATER_GRUNT_FEMALE",
             "gender": 0,
             "boss": false,
             "type": {
@@ -1116,43 +1116,43 @@
                 [
                     {
                         "id": 90,
-                        "form_id": 877,
-                        "proto_id": "SHELLDER_SHADOW",
-                        "asset_id": "090_00"
+                        "form": 877,
+                        "template": "SHELLDER_SHADOW",
+                        "asset": "090_00"
                     },
                     {
                         "id": 54,
-                        "form_id": 287,
-                        "proto_id": "PSYDUCK_SHADOW",
-                        "asset_id": "054_00"
+                        "form": 287,
+                        "template": "PSYDUCK_SHADOW",
+                        "asset": "054_00"
                     }
                 ],
                 [
                     {
                         "id": 61,
-                        "form_id": 239,
-                        "proto_id": "POLIWHIRL_SHADOW",
-                        "asset_id": "061_00"
+                        "form": 239,
+                        "template": "POLIWHIRL_SHADOW",
+                        "asset": "061_00"
                     },
                     {
                         "id": 55,
-                        "form_id": 290,
-                        "proto_id": "GOLDUCK_SHADOW",
-                        "asset_id": "055_00"
+                        "form": 290,
+                        "template": "GOLDUCK_SHADOW",
+                        "asset": "055_00"
                     }
                 ],
                 [
                     {
                         "id": 186,
-                        "form_id": 245,
-                        "proto_id": "POLITOED_SHADOW",
-                        "asset_id": "186_00"
+                        "form": 245,
+                        "template": "POLITOED_SHADOW",
+                        "asset": "186_00"
                     },
                     {
                         "id": 62,
-                        "form_id": 242,
-                        "proto_id": "POLIWRATH_SHADOW",
-                        "asset_id": "062_00"
+                        "form": 242,
+                        "template": "POLIWRATH_SHADOW",
+                        "asset": "062_00"
                     }
                 ]
             ]
@@ -1161,7 +1161,7 @@
     "39": {
         "active": true,
         "character": {
-            "proto_id": "CHARACTER_WATER_GRUNT_MALE",
+            "template": "CHARACTER_WATER_GRUNT_MALE",
             "gender": 1,
             "boss": false,
             "type": {
@@ -1177,31 +1177,31 @@
                 [
                     {
                         "id": 129,
-                        "form_id": 254,
-                        "proto_id": "MAGIKARP_SHADOW",
-                        "asset_id": "129_00"
+                        "form": 254,
+                        "template": "MAGIKARP_SHADOW",
+                        "asset": "129_00"
                     }
                 ],
                 [
                     {
                         "id": 129,
-                        "form_id": 254,
-                        "proto_id": "MAGIKARP_SHADOW",
-                        "asset_id": "129_00"
+                        "form": 254,
+                        "template": "MAGIKARP_SHADOW",
+                        "asset": "129_00"
                     }
                 ],
                 [
                     {
                         "id": 129,
-                        "form_id": 254,
-                        "proto_id": "MAGIKARP_SHADOW",
-                        "asset_id": "129_00"
+                        "form": 254,
+                        "template": "MAGIKARP_SHADOW",
+                        "asset": "129_00"
                     },
                     {
                         "id": 130,
-                        "form_id": 257,
-                        "proto_id": "GYARADOS_SHADOW",
-                        "asset_id": "130_00"
+                        "form": 257,
+                        "template": "GYARADOS_SHADOW",
+                        "asset": "130_00"
                     }
                 ]
             ]
@@ -1210,7 +1210,7 @@
     "41": {
         "active": true,
         "character": {
-            "proto_id": "CHARACTER_EXECUTIVE_CLIFF",
+            "template": "CHARACTER_EXECUTIVE_CLIFF",
             "gender": 1,
             "boss": true,
             "type": null
@@ -1223,49 +1223,49 @@
                 [
                     {
                         "id": 138,
-                        "form_id": 741,
-                        "proto_id": "OMANYTE_SHADOW",
-                        "asset_id": "138_00"
+                        "form": 741,
+                        "template": "OMANYTE_SHADOW",
+                        "asset": "138_00"
                     }
                 ],
                 [
                     {
                         "id": 466,
-                        "form_id": 644,
-                        "proto_id": "ELECTIVIRE_SHADOW",
-                        "asset_id": "466_00"
+                        "form": 644,
+                        "template": "ELECTIVIRE_SHADOW",
+                        "asset": "466_00"
                     },
                     {
                         "id": 95,
-                        "form_id": 903,
-                        "proto_id": "ONIX_SHADOW",
-                        "asset_id": "095_00"
+                        "form": 903,
+                        "template": "ONIX_SHADOW",
+                        "asset": "095_00"
                     },
                     {
                         "id": 68,
-                        "form_id": 816,
-                        "proto_id": "MACHAMP_SHADOW",
-                        "asset_id": "068_00"
+                        "form": 816,
+                        "template": "MACHAMP_SHADOW",
+                        "asset": "068_00"
                     }
                 ],
                 [
                     {
                         "id": 248,
-                        "form_id": 320,
-                        "proto_id": "TYRANITAR_SHADOW",
-                        "asset_id": "248_00"
+                        "form": 320,
+                        "template": "TYRANITAR_SHADOW",
+                        "asset": "248_00"
                     },
                     {
                         "id": 260,
-                        "form_id": 212,
-                        "proto_id": "SWAMPERT_SHADOW",
-                        "asset_id": "260_00"
+                        "form": 212,
+                        "template": "SWAMPERT_SHADOW",
+                        "asset": "260_00"
                     },
                     {
                         "id": 389,
-                        "form_id": 695,
-                        "proto_id": "TORTERRA_SHADOW",
-                        "asset_id": "389_00"
+                        "form": 695,
+                        "template": "TORTERRA_SHADOW",
+                        "asset": "389_00"
                     }
                 ]
             ]
@@ -1274,7 +1274,7 @@
     "42": {
         "active": true,
         "character": {
-            "proto_id": "CHARACTER_EXECUTIVE_ARLO",
+            "template": "CHARACTER_EXECUTIVE_ARLO",
             "gender": 1,
             "boss": true,
             "type": null
@@ -1287,49 +1287,49 @@
                 [
                     {
                         "id": 58,
-                        "form_id": 281,
-                        "proto_id": "GROWLITHE_SHADOW",
-                        "asset_id": "058_00"
+                        "form": 281,
+                        "template": "GROWLITHE_SHADOW",
+                        "asset": "058_00"
                     }
                 ],
                 [
                     {
                         "id": 208,
-                        "form_id": 906,
-                        "proto_id": "STEELIX_SHADOW",
-                        "asset_id": "208_00"
-                    },
-                    {
-                        "id": 9,
-                        "form_id": 188,
-                        "proto_id": "BLASTOISE_SHADOW",
-                        "asset_id": "009_00"
+                        "form": 906,
+                        "template": "STEELIX_SHADOW",
+                        "asset": "208_00"
                     },
                     {
                         "id": 6,
-                        "form_id": 179,
-                        "proto_id": "CHARIZARD_SHADOW",
-                        "asset_id": "006_00"
+                        "form": 179,
+                        "template": "CHARIZARD_SHADOW",
+                        "asset": "006_00"
+                    },
+                    {
+                        "id": 9,
+                        "form": 188,
+                        "template": "BLASTOISE_SHADOW",
+                        "asset": "009_00"
                     }
                 ],
                 [
                     {
                         "id": 373,
-                        "form_id": 762,
-                        "proto_id": "SALAMENCE_SHADOW",
-                        "asset_id": "373_00"
+                        "form": 762,
+                        "template": "SALAMENCE_SHADOW",
+                        "asset": "373_00"
                     },
                     {
                         "id": 212,
-                        "form_id": 251,
-                        "proto_id": "SCIZOR_SHADOW",
-                        "asset_id": "212_00"
+                        "form": 251,
+                        "template": "SCIZOR_SHADOW",
+                        "asset": "212_00"
                     },
                     {
                         "id": 149,
-                        "form_id": 197,
-                        "proto_id": "DRAGONITE_SHADOW",
-                        "asset_id": "149_00"
+                        "form": 197,
+                        "template": "DRAGONITE_SHADOW",
+                        "asset": "149_00"
                     }
                 ]
             ]
@@ -1338,7 +1338,7 @@
     "43": {
         "active": true,
         "character": {
-            "proto_id": "CHARACTER_EXECUTIVE_SIERRA",
+            "template": "CHARACTER_EXECUTIVE_SIERRA",
             "gender": 0,
             "boss": true,
             "type": null
@@ -1351,49 +1351,49 @@
                 [
                     {
                         "id": 96,
-                        "form_id": 215,
-                        "proto_id": "DROWZEE_SHADOW",
-                        "asset_id": "096_00"
+                        "form": 215,
+                        "template": "DROWZEE_SHADOW",
+                        "asset": "096_00"
                     }
                 ],
                 [
                     {
                         "id": 319,
-                        "form_id": 738,
-                        "proto_id": "SHARPEDO_SHADOW",
-                        "asset_id": "319_00"
+                        "form": 738,
+                        "template": "SHARPEDO_SHADOW",
+                        "asset": "319_00"
                     },
                     {
                         "id": 103,
-                        "form_id": 732,
-                        "proto_id": "EXEGGUTOR_SHADOW",
-                        "asset_id": "103_00"
+                        "form": 732,
+                        "template": "EXEGGUTOR_SHADOW",
+                        "asset": "103_00"
                     },
                     {
                         "id": 131,
-                        "form_id": 323,
-                        "proto_id": "LAPRAS_SHADOW",
-                        "asset_id": "131_00"
+                        "form": 323,
+                        "template": "LAPRAS_SHADOW",
+                        "asset": "131_00"
                     }
                 ],
                 [
                     {
                         "id": 229,
-                        "form_id": 233,
-                        "proto_id": "HOUNDOOM_SHADOW",
-                        "asset_id": "229_00"
+                        "form": 233,
+                        "template": "HOUNDOOM_SHADOW",
+                        "asset": "229_00"
                     },
                     {
                         "id": 65,
-                        "form_id": 311,
-                        "proto_id": "ALAKAZAM_SHADOW",
-                        "asset_id": "065_00"
+                        "form": 311,
+                        "template": "ALAKAZAM_SHADOW",
+                        "asset": "065_00"
                     },
                     {
                         "id": 275,
-                        "form_id": 632,
-                        "proto_id": "SHIFTRY_SHADOW",
-                        "asset_id": "275_00"
+                        "form": 632,
+                        "template": "SHIFTRY_SHADOW",
+                        "asset": "275_00"
                     }
                 ]
             ]
@@ -1402,7 +1402,7 @@
     "44": {
         "active": true,
         "character": {
-            "proto_id": "CHARACTER_GIOVANNI",
+            "template": "CHARACTER_GIOVANNI",
             "gender": 1,
             "boss": true,
             "type": null
@@ -1415,37 +1415,37 @@
                 [
                     {
                         "id": 53,
-                        "form_id": 711,
-                        "proto_id": "PERSIAN_SHADOW",
-                        "asset_id": "053_00"
+                        "form": 711,
+                        "template": "PERSIAN_SHADOW",
+                        "asset": "053_00"
                     }
                 ],
                 [
                     {
                         "id": 445,
-                        "form_id": 868,
-                        "proto_id": "GARCHOMP_SHADOW",
-                        "asset_id": "445_00"
+                        "form": 868,
+                        "template": "GARCHOMP_SHADOW",
+                        "asset": "445_00"
                     },
                     {
                         "id": 34,
-                        "form_id": 789,
-                        "proto_id": "NIDOKING_SHADOW",
-                        "asset_id": "034_00"
+                        "form": 789,
+                        "template": "NIDOKING_SHADOW",
+                        "asset": "034_00"
                     },
                     {
                         "id": 115,
-                        "form_id": 840,
-                        "proto_id": "KANGASKHAN_SHADOW",
-                        "asset_id": "115_00"
+                        "form": 840,
+                        "template": "KANGASKHAN_SHADOW",
+                        "asset": "115_00"
                     }
                 ],
                 [
                     {
                         "id": 150,
-                        "form_id": 1113,
-                        "proto_id": "MEWTWO_SHADOW",
-                        "asset_id": "150_00"
+                        "form": 1113,
+                        "template": "MEWTWO_SHADOW",
+                        "asset": "150_00"
                     }
                 ]
             ]
@@ -1454,7 +1454,7 @@
     "45": {
         "active": false,
         "character": {
-            "proto_id": "CHARACTER_DECOY_GRUNT_MALE",
+            "template": "CHARACTER_DECOY_GRUNT_MALE",
             "gender": 1,
             "boss": false,
             "type": null
@@ -1463,7 +1463,7 @@
     "46": {
         "active": true,
         "character": {
-            "proto_id": "CHARACTER_DECOY_GRUNT_FEMALE",
+            "template": "CHARACTER_DECOY_GRUNT_FEMALE",
             "gender": 0,
             "boss": false,
             "type": null
@@ -1477,37 +1477,37 @@
                 [
                     {
                         "id": 69,
-                        "form_id": 665,
-                        "proto_id": "BELLSPROUT_SHADOW",
-                        "asset_id": "069_00"
+                        "form": 665,
+                        "template": "BELLSPROUT_SHADOW",
+                        "asset": "069_00"
                     }
                 ],
                 [
                     {
                         "id": 20,
-                        "form_id": 155,
-                        "proto_id": "RATICATE_SHADOW",
-                        "asset_id": "020_00"
+                        "form": 155,
+                        "template": "RATICATE_SHADOW",
+                        "asset": "020_00"
                     },
                     {
                         "id": 70,
-                        "form_id": 668,
-                        "proto_id": "WEEPINBELL_SHADOW",
-                        "asset_id": "070_00"
+                        "form": 668,
+                        "template": "WEEPINBELL_SHADOW",
+                        "asset": "070_00"
                     }
                 ],
                 [
                     {
                         "id": 20,
-                        "form_id": 155,
-                        "proto_id": "RATICATE_SHADOW",
-                        "asset_id": "020_00"
+                        "form": 155,
+                        "template": "RATICATE_SHADOW",
+                        "asset": "020_00"
                     },
                     {
                         "id": 143,
-                        "form_id": 200,
-                        "proto_id": "SNORLAX_SHADOW",
-                        "asset_id": "143_00"
+                        "form": 200,
+                        "template": "SNORLAX_SHADOW",
+                        "asset": "143_00"
                     }
                 ]
             ]
@@ -1516,7 +1516,7 @@
     "47": {
         "active": false,
         "character": {
-            "proto_id": "CHARACTER_GHOST_GRUNT_FEMALE",
+            "template": "CHARACTER_GHOST_GRUNT_FEMALE",
             "gender": 0,
             "boss": false,
             "type": {
@@ -1528,7 +1528,7 @@
     "48": {
         "active": true,
         "character": {
-            "proto_id": "CHARACTER_GHOST_GRUNT_MALE",
+            "template": "CHARACTER_GHOST_GRUNT_MALE",
             "gender": 1,
             "boss": false,
             "type": {
@@ -1544,61 +1544,61 @@
                 [
                     {
                         "id": 355,
-                        "form_id": 915,
-                        "proto_id": "DUSKULL_SHADOW",
-                        "asset_id": "355_00"
+                        "form": 915,
+                        "template": "DUSKULL_SHADOW",
+                        "asset": "355_00"
                     },
                     {
                         "id": 353,
-                        "form_id": 909,
-                        "proto_id": "SHUPPET_SHADOW",
-                        "asset_id": "353_00"
+                        "form": 909,
+                        "template": "SHUPPET_SHADOW",
+                        "asset": "353_00"
                     },
                     {
                         "id": 302,
-                        "form_id": 924,
-                        "proto_id": "SABLEYE_SHADOW",
-                        "asset_id": "302_00"
+                        "form": 924,
+                        "template": "SABLEYE_SHADOW",
+                        "asset": "302_00"
                     }
                 ],
                 [
                     {
                         "id": 356,
-                        "form_id": 918,
-                        "proto_id": "DUSCLOPS_SHADOW",
-                        "asset_id": "356_00"
+                        "form": 918,
+                        "template": "DUSCLOPS_SHADOW",
+                        "asset": "356_00"
                     },
                     {
                         "id": 302,
-                        "form_id": 924,
-                        "proto_id": "SABLEYE_SHADOW",
-                        "asset_id": "302_00"
+                        "form": 924,
+                        "template": "SABLEYE_SHADOW",
+                        "asset": "302_00"
                     },
                     {
                         "id": 354,
-                        "form_id": 912,
-                        "proto_id": "BANETTE_SHADOW",
-                        "asset_id": "354_00"
+                        "form": 912,
+                        "template": "BANETTE_SHADOW",
+                        "asset": "354_00"
                     }
                 ],
                 [
                     {
                         "id": 477,
-                        "form_id": 921,
-                        "proto_id": "DUSKNOIR_SHADOW",
-                        "asset_id": "477_00"
+                        "form": 921,
+                        "template": "DUSKNOIR_SHADOW",
+                        "asset": "477_00"
                     },
                     {
                         "id": 302,
-                        "form_id": 924,
-                        "proto_id": "SABLEYE_SHADOW",
-                        "asset_id": "302_00"
+                        "form": 924,
+                        "template": "SABLEYE_SHADOW",
+                        "asset": "302_00"
                     },
                     {
                         "id": 354,
-                        "form_id": 912,
-                        "proto_id": "BANETTE_SHADOW",
-                        "asset_id": "354_00"
+                        "form": 912,
+                        "template": "BANETTE_SHADOW",
+                        "asset": "354_00"
                     }
                 ]
             ]
@@ -1607,7 +1607,7 @@
     "49": {
         "active": true,
         "character": {
-            "proto_id": "CHARACTER_ELECTRIC_GRUNT_FEMALE",
+            "template": "CHARACTER_ELECTRIC_GRUNT_FEMALE",
             "gender": 0,
             "boss": false,
             "type": {
@@ -1623,55 +1623,55 @@
                 [
                     {
                         "id": 81,
-                        "form_id": 656,
-                        "proto_id": "MAGNEMITE_SHADOW",
-                        "asset_id": "081_00"
+                        "form": 656,
+                        "template": "MAGNEMITE_SHADOW",
+                        "asset": "081_00"
                     },
                     {
                         "id": 179,
-                        "form_id": 647,
-                        "proto_id": "MAREEP_SHADOW",
-                        "asset_id": "179_00"
+                        "form": 647,
+                        "template": "MAREEP_SHADOW",
+                        "asset": "179_00"
                     },
                     {
                         "id": 125,
-                        "form_id": 641,
-                        "proto_id": "ELECTABUZZ_SHADOW",
-                        "asset_id": "125_00"
+                        "form": 641,
+                        "template": "ELECTABUZZ_SHADOW",
+                        "asset": "125_00"
                     }
                 ],
                 [
                     {
                         "id": 82,
-                        "form_id": 659,
-                        "proto_id": "MAGNETON_SHADOW",
-                        "asset_id": "082_00"
+                        "form": 659,
+                        "template": "MAGNETON_SHADOW",
+                        "asset": "082_00"
                     },
                     {
                         "id": 125,
-                        "form_id": 641,
-                        "proto_id": "ELECTABUZZ_SHADOW",
-                        "asset_id": "125_00"
+                        "form": 641,
+                        "template": "ELECTABUZZ_SHADOW",
+                        "asset": "125_00"
                     },
                     {
                         "id": 180,
-                        "form_id": 650,
-                        "proto_id": "FLAAFFY_SHADOW",
-                        "asset_id": "180_00"
+                        "form": 650,
+                        "template": "FLAAFFY_SHADOW",
+                        "asset": "180_00"
                     }
                 ],
                 [
                     {
                         "id": 181,
-                        "form_id": 653,
-                        "proto_id": "AMPHAROS_SHADOW",
-                        "asset_id": "181_00"
+                        "form": 653,
+                        "template": "AMPHAROS_SHADOW",
+                        "asset": "181_00"
                     },
                     {
                         "id": 125,
-                        "form_id": 641,
-                        "proto_id": "ELECTABUZZ_SHADOW",
-                        "asset_id": "125_00"
+                        "form": 641,
+                        "template": "ELECTABUZZ_SHADOW",
+                        "asset": "125_00"
                     }
                 ]
             ]
@@ -1680,7 +1680,7 @@
     "50": {
         "active": false,
         "character": {
-            "proto_id": "CHARACTER_ELECTRIC_GRUNT_MALE",
+            "template": "CHARACTER_ELECTRIC_GRUNT_MALE",
             "gender": 1,
             "boss": false,
             "type": {
@@ -1692,7 +1692,7 @@
     "53": {
         "active": true,
         "character": {
-            "proto_id": "CHARACTER_GRUNTB_FEMALE",
+            "template": "CHARACTER_GRUNTB_FEMALE",
             "gender": 0,
             "boss": false,
             "type": null
@@ -1705,25 +1705,25 @@
                 [
                     {
                         "id": 123,
-                        "form_id": 248,
-                        "proto_id": "SCYTHER_SHADOW",
-                        "asset_id": "123_00"
+                        "form": 248,
+                        "template": "SCYTHER_SHADOW",
+                        "asset": "123_00"
                     }
                 ],
                 [
                     {
                         "id": 23,
-                        "form_id": 698,
-                        "proto_id": "EKANS_SHADOW",
-                        "asset_id": "023_00"
+                        "form": 698,
+                        "template": "EKANS_SHADOW",
+                        "asset": "023_00"
                     }
                 ],
                 [
                     {
                         "id": 234,
-                        "form_id": 942,
-                        "proto_id": "STANTLER_SHADOW",
-                        "asset_id": "234_00"
+                        "form": 942,
+                        "template": "STANTLER_SHADOW",
+                        "asset": "234_00"
                     }
                 ]
             ]
@@ -1732,7 +1732,7 @@
     "54": {
         "active": true,
         "character": {
-            "proto_id": "CHARACTER_GRUNTB_MALE",
+            "template": "CHARACTER_GRUNTB_MALE",
             "gender": 1,
             "boss": false,
             "type": null
@@ -1745,25 +1745,25 @@
                 [
                     {
                         "id": 127,
-                        "form_id": 899,
-                        "proto_id": "PINSIR_SHADOW",
-                        "asset_id": "127_00"
+                        "form": 899,
+                        "template": "PINSIR_SHADOW",
+                        "asset": "127_00"
                     }
                 ],
                 [
                     {
                         "id": 109,
-                        "form_id": 704,
-                        "proto_id": "KOFFING_SHADOW",
-                        "asset_id": "109_00"
+                        "form": 704,
+                        "template": "KOFFING_SHADOW",
+                        "asset": "109_00"
                     }
                 ],
                 [
                     {
                         "id": 88,
-                        "form_id": 220,
-                        "proto_id": "GRIMER_SHADOW",
-                        "asset_id": "088_00"
+                        "form": 220,
+                        "template": "GRIMER_SHADOW",
+                        "asset": "088_00"
                     }
                 ]
             ]

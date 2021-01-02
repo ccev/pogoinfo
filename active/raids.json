@@ -2,91 +2,91 @@
     "1": [
         {
             "id": 79,
-            "form_id": 2673,
-            "proto_id": "SLOWPOKE_2020",
-            "asset_id": "pm0079_00_pgo_2020"
+            "form": 2673,
+            "template": "SLOWPOKE_2020",
+            "asset": "pm0079_00_pgo_2020"
         },
         {
             "id": 202,
-            "form_id": 602,
-            "proto_id": "WOBBUFFET_NORMAL",
-            "asset_id": "202_00",
-            "costume_id": 11
+            "form": 602,
+            "template": "WOBBUFFET_NORMAL",
+            "asset": "202_00",
+            "costume": 11
         },
         {
             "id": 265,
-            "proto_id": "WURMPLE",
-            "asset_id": "265_00",
-            "costume_id": 11
+            "template": "WURMPLE",
+            "asset": "265_00",
+            "costume": 11
         },
         {
             "id": 599,
-            "proto_id": "KLINK",
-            "asset_id": "599_00"
+            "template": "KLINK",
+            "asset": "599_00"
         },
         {
             "id": 677,
-            "proto_id": "ESPURR",
-            "asset_id": "677_00"
+            "template": "ESPURR",
+            "asset": "677_00"
         }
     ],
     "3": [
         {
             "id": 20,
-            "form_id": 47,
-            "proto_id": "RATICATE_NORMAL",
-            "asset_id": "020_00",
-            "costume_id": 11
+            "form": 47,
+            "template": "RATICATE_NORMAL",
+            "asset": "020_00",
+            "costume": 11
         },
         {
             "id": 26,
-            "form_id": 50,
-            "proto_id": "RAICHU_ALOLA",
-            "asset_id": "026_61"
+            "form": 50,
+            "template": "RAICHU_ALOLA",
+            "asset": "026_61"
         },
         {
             "id": 80,
-            "form_id": 2674,
-            "proto_id": "SLOWBRO_2021",
-            "asset_id": "pm0080_00_pgo_2021"
+            "form": 2674,
+            "template": "SLOWBRO_2021",
+            "asset": "pm0080_00_pgo_2021"
         },
         {
             "id": 185,
-            "proto_id": "SUDOWOODO",
-            "asset_id": "185_00"
+            "template": "SUDOWOODO",
+            "asset": "185_00"
         },
         {
             "id": 227,
-            "form_id": 1295,
-            "proto_id": "SKARMORY_NORMAL",
-            "asset_id": "227_00"
+            "form": 1295,
+            "template": "SKARMORY_NORMAL",
+            "asset": "227_00"
         }
     ],
     "5": [
         {
             "id": 250,
-            "proto_id": "HO_OH",
-            "asset_id": "250_00"
+            "template": "HO_OH",
+            "asset": "250_00"
         }
     ],
     "6": [
         {
             "id": 6,
-            "form_id": 178,
-            "asset_id": "006_52",
-            "evolution_id": "3"
+            "form": 178,
+            "asset": "006_52",
+            "evolution": 3
         },
         {
             "id": 9,
-            "form_id": 187,
-            "asset_id": "009_51",
-            "evolution_id": "1"
+            "form": 187,
+            "asset": "009_51",
+            "evolution": 1
         },
         {
             "id": 460,
-            "form_id": 935,
-            "asset_id": "460_51",
-            "evolution_id": "1"
+            "form": 935,
+            "asset": "460_51",
+            "evolution": 1
         }
     ]
 }
