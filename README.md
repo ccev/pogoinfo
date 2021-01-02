@@ -13,10 +13,10 @@ Each key will only be there, if the script knows about it and its value is > 0.
 ```js
 {
     "id": 1,                            // Pokemon ID
-    "form_id": 1028,                    // Form ID (Only if it's Alolan/Costume/whatever, no NORMAL IDs)
-    "costume_id": 11,                   // Costume ID
-    "evolution_id": 1,                  // Mega ID (1 = normal, 2 = X, 3 = Y)
-    "proto_id": "BULBASAUR_NORMAL",     // The in-game/proto ID
-    "asset_id": "167"                   // Asset ID used in the default PogoAssets
+    "form": 1028,                       // Form ID (Only if it's Alolan/Costume/whatever, no NORMAL IDs)
+    "costume": 11,                      // Costume ID
+    "evolution": 1,                     // Mega ID (1 = normal, 2 = X, 3 = Y)
+    "template": "BULBASAUR_NORMAL",     // The in-game/proto ID
+    "asset": "167"                      // Asset ID used in the default PogoAssets
 }
 ```
