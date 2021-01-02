@@ -48,7 +48,8 @@
         },
         "quests": {
             "Catch 5 Pokemon": [
-                "Pikachu with a New Year's hat"
+                "Pikachu with a New Year's hat",
+                "Eevee with a party hat"
             ],
             "Catch 10 Pokemon": [
                 "Eevee with a party hat"
