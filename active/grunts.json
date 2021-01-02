@@ -582,16 +582,16 @@
                         "asset_id": "070_00"
                     },
                     {
-                        "id": 44,
-                        "form_id": 269,
-                        "proto_id": "GLOOM_SHADOW",
-                        "asset_id": "044_00"
-                    },
-                    {
                         "id": 2,
                         "form_id": 167,
                         "proto_id": "IVYSAUR_SHADOW",
                         "asset_id": "002_00"
+                    },
+                    {
+                        "id": 44,
+                        "form_id": 269,
+                        "proto_id": "GLOOM_SHADOW",
+                        "asset_id": "044_00"
                     }
                 ],
                 [
@@ -742,16 +742,16 @@
                 ],
                 [
                     {
-                        "id": 131,
-                        "form_id": 323,
-                        "proto_id": "LAPRAS_SHADOW",
-                        "asset_id": "131_00"
-                    },
-                    {
                         "id": 460,
                         "form_id": 936,
                         "proto_id": "ABOMASNOW_SHADOW",
                         "asset_id": "460_00"
+                    },
+                    {
+                        "id": 131,
+                        "form_id": 323,
+                        "proto_id": "LAPRAS_SHADOW",
+                        "asset_id": "131_00"
                     }
                 ]
             ]
@@ -1300,16 +1300,16 @@
                         "asset_id": "208_00"
                     },
                     {
-                        "id": 9,
-                        "form_id": 188,
-                        "proto_id": "BLASTOISE_SHADOW",
-                        "asset_id": "009_00"
-                    },
-                    {
                         "id": 6,
                         "form_id": 179,
                         "proto_id": "CHARIZARD_SHADOW",
                         "asset_id": "006_00"
+                    },
+                    {
+                        "id": 9,
+                        "form_id": 188,
+                        "proto_id": "BLASTOISE_SHADOW",
+                        "asset_id": "009_00"
                     }
                 ],
                 [
