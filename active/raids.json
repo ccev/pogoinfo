@@ -74,19 +74,19 @@
             "id": 6,
             "form_id": 178,
             "asset_id": "006_52",
-            "evolution_id": "3"
+            "evolution_id": 3
         },
         {
             "id": 9,
             "form_id": 187,
             "asset_id": "009_51",
-            "evolution_id": "1"
+            "evolution_id": 1
         },
         {
             "id": 460,
             "form_id": 935,
             "asset_id": "460_51",
-            "evolution_id": "1"
+            "evolution_id": 1
         }
     ]
 }
