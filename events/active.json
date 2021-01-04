@@ -1,61 +1,75 @@
 {
-    "name": "New Years Event 2021",
+    "name": "Sinnoh Celebration Event",
     "start": null,
-    "end": "2021-01-04 22:00",
+    "end": "2021-01-18 05:00",
     "details": {
         "bonuses": [
-            "2x Hatch candy",
-            "2x Hatch stardust",
-            "1/2 Hatch distance",
-            "New boxes in the shop",
-            "New avatar items",
-            "Lots of costumed Pokemon"
+            "Release of shiny Snivy",
+            "Unova Collection Challenge"
         ],
         "eggs": [
-            "Pichu with New Year's Hat",
-            "Slowpoke wearing 2020 glasses",
-            "360_00"
+            "524_00",
+            "540_00",
+            "548_00",
+            "587_00",
+            "588_00",
+            "595_00",
+            "605_00",
+            "616_00"
         ],
         "spawns": [
-            "025_00",
-            "026_00",
-            "079_00"
+            "495_00",
+            "498_00",
+            "501_00",
+            "506_00",
+            "522_00",
+            "524_00",
+            "529_00",
+            "559_00",
+            "535_00",
+            "543_00",
+            "568_00",
+            "574_00",
+            "577_00",
+            "597_00"
         ],
         "raids": {
             "1": [
-                "Wobbuffet in a party hat",
-                "Wurmple in a party hat",
-                "599_00",
-                "Espurr",
-                "Slowpoke in glasses"
+                "495_00",
+                "498_00",
+                "501_00",
+                "532_00",
+                "557_00",
+                "599_00"
             ],
             "3": [
-                "Raticate in a party hat",
-                "Slowbro in glasses",
-                "026_50",
-                "227_00",
-                "185_00"
+                "507_00",
+                "520_00",
+                "530_00",
+                "591_00",
+                "525_00"
             ],
             "5": [
-                "Kyurem (until 1pm on Jan 1st",
-                "PST)"
+                "649_595",
+                "not available as shiny)"
             ],
-            "6": [
+            "Mega": [
                 "460_00",
                 "006_00",
-                "094_00"
+                "009_00"
             ]
         },
         "quests": {
-            "Catch 5 Pokemon": [
-                "Pikachu with a New Year's hat",
-                "Eevee with a party hat"
+            "Use 5 berries to help catch Pok\u00e9mon": [
+                "1200 Stardust"
             ],
-            "Catch 10 Pokemon": [
-                "Eevee with a party hat"
+            "Catch 5 Pok\u00e9mon": [
+                "495_00",
+                "498_00",
+                "501_00"
             ],
-            "Catch 20 Pokemon": [
-                "Slowpoke wearing 2020 glasses"
+            "Hatch 2 eggs": [
+                "597_00"
             ]
         }
     }
