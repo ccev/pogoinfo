@@ -62,10 +62,12 @@
         },
         "quests": {
             "Use 5 berries to help catch Pok\u00e9mon": [
-                "1200 Stardust"
+                "1",
+                "200 Stardust"
             ],
             " Use 3 Golden Razz Berries to help catch Pok\u00e9mon": [
-                "3500 stardust"
+                "3",
+                "500 Stardust"
             ],
             "Catch 5 Pok\u00e9mon": [
                 "495_00",
