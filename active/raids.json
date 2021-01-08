@@ -1,72 +1,69 @@
 {
     "1": [
         {
-            "id": 79,
-            "form": 2673,
-            "template": "SLOWPOKE_2020",
-            "asset": "pm0079_00_pgo_2020"
+            "id": 495,
+            "template": "SNIVY",
+            "asset": "495_00"
         },
         {
-            "id": 202,
-            "form": 602,
-            "template": "WOBBUFFET_NORMAL",
-            "asset": "202_00",
-            "costume": 11
+            "id": 498,
+            "template": "TEPIG",
+            "asset": "498_00"
         },
         {
-            "id": 265,
-            "template": "WURMPLE",
-            "asset": "265_00",
-            "costume": 11
+            "id": 501,
+            "template": "OSHAWOTT",
+            "asset": "501_00"
+        },
+        {
+            "id": 532,
+            "template": "TIMBURR",
+            "asset": "532_00"
+        },
+        {
+            "id": 557,
+            "template": "DWEBBLE",
+            "asset": "557_00"
         },
         {
             "id": 599,
             "template": "KLINK",
             "asset": "599_00"
-        },
-        {
-            "id": 677,
-            "template": "ESPURR",
-            "asset": "677_00"
         }
     ],
     "3": [
         {
-            "id": 20,
-            "form": 47,
-            "template": "RATICATE_NORMAL",
-            "asset": "020_00",
-            "costume": 11
+            "id": 507,
+            "template": "HERDIER",
+            "asset": "507_00"
         },
         {
-            "id": 26,
-            "form": 50,
-            "template": "RAICHU_ALOLA",
-            "asset": "026_61"
+            "id": 520,
+            "template": "TRANQUILL",
+            "asset": "520_00"
         },
         {
-            "id": 80,
-            "form": 2674,
-            "template": "SLOWBRO_2021",
-            "asset": "pm0080_00_pgo_2021"
+            "id": 530,
+            "template": "EXCADRILL",
+            "asset": "530_00"
         },
         {
-            "id": 185,
-            "template": "SUDOWOODO",
-            "asset": "185_00"
+            "id": 591,
+            "template": "AMOONGUSS",
+            "asset": "591_00"
         },
         {
-            "id": 227,
-            "form": 1295,
-            "template": "SKARMORY_NORMAL",
-            "asset": "227_00"
+            "id": 525,
+            "template": "BOLDORE",
+            "asset": "525_00"
         }
     ],
     "5": [
         {
-            "id": 250,
-            "template": "HO_OH",
-            "asset": "250_00"
+            "id": 649,
+            "form": 595,
+            "template": "GENESECT_BURN",
+            "asset": "649_14"
         }
     ],
     "6": [

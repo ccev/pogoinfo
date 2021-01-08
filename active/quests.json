@@ -359,13 +359,10 @@
             "task": "Make 3 Excellent Throws in a row",
             "rewards": [
                 {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 443,
-                        "form": 861,
-                        "template": "GIBLE_NORMAL",
-                        "asset": "443_00"
-                    }
+                    "id": 443,
+                    "form": 861,
+                    "template": "GIBLE_NORMAL",
+                    "asset": "443_00"
                 }
             ]
         },
