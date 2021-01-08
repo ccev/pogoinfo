@@ -357,6 +357,14 @@
             "end": "2020-12-29 19:00",
             "lure_duration": 30,
             "local_times": true
+        },
+        {
+            "name": "Makeup Snover Spotlight Hour for GMT +11, GMT +12, and GMT +13",
+            "type": "spotlight",
+            "start": "2021-01-11 18:00",
+            "end": "2021-01-11 19:00",
+            "lure_duration": 30,
+            "local_times": true
         }
     ]
 }
