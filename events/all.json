@@ -370,5 +370,11 @@
         "type": "Raid Hour",
         "start": "2021-01-20 18:00",
         "end": "2021-01-20 19:00"
+    },
+    {
+        "name": "Kyogre & Groudon Raid Hour",
+        "type": "Raid Hour",
+        "start": "2021-01-20 18:00",
+        "end": "2021-01-20 19:00"
     }
 ]
