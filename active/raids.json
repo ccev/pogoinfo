@@ -1,89 +1,24 @@
 {
     "1": [
-        {
-            "id": 495,
-            "template": "SNIVY",
-            "asset": "495_00"
-        },
-        {
-            "id": 498,
-            "template": "TEPIG",
-            "asset": "498_00"
-        },
-        {
-            "id": 501,
-            "template": "OSHAWOTT",
-            "asset": "501_00"
-        },
-        {
-            "id": 532,
-            "template": "TIMBURR",
-            "asset": "532_00"
-        },
-        {
-            "id": 557,
-            "template": "DWEBBLE",
-            "asset": "557_00"
-        },
-        {
-            "id": 599,
-            "template": "KLINK",
-            "asset": "599_00"
-        }
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
     ],
     "3": [
-        {
-            "id": 507,
-            "template": "HERDIER",
-            "asset": "507_00"
-        },
-        {
-            "id": 520,
-            "template": "TRANQUILL",
-            "asset": "520_00"
-        },
-        {
-            "id": 530,
-            "template": "EXCADRILL",
-            "asset": "530_00"
-        },
-        {
-            "id": 591,
-            "template": "AMOONGUSS",
-            "asset": "591_00"
-        },
-        {
-            "id": 525,
-            "template": "BOLDORE",
-            "asset": "525_00"
-        }
+        null,
+        null,
+        null,
+        null
     ],
     "5": [
-        {
-            "id": 649,
-            "form": 595,
-            "template": "GENESECT_BURN",
-            "asset": "649_14"
-        }
+        null
     ],
     "6": [
-        {
-            "id": 6,
-            "form": 178,
-            "asset": "006_52",
-            "evolution": 3
-        },
-        {
-            "id": 9,
-            "form": 187,
-            "asset": "009_51",
-            "evolution": 1
-        },
-        {
-            "id": 460,
-            "form": 935,
-            "asset": "460_51",
-            "evolution": 1
-        }
+        null,
+        null,
+        null
     ]
 }

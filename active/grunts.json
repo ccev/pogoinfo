@@ -161,16 +161,16 @@
                 ],
                 [
                     {
-                        "id": 435,
-                        "form": 795,
-                        "template": "SKUNTANK_SHADOW",
-                        "asset": "435_00"
-                    },
-                    {
                         "id": 302,
                         "form": 924,
                         "template": "SABLEYE_SHADOW",
                         "asset": "302_00"
+                    },
+                    {
+                        "id": 435,
+                        "form": 795,
+                        "template": "SKUNTANK_SHADOW",
+                        "asset": "435_00"
                     }
                 ],
                 [
@@ -242,12 +242,6 @@
                 ],
                 [
                     {
-                        "id": 130,
-                        "form": 257,
-                        "template": "GYARADOS_SHADOW",
-                        "asset": "130_00"
-                    },
-                    {
                         "id": 149,
                         "form": 197,
                         "template": "DRAGONITE_SHADOW",
@@ -258,6 +252,12 @@
                         "form": 194,
                         "template": "DRAGONAIR_SHADOW",
                         "asset": "148_00"
+                    },
+                    {
+                        "id": 130,
+                        "form": 257,
+                        "template": "GYARADOS_SHADOW",
+                        "asset": "130_00"
                     }
                 ]
             ]
@@ -478,16 +478,16 @@
                 ],
                 [
                     {
-                        "id": 169,
-                        "form": 203,
-                        "template": "CROBAT_SHADOW",
-                        "asset": "169_00"
-                    },
-                    {
                         "id": 42,
                         "form": 161,
                         "template": "GOLBAT_SHADOW",
                         "asset": "042_00"
+                    },
+                    {
+                        "id": 169,
+                        "form": 203,
+                        "template": "CROBAT_SHADOW",
+                        "asset": "169_00"
                     },
                     {
                         "id": 123,
@@ -498,16 +498,16 @@
                 ],
                 [
                     {
-                        "id": 130,
-                        "form": 257,
-                        "template": "GYARADOS_SHADOW",
-                        "asset": "130_00"
-                    },
-                    {
                         "id": 169,
                         "form": 203,
                         "template": "CROBAT_SHADOW",
                         "asset": "169_00"
+                    },
+                    {
+                        "id": 130,
+                        "form": 257,
+                        "template": "GYARADOS_SHADOW",
+                        "asset": "130_00"
                     },
                     {
                         "id": 149,
@@ -661,16 +661,16 @@
                 ],
                 [
                     {
-                        "id": 105,
-                        "form": 227,
-                        "template": "MAROWAK_SHADOW",
-                        "asset": "105_00"
-                    },
-                    {
                         "id": 247,
                         "form": 317,
                         "template": "PUPITAR_SHADOW",
                         "asset": "247_00"
+                    },
+                    {
+                        "id": 105,
+                        "form": 227,
+                        "template": "MAROWAK_SHADOW",
+                        "asset": "105_00"
                     },
                     {
                         "id": 329,
@@ -872,30 +872,30 @@
             "team": [
                 [
                     {
-                        "id": 29,
-                        "form": 777,
-                        "template": "NIDORAN_SHADOW",
-                        "asset": "029_00"
-                    },
-                    {
                         "id": 32,
                         "form": 777,
                         "template": "NIDORAN_SHADOW",
                         "asset": "032_00"
+                    },
+                    {
+                        "id": 29,
+                        "form": 777,
+                        "template": "NIDORAN_SHADOW",
+                        "asset": "029_00"
                     }
                 ],
                 [
-                    {
-                        "id": 88,
-                        "form": 220,
-                        "template": "GRIMER_SHADOW",
-                        "asset": "088_00"
-                    },
                     {
                         "id": 42,
                         "form": 161,
                         "template": "GOLBAT_SHADOW",
                         "asset": "042_00"
+                    },
+                    {
+                        "id": 88,
+                        "form": 220,
+                        "template": "GRIMER_SHADOW",
+                        "asset": "088_00"
                     },
                     {
                         "id": 89,
@@ -1068,16 +1068,16 @@
                 ],
                 [
                     {
-                        "id": 247,
-                        "form": 317,
-                        "template": "PUPITAR_SHADOW",
-                        "asset": "247_00"
-                    },
-                    {
                         "id": 246,
                         "form": 314,
                         "template": "LARVITAR_SHADOW",
                         "asset": "246_00"
+                    },
+                    {
+                        "id": 247,
+                        "form": 317,
+                        "template": "PUPITAR_SHADOW",
+                        "asset": "247_00"
                     }
                 ],
                 [
@@ -1143,16 +1143,16 @@
                 ],
                 [
                     {
-                        "id": 186,
-                        "form": 245,
-                        "template": "POLITOED_SHADOW",
-                        "asset": "186_00"
-                    },
-                    {
                         "id": 62,
                         "form": 242,
                         "template": "POLIWRATH_SHADOW",
                         "asset": "062_00"
+                    },
+                    {
+                        "id": 186,
+                        "form": 245,
+                        "template": "POLITOED_SHADOW",
+                        "asset": "186_00"
                     }
                 ]
             ]
@@ -1230,10 +1230,10 @@
                 ],
                 [
                     {
-                        "id": 466,
-                        "form": 644,
-                        "template": "ELECTIVIRE_SHADOW",
-                        "asset": "466_00"
+                        "id": 68,
+                        "form": 816,
+                        "template": "MACHAMP_SHADOW",
+                        "asset": "068_00"
                     },
                     {
                         "id": 95,
@@ -1242,10 +1242,10 @@
                         "asset": "095_00"
                     },
                     {
-                        "id": 68,
-                        "form": 816,
-                        "template": "MACHAMP_SHADOW",
-                        "asset": "068_00"
+                        "id": 466,
+                        "form": 644,
+                        "template": "ELECTIVIRE_SHADOW",
+                        "asset": "466_00"
                     }
                 ],
                 [
@@ -1569,36 +1569,36 @@
                         "asset": "356_00"
                     },
                     {
-                        "id": 302,
-                        "form": 924,
-                        "template": "SABLEYE_SHADOW",
-                        "asset": "302_00"
-                    },
-                    {
                         "id": 354,
                         "form": 912,
                         "template": "BANETTE_SHADOW",
                         "asset": "354_00"
+                    },
+                    {
+                        "id": 302,
+                        "form": 924,
+                        "template": "SABLEYE_SHADOW",
+                        "asset": "302_00"
                     }
                 ],
                 [
-                    {
-                        "id": 354,
-                        "form": 912,
-                        "template": "BANETTE_SHADOW",
-                        "asset": "354_00"
-                    },
-                    {
-                        "id": 302,
-                        "form": 924,
-                        "template": "SABLEYE_SHADOW",
-                        "asset": "302_00"
-                    },
                     {
                         "id": 477,
                         "form": 921,
                         "template": "DUSKNOIR_SHADOW",
                         "asset": "477_00"
+                    },
+                    {
+                        "id": 302,
+                        "form": 924,
+                        "template": "SABLEYE_SHADOW",
+                        "asset": "302_00"
+                    },
+                    {
+                        "id": 354,
+                        "form": 912,
+                        "template": "BANETTE_SHADOW",
+                        "asset": "354_00"
                     }
                 ]
             ]
@@ -1642,16 +1642,16 @@
                 ],
                 [
                     {
-                        "id": 82,
-                        "form": 659,
-                        "template": "MAGNETON_SHADOW",
-                        "asset": "082_00"
-                    },
-                    {
                         "id": 180,
                         "form": 650,
                         "template": "FLAAFFY_SHADOW",
                         "asset": "180_00"
+                    },
+                    {
+                        "id": 82,
+                        "form": 659,
+                        "template": "MAGNETON_SHADOW",
+                        "asset": "082_00"
                     },
                     {
                         "id": 125,
