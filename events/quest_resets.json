@@ -16,5 +16,41 @@
             "end"
         ],
         "confidence": 10
+    },
+    {
+        "name": "Hoenn Celebration Event Start",
+        "time": "2021-01-19 10:00",
+        "type": [
+            "event",
+            "start"
+        ],
+        "confidence": 9
+    },
+    {
+        "name": "Hoenn Celebration Event End",
+        "time": "2021-01-24 20:00",
+        "type": [
+            "event",
+            "end"
+        ],
+        "confidence": 9
+    },
+    {
+        "name": "Roselia Community Day Start",
+        "time": "2021-02-07 11:00",
+        "type": [
+            "cday",
+            "start"
+        ],
+        "confidence": 10
+    },
+    {
+        "name": "Roselia Community Day End",
+        "time": "2021-02-07 17:00",
+        "type": [
+            "cday",
+            "end"
+        ],
+        "confidence": 10
     }
 ]
