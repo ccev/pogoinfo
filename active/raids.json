@@ -3,43 +3,31 @@
         {
             "id": 387,
             "template": "TURTWIG",
-            "form": 0,
-            "costume": 0,
             "asset": "pokemon_icon_387_00"
         },
         {
             "id": 390,
             "template": "CHIMCHAR",
-            "form": 0,
-            "costume": 0,
             "asset": "pokemon_icon_390_00"
         },
         {
             "id": 393,
             "template": "PIPLUP",
-            "form": 0,
-            "costume": 0,
             "asset": "pokemon_icon_393_00"
         },
         {
             "id": 403,
             "template": "SHINX",
-            "form": 0,
-            "costume": 0,
             "asset": "pokemon_icon_403_00"
         },
         {
             "id": 418,
             "template": "BUIZEL",
-            "form": 0,
-            "costume": 0,
             "asset": "pokemon_icon_418_00"
         },
         {
             "id": 443,
             "template": "GIBLE",
-            "form": 0,
-            "costume": 0,
             "asset": "pokemon_icon_443_00"
         }
     ],
@@ -47,29 +35,21 @@
         {
             "id": 428,
             "template": "LOPUNNY",
-            "form": 0,
-            "costume": 0,
             "asset": "pokemon_icon_428_00"
         },
         {
             "id": 450,
             "template": "HIPPOWDON",
-            "form": 0,
-            "costume": 0,
             "asset": "pokemon_icon_450_00"
         },
         {
             "id": 454,
             "template": "TOXICROAK",
-            "form": 0,
-            "costume": 0,
             "asset": "pokemon_icon_454_00"
         },
         {
             "id": 457,
             "template": "LUMINEON",
-            "form": 0,
-            "costume": 0,
             "asset": "pokemon_icon_457_00"
         }
     ],
@@ -77,8 +57,6 @@
         {
             "id": 485,
             "template": "HEATRAN",
-            "form": 0,
-            "costume": 0,
             "asset": "pokemon_icon_485_00"
         }
     ],
