@@ -248,16 +248,16 @@
                         "asset": "149_00"
                     },
                     {
-                        "id": 148,
-                        "form": 194,
-                        "template": "DRAGONAIR_SHADOW",
-                        "asset": "148_00"
-                    },
-                    {
                         "id": 130,
                         "form": 257,
                         "template": "GYARADOS_SHADOW",
                         "asset": "130_00"
+                    },
+                    {
+                        "id": 148,
+                        "form": 194,
+                        "template": "DRAGONAIR_SHADOW",
+                        "asset": "148_00"
                     }
                 ]
             ]
@@ -1068,16 +1068,16 @@
                 ],
                 [
                     {
-                        "id": 246,
-                        "form": 314,
-                        "template": "LARVITAR_SHADOW",
-                        "asset": "246_00"
-                    },
-                    {
                         "id": 247,
                         "form": 317,
                         "template": "PUPITAR_SHADOW",
                         "asset": "247_00"
+                    },
+                    {
+                        "id": 246,
+                        "form": 314,
+                        "template": "LARVITAR_SHADOW",
+                        "asset": "246_00"
                     }
                 ],
                 [
@@ -1236,16 +1236,16 @@
                         "asset": "068_00"
                     },
                     {
-                        "id": 95,
-                        "form": 903,
-                        "template": "ONIX_SHADOW",
-                        "asset": "095_00"
-                    },
-                    {
                         "id": 466,
                         "form": 644,
                         "template": "ELECTIVIRE_SHADOW",
                         "asset": "466_00"
+                    },
+                    {
+                        "id": 95,
+                        "form": 903,
+                        "template": "ONIX_SHADOW",
+                        "asset": "095_00"
                     }
                 ],
                 [
