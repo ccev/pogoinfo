@@ -382,5 +382,11 @@
         "type": "Event",
         "start": "2021-01-19 10:00",
         "end": "2021-01-24 20:00"
+    },
+    {
+        "name": "Increased Trade Distance (Community Day)",
+        "type": "Event",
+        "start": "2021-01-15 20:00",
+        "end": "2021-01-18 20:00"
     }
 ]
