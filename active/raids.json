@@ -61,8 +61,23 @@
         }
     ],
     "6": [
-        null,
-        null,
-        null
+        {
+            "id": 6,
+            "template": "CHARIZARD",
+            "asset": "pokemon_icon_006_52",
+            "temp_evolution_id": 3
+        },
+        {
+            "id": 9,
+            "template": "BLASTOISE",
+            "asset": "pokemon_icon_009_51",
+            "temp_evolution_id": 1
+        },
+        {
+            "id": 460,
+            "template": "ABOMASNOW",
+            "asset": "pokemon_icon_460_51",
+            "temp_evolution_id": 1
+        }
     ]
 }

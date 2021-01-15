@@ -1068,16 +1068,16 @@
                 ],
                 [
                     {
-                        "id": 247,
-                        "form": 317,
-                        "template": "PUPITAR_SHADOW",
-                        "asset": "247_00"
-                    },
-                    {
                         "id": 246,
                         "form": 314,
                         "template": "LARVITAR_SHADOW",
                         "asset": "246_00"
+                    },
+                    {
+                        "id": 247,
+                        "form": 317,
+                        "template": "PUPITAR_SHADOW",
+                        "asset": "247_00"
                     }
                 ],
                 [
