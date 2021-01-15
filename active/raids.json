@@ -2,81 +2,67 @@
     "1": [
         {
             "id": 387,
-            "template": "TURTWIG",
-            "asset": "pokemon_icon_387_00"
+            "template": "TURTWIG"
         },
         {
             "id": 390,
-            "template": "CHIMCHAR",
-            "asset": "pokemon_icon_390_00"
+            "template": "CHIMCHAR"
         },
         {
             "id": 393,
-            "template": "PIPLUP",
-            "asset": "pokemon_icon_393_00"
+            "template": "PIPLUP"
         },
         {
             "id": 403,
-            "template": "SHINX",
-            "asset": "pokemon_icon_403_00"
+            "template": "SHINX"
         },
         {
             "id": 418,
-            "template": "BUIZEL",
-            "asset": "pokemon_icon_418_00"
+            "template": "BUIZEL"
         },
         {
             "id": 443,
-            "template": "GIBLE",
-            "asset": "pokemon_icon_443_00"
+            "template": "GIBLE"
         }
     ],
     "3": [
         {
             "id": 428,
-            "template": "LOPUNNY",
-            "asset": "pokemon_icon_428_00"
+            "template": "LOPUNNY"
         },
         {
             "id": 450,
-            "template": "HIPPOWDON",
-            "asset": "pokemon_icon_450_00"
+            "template": "HIPPOWDON"
         },
         {
             "id": 454,
-            "template": "TOXICROAK",
-            "asset": "pokemon_icon_454_00"
+            "template": "TOXICROAK"
         },
         {
             "id": 457,
-            "template": "LUMINEON",
-            "asset": "pokemon_icon_457_00"
+            "template": "LUMINEON"
         }
     ],
     "5": [
         {
             "id": 485,
-            "template": "HEATRAN",
-            "asset": "pokemon_icon_485_00"
+            "template": "HEATRAN"
         }
     ],
     "6": [
         {
             "id": 6,
             "template": "CHARIZARD",
-            "asset": "pokemon_icon_006_52",
             "temp_evolution_id": 3
         },
         {
             "id": 9,
             "template": "BLASTOISE",
-            "asset": "pokemon_icon_009_51",
             "temp_evolution_id": 1
         },
         {
             "id": 460,
             "template": "ABOMASNOW",
-            "asset": "pokemon_icon_460_51",
             "temp_evolution_id": 1
         }
     ]
