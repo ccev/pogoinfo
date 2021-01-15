@@ -4,6 +4,7 @@
 
 This file holds information about the Team Rocket grunts with the ID of 1 to 50 and 53/54.
 
+```js
 {
     "1": {                              // The ID of the grunt
         "active": true                  // Whether or not the grunt is currenty being available to battle
