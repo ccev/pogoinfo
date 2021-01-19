@@ -388,5 +388,17 @@
         "type": "Event",
         "start": "2021-01-15 20:00",
         "end": "2021-01-18 20:00"
+    },
+    {
+        "name": "Incense Day feat. Mareep",
+        "type": "Event",
+        "start": "2021-01-24 11:00",
+        "end": "2021-01-24 17:00"
+    },
+    {
+        "name": "Johto Celebration Event",
+        "type": "Event",
+        "start": "2021-01-26 10:00",
+        "end": "2021-01-31 20:00"
     }
 ]
