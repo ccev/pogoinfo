@@ -7,17 +7,15 @@
                     "type": "pokemon",
                     "reward": {
                         "id": 25,
-                        "form": 598,
                         "template": "PIKACHU_NORMAL",
-                        "asset": "025_00"
+                        "form": 598
                     }
                 },
                 {
                     "type": "pokemon",
                     "reward": {
                         "id": 133,
-                        "template": "EEVEE",
-                        "asset": "133_00"
+                        "template": "EEVEE"
                     }
                 }
             ]
@@ -29,8 +27,7 @@
                     "type": "pokemon",
                     "reward": {
                         "id": 133,
-                        "template": "EEVEE",
-                        "asset": "133_00"
+                        "template": "EEVEE"
                     }
                 }
             ]
@@ -42,9 +39,8 @@
                     "type": "pokemon",
                     "reward": {
                         "id": 79,
-                        "form": 1017,
                         "template": "SLOWPOKE_NORMAL",
-                        "asset": "079_00"
+                        "form": 1017
                     }
                 }
             ]
@@ -75,20 +71,17 @@
                 },
                 {
                     "id": 60,
-                    "form": 235,
                     "template": "POLIWAG_NORMAL",
-                    "asset": "060_00"
+                    "form": 235
                 },
                 {
                     "id": 37,
-                    "form": 55,
                     "template": "VULPIX_NORMAL",
-                    "asset": "037_00"
+                    "form": 55
                 },
                 {
                     "id": 220,
-                    "template": "SWINUB",
-                    "asset": "220_00"
+                    "template": "SWINUB"
                 }
             ]
         },
@@ -118,8 +111,7 @@
                     "type": "pokemon",
                     "reward": {
                         "id": 296,
-                        "template": "MAKUHITA",
-                        "asset": "296_00"
+                        "template": "MAKUHITA"
                     }
                 }
             ]
@@ -129,9 +121,8 @@
             "rewards": [
                 {
                     "id": 129,
-                    "form": 253,
                     "template": "MAGIKARP_NORMAL",
-                    "asset": "129_00"
+                    "form": 253
                 }
             ]
         },
@@ -159,9 +150,8 @@
                 },
                 {
                     "id": 147,
-                    "form": 190,
                     "template": "DRATINI_NORMAL",
-                    "asset": "147_00"
+                    "form": 190
                 }
             ]
         },
@@ -242,8 +232,7 @@
             "rewards": [
                 {
                     "id": 327,
-                    "template": "SPINDA",
-                    "asset": "327_00"
+                    "template": "SPINDA"
                 }
             ]
         },
@@ -271,8 +260,7 @@
                 },
                 {
                     "id": 100,
-                    "template": "VOLTORB",
-                    "asset": "100_00"
+                    "template": "VOLTORB"
                 }
             ]
         },
@@ -300,18 +288,15 @@
                 },
                 {
                     "id": 92,
-                    "template": "GASTLY",
-                    "asset": "092_00"
+                    "template": "GASTLY"
                 },
                 {
                     "id": 347,
-                    "template": "ANORITH",
-                    "asset": "347_00"
+                    "template": "ANORITH"
                 },
                 {
                     "id": 345,
-                    "template": "LILEEP",
-                    "asset": "345_00"
+                    "template": "LILEEP"
                 }
             ]
         },
@@ -349,9 +334,8 @@
                 },
                 {
                     "id": 95,
-                    "form": 902,
                     "template": "ONIX_NORMAL",
-                    "asset": "095_00"
+                    "form": 902
                 }
             ]
         },
@@ -360,9 +344,8 @@
             "rewards": [
                 {
                     "id": 443,
-                    "form": 861,
                     "template": "GIBLE_NORMAL",
-                    "asset": "443_00"
+                    "form": 861
                 }
             ]
         },
@@ -525,15 +508,13 @@
             "rewards": [
                 {
                     "id": 138,
-                    "form": 740,
                     "template": "OMANYTE_NORMAL",
-                    "asset": "138_00"
+                    "form": 740
                 },
                 {
                     "id": 140,
-                    "form": 1104,
                     "template": "KABUTO_NORMAL",
-                    "asset": "140_00"
+                    "form": 1104
                 }
             ]
         },
@@ -544,9 +525,8 @@
                     "type": "pokemon",
                     "reward": {
                         "id": 142,
-                        "form": 1110,
                         "template": "AERODACTYL_NORMAL",
-                        "asset": "142_00"
+                        "form": 1110
                     }
                 }
             ]
@@ -556,9 +536,8 @@
             "rewards": [
                 {
                     "id": 123,
-                    "form": 247,
                     "template": "SCYTHER_NORMAL",
-                    "asset": "123_00"
+                    "form": 247
                 }
             ]
         },
@@ -567,8 +546,7 @@
             "rewards": [
                 {
                     "id": 607,
-                    "template": "LITWICK",
-                    "asset": "607_00"
+                    "template": "LITWICK"
                 }
             ]
         },
@@ -577,8 +555,7 @@
             "rewards": [
                 {
                     "id": 506,
-                    "template": "LILLIPUP",
-                    "asset": "506_00"
+                    "template": "LILLIPUP"
                 }
             ]
         },
@@ -587,8 +564,7 @@
             "rewards": [
                 {
                     "id": 39,
-                    "template": "JIGGLYPUFF",
-                    "asset": "039_00"
+                    "template": "JIGGLYPUFF"
                 }
             ]
         },
@@ -597,8 +573,7 @@
             "rewards": [
                 {
                     "id": 307,
-                    "template": "MEDITITE",
-                    "asset": "307_00"
+                    "template": "MEDITITE"
                 }
             ]
         },
@@ -607,8 +582,7 @@
             "rewards": [
                 {
                     "id": 117,
-                    "template": "SEADRA",
-                    "asset": "117_00"
+                    "template": "SEADRA"
                 }
             ]
         },
@@ -617,14 +591,12 @@
             "rewards": [
                 {
                     "id": 133,
-                    "template": "EEVEE",
-                    "asset": "133_00"
+                    "template": "EEVEE"
                 },
                 {
                     "id": 103,
-                    "form": 77,
                     "template": "EXEGGUTOR_NORMAL",
-                    "asset": "103_00"
+                    "form": 77
                 }
             ]
         },
@@ -633,8 +605,7 @@
             "rewards": [
                 {
                     "id": 183,
-                    "template": "MARILL",
-                    "asset": "183_00"
+                    "template": "MARILL"
                 }
             ]
         },
@@ -645,27 +616,24 @@
                     "type": "pokemon",
                     "reward": {
                         "id": 1,
-                        "form": 163,
                         "template": "BULBASAUR_NORMAL",
-                        "asset": "001_00"
+                        "form": 163
                     }
                 },
                 {
                     "type": "pokemon",
                     "reward": {
                         "id": 4,
-                        "form": 172,
                         "template": "CHARMANDER_NORMAL",
-                        "asset": "004_00"
+                        "form": 172
                     }
                 },
                 {
                     "type": "pokemon",
                     "reward": {
                         "id": 7,
-                        "form": 181,
                         "template": "SQUIRTLE_NORMAL",
-                        "asset": "007_00"
+                        "form": 181
                     }
                 }
             ]
@@ -701,36 +669,32 @@
                     "type": "energy",
                     "reward": {
                         "id": 15,
-                        "form": 622,
                         "template": "BEEDRILL_NORMAL",
-                        "asset": "015_00"
+                        "form": 622
                     }
                 },
                 {
                     "type": "energy",
                     "reward": {
                         "id": 3,
-                        "form": 169,
                         "template": "VENUSAUR_NORMAL",
-                        "asset": "003_00"
+                        "form": 169
                     }
                 },
                 {
                     "type": "energy",
                     "reward": {
                         "id": 6,
-                        "form": 178,
                         "template": "CHARIZARD_NORMAL",
-                        "asset": "006_00"
+                        "form": 178
                     }
                 },
                 {
                     "type": "energy",
                     "reward": {
                         "id": 9,
-                        "form": 187,
                         "template": "BLASTOISE_NORMAL",
-                        "asset": "009_00"
+                        "form": 187
                     }
                 }
             ]
@@ -744,18 +708,16 @@
                     "type": "pokemon",
                     "reward": {
                         "id": 147,
-                        "form": 190,
                         "template": "DRATINI_NORMAL",
-                        "asset": "147_00"
+                        "form": 190
                     }
                 },
                 {
                     "type": "pokemon",
                     "reward": {
                         "id": 227,
-                        "form": 1295,
                         "template": "SKARMORY_NORMAL",
-                        "asset": "227_00"
+                        "form": 1295
                     }
                 }
             ]

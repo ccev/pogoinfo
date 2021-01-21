@@ -242,16 +242,16 @@
                 ],
                 [
                     {
-                        "id": 149,
-                        "form": 197,
-                        "template": "DRAGONITE_SHADOW",
-                        "asset": "149_00"
-                    },
-                    {
                         "id": 130,
                         "form": 257,
                         "template": "GYARADOS_SHADOW",
                         "asset": "130_00"
+                    },
+                    {
+                        "id": 149,
+                        "form": 197,
+                        "template": "DRAGONITE_SHADOW",
+                        "asset": "149_00"
                     },
                     {
                         "id": 148,
@@ -906,16 +906,16 @@
                 ],
                 [
                     {
-                        "id": 30,
-                        "form": 780,
-                        "template": "NIDORINA_SHADOW",
-                        "asset": "030_00"
-                    },
-                    {
                         "id": 33,
                         "form": 786,
                         "template": "NIDORINO_SHADOW",
                         "asset": "033_00"
+                    },
+                    {
+                        "id": 30,
+                        "form": 780,
+                        "template": "NIDORINA_SHADOW",
+                        "asset": "030_00"
                     }
                 ]
             ]
@@ -1230,16 +1230,16 @@
                 ],
                 [
                     {
-                        "id": 68,
-                        "form": 816,
-                        "template": "MACHAMP_SHADOW",
-                        "asset": "068_00"
-                    },
-                    {
                         "id": 466,
                         "form": 644,
                         "template": "ELECTIVIRE_SHADOW",
                         "asset": "466_00"
+                    },
+                    {
+                        "id": 68,
+                        "form": 816,
+                        "template": "MACHAMP_SHADOW",
+                        "asset": "068_00"
                     },
                     {
                         "id": 95,
@@ -1642,16 +1642,16 @@
                 ],
                 [
                     {
-                        "id": 180,
-                        "form": 650,
-                        "template": "FLAAFFY_SHADOW",
-                        "asset": "180_00"
-                    },
-                    {
                         "id": 82,
                         "form": 659,
                         "template": "MAGNETON_SHADOW",
                         "asset": "082_00"
+                    },
+                    {
+                        "id": 180,
+                        "form": 650,
+                        "template": "FLAAFFY_SHADOW",
+                        "asset": "180_00"
                     },
                     {
                         "id": 125,

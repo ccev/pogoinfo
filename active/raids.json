@@ -1,73 +1,82 @@
 {
     "1": [
         {
-            "id": 387,
-            "template": "TURTWIG_NORMAL",
-            "form": 688
+            "id": 252,
+            "template": "TREECKO"
         },
         {
-            "id": 390,
-            "template": "CHIMCHAR_NORMAL",
-            "form": 818
+            "id": 255,
+            "template": "TORCHIC"
         },
         {
-            "id": 393,
-            "template": "PIPLUP"
+            "id": 258,
+            "template": "MUDKIP_NORMAL",
+            "form": 205
         },
         {
-            "id": 403,
-            "template": "SHINX"
+            "id": 280,
+            "template": "RALTS_NORMAL",
+            "form": 292
         },
         {
-            "id": 418,
-            "template": "BUIZEL"
+            "id": 304,
+            "template": "ARON"
         },
         {
-            "id": 443,
-            "template": "GIBLE_NORMAL",
-            "form": 861
+            "id": 371,
+            "template": "BAGON_NORMAL",
+            "form": 755
         }
     ],
     "3": [
         {
-            "id": 428,
-            "template": "LOPUNNY"
+            "id": 286,
+            "template": "BRELOOM"
         },
         {
-            "id": 450,
-            "template": "HIPPOWDON_NORMAL",
-            "form": 891
+            "id": 303,
+            "template": "MAWILE_NORMAL",
+            "form": 833
         },
         {
-            "id": 454,
-            "template": "TOXICROAK"
+            "id": 326,
+            "template": "GRUMPIG"
         },
         {
-            "id": 457,
-            "template": "LUMINEON"
+            "id": 327,
+            "template": "SPINDA"
+        },
+        {
+            "id": 359,
+            "template": "ABSOL_NORMAL",
+            "form": 830
         }
     ],
     "5": [
         {
-            "id": 485,
-            "template": "HEATRAN"
+            "id": 382,
+            "template": "KYOGRE"
+        },
+        {
+            "id": 383,
+            "template": "GROUDON"
         }
     ],
     "6": [
         {
-            "id": 6,
-            "template": "CHARIZARD",
-            "temp_evolution_id": 3
+            "id": 3,
+            "template": "VENUSAUR_NORMAL",
+            "form": 169
         },
         {
-            "id": 9,
-            "template": "BLASTOISE",
-            "temp_evolution_id": 1
+            "id": 181,
+            "template": "AMPHAROS_NORMAL",
+            "form": 652
         },
         {
-            "id": 460,
-            "template": "ABOMASNOW",
-            "temp_evolution_id": 1
+            "id": 229,
+            "template": "HOUNDOOM_NORMAL",
+            "form": 232
         }
     ]
 }
