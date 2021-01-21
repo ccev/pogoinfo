@@ -400,5 +400,29 @@
         "type": "Event",
         "start": "2021-01-26 10:00",
         "end": "2021-01-31 20:00"
+    },
+    {
+        "name": "Entei Raid Hour",
+        "type": "Raid Hour",
+        "start": "2021-01-27 18:00",
+        "end": "2021-01-27 19:00"
+    },
+    {
+        "name": "Pok\u00e9mon Spotlight Hour",
+        "type": "Pok\u00e9mon Spotlight Hour",
+        "start": "2021-02-02 18:00",
+        "end": "2021-02-23 19:00"
+    },
+    {
+        "name": "Raikou Raid Hour",
+        "type": "Raid Hour",
+        "start": "2021-02-03 18:00",
+        "end": "2021-02-03 19:00"
+    },
+    {
+        "name": "Suicune Raid Hour",
+        "type": "Raid Hour",
+        "start": "2021-02-10 18:00",
+        "end": "2021-02-10 19:00"
     }
 ]
