@@ -397,6 +397,14 @@
             "end": "2021-02-23 19:00",
             "lure_duration": 30,
             "local_times": true
+        },
+        {
+            "name": "Pok\u00e9mon Spotlight Hour",
+            "type": "spotlight",
+            "start": null,
+            "end": "2021-02-23 19:00",
+            "lure_duration": 30,
+            "local_times": true
         }
     ]
 }
