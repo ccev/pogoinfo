@@ -1,65 +1,60 @@
 {
     "1": [
         {
-            "id": 252,
-            "template": "TREECKO"
+            "id": 152,
+            "template": "CHIKORITA"
         },
         {
-            "id": 255,
-            "template": "TORCHIC"
+            "id": 155,
+            "template": "CYNDAQUIL"
         },
         {
-            "id": 258,
-            "template": "MUDKIP_NORMAL",
-            "form": 205
+            "id": 158,
+            "template": "TOTODILE"
         },
         {
-            "id": 280,
-            "template": "RALTS_NORMAL",
-            "form": 292
+            "id": 179,
+            "template": "MAREEP_NORMAL",
+            "form": 646
         },
         {
-            "id": 304,
-            "template": "ARON"
+            "id": 183,
+            "template": "MARILL"
         },
         {
-            "id": 371,
-            "template": "BAGON_NORMAL",
-            "form": 755
+            "id": 246,
+            "template": "LARVITAR_NORMAL",
+            "form": 313
         }
     ],
     "3": [
         {
-            "id": 286,
-            "template": "BRELOOM"
+            "id": 176,
+            "template": "TOGETIC"
         },
         {
-            "id": 303,
-            "template": "MAWILE_NORMAL",
-            "form": 833
+            "id": 196,
+            "template": "ESPEON"
         },
         {
-            "id": 326,
-            "template": "GRUMPIG"
+            "id": 197,
+            "template": "UMBREON"
         },
         {
-            "id": 327,
-            "template": "SPINDA"
+            "id": 227,
+            "template": "SKARMORY_NORMAL",
+            "form": 1295
         },
         {
-            "id": 359,
-            "template": "ABSOL_NORMAL",
-            "form": 830
+            "id": 241,
+            "template": "MILTANK"
         }
     ],
     "5": [
         {
-            "id": 382,
-            "template": "KYOGRE"
-        },
-        {
-            "id": 383,
-            "template": "GROUDON"
+            "id": 244,
+            "template": "ENTEI_NORMAL",
+            "form": 1334
         }
     ],
     "6": [

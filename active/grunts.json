@@ -667,16 +667,16 @@
                         "asset": "247_00"
                     },
                     {
-                        "id": 105,
-                        "form": 227,
-                        "template": "MAROWAK_SHADOW",
-                        "asset": "105_00"
-                    },
-                    {
                         "id": 329,
                         "form": 750,
                         "template": "VIBRAVA_SHADOW",
                         "asset": "329_00"
+                    },
+                    {
+                        "id": 105,
+                        "form": 227,
+                        "template": "MAROWAK_SHADOW",
+                        "asset": "105_00"
                     }
                 ],
                 [
@@ -742,16 +742,16 @@
                 ],
                 [
                     {
-                        "id": 460,
-                        "form": 936,
-                        "template": "ABOMASNOW_SHADOW",
-                        "asset": "460_00"
-                    },
-                    {
                         "id": 131,
                         "form": 323,
                         "template": "LAPRAS_SHADOW",
                         "asset": "131_00"
+                    },
+                    {
+                        "id": 460,
+                        "form": 936,
+                        "template": "ABOMASNOW_SHADOW",
+                        "asset": "460_00"
                     }
                 ]
             ]
@@ -989,16 +989,16 @@
                         "asset": "096_00"
                     },
                     {
-                        "id": 280,
-                        "form": 293,
-                        "template": "RALTS_SHADOW",
-                        "asset": "280_00"
-                    },
-                    {
                         "id": 97,
                         "form": 218,
                         "template": "HYPNO_SHADOW",
                         "asset": "097_00"
+                    },
+                    {
+                        "id": 280,
+                        "form": 293,
+                        "template": "RALTS_SHADOW",
+                        "asset": "280_00"
                     }
                 ],
                 [
@@ -1129,16 +1129,16 @@
                 ],
                 [
                     {
-                        "id": 61,
-                        "form": 239,
-                        "template": "POLIWHIRL_SHADOW",
-                        "asset": "061_00"
-                    },
-                    {
                         "id": 55,
                         "form": 290,
                         "template": "GOLDUCK_SHADOW",
                         "asset": "055_00"
+                    },
+                    {
+                        "id": 61,
+                        "form": 239,
+                        "template": "POLIWHIRL_SHADOW",
+                        "asset": "061_00"
                     }
                 ],
                 [
@@ -1422,6 +1422,12 @@
                 ],
                 [
                     {
+                        "id": 115,
+                        "form": 840,
+                        "template": "KANGASKHAN_SHADOW",
+                        "asset": "115_00"
+                    },
+                    {
                         "id": 445,
                         "form": 868,
                         "template": "GARCHOMP_SHADOW",
@@ -1432,12 +1438,6 @@
                         "form": 789,
                         "template": "NIDOKING_SHADOW",
                         "asset": "034_00"
-                    },
-                    {
-                        "id": 115,
-                        "form": 840,
-                        "template": "KANGASKHAN_SHADOW",
-                        "asset": "115_00"
                     }
                 ],
                 [
@@ -1589,16 +1589,16 @@
                         "asset": "477_00"
                     },
                     {
-                        "id": 302,
-                        "form": 924,
-                        "template": "SABLEYE_SHADOW",
-                        "asset": "302_00"
-                    },
-                    {
                         "id": 354,
                         "form": 912,
                         "template": "BANETTE_SHADOW",
                         "asset": "354_00"
+                    },
+                    {
+                        "id": 302,
+                        "form": 924,
+                        "template": "SABLEYE_SHADOW",
+                        "asset": "302_00"
                     }
                 ]
             ]
