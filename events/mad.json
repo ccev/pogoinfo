@@ -29,6 +29,38 @@
             "end": "2021-01-16 17:00",
             "lure_duration": 30,
             "local_times": true
+        },
+        {
+            "name": "Ekans Spotlight Hour",
+            "type": "spotlight",
+            "start": "2021-02-02 18:00",
+            "end": "2021-02-02 19:00",
+            "lure_duration": 30,
+            "local_times": true
+        },
+        {
+            "name": "Miltank Spotlight Hour",
+            "type": "spotlight",
+            "start": "2021-02-09 18:00",
+            "end": "2021-02-09 19:00",
+            "lure_duration": 30,
+            "local_times": true
+        },
+        {
+            "name": "Luvdisc Spotlight Hour",
+            "type": "spotlight",
+            "start": "2021-02-16 18:00",
+            "end": "2021-02-16 19:00",
+            "lure_duration": 30,
+            "local_times": true
+        },
+        {
+            "name": "Pikachu Spotlight Hour",
+            "type": "spotlight",
+            "start": "2021-02-23 18:00",
+            "end": "2021-02-23 19:00",
+            "lure_duration": 30,
+            "local_times": true
         }
     ]
 }

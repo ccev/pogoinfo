@@ -424,5 +424,47 @@
         "type": "Raid Hour",
         "start": "2021-02-10 18:00",
         "end": "2021-02-10 19:00"
+    },
+    {
+        "name": "Ekans Spotlight Hour",
+        "type": "Pok\u00e9mon Spotlight Hour",
+        "start": "2021-02-02 18:00",
+        "end": "2021-02-02 19:00"
+    },
+    {
+        "name": "Team GO Rocket Celebration Event",
+        "type": "Event",
+        "start": "2021-02-02 10:00",
+        "end": "2021-02-07 10:00"
+    },
+    {
+        "name": "Miltank Spotlight Hour",
+        "type": "Pok\u00e9mon Spotlight Hour",
+        "start": "2021-02-09 18:00",
+        "end": "2021-02-09 19:00"
+    },
+    {
+        "name": "Lunar New Year 2021",
+        "type": "Event",
+        "start": "2021-02-09 10:00",
+        "end": "2021-02-14 13:00"
+    },
+    {
+        "name": "Luvdisc Spotlight Hour",
+        "type": "Pok\u00e9mon Spotlight Hour",
+        "start": "2021-02-16 18:00",
+        "end": "2021-02-16 19:00"
+    },
+    {
+        "name": "Valentine\u2019s Day Event",
+        "type": "Event",
+        "start": "2021-02-14 13:00",
+        "end": "2021-02-18 20:00"
+    },
+    {
+        "name": "Pikachu Spotlight Hour",
+        "type": "Pok\u00e9mon Spotlight Hour",
+        "start": "2021-02-23 18:00",
+        "end": "2021-02-23 19:00"
     }
 ]
