@@ -466,5 +466,23 @@
         "type": "Pok\u00e9mon Spotlight Hour",
         "start": "2021-02-23 18:00",
         "end": "2021-02-23 19:00"
+    },
+    {
+        "name": "Latias & Latios Raid Hour",
+        "type": "Raid Hour",
+        "start": "2021-02-17 18:00",
+        "end": "2021-02-17 19:00"
+    },
+    {
+        "name": "Articuno, Zapdos, Moltres, and Mewtwo Raid Hour",
+        "type": "Raid Hour",
+        "start": "2021-02-24 18:00",
+        "end": "2021-02-24 19:00"
+    },
+    {
+        "name": "Kanto Celebration Event & Raid Day",
+        "type": "Event",
+        "start": null,
+        "end": null
     }
 ]
