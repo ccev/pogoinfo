@@ -393,16 +393,16 @@
                 ],
                 [
                     {
-                        "id": 229,
-                        "form": 233,
-                        "template": "HOUNDOOM_SHADOW",
-                        "asset": "229_00"
-                    },
-                    {
                         "id": 38,
                         "form": 727,
                         "template": "NINETALES_SHADOW",
                         "asset": "038_00"
+                    },
+                    {
+                        "id": 229,
+                        "form": 233,
+                        "template": "HOUNDOOM_SHADOW",
+                        "asset": "229_00"
                     }
                 ],
                 [
@@ -478,16 +478,16 @@
                 ],
                 [
                     {
-                        "id": 42,
-                        "form": 161,
-                        "template": "GOLBAT_SHADOW",
-                        "asset": "042_00"
-                    },
-                    {
                         "id": 169,
                         "form": 203,
                         "template": "CROBAT_SHADOW",
                         "asset": "169_00"
+                    },
+                    {
+                        "id": 42,
+                        "form": 161,
+                        "template": "GOLBAT_SHADOW",
+                        "asset": "042_00"
                     },
                     {
                         "id": 123,
@@ -1115,30 +1115,30 @@
             "team": [
                 [
                     {
-                        "id": 90,
-                        "form": 877,
-                        "template": "SHELLDER_SHADOW",
-                        "asset": "090_00"
-                    },
-                    {
                         "id": 54,
                         "form": 287,
                         "template": "PSYDUCK_SHADOW",
                         "asset": "054_00"
+                    },
+                    {
+                        "id": 90,
+                        "form": 877,
+                        "template": "SHELLDER_SHADOW",
+                        "asset": "090_00"
                     }
                 ],
                 [
-                    {
-                        "id": 55,
-                        "form": 290,
-                        "template": "GOLDUCK_SHADOW",
-                        "asset": "055_00"
-                    },
                     {
                         "id": 61,
                         "form": 239,
                         "template": "POLIWHIRL_SHADOW",
                         "asset": "061_00"
+                    },
+                    {
+                        "id": 55,
+                        "form": 290,
+                        "template": "GOLDUCK_SHADOW",
+                        "asset": "055_00"
                     }
                 ],
                 [

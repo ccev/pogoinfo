@@ -89,7 +89,8 @@
                     "type": "pokemon",
                     "reward": {
                         "id": 220,
-                        "template": "SWINUB"
+                        "template": "SWINUB_NORMAL",
+                        "form": 1277
                     }
                 }
             ]
@@ -318,14 +319,16 @@
                     "type": "pokemon",
                     "reward": {
                         "id": 347,
-                        "template": "ANORITH"
+                        "template": "ANORITH_NORMAL",
+                        "form": 1574
                     }
                 },
                 {
                     "type": "pokemon",
                     "reward": {
                         "id": 345,
-                        "template": "LILEEP"
+                        "template": "LILEEP_NORMAL",
+                        "form": 1568
                     }
                 }
             ]

@@ -61,17 +61,20 @@
         {
             "id": 3,
             "template": "VENUSAUR_NORMAL",
-            "form": 169
+            "form": 169,
+            "temp_evolution_id": 1
         },
         {
             "id": 181,
             "template": "AMPHAROS_NORMAL",
-            "form": 652
+            "form": 652,
+            "temp_evolution_id": 1
         },
         {
             "id": 229,
             "template": "HOUNDOOM_NORMAL",
-            "form": 232
+            "form": 232,
+            "temp_evolution_id": 1
         }
     ]
 }
