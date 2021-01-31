@@ -1,23 +1,5 @@
 [
     {
-        "name": "Johto Celebration Event Start",
-        "time": "2021-01-26 10:00",
-        "type": [
-            "event",
-            "start"
-        ],
-        "confidence": 9
-    },
-    {
-        "name": "Johto Celebration Event End",
-        "time": "2021-01-31 20:00",
-        "type": [
-            "event",
-            "end"
-        ],
-        "confidence": 9
-    },
-    {
         "name": "Roselia Community Day Start",
         "time": "2021-02-07 11:00",
         "type": [
