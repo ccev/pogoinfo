@@ -53,26 +53,24 @@
     "5": [
         {
             "id": 243,
-            "template": "RAIKOU"
+            "template": "RAIKOU_NORMAL",
+            "form": 1331
         }
     ],
     "6": [
         {
             "id": 3,
-            "template": "VENUSAUR_NORMAL",
-            "form": 169,
+            "template": "VENUSAUR",
             "temp_evolution_id": 1
         },
         {
             "id": 181,
-            "template": "AMPHAROS_NORMAL",
-            "form": 652,
+            "template": "AMPHAROS",
             "temp_evolution_id": 1
         },
         {
             "id": 229,
-            "template": "HOUNDOOM_NORMAL",
-            "form": 232,
+            "template": "HOUNDOOM",
             "temp_evolution_id": 1
         }
     ]
