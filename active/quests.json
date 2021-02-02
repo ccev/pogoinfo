@@ -1,52 +1,121 @@
 {
     "event": [
         {
-            "task": "Catch 5 Pok\u00e9mon",
+            "task": "Defeat 2 Team GO Rocket Grunts",
             "rewards": [
                 {
                     "type": "pokemon",
                     "reward": {
-                        "id": 25,
-                        "template": "PIKACHU_NORMAL",
-                        "form": 598
+                        "id": 29,
+                        "template": "NIDORAN_NORMAL",
+                        "form": 776
                     }
                 },
                 {
                     "type": "pokemon",
                     "reward": {
-                        "id": 133,
-                        "template": "EEVEE"
+                        "id": 32,
+                        "template": "NIDORAN_NORMAL",
+                        "form": 776
                     }
                 }
             ]
         },
         {
-            "task": "Catch 10 Pok\u00e9mon",
+            "task": "Catch 7 Poison-type Pok\u00e9mon",
             "rewards": [
                 {
                     "type": "pokemon",
                     "reward": {
-                        "id": 133,
-                        "template": "EEVEE"
+                        "id": 207,
+                        "template": "GLIGAR_NORMAL",
+                        "form": 803
                     }
                 }
             ]
         },
         {
-            "task": "Catch 20 Pok\u00e9mon",
+            "task": "Purify 3 Shadow Pok\u00e9mon",
             "rewards": [
                 {
                     "type": "pokemon",
                     "reward": {
-                        "id": 79,
-                        "template": "SLOWPOKE_NORMAL",
-                        "form": 1017
+                        "id": 200,
+                        "template": "MISDREAVUS_NORMAL",
+                        "form": 719
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Catch 15 Dark-type Pok\u00e9mon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 197,
+                        "template": "UMBREON"
                     }
                 }
             ]
         }
     ],
     "quests": [
+        {
+            "task": "Catch 9 Pok\u00e9mon with Weather Boost",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 495,
+                        "template": "SNIVY"
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 498,
+                        "template": "TEPIG"
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 501,
+                        "template": "OSHAWOTT"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Catch 5 Pok\u00e9mon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 1,
+                        "template": "BULBASAUR_NORMAL",
+                        "form": 163
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 4,
+                        "template": "CHARMANDER_NORMAL",
+                        "form": 172
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 7,
+                        "template": "SQUIRTLE_NORMAL",
+                        "form": 181
+                    }
+                }
+            ]
+        },
         {
             "task": "Catch 5 Pok\u00e9mon with Weather Boost",
             "rewards": [
@@ -84,13 +153,37 @@
                         "template": "VULPIX_NORMAL",
                         "form": 55
                     }
+                }
+            ]
+        },
+        {
+            "task": "Catch 10 Pok\u00e9mon",
+            "rewards": [
+                {
+                    "type": "stardust",
+                    "amount": 200
+                },
+                {
+                    "type": "item",
+                    "amount": 3,
+                    "id": 701
+                },
+                {
+                    "type": "item",
+                    "amount": 1,
+                    "id": 705
+                },
+                {
+                    "type": "item",
+                    "amount": 5,
+                    "id": 1
                 },
                 {
                     "type": "pokemon",
                     "reward": {
-                        "id": 220,
-                        "template": "SWINUB_NORMAL",
-                        "form": 1277
+                        "id": 129,
+                        "template": "MAGIKARP_NORMAL",
+                        "form": 253
                     }
                 }
             ]
@@ -120,21 +213,9 @@
                 {
                     "type": "pokemon",
                     "reward": {
-                        "id": 296,
-                        "template": "MAKUHITA"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Catch 10 Pok\u00e9mon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 129,
-                        "template": "MAGIKARP_NORMAL",
-                        "form": 253
+                        "id": 216,
+                        "template": "TEDDIURSA_NORMAL",
+                        "form": 1265
                     }
                 }
             ]
@@ -244,45 +325,12 @@
             ]
         },
         {
-            "task": "Make 5 Great Curveball Throws in a row",
+            "task": "Catch 7 different species of Pok\u00e9mon. ",
             "rewards": [
                 {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 327,
-                        "template": "SPINDA"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Make 5 Nice Throws",
-            "rewards": [
-                {
-                    "type": "stardust",
-                    "amount": 200
-                },
-                {
                     "type": "item",
-                    "amount": 3,
-                    "id": 701
-                },
-                {
-                    "type": "item",
-                    "amount": 1,
+                    "amount": 2,
                     "id": 705
-                },
-                {
-                    "type": "item",
-                    "amount": 5,
-                    "id": 1
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 100,
-                        "template": "VOLTORB"
-                    }
                 }
             ]
         },
@@ -334,6 +382,62 @@
             ]
         },
         {
+            "task": "Make 5 Nice Throws",
+            "rewards": [
+                {
+                    "type": "stardust",
+                    "amount": 200
+                },
+                {
+                    "type": "item",
+                    "amount": 3,
+                    "id": 701
+                },
+                {
+                    "type": "item",
+                    "amount": 1,
+                    "id": 705
+                },
+                {
+                    "type": "item",
+                    "amount": 5,
+                    "id": 1
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 100,
+                        "template": "VOLTORB"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Make 3 Excellent Throws in a row",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 443,
+                        "template": "GIBLE_NORMAL",
+                        "form": 861
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Make 5 Great Curveball Throws in a row",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 327,
+                        "template": "SPINDA"
+                    }
+                }
+            ]
+        },
+        {
             "task": "Make 3 Great Throws in a row",
             "rewards": [
                 {
@@ -371,19 +475,6 @@
                         "id": 95,
                         "template": "ONIX_NORMAL",
                         "form": 902
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Make 3 Excellent Throws in a row",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 443,
-                        "template": "GIBLE_NORMAL",
-                        "form": 861
                     }
                 }
             ]
@@ -564,6 +655,27 @@
             ]
         },
         {
+            "task": "Defeat 2 Team GO Rocket Grunts",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 109,
+                        "template": "KOFFING_NORMAL",
+                        "form": 703
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 23,
+                        "template": "EKANS_NORMAL",
+                        "form": 697
+                    }
+                }
+            ]
+        },
+        {
             "task": "Win 5 raids",
             "rewards": [
                 {
@@ -577,26 +689,35 @@
             ]
         },
         {
-            "task": "Defeat 3 Team GO Rocket Grunts",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 123,
-                        "template": "SCYTHER_NORMAL",
-                        "form": 247
-                    }
-                }
-            ]
-        },
-        {
             "task": "Win a raid",
             "rewards": [
                 {
                     "type": "pokemon",
                     "reward": {
-                        "id": 607,
-                        "template": "LITWICK"
+                        "id": 147,
+                        "template": "DRATINI_NORMAL",
+                        "form": 190
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Win in the GO Battle League",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 106,
+                        "template": "HITMONLEE_NORMAL",
+                        "form": 713
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 107,
+                        "template": "HITMONCHAN_NORMAL",
+                        "form": 277
                     }
                 }
             ]
@@ -607,8 +728,9 @@
                 {
                     "type": "pokemon",
                     "reward": {
-                        "id": 506,
-                        "template": "LILLIPUP"
+                        "id": 104,
+                        "template": "CUBONE_NORMAL",
+                        "form": 224
                     }
                 }
             ]
@@ -619,8 +741,8 @@
                 {
                     "type": "pokemon",
                     "reward": {
-                        "id": 39,
-                        "template": "JIGGLYPUFF"
+                        "id": 315,
+                        "template": "ROSELIA"
                     }
                 }
             ]
@@ -631,8 +753,8 @@
                 {
                     "type": "pokemon",
                     "reward": {
-                        "id": 307,
-                        "template": "MEDITITE"
+                        "id": 325,
+                        "template": "SPOINK"
                     }
                 }
             ]
@@ -643,8 +765,32 @@
                 {
                     "type": "pokemon",
                     "reward": {
-                        "id": 117,
-                        "template": "SEADRA"
+                        "id": 66,
+                        "template": "MACHOP_NORMAL",
+                        "form": 809
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 74,
+                        "template": "GEODUDE_NORMAL",
+                        "form": 67
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 63,
+                        "template": "ABRA_NORMAL",
+                        "form": 304
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 92,
+                        "template": "GASTLY"
                     }
                 }
             ]
@@ -662,21 +808,9 @@
                 {
                     "type": "pokemon",
                     "reward": {
-                        "id": 103,
-                        "template": "EXEGGUTOR_NORMAL",
-                        "form": 77
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Hatch an Egg",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 183,
-                        "template": "MARILL"
+                        "id": 81,
+                        "template": "MAGNEMITE_NORMAL",
+                        "form": 655
                     }
                 }
             ]
@@ -706,6 +840,19 @@
                         "id": 7,
                         "template": "SQUIRTLE_NORMAL",
                         "form": 181
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Hatch an Egg",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 207,
+                        "template": "GLIGAR_NORMAL",
+                        "form": 803
                     }
                 }
             ]
@@ -764,9 +911,8 @@
                 {
                     "type": "energy",
                     "reward": {
-                        "id": 9,
-                        "template": "BLASTOISE_NORMAL",
-                        "form": 187
+                        "id": 18,
+                        "template": "PIDGEOT"
                     }
                 }
             ]
@@ -851,7 +997,13 @@
         },
         {
             "task": "AR Mapping",
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "item",
+                    "amount": 1,
+                    "id": 1106
+                }
+            ]
         },
         {
             "task": "AR Mapping",
@@ -859,7 +1011,7 @@
                 {
                     "type": "item",
                     "amount": 1,
-                    "id": 1106
+                    "id": 709
                 }
             ]
         }
