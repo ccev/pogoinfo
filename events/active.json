@@ -1,7 +1,7 @@
 {
-    "name": "Season of Celebration",
-    "start": null,
-    "end": "2021-03-01 08:00",
+    "name": "Team GO Rocket Celebration Event",
+    "start": "2021-02-02 10:00",
+    "end": "2021-02-07 20:00",
     "details": {
         "bonuses": [
             "Egg hatch distance is halved",
@@ -20,20 +20,7 @@
             "434_00",
             "451_00",
             "543_00",
-            "559_00",
-            "027_00",
-            "035_00",
-            "037_00",
-            "039_00",
-            "086_00",
-            "131_00",
-            "216_00",
-            "234_00",
-            "436_00",
-            "459_00",
-            "572_00",
-            "585_00",
-            "615_00"
+            "559_00"
         ],
         "raids": [],
         "quests": {
@@ -44,6 +31,7 @@
                 "200_00"
             ],
             "Defeat 2 Team GO Rocket Grunts": [
+                "032_00",
                 "032_00"
             ],
             "Catch 15 Dark-type Pokemon": [
