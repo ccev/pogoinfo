@@ -228,6 +228,11 @@
                         "id": 130,
                         "template": "GYARADOS_SHADOW",
                         "form": 257
+                    },
+                    {
+                        "id": 149,
+                        "template": "DRAGONITE_SHADOW",
+                        "form": 197
                     }
                 ]
             ]
@@ -355,14 +360,14 @@
             "team": [
                 [
                     {
-                        "id": 37,
-                        "template": "VULPIX_SHADOW",
-                        "form": 725
-                    },
-                    {
                         "id": 228,
                         "template": "HOUNDOUR_SHADOW",
                         "form": 230
+                    },
+                    {
+                        "id": 37,
+                        "template": "VULPIX_SHADOW",
+                        "form": 725
                     }
                 ],
                 [
@@ -437,14 +442,14 @@
                         "form": 161
                     },
                     {
-                        "id": 41,
-                        "template": "ZUBAT_SHADOW",
-                        "form": 158
-                    },
-                    {
                         "id": 227,
                         "template": "SKARMORY_SHADOW",
                         "form": 1296
+                    },
+                    {
+                        "id": 207,
+                        "template": "GLIGAR_SHADOW",
+                        "form": 804
                     }
                 ],
                 [
@@ -454,14 +459,14 @@
                         "form": 161
                     },
                     {
-                        "id": 123,
-                        "template": "SCYTHER_SHADOW",
-                        "form": 248
-                    },
-                    {
                         "id": 169,
                         "template": "CROBAT_SHADOW",
                         "form": 203
+                    },
+                    {
+                        "id": 123,
+                        "template": "SCYTHER_SHADOW",
+                        "form": 248
                     }
                 ],
                 [
@@ -549,14 +554,14 @@
                         "form": 269
                     },
                     {
-                        "id": 70,
-                        "template": "WEEPINBELL_SHADOW",
-                        "form": 668
-                    },
-                    {
                         "id": 2,
                         "template": "IVYSAUR_SHADOW",
                         "form": 167
+                    },
+                    {
+                        "id": 70,
+                        "template": "WEEPINBELL_SHADOW",
+                        "form": 668
                     }
                 ],
                 [
@@ -626,14 +631,14 @@
                         "form": 227
                     },
                     {
-                        "id": 247,
-                        "template": "PUPITAR_SHADOW",
-                        "form": 317
-                    },
-                    {
                         "id": 329,
                         "template": "VIBRAVA_SHADOW",
                         "form": 750
+                    },
+                    {
+                        "id": 247,
+                        "template": "PUPITAR_SHADOW",
+                        "form": 317
                     }
                 ],
                 [
@@ -664,7 +669,8 @@
         },
         "lineup": {
             "rewards": [
-                0
+                0,
+                1
             ],
             "team": [
                 [
@@ -681,26 +687,36 @@
                 ],
                 [
                     {
+                        "id": 91,
+                        "template": "CLOYSTER_SHADOW",
+                        "form": 880
+                    },
+                    {
                         "id": 364,
                         "template": "SEALEO_SHADOW",
                         "form": 1602
                     },
                     {
-                        "id": 91,
-                        "template": "CLOYSTER_SHADOW",
-                        "form": 880
+                        "id": 220,
+                        "template": "SWINUB_SHADOW",
+                        "form": 1278
                     }
                 ],
                 [
+                    {
+                        "id": 91,
+                        "template": "CLOYSTER_SHADOW",
+                        "form": 880
+                    },
                     {
                         "id": 131,
                         "template": "LAPRAS_SHADOW",
                         "form": 323
                     },
                     {
-                        "id": 91,
-                        "template": "CLOYSTER_SHADOW",
-                        "form": 880
+                        "id": 460,
+                        "template": "ABOMASNOW_SHADOW",
+                        "form": 936
                     }
                 ]
             ]
@@ -926,9 +942,19 @@
                         "id": 96,
                         "template": "DROWZEE_SHADOW",
                         "form": 215
+                    },
+                    {
+                        "id": 281,
+                        "template": "KIRLIA_SHADOW",
+                        "form": 296
                     }
                 ],
                 [
+                    {
+                        "id": 103,
+                        "template": "EXEGGUTOR_SHADOW",
+                        "form": 732
+                    },
                     {
                         "id": 281,
                         "template": "KIRLIA_SHADOW",
@@ -986,9 +1012,9 @@
                 ],
                 [
                     {
-                        "id": 247,
-                        "template": "PUPITAR_SHADOW",
-                        "form": 317
+                        "id": 246,
+                        "template": "LARVITAR_SHADOW",
+                        "form": 314
                     },
                     {
                         "id": 305,
@@ -996,9 +1022,9 @@
                         "form": 1473
                     },
                     {
-                        "id": 246,
-                        "template": "LARVITAR_SHADOW",
-                        "form": 314
+                        "id": 247,
+                        "template": "PUPITAR_SHADOW",
+                        "form": 317
                     }
                 ],
                 [
@@ -1059,6 +1085,11 @@
                         "id": 61,
                         "template": "POLIWHIRL_SHADOW",
                         "form": 239
+                    },
+                    {
+                        "id": 259,
+                        "template": "MARSHTOMP_SHADOW",
+                        "form": 209
                     }
                 ],
                 [
@@ -1066,6 +1097,11 @@
                         "id": 186,
                         "template": "POLITOED_SHADOW",
                         "form": 245
+                    },
+                    {
+                        "id": 62,
+                        "template": "POLIWRATH_SHADOW",
+                        "form": 242
                     }
                 ]
             ]
@@ -1106,6 +1142,11 @@
                         "id": 129,
                         "template": "MAGIKARP_SHADOW",
                         "form": 254
+                    },
+                    {
+                        "id": 130,
+                        "template": "GYARADOS_SHADOW",
+                        "form": 257
                     }
                 ]
             ]
@@ -1136,6 +1177,11 @@
                         "id": 475,
                         "template": "GALLADE_SHADOW",
                         "form": 302
+                    },
+                    {
+                        "id": 346,
+                        "template": "CRADILY_SHADOW",
+                        "form": 1572
                     },
                     {
                         "id": 199,
@@ -1259,6 +1305,11 @@
                 ],
                 [
                     {
+                        "id": 365,
+                        "template": "WALREIN_SHADOW",
+                        "form": 1605
+                    },
+                    {
                         "id": 229,
                         "template": "HOUNDOOM_SHADOW",
                         "form": 233
@@ -1267,11 +1318,6 @@
                         "id": 330,
                         "template": "FLYGON_SHADOW",
                         "form": 753
-                    },
-                    {
-                        "id": 365,
-                        "template": "WALREIN_SHADOW",
-                        "form": 1605
                     }
                 ]
             ]
@@ -1445,14 +1491,14 @@
                         "form": 921
                     },
                     {
-                        "id": 302,
-                        "template": "SABLEYE_SHADOW",
-                        "form": 924
-                    },
-                    {
                         "id": 354,
                         "template": "BANETTE_SHADOW",
                         "form": 912
+                    },
+                    {
+                        "id": 302,
+                        "template": "SABLEYE_SHADOW",
+                        "form": 924
                     }
                 ]
             ]
@@ -1498,14 +1544,14 @@
                         "form": 650
                     },
                     {
-                        "id": 82,
-                        "template": "MAGNETON_SHADOW",
-                        "form": 659
-                    },
-                    {
                         "id": 125,
                         "template": "ELECTABUZZ_SHADOW",
                         "form": 641
+                    },
+                    {
+                        "id": 82,
+                        "template": "MAGNETON_SHADOW",
+                        "form": 659
                     }
                 ],
                 [

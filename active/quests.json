@@ -413,31 +413,6 @@
             ]
         },
         {
-            "task": "Make 3 Excellent Throws in a row",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 443,
-                        "template": "GIBLE_NORMAL",
-                        "form": 861
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Make 5 Great Curveball Throws in a row",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 327,
-                        "template": "SPINDA"
-                    }
-                }
-            ]
-        },
-        {
             "task": "Make 3 Great Throws in a row",
             "rewards": [
                 {
@@ -475,6 +450,31 @@
                         "id": 95,
                         "template": "ONIX_NORMAL",
                         "form": 902
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Make 3 Excellent Throws in a row",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 443,
+                        "template": "GIBLE_NORMAL",
+                        "form": 861
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Make 5 Great Curveball Throws in a row",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 327,
+                        "template": "SPINDA"
                     }
                 }
             ]
@@ -723,6 +723,42 @@
             ]
         },
         {
+            "task": "Trade a Pok\u00e9mon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 66,
+                        "template": "MACHOP_NORMAL",
+                        "form": 809
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 74,
+                        "template": "GEODUDE_NORMAL",
+                        "form": 67
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 63,
+                        "template": "ABRA_NORMAL",
+                        "form": 304
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 92,
+                        "template": "GASTLY"
+                    }
+                }
+            ]
+        },
+        {
             "task": "Earn 5 hearts with your buddy",
             "rewards": [
                 {
@@ -760,62 +796,6 @@
             ]
         },
         {
-            "task": "Trade a Pok\u00e9mon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 66,
-                        "template": "MACHOP_NORMAL",
-                        "form": 809
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 74,
-                        "template": "GEODUDE_NORMAL",
-                        "form": 67
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 63,
-                        "template": "ABRA_NORMAL",
-                        "form": 304
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 92,
-                        "template": "GASTLY"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Evolve a Pok\u00e9mon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 133,
-                        "template": "EEVEE"
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 81,
-                        "template": "MAGNEMITE_NORMAL",
-                        "form": 655
-                    }
-                }
-            ]
-        },
-        {
             "task": "Power up Pok\u00e9mon 5 times",
             "rewards": [
                 {
@@ -840,6 +820,26 @@
                         "id": 7,
                         "template": "SQUIRTLE_NORMAL",
                         "form": 181
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Evolve a Pok\u00e9mon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 133,
+                        "template": "EEVEE"
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 81,
+                        "template": "MAGNEMITE_NORMAL",
+                        "form": 655
                     }
                 }
             ]
