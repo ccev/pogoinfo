@@ -1,6 +1,6 @@
 {
     "name": "Team GO Rocket Celebration Event",
-    "start": "2021-02-02 10:00",
+    "start": null,
     "end": "2021-02-07 20:00",
     "details": {
         "bonuses": [
@@ -20,7 +20,8 @@
             "434_00",
             "451_00",
             "543_00",
-            "559_00"
+            "559_00",
+            "088_00"
         ],
         "raids": [],
         "quests": {

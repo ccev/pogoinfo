@@ -484,5 +484,11 @@
         "type": "Event",
         "start": null,
         "end": null
+    },
+    {
+        "name": "Increased Trade Distance (Lunar New Year)",
+        "type": "Event",
+        "start": "2021-02-08 22:00",
+        "end": "2021-02-15 22:00"
     }
 ]
