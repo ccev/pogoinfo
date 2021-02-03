@@ -36,12 +36,60 @@
         }
     },
     "5": {
-        "active": false,
+        "active": true,
         "character": {
             "template": "CHARACTER_GRUNT_FEMALE",
             "gender": 0,
             "boss": false,
             "type": {}
+        },
+        "lineup": {
+            "rewards": [
+                0
+            ],
+            "team": [
+                [
+                    {
+                        "id": 143,
+                        "template": "SNORLAX_SHADOW",
+                        "form": 200
+                    }
+                ],
+                [
+                    {
+                        "id": 282,
+                        "template": "GARDEVOIR_SHADOW",
+                        "form": 299
+                    },
+                    {
+                        "id": 62,
+                        "template": "POLIWRATH_SHADOW",
+                        "form": 242
+                    },
+                    {
+                        "id": 143,
+                        "template": "SNORLAX_SHADOW",
+                        "form": 200
+                    }
+                ],
+                [
+                    {
+                        "id": 130,
+                        "template": "GYARADOS_SHADOW",
+                        "form": 257
+                    },
+                    {
+                        "id": 149,
+                        "template": "DRAGONITE_SHADOW",
+                        "form": 197
+                    },
+                    {
+                        "id": 143,
+                        "template": "SNORLAX_SHADOW",
+                        "form": 200
+                    }
+                ]
+            ]
         }
     },
     "6": {
