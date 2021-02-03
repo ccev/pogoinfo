@@ -31,7 +31,19 @@
         "type": "Event",
         "start": "2021-02-02 10:00",
         "end": "2021-02-07 20:00",
-        "spawns": [],
+        "spawns": [
+            42,
+            109,
+            168,
+            211,
+            215,
+            228,
+            274,
+            434,
+            451,
+            543,
+            559
+        ],
         "has_quests": false,
         "has_spawnpoints": false
     },
@@ -76,7 +88,9 @@
         "type": "Pok\u00e9mon Spotlight Hour",
         "start": "2021-02-09 18:00",
         "end": "2021-02-09 19:00",
-        "spawns": [],
+        "spawns": [
+            241
+        ],
         "has_quests": false,
         "has_spawnpoints": false
     },
@@ -85,7 +99,16 @@
         "type": "Event",
         "start": "2021-02-09 10:00",
         "end": "2021-02-14 13:00",
-        "spawns": [],
+        "spawns": [
+            98,
+            118,
+            126,
+            129,
+            130,
+            241,
+            307,
+            498
+        ],
         "has_quests": false,
         "has_spawnpoints": false
     },
@@ -112,7 +135,9 @@
         "type": "Pok\u00e9mon Spotlight Hour",
         "start": "2021-02-16 18:00",
         "end": "2021-02-16 19:00",
-        "spawns": [],
+        "spawns": [
+            370
+        ],
         "has_quests": false,
         "has_spawnpoints": false
     },
@@ -157,7 +182,14 @@
         "type": "Ticketed Event",
         "start": "2021-02-20 09:00",
         "end": "2021-02-20 21:00",
-        "spawns": [],
+        "spawns": [
+            23,
+            43,
+            56,
+            58,
+            123,
+            125
+        ],
         "has_quests": false,
         "has_spawnpoints": false
     },
@@ -175,7 +207,9 @@
         "type": "Pok\u00e9mon Spotlight Hour",
         "start": "2021-02-23 18:00",
         "end": "2021-02-23 19:00",
-        "spawns": [],
+        "spawns": [
+            25
+        ],
         "has_quests": false,
         "has_spawnpoints": false
     },
@@ -220,7 +254,21 @@
         "type": "Event",
         "start": null,
         "end": "2021-03-01 08:00",
-        "spawns": [],
+        "spawns": [
+            27,
+            35,
+            37,
+            39,
+            86,
+            131,
+            216,
+            234,
+            436,
+            459,
+            572,
+            585,
+            615
+        ],
         "has_quests": false,
         "has_spawnpoints": false
     },
@@ -256,7 +304,9 @@
         "type": "Research Breakthrough",
         "start": null,
         "end": "2021-03-01 22:00",
-        "spawns": [],
+        "spawns": [
+            143
+        ],
         "has_quests": false,
         "has_spawnpoints": false
     },
@@ -346,7 +396,16 @@
         "type": "Event",
         "start": "2021-02-09 10:00",
         "end": "2021-02-14 13:00",
-        "spawns": [],
+        "spawns": [
+            98,
+            118,
+            126,
+            129,
+            130,
+            241,
+            307,
+            498
+        ],
         "has_quests": false,
         "has_spawnpoints": false
     },
@@ -373,7 +432,9 @@
         "type": "Pok\u00e9mon Spotlight Hour",
         "start": "2021-02-09 18:00",
         "end": "2021-02-09 19:00",
-        "spawns": [],
+        "spawns": [
+            241
+        ],
         "has_quests": false,
         "has_spawnpoints": false
     },
@@ -400,7 +461,9 @@
         "type": "Pok\u00e9mon Spotlight Hour",
         "start": "2021-02-16 18:00",
         "end": "2021-02-16 19:00",
-        "spawns": [],
+        "spawns": [
+            370
+        ],
         "has_quests": false,
         "has_spawnpoints": false
     },
@@ -418,7 +481,14 @@
         "type": "Ticketed Event",
         "start": "2021-02-20 09:00",
         "end": "2021-02-20 21:00",
-        "spawns": [],
+        "spawns": [
+            23,
+            43,
+            56,
+            58,
+            123,
+            125
+        ],
         "has_quests": false,
         "has_spawnpoints": false
     },
@@ -463,7 +533,9 @@
         "type": "Pok\u00e9mon Spotlight Hour",
         "start": "2021-02-23 18:00",
         "end": "2021-02-23 19:00",
-        "spawns": [],
+        "spawns": [
+            25
+        ],
         "has_quests": false,
         "has_spawnpoints": false
     },

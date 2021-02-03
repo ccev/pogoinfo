@@ -1293,14 +1293,14 @@
                         "form": 892
                     },
                     {
-                        "id": 474,
-                        "template": "PORYGON_Z_SHADOW",
-                        "form": 684
-                    },
-                    {
                         "id": 429,
                         "template": "MISMAGIUS_SHADOW",
                         "form": 723
+                    },
+                    {
+                        "id": 474,
+                        "template": "PORYGON_Z_SHADOW",
+                        "form": 684
                     }
                 ],
                 [
