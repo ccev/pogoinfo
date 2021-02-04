@@ -1,5 +1,18 @@
 [
     {
+        "name": "Roselia Community Day",
+        "type": "community-day",
+        "start": "2021-02-07 11:00",
+        "end": "2021-02-07 17:00",
+        "spawns": [],
+        "eggs": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": true
+    },
+    {
         "name": "Team GO Rocket Celebration Event",
         "type": "event",
         "start": null,
@@ -735,6 +748,19 @@
         "features": [],
         "has_quests": false,
         "has_spawnpoints": false
+    },
+    {
+        "name": "Roselia Community Day",
+        "type": "community-day",
+        "start": "2021-02-07 11:00",
+        "end": "2021-02-07 17:00",
+        "spawns": [],
+        "eggs": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": true
     },
     {
         "name": "Increased Trade Distance (Lunar New Year)",
