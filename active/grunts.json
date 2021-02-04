@@ -885,10 +885,14 @@
             "team": [
                 [
                     {
-                        "template": "UNSET"
+                        "id": 29,
+                        "template": "NIDORAN_SHADOW",
+                        "form": 777
                     },
                     {
-                        "template": "UNSET"
+                        "id": 29,
+                        "template": "NIDORAN_SHADOW",
+                        "form": 777
                     },
                     {
                         "id": 41,
