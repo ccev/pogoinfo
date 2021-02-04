@@ -61,91 +61,6 @@
             {
                 "id": 559,
                 "template": "SCRAGGY"
-            },
-            {
-                "id": 246,
-                "template": "LARVITAR"
-            },
-            {
-                "id": 341,
-                "template": "CORPHISH"
-            },
-            {
-                "id": 359,
-                "template": "ABSOL"
-            },
-            {
-                "id": 551,
-                "template": "SANDILE"
-            },
-            {
-                "id": 624,
-                "template": "PAWNIARD"
-            },
-            {
-                "id": 629,
-                "template": "VULLABY"
-            },
-            {
-                "id": 633,
-                "template": "DEINO"
-            },
-            {
-                "id": 52,
-                "template": "MEOWTH_ALOLA",
-                "form": 64
-            },
-            {
-                "id": 88,
-                "template": "GRIMER_ALOLA",
-                "form": 74
-            },
-            {
-                "id": 207,
-                "template": "GLIGAR"
-            },
-            {
-                "id": 403,
-                "template": "SHINX"
-            },
-            {
-                "id": 599,
-                "template": "KLINK"
-            },
-            {
-                "id": 31,
-                "template": "NIDOQUEEN"
-            },
-            {
-                "id": 197,
-                "template": "UMBREON"
-            },
-            {
-                "id": 248,
-                "template": "TYRANITAR"
-            },
-            {
-                "id": 243,
-                "template": "RAIKOU"
-            },
-            {
-                "id": 245,
-                "template": "SUICUNE"
-            },
-            {
-                "id": 3,
-                "template": "VENUSAUR",
-                "temp_evolution_id": 1
-            },
-            {
-                "id": 181,
-                "template": "AMPHAROS",
-                "temp_evolution_id": 1
-            },
-            {
-                "id": 229,
-                "template": "HOUNDOOM",
-                "temp_evolution_id": 1
             }
         ],
         "eggs": [],
@@ -223,62 +138,6 @@
             {
                 "id": 498,
                 "template": "TEPIG"
-            },
-            {
-                "id": 19,
-                "template": "RATTATA"
-            },
-            {
-                "id": 23,
-                "template": "EKANS"
-            },
-            {
-                "id": 56,
-                "template": "MANKEY"
-            },
-            {
-                "id": 77,
-                "template": "PONYTA"
-            },
-            {
-                "id": 179,
-                "template": "MAREEP"
-            },
-            {
-                "id": 228,
-                "template": "HOUNDOUR"
-            },
-            {
-                "id": 255,
-                "template": "TORCHIC"
-            },
-            {
-                "id": 371,
-                "template": "BAGON"
-            },
-            {
-                "id": 427,
-                "template": "BUNEARY"
-            },
-            {
-                "id": 667,
-                "template": "LITLEO"
-            },
-            {
-                "id": 318,
-                "template": "CARVANHA"
-            },
-            {
-                "id": 355,
-                "template": "DUSKULL"
-            },
-            {
-                "id": 451,
-                "template": "SKORUPI"
-            },
-            {
-                "id": 554,
-                "template": "DARUMAKA"
             }
         ],
         "eggs": [],
@@ -498,50 +357,6 @@
             {
                 "id": 138,
                 "template": "OMANYTE"
-            },
-            {
-                "id": 144,
-                "template": "ARTICUNO"
-            },
-            {
-                "id": 145,
-                "template": "ZAPDOS"
-            },
-            {
-                "id": 146,
-                "template": "MOLTRES"
-            },
-            {
-                "id": 150,
-                "template": "MEWTWO"
-            },
-            {
-                "id": 21,
-                "template": "SPEAROW"
-            },
-            {
-                "id": 22,
-                "template": "FEAROW"
-            },
-            {
-                "id": 46,
-                "template": "PARAS"
-            },
-            {
-                "id": 47,
-                "template": "PARASECT"
-            },
-            {
-                "id": 132,
-                "template": "DITTO"
-            },
-            {
-                "id": 143,
-                "template": "SNORLAX"
-            },
-            {
-                "id": 151,
-                "template": "MEW"
             }
         ],
         "eggs": [],
