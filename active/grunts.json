@@ -127,14 +127,14 @@
                         "form": 1575
                     },
                     {
-                        "id": 48,
-                        "template": "VENONAT_SHADOW",
-                        "form": 260
-                    },
-                    {
                         "id": 213,
                         "template": "SHUCKLE_SHADOW",
                         "form": 828
+                    },
+                    {
+                        "id": 48,
+                        "template": "VENONAT_SHADOW",
+                        "form": 260
                     }
                 ],
                 [

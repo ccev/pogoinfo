@@ -1,14 +1,5 @@
 [
     {
-        "name": "Raikou Raid Hour",
-        "type": "Raid Hour",
-        "start": "2021-02-03 18:00",
-        "end": "2021-02-03 19:00",
-        "spawns": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Raikou Return to Raids",
         "type": "Raid Battles",
         "start": null,
@@ -333,15 +324,6 @@
         "type": "Raid Battles",
         "start": "2020-12-01 22:00",
         "end": null,
-        "spawns": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
-        "name": "Raikou Raid Hour",
-        "type": "Raid Hour",
-        "start": "2021-02-03 18:00",
-        "end": "2021-02-03 19:00",
         "spawns": [],
         "has_quests": false,
         "has_spawnpoints": false
