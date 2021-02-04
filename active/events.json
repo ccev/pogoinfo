@@ -1,26 +1,8 @@
 [
     {
-        "name": "Raikou Return to Raids",
-        "type": "Raid Battles",
-        "start": null,
-        "end": "2021-02-04 10:00",
-        "spawns": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
-        "name": "Roselia Community Day",
-        "type": "Community Day",
-        "start": "2021-02-07 11:00",
-        "end": "2021-02-07 17:00",
-        "spawns": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Team GO Rocket Celebration Event",
-        "type": "Event",
-        "start": "2021-02-02 10:00",
+        "type": "event",
+        "start": null,
         "end": "2021-02-07 20:00",
         "spawns": [
             42,
@@ -35,59 +17,44 @@
             543,
             559
         ],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
-        "name": "Season 6 - Ultra League & Premier Cup",
-        "type": "GO Battle League",
-        "start": null,
-        "end": "2021-02-08 22:00",
-        "spawns": [],
+        "eggs": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
         "has_quests": false,
         "has_spawnpoints": false
     },
     {
         "name": "Suicune Raid Hour",
-        "type": "Raid Hour",
+        "type": "raid-hour",
         "start": "2021-02-08 18:00",
         "end": "2021-02-08 19:00",
         "spawns": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
-        "name": "Suicune Return to Raids",
-        "type": "Raid Battles",
-        "start": "2021-02-04 10:00",
-        "end": "2021-02-09 10:00",
-        "spawns": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
-        "name": "Mega Venusaur, Mega Ampharos, and Mega Houndoom will be appearing in Mega Raids",
-        "type": "Raid Battles",
-        "start": null,
-        "end": "2021-02-09 10:00",
-        "spawns": [],
+        "eggs": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
         "has_quests": false,
         "has_spawnpoints": false
     },
     {
         "name": "Miltank Spotlight Hour",
-        "type": "Pok\u00e9mon Spotlight Hour",
+        "type": "spotlight-hour",
         "start": "2021-02-09 18:00",
         "end": "2021-02-09 19:00",
         "spawns": [
             241
         ],
+        "eggs": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
         "has_quests": false,
         "has_spawnpoints": false
     },
     {
         "name": "Lunar New Year 2021",
-        "type": "Event",
+        "type": "event",
         "start": "2021-02-09 10:00",
         "end": "2021-02-14 13:00",
         "spawns": [
@@ -100,77 +67,70 @@
             307,
             498
         ],
+        "eggs": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
         "has_quests": false,
         "has_spawnpoints": false
     },
     {
         "name": "Increased Trade Distance (Lunar New Year)",
-        "type": "Event",
+        "type": "event",
         "start": "2021-02-08 22:00",
         "end": "2021-02-15 22:00",
         "spawns": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
-        "name": "Season 6 - Master League, its Premier Cup, Master League Classic, and the Love Cup",
-        "type": "GO Battle League",
-        "start": "2021-02-08 22:00",
-        "end": "2021-02-15 22:00",
-        "spawns": [],
+        "eggs": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
         "has_quests": false,
         "has_spawnpoints": false
     },
     {
         "name": "Luvdisc Spotlight Hour",
-        "type": "Pok\u00e9mon Spotlight Hour",
+        "type": "spotlight-hour",
         "start": "2021-02-16 18:00",
         "end": "2021-02-16 19:00",
         "spawns": [
             370
         ],
+        "eggs": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
         "has_quests": false,
         "has_spawnpoints": false
     },
     {
         "name": "Latias & Latios Raid Hour",
-        "type": "Raid Hour",
+        "type": "raid-hour",
         "start": "2021-02-17 18:00",
         "end": "2021-02-17 19:00",
         "spawns": [],
+        "eggs": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
         "has_quests": false,
         "has_spawnpoints": false
     },
     {
         "name": "Valentine\u2019s Day Event",
-        "type": "Event",
+        "type": "event",
         "start": "2021-02-14 13:00",
         "end": "2021-02-18 20:00",
         "spawns": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
-        "name": "Latias & Latios Return to Raids",
-        "type": "Raid Battles",
-        "start": "2021-02-09 10:00",
-        "end": "2021-02-20 09:00",
-        "spawns": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
-        "name": "Mega Pidgeot, Mega Ampharos, and Mega Gyarados will be appearing in Mega Raids",
-        "type": "Raid Battles",
-        "start": "2021-02-09 10:00",
-        "end": "2021-02-20 09:00",
-        "spawns": [],
+        "eggs": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
         "has_quests": false,
         "has_spawnpoints": false
     },
     {
         "name": "Pok\u00e9mon GO Tour: Kanto",
-        "type": "Ticketed Event",
+        "type": "event",
         "start": "2021-02-20 09:00",
         "end": "2021-02-20 21:00",
         "spawns": [
@@ -181,68 +141,70 @@
             123,
             125
         ],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
-        "name": "Season 6 - All League",
-        "type": "GO Battle League",
-        "start": "2021-02-15 22:00",
-        "end": "2021-02-22 22:00",
-        "spawns": [],
+        "eggs": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
         "has_quests": false,
         "has_spawnpoints": false
     },
     {
         "name": "Pikachu Spotlight Hour",
-        "type": "Pok\u00e9mon Spotlight Hour",
+        "type": "spotlight-hour",
         "start": "2021-02-23 18:00",
         "end": "2021-02-23 19:00",
         "spawns": [
             25
         ],
+        "eggs": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
         "has_quests": false,
         "has_spawnpoints": false
     },
     {
         "name": "Articuno, Zapdos, Moltres, and Mewtwo Raid Hour",
-        "type": "Raid Hour",
+        "type": "raid-hour",
         "start": "2021-02-24 18:00",
         "end": "2021-02-24 19:00",
         "spawns": [],
+        "eggs": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
         "has_quests": false,
         "has_spawnpoints": false
     },
     {
         "name": "Kanto Celebration Event & Raid Day",
-        "type": "Event",
+        "type": "event",
         "start": null,
         "end": null,
         "spawns": [],
+        "eggs": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
         "has_quests": false,
         "has_spawnpoints": false
     },
     {
         "name": "Meowth Balloons Appearing",
-        "type": "Event",
+        "type": "event",
         "start": null,
         "end": "2021-02-28 23:59",
         "spawns": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
-        "name": "Shiny Celebi Special Research Availability",
-        "type": "Special Research",
-        "start": null,
-        "end": "2021-02-28 23:59",
-        "spawns": [],
+        "eggs": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
         "has_quests": false,
         "has_spawnpoints": false
     },
     {
         "name": "Season of Celebration",
-        "type": "Event",
+        "type": "event",
         "start": null,
         "end": "2021-03-01 08:00",
         "spawns": [
@@ -260,122 +222,42 @@
             585,
             615
         ],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
-        "name": "Mewtwo, Articuno, Zapdos & Moltres Return to Raids",
-        "type": "Raid Battles",
-        "start": "2021-02-20 09:00",
-        "end": "2021-03-01 08:00",
-        "spawns": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
-        "name": "Mega Venusaur, Mega Charizard X, Mega Charizard Y, and Mega Blastoise will be appearing in Mega Raids",
-        "type": "Raid Battles",
-        "start": "2021-02-20 09:00",
-        "end": "2021-03-01 10:00",
-        "spawns": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
-        "name": "Season 6 - The Kanto Cup",
-        "type": "GO Battle League",
-        "start": "2021-02-22 22:00",
-        "end": "2021-03-01 22:00",
-        "spawns": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
-        "name": "February Research Breakthrough",
-        "type": "Research Breakthrough",
-        "start": null,
-        "end": "2021-03-01 22:00",
-        "spawns": [
-            143
-        ],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
-        "name": "Temporary Features and Bonuses",
-        "type": "Update",
-        "start": "2020-10-01 22:00",
-        "end": null,
-        "spawns": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
-        "name": "Temporary Features and Bonuses",
-        "type": "Update",
-        "start": "2020-10-01 22:00",
-        "end": null,
-        "spawns": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
-        "name": "Kyurem in Raids, Mega Abomasnow Debuts",
-        "type": "Raid Battles",
-        "start": "2020-12-01 22:00",
-        "end": null,
-        "spawns": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
-        "name": "Suicune Return to Raids",
-        "type": "Raid Battles",
-        "start": "2021-02-04 10:00",
-        "end": "2021-02-09 10:00",
-        "spawns": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
-        "name": "Roselia Community Day",
-        "type": "Community Day",
-        "start": "2021-02-07 11:00",
-        "end": "2021-02-07 17:00",
-        "spawns": [],
+        "eggs": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
         "has_quests": false,
         "has_spawnpoints": false
     },
     {
         "name": "Increased Trade Distance (Lunar New Year)",
-        "type": "Event",
+        "type": "event",
         "start": "2021-02-08 22:00",
         "end": "2021-02-15 22:00",
         "spawns": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
-        "name": "Season 6 - Master League, its Premier Cup, Master League Classic, and the Love Cup",
-        "type": "GO Battle League",
-        "start": "2021-02-08 22:00",
-        "end": "2021-02-15 22:00",
-        "spawns": [],
+        "eggs": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
         "has_quests": false,
         "has_spawnpoints": false
     },
     {
         "name": "Suicune Raid Hour",
-        "type": "Raid Hour",
+        "type": "raid-hour",
         "start": "2021-02-08 18:00",
         "end": "2021-02-08 19:00",
         "spawns": [],
+        "eggs": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
         "has_quests": false,
         "has_spawnpoints": false
     },
     {
         "name": "Lunar New Year 2021",
-        "type": "Event",
+        "type": "event",
         "start": "2021-02-09 10:00",
         "end": "2021-02-14 13:00",
         "spawns": [
@@ -388,79 +270,72 @@
             307,
             498
         ],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
-        "name": "Latias & Latios Return to Raids",
-        "type": "Raid Battles",
-        "start": "2021-02-09 10:00",
-        "end": "2021-02-20 09:00",
-        "spawns": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
-        "name": "Mega Pidgeot, Mega Ampharos, and Mega Gyarados will be appearing in Mega Raids",
-        "type": "Raid Battles",
-        "start": "2021-02-09 10:00",
-        "end": "2021-02-20 09:00",
-        "spawns": [],
+        "eggs": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
         "has_quests": false,
         "has_spawnpoints": false
     },
     {
         "name": "Miltank Spotlight Hour",
-        "type": "Pok\u00e9mon Spotlight Hour",
+        "type": "spotlight-hour",
         "start": "2021-02-09 18:00",
         "end": "2021-02-09 19:00",
         "spawns": [
             241
         ],
+        "eggs": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
         "has_quests": false,
         "has_spawnpoints": false
     },
     {
         "name": "Valentine\u2019s Day Event",
-        "type": "Event",
+        "type": "event",
         "start": "2021-02-14 13:00",
         "end": "2021-02-18 20:00",
         "spawns": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
-        "name": "Season 6 - All League",
-        "type": "GO Battle League",
-        "start": "2021-02-15 22:00",
-        "end": "2021-02-22 22:00",
-        "spawns": [],
+        "eggs": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
         "has_quests": false,
         "has_spawnpoints": false
     },
     {
         "name": "Luvdisc Spotlight Hour",
-        "type": "Pok\u00e9mon Spotlight Hour",
+        "type": "spotlight-hour",
         "start": "2021-02-16 18:00",
         "end": "2021-02-16 19:00",
         "spawns": [
             370
         ],
+        "eggs": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
         "has_quests": false,
         "has_spawnpoints": false
     },
     {
         "name": "Latias & Latios Raid Hour",
-        "type": "Raid Hour",
+        "type": "raid-hour",
         "start": "2021-02-17 18:00",
         "end": "2021-02-17 19:00",
         "spawns": [],
+        "eggs": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
         "has_quests": false,
         "has_spawnpoints": false
     },
     {
         "name": "Pok\u00e9mon GO Tour: Kanto",
-        "type": "Ticketed Event",
+        "type": "event",
         "start": "2021-02-20 09:00",
         "end": "2021-02-20 21:00",
         "spawns": [
@@ -471,62 +346,51 @@
             123,
             125
         ],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
-        "name": "Mewtwo, Articuno, Zapdos & Moltres Return to Raids",
-        "type": "Raid Battles",
-        "start": "2021-02-20 09:00",
-        "end": "2021-03-01 08:00",
-        "spawns": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
-        "name": "Mega Venusaur, Mega Charizard X, Mega Charizard Y, and Mega Blastoise will be appearing in Mega Raids",
-        "type": "Raid Battles",
-        "start": "2021-02-20 09:00",
-        "end": "2021-03-01 10:00",
-        "spawns": [],
+        "eggs": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
         "has_quests": false,
         "has_spawnpoints": false
     },
     {
         "name": "Kanto Celebration Event & Raid Day",
-        "type": "Event",
+        "type": "event",
         "start": null,
         "end": null,
         "spawns": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
-        "name": "Season 6 - The Kanto Cup",
-        "type": "GO Battle League",
-        "start": "2021-02-22 22:00",
-        "end": "2021-03-01 22:00",
-        "spawns": [],
+        "eggs": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
         "has_quests": false,
         "has_spawnpoints": false
     },
     {
         "name": "Pikachu Spotlight Hour",
-        "type": "Pok\u00e9mon Spotlight Hour",
+        "type": "spotlight-hour",
         "start": "2021-02-23 18:00",
         "end": "2021-02-23 19:00",
         "spawns": [
             25
         ],
+        "eggs": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
         "has_quests": false,
         "has_spawnpoints": false
     },
     {
         "name": "Articuno, Zapdos, Moltres, and Mewtwo Raid Hour",
-        "type": "Raid Hour",
+        "type": "raid-hour",
         "start": "2021-02-24 18:00",
         "end": "2021-02-24 19:00",
         "spawns": [],
+        "eggs": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
         "has_quests": false,
         "has_spawnpoints": false
     }
