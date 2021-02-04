@@ -5,8 +5,26 @@
         "start": "2021-02-07 11:00",
         "end": "2021-02-07 17:00",
         "spawns": [],
-        "eggs": [],
-        "shinies": [],
+        "eggs": [
+            {
+                "id": 406,
+                "template": "BUDEW"
+            }
+        ],
+        "shinies": [
+            {
+                "id": 406,
+                "template": "BUDEW"
+            },
+            {
+                "id": 315,
+                "template": "ROSELIA"
+            },
+            {
+                "id": 407,
+                "template": "ROSERADE"
+            }
+        ],
         "bonuses": [],
         "features": [],
         "has_quests": false,
@@ -63,24 +81,40 @@
                 "template": "SCRAGGY"
             }
         ],
-        "eggs": [],
+        "eggs": [
+            {
+                "id": 246,
+                "template": "LARVITAR"
+            },
+            {
+                "id": 341,
+                "template": "CORPHISH"
+            },
+            {
+                "id": 359,
+                "template": "ABSOL"
+            },
+            {
+                "id": 551,
+                "template": "SANDILE"
+            },
+            {
+                "id": 624,
+                "template": "PAWNIARD"
+            },
+            {
+                "id": 629,
+                "template": "VULLABY"
+            },
+            {
+                "id": 633,
+                "template": "DEINO"
+            }
+        ],
         "shinies": [],
         "bonuses": [],
         "features": [],
         "has_quests": true,
-        "has_spawnpoints": false
-    },
-    {
-        "name": "Season 6 - Ultra League & Premier Cup",
-        "type": "season",
-        "start": null,
-        "end": "2021-02-08 22:00",
-        "spawns": [],
-        "eggs": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
         "has_spawnpoints": false
     },
     {
@@ -153,7 +187,48 @@
                 "template": "TEPIG"
             }
         ],
-        "eggs": [],
+        "eggs": [
+            {
+                "id": 19,
+                "template": "RATTATA"
+            },
+            {
+                "id": 23,
+                "template": "EKANS"
+            },
+            {
+                "id": 56,
+                "template": "MANKEY"
+            },
+            {
+                "id": 77,
+                "template": "PONYTA"
+            },
+            {
+                "id": 179,
+                "template": "MAREEP"
+            },
+            {
+                "id": 228,
+                "template": "HOUNDOUR"
+            },
+            {
+                "id": 255,
+                "template": "TORCHIC"
+            },
+            {
+                "id": 371,
+                "template": "BAGON"
+            },
+            {
+                "id": 427,
+                "template": "BUNEARY"
+            },
+            {
+                "id": 667,
+                "template": "LITLEO"
+            }
+        ],
         "shinies": [],
         "bonuses": [],
         "features": [],
@@ -163,19 +238,6 @@
     {
         "name": "Increased Trade Distance (Lunar New Year)",
         "type": "event",
-        "start": "2021-02-08 22:00",
-        "end": "2021-02-15 22:00",
-        "spawns": [],
-        "eggs": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
-        "name": "Season 6 - Master League, its Premier Cup, Master League Classic, and the Love Cup",
-        "type": "season",
         "start": "2021-02-08 22:00",
         "end": "2021-02-15 22:00",
         "spawns": [],
@@ -277,6 +339,10 @@
                 "template": "PIDGEY"
             },
             {
+                "id": 23,
+                "template": "EKANS"
+            },
+            {
                 "id": 25,
                 "template": "PIKACHU"
             },
@@ -285,8 +351,20 @@
                 "template": "NIDORAN_FEMALE"
             },
             {
+                "id": 43,
+                "template": "ODDISH"
+            },
+            {
                 "id": 50,
                 "template": "DIGLETT"
+            },
+            {
+                "id": 56,
+                "template": "MANKEY"
+            },
+            {
+                "id": 58,
+                "template": "GROWLITHE"
             },
             {
                 "id": 77,
@@ -311,6 +389,14 @@
             {
                 "id": 108,
                 "template": "LICKITUNG"
+            },
+            {
+                "id": 123,
+                "template": "SCYTHER"
+            },
+            {
+                "id": 125,
+                "template": "ELECTABUZZ"
             },
             {
                 "id": 133,
@@ -349,12 +435,48 @@
                 "template": "PINSIR"
             },
             {
+                "id": 1,
+                "template": "BULBASAUR"
+            },
+            {
+                "id": 4,
+                "template": "CHARMANDER"
+            },
+            {
+                "id": 7,
+                "template": "SQUIRTLE"
+            },
+            {
+                "id": 16,
+                "template": "PIDGEY"
+            },
+            {
+                "id": 25,
+                "template": "PIKACHU"
+            },
+            {
+                "id": 27,
+                "template": "SANDSHREW"
+            },
+            {
                 "id": 32,
                 "template": "NIDORAN_MALE"
             },
             {
+                "id": 37,
+                "template": "VULPIX"
+            },
+            {
+                "id": 52,
+                "template": "MEOWTH"
+            },
+            {
                 "id": 54,
                 "template": "PSYDUCK"
+            },
+            {
+                "id": 69,
+                "template": "BELLSPROUT"
             },
             {
                 "id": 74,
@@ -381,25 +503,57 @@
                 "template": "HORSEA"
             },
             {
+                "id": 126,
+                "template": "MAGMAR"
+            },
+            {
+                "id": 127,
+                "template": "PINSIR"
+            },
+            {
+                "id": 133,
+                "template": "EEVEE"
+            },
+            {
                 "id": 138,
                 "template": "OMANYTE"
+            },
+            {
+                "id": 147,
+                "template": "DRATINI"
             }
         ],
         "eggs": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
-        "name": "Season 6 - All League",
-        "type": "season",
-        "start": "2021-02-15 22:00",
-        "end": "2021-02-22 22:00",
-        "spawns": [],
-        "eggs": [],
-        "shinies": [],
+        "shinies": [
+            {
+                "id": 21,
+                "template": "SPEAROW"
+            },
+            {
+                "id": 22,
+                "template": "FEAROW"
+            },
+            {
+                "id": 46,
+                "template": "PARAS"
+            },
+            {
+                "id": 47,
+                "template": "PARASECT"
+            },
+            {
+                "id": 132,
+                "template": "DITTO"
+            },
+            {
+                "id": 143,
+                "template": "SNORLAX"
+            },
+            {
+                "id": 151,
+                "template": "MEW"
+            }
+        ],
         "bonuses": [],
         "features": [],
         "has_quests": false,
@@ -464,9 +618,9 @@
     },
     {
         "name": "Season of Celebration",
-        "type": "season",
+        "type": "event",
         "start": null,
-        "end": null,
+        "end": "2021-03-01 08:00",
         "spawns": [
             {
                 "id": 27,
@@ -596,33 +750,24 @@
                 "template": "TRUBBISH"
             }
         ],
-        "eggs": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
-        "name": "Season of Celebration",
-        "type": "event",
-        "start": null,
-        "end": "2021-03-01 08:00",
-        "spawns": [],
-        "eggs": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
-        "name": "Season 6 - The Kanto Cup",
-        "type": "season",
-        "start": "2021-02-22 22:00",
-        "end": "2021-03-01 22:00",
-        "spawns": [],
-        "eggs": [],
+        "eggs": [
+            {
+                "id": 278,
+                "template": "WINGULL"
+            },
+            {
+                "id": 343,
+                "template": "BALTOY"
+            },
+            {
+                "id": 580,
+                "template": "DUCKLETT"
+            },
+            {
+                "id": 403,
+                "template": "SHINX"
+            }
+        ],
         "shinies": [],
         "bonuses": [],
         "features": [],
