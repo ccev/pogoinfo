@@ -171,7 +171,7 @@
         "bonuses": [],
         "features": [],
         "has_quests": false,
-        "has_spawnpoints": false
+        "has_spawnpoints": true
     },
     {
         "name": "Lunar New Year 2021",
@@ -304,7 +304,7 @@
         "bonuses": [],
         "features": [],
         "has_quests": false,
-        "has_spawnpoints": false
+        "has_spawnpoints": true
     },
     {
         "name": "Latias & Latios Raid Hour",
@@ -554,7 +554,7 @@
         "bonuses": [],
         "features": [],
         "has_quests": false,
-        "has_spawnpoints": false
+        "has_spawnpoints": true
     },
     {
         "name": "Articuno, Zapdos, Moltres, and Mewtwo Raid Hour",
@@ -880,7 +880,7 @@
         "bonuses": [],
         "features": [],
         "has_quests": false,
-        "has_spawnpoints": false
+        "has_spawnpoints": true
     },
     {
         "name": "Valentine\u2019s Day Event",
@@ -911,7 +911,7 @@
         "bonuses": [],
         "features": [],
         "has_quests": false,
-        "has_spawnpoints": false
+        "has_spawnpoints": true
     },
     {
         "name": "Latias & Latios Raid Hour",
@@ -1161,7 +1161,7 @@
         "bonuses": [],
         "features": [],
         "has_quests": false,
-        "has_spawnpoints": false
+        "has_spawnpoints": true
     },
     {
         "name": "Articuno, Zapdos, Moltres, and Mewtwo Raid Hour",
