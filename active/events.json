@@ -71,6 +71,19 @@
         "has_spawnpoints": false
     },
     {
+        "name": "Season 6 - Ultra League & Premier Cup",
+        "type": "season",
+        "start": null,
+        "end": "2021-02-08 22:00",
+        "spawns": [],
+        "eggs": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
         "name": "Suicune Raid Hour",
         "type": "raid-hour",
         "start": "2021-02-08 18:00",
@@ -150,6 +163,19 @@
     {
         "name": "Increased Trade Distance (Lunar New Year)",
         "type": "event",
+        "start": "2021-02-08 22:00",
+        "end": "2021-02-15 22:00",
+        "spawns": [],
+        "eggs": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Season 6 - Master League, its Premier Cup, Master League Classic, and the Love Cup",
+        "type": "season",
         "start": "2021-02-08 22:00",
         "end": "2021-02-15 22:00",
         "spawns": [],
@@ -367,6 +393,19 @@
         "has_spawnpoints": false
     },
     {
+        "name": "Season 6 - All League",
+        "type": "season",
+        "start": "2021-02-15 22:00",
+        "end": "2021-02-22 22:00",
+        "spawns": [],
+        "eggs": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
         "name": "Pikachu Spotlight Hour",
         "type": "spotlight-hour",
         "start": "2021-02-23 18:00",
@@ -425,9 +464,9 @@
     },
     {
         "name": "Season of Celebration",
-        "type": "event",
+        "type": "season",
         "start": null,
-        "end": "2021-03-01 08:00",
+        "end": null,
         "spawns": [
             {
                 "id": 27,
@@ -557,6 +596,32 @@
                 "template": "TRUBBISH"
             }
         ],
+        "eggs": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Season of Celebration",
+        "type": "event",
+        "start": null,
+        "end": "2021-03-01 08:00",
+        "spawns": [],
+        "eggs": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Season 6 - The Kanto Cup",
+        "type": "season",
+        "start": "2021-02-22 22:00",
+        "end": "2021-03-01 22:00",
+        "spawns": [],
         "eggs": [],
         "shinies": [],
         "bonuses": [],
