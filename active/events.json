@@ -83,6 +83,10 @@
         ],
         "eggs": [
             {
+                "id": 211,
+                "template": "QWILFISH"
+            },
+            {
                 "id": 246,
                 "template": "LARVITAR"
             },
@@ -95,8 +99,16 @@
                 "template": "ABSOL"
             },
             {
+                "id": 451,
+                "template": "SKORUPI"
+            },
+            {
                 "id": 551,
                 "template": "SANDILE"
+            },
+            {
+                "id": 559,
+                "template": "SCRAGGY"
             },
             {
                 "id": 624,
@@ -213,6 +225,10 @@
                 "template": "HOUNDOUR"
             },
             {
+                "id": 241,
+                "template": "MILTANK"
+            },
+            {
                 "id": 255,
                 "template": "TORCHIC"
             },
@@ -225,11 +241,20 @@
                 "template": "BUNEARY"
             },
             {
+                "id": 498,
+                "template": "TEPIG"
+            },
+            {
                 "id": 667,
                 "template": "LITLEO"
             }
         ],
-        "shinies": [],
+        "shinies": [
+            {
+                "id": 130,
+                "template": "GYARADOS"
+            }
+        ],
         "bonuses": [],
         "features": [],
         "has_quests": true,
@@ -339,6 +364,169 @@
                 "template": "PIDGEY"
             },
             {
+                "id": 25,
+                "template": "PIKACHU"
+            },
+            {
+                "id": 29,
+                "template": "NIDORAN_FEMALE"
+            },
+            {
+                "id": 50,
+                "template": "DIGLETT"
+            },
+            {
+                "id": 77,
+                "template": "PONYTA"
+            },
+            {
+                "id": 90,
+                "template": "SHELLDER"
+            },
+            {
+                "id": 96,
+                "template": "DROWZEE"
+            },
+            {
+                "id": 98,
+                "template": "KRABBY"
+            },
+            {
+                "id": 106,
+                "template": "HITMONLEE"
+            },
+            {
+                "id": 108,
+                "template": "LICKITUNG"
+            },
+            {
+                "id": 133,
+                "template": "EEVEE"
+            },
+            {
+                "id": 140,
+                "template": "KABUTO"
+            },
+            {
+                "id": 147,
+                "template": "DRATINI"
+            },
+            {
+                "id": 27,
+                "template": "SANDSHREW"
+            },
+            {
+                "id": 37,
+                "template": "VULPIX"
+            },
+            {
+                "id": 52,
+                "template": "MEOWTH"
+            },
+            {
+                "id": 69,
+                "template": "BELLSPROUT"
+            },
+            {
+                "id": 126,
+                "template": "MAGMAR"
+            },
+            {
+                "id": 127,
+                "template": "PINSIR"
+            },
+            {
+                "id": 32,
+                "template": "NIDORAN_MALE"
+            },
+            {
+                "id": 54,
+                "template": "PSYDUCK"
+            },
+            {
+                "id": 74,
+                "template": "GEODUDE"
+            },
+            {
+                "id": 102,
+                "template": "EXEGGCUTE"
+            },
+            {
+                "id": 107,
+                "template": "HITMONCHAN"
+            },
+            {
+                "id": 109,
+                "template": "KOFFING"
+            },
+            {
+                "id": 114,
+                "template": "TANGELA"
+            },
+            {
+                "id": 116,
+                "template": "HORSEA"
+            },
+            {
+                "id": 138,
+                "template": "OMANYTE"
+            }
+        ],
+        "eggs": [],
+        "shinies": [
+            {
+                "id": 21,
+                "template": "SPEAROW"
+            },
+            {
+                "id": 22,
+                "template": "FEAROW"
+            },
+            {
+                "id": 46,
+                "template": "PARAS"
+            },
+            {
+                "id": 47,
+                "template": "PARASECT"
+            },
+            {
+                "id": 106,
+                "template": "HITMONLEE"
+            },
+            {
+                "id": 107,
+                "template": "HITMONCHAN"
+            },
+            {
+                "id": 132,
+                "template": "DITTO"
+            },
+            {
+                "id": 143,
+                "template": "SNORLAX"
+            },
+            {
+                "id": 151,
+                "template": "MEW"
+            },
+            {
+                "id": 1,
+                "template": "BULBASAUR"
+            },
+            {
+                "id": 4,
+                "template": "CHARMANDER"
+            },
+            {
+                "id": 7,
+                "template": "SQUIRTLE"
+            },
+            {
+                "id": 16,
+                "template": "PIDGEY"
+            },
+            {
                 "id": 23,
                 "template": "EKANS"
             },
@@ -383,10 +571,6 @@
                 "template": "KRABBY"
             },
             {
-                "id": 106,
-                "template": "HITMONLEE"
-            },
-            {
                 "id": 108,
                 "template": "LICKITUNG"
             },
@@ -409,50 +593,6 @@
             {
                 "id": 147,
                 "template": "DRATINI"
-            },
-            {
-                "id": 27,
-                "template": "SANDSHREW"
-            },
-            {
-                "id": 37,
-                "template": "VULPIX"
-            },
-            {
-                "id": 52,
-                "template": "MEOWTH"
-            },
-            {
-                "id": 69,
-                "template": "BELLSPROUT"
-            },
-            {
-                "id": 126,
-                "template": "MAGMAR"
-            },
-            {
-                "id": 127,
-                "template": "PINSIR"
-            },
-            {
-                "id": 1,
-                "template": "BULBASAUR"
-            },
-            {
-                "id": 4,
-                "template": "CHARMANDER"
-            },
-            {
-                "id": 7,
-                "template": "SQUIRTLE"
-            },
-            {
-                "id": 16,
-                "template": "PIDGEY"
-            },
-            {
-                "id": 25,
-                "template": "PIKACHU"
             },
             {
                 "id": 27,
@@ -487,10 +627,6 @@
                 "template": "EXEGGCUTE"
             },
             {
-                "id": 107,
-                "template": "HITMONCHAN"
-            },
-            {
                 "id": 109,
                 "template": "KOFFING"
             },
@@ -511,47 +647,8 @@
                 "template": "PINSIR"
             },
             {
-                "id": 133,
-                "template": "EEVEE"
-            },
-            {
                 "id": 138,
                 "template": "OMANYTE"
-            },
-            {
-                "id": 147,
-                "template": "DRATINI"
-            }
-        ],
-        "eggs": [],
-        "shinies": [
-            {
-                "id": 21,
-                "template": "SPEAROW"
-            },
-            {
-                "id": 22,
-                "template": "FEAROW"
-            },
-            {
-                "id": 46,
-                "template": "PARAS"
-            },
-            {
-                "id": 47,
-                "template": "PARASECT"
-            },
-            {
-                "id": 132,
-                "template": "DITTO"
-            },
-            {
-                "id": 143,
-                "template": "SNORLAX"
-            },
-            {
-                "id": 151,
-                "template": "MEW"
             }
         ],
         "bonuses": [],
@@ -751,6 +848,10 @@
             }
         ],
         "eggs": [
+            {
+                "id": 58,
+                "template": "GROWLITHE"
+            },
             {
                 "id": 278,
                 "template": "WINGULL"
