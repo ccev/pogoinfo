@@ -1,20 +1,20 @@
 [
     {
-        "name": "Roselia Community Day Start",
-        "time": "2021-02-07 11:00",
+        "name": "Valentine\u2019s Day Event Start",
+        "time": "2021-02-14 13:00",
         "type": [
-            "cday",
+            "event",
             "start"
         ],
-        "confidence": 10
+        "confidence": 9
     },
     {
-        "name": "Roselia Community Day End",
-        "time": "2021-02-07 17:00",
+        "name": "Valentine\u2019s Day Event End",
+        "time": "2021-02-18 20:00",
         "type": [
-            "cday",
+            "event",
             "end"
         ],
-        "confidence": 10
+        "confidence": 9
     }
 ]

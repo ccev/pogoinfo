@@ -1,55 +1,78 @@
 {
-    "name": "Season of Celebration",
+    "name": "Increased Trade Distance (Lunar New Year)",
     "start": null,
-    "end": "2021-03-01 08:00",
+    "end": "2021-02-15 22:00",
     "details": {
         "bonuses": [
-            "Egg hatch distance is halved",
-            "This week's free bonus box includes a Rocket Radar to get you started with the bosses",
-            "More Team GO Rocket invasions (balloons every two hours)"
+            "Release of Mega Gyarados",
+            "More Pok\u00e9Balls in Gifts",
+            "Increased chance to become Lucky Friends",
+            "Increased chance for Lucky trades",
+            "Trade radius increased to 40km",
+            "New boxes in the shop"
         ],
-        "eggs": [],
-        "spawns": [
-            "042_00",
-            "109_00",
-            "168_00",
-            "211_00",
-            "215_00",
+        "eggs": [
+            "019_00",
+            "023_00",
+            "056_00",
+            "077_00",
+            "179_00",
             "228_00",
-            "274_00",
-            "434_00",
-            "451_00",
-            "543_00",
-            "559_00",
-            "088_00",
-            "027_00",
-            "035_00",
-            "037_00",
-            "039_00",
-            "086_00",
-            "131_00",
-            "216_00",
-            "234_00",
-            "436_00",
-            "459_00",
-            "572_00",
-            "585_00",
-            "615_00"
+            "241_00",
+            "255_00",
+            "371_00",
+            "427_00",
+            "498_00",
+            "Litleo"
         ],
-        "raids": [],
+        "spawns": [
+            "098_00",
+            "118_00",
+            "126_00",
+            "129_00",
+            "241_00",
+            "307_00",
+            "498_00",
+            "130_00",
+            "554_00"
+        ],
+        "raids": {
+            "1": [
+                "307_00",
+                "318_00",
+                "355_00",
+                "451_00",
+                "554_00"
+            ],
+            "3": [
+                "241_00",
+                "224_00",
+                "257_00",
+                "323_00",
+                "359_00"
+            ],
+            "5": [
+                "381_00",
+                "380_00"
+            ],
+            "Mega": [
+                "018_00",
+                "130_00",
+                "181_00"
+            ]
+        },
         "quests": {
-            "Catch 7 Poison-type Pokemon": [
-                "207_00"
+            "Send 3 Gifts to friends": [
+                "052_00"
             ],
-            "Purify 3 Shadow Pokemon": [
-                "200_00"
+            "Send 10 Gifts to friends": [
+                "052_64"
             ],
-            "Defeat 2 Team GO Rocket Grunts": [
-                "032_00",
-                "032_00"
+            "Catch 6 Water-type Pokemon": [
+                "241_00"
             ],
-            "Catch 15 Dark-type Pokemon": [
-                "197_00"
+            "Catch 12 Pokemon": [
+                "307_00"
             ]
         }
     }
