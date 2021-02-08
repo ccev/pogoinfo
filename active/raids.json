@@ -1,57 +1,53 @@
 {
     "1": [
         {
-            "id": 52,
-            "template": "MEOWTH_ALOLA",
-            "form": 64
+            "id": 152,
+            "template": "CHIKORITA"
         },
         {
-            "id": 88,
-            "template": "GRIMER_ALOLA",
-            "form": 74
+            "id": 155,
+            "template": "CYNDAQUIL"
         },
         {
-            "id": 207,
-            "template": "GLIGAR_NORMAL",
-            "form": 803
+            "id": 158,
+            "template": "TOTODILE"
         },
         {
-            "id": 215,
-            "template": "SNEASEL_NORMAL",
-            "form": 797
+            "id": 179,
+            "template": "MAREEP_NORMAL",
+            "form": 646
         },
         {
-            "id": 403,
-            "template": "SHINX"
+            "id": 183,
+            "template": "MARILL"
         },
         {
-            "id": 599,
-            "template": "KLINK"
+            "id": 246,
+            "template": "LARVITAR_NORMAL",
+            "form": 313
         }
     ],
     "3": [
         {
-            "id": 31,
-            "template": "NIDOQUEEN_NORMAL",
-            "form": 782
+            "id": 176,
+            "template": "TOGETIC"
         },
         {
-            "id": 168,
-            "template": "ARIADOS"
+            "id": 196,
+            "template": "ESPEON"
         },
         {
             "id": 197,
             "template": "UMBREON"
         },
         {
-            "id": 248,
-            "template": "TYRANITAR_NORMAL",
-            "form": 319
+            "id": 227,
+            "template": "SKARMORY_NORMAL",
+            "form": 1295
         },
         {
-            "id": 359,
-            "template": "ABSOL_NORMAL",
-            "form": 830
+            "id": 241,
+            "template": "MILTANK"
         }
     ],
     "5": [

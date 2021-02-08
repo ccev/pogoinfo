@@ -1,135 +1,5 @@
 [
     {
-        "name": "Roselia Community Day",
-        "type": "community-day",
-        "start": "2021-02-07 11:00",
-        "end": "2021-02-07 17:00",
-        "spawns": [],
-        "eggs": [
-            {
-                "id": 406,
-                "template": "BUDEW"
-            }
-        ],
-        "shinies": [
-            {
-                "id": 406,
-                "template": "BUDEW"
-            },
-            {
-                "id": 315,
-                "template": "ROSELIA"
-            },
-            {
-                "id": 407,
-                "template": "ROSERADE"
-            }
-        ],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": true
-    },
-    {
-        "name": "Team GO Rocket Celebration Event",
-        "type": "event",
-        "start": null,
-        "end": "2021-02-07 20:00",
-        "spawns": [
-            {
-                "id": 42,
-                "template": "GOLBAT"
-            },
-            {
-                "id": 109,
-                "template": "KOFFING"
-            },
-            {
-                "id": 168,
-                "template": "ARIADOS"
-            },
-            {
-                "id": 211,
-                "template": "QWILFISH"
-            },
-            {
-                "id": 215,
-                "template": "SNEASEL"
-            },
-            {
-                "id": 228,
-                "template": "HOUNDOUR"
-            },
-            {
-                "id": 274,
-                "template": "NUZLEAF"
-            },
-            {
-                "id": 434,
-                "template": "STUNKY"
-            },
-            {
-                "id": 451,
-                "template": "SKORUPI"
-            },
-            {
-                "id": 543,
-                "template": "VENIPEDE"
-            },
-            {
-                "id": 559,
-                "template": "SCRAGGY"
-            }
-        ],
-        "eggs": [
-            {
-                "id": 211,
-                "template": "QWILFISH"
-            },
-            {
-                "id": 246,
-                "template": "LARVITAR"
-            },
-            {
-                "id": 341,
-                "template": "CORPHISH"
-            },
-            {
-                "id": 359,
-                "template": "ABSOL"
-            },
-            {
-                "id": 451,
-                "template": "SKORUPI"
-            },
-            {
-                "id": 551,
-                "template": "SANDILE"
-            },
-            {
-                "id": 559,
-                "template": "SCRAGGY"
-            },
-            {
-                "id": 624,
-                "template": "PAWNIARD"
-            },
-            {
-                "id": 629,
-                "template": "VULLABY"
-            },
-            {
-                "id": 633,
-                "template": "DEINO"
-            }
-        ],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": true,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Suicune Raid Hour",
         "type": "raid-hour",
         "start": "2021-02-08 18:00",
@@ -159,6 +29,19 @@
         "features": [],
         "has_quests": false,
         "has_spawnpoints": true
+    },
+    {
+        "name": "Latias & Latios Raid Hour",
+        "type": "raid-hour",
+        "start": "2021-02-17 18:00",
+        "end": "2021-02-17 19:00",
+        "spawns": [],
+        "eggs": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
     },
     {
         "name": "Lunar New Year 2021",
@@ -290,19 +173,6 @@
         "features": [],
         "has_quests": false,
         "has_spawnpoints": true
-    },
-    {
-        "name": "Latias & Latios Raid Hour",
-        "type": "raid-hour",
-        "start": "2021-02-17 18:00",
-        "end": "2021-02-17 19:00",
-        "spawns": [],
-        "eggs": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
     },
     {
         "name": "Valentine\u2019s Day Event",
