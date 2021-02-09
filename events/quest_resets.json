@@ -16,5 +16,23 @@
             "end"
         ],
         "confidence": 9
+    },
+    {
+        "name": "Lunar New Year 2021 Start",
+        "time": "2021-02-09 10:00",
+        "type": [
+            "event",
+            "start"
+        ],
+        "confidence": 9
+    },
+    {
+        "name": "Lunar New Year 2021 End",
+        "time": "2021-02-14 13:00",
+        "type": [
+            "event",
+            "end"
+        ],
+        "confidence": 9
     }
 ]
