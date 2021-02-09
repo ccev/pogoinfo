@@ -1,7 +1,7 @@
 {
-    "name": "Increased Trade Distance (Lunar New Year)",
-    "start": null,
-    "end": "2021-02-15 22:00",
+    "name": "Lunar New Year 2021",
+    "start": "2021-02-09 10:00",
+    "end": "2021-02-14 13:00",
     "details": {
         "bonuses": [
             "Release of Mega Gyarados",
@@ -36,7 +36,10 @@
             "130_00",
             "554_00",
             "005_00",
-            "401_00"
+            "401_00",
+            "119_00",
+            "390_00",
+            "653_00"
         ],
         "raids": {
             "1": [
