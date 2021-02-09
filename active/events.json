@@ -2,7 +2,7 @@
     {
         "name": "Suicune Raid Hour",
         "type": "raid-hour",
-        "start": "2021-02-08 18:00",
+        "start": null,
         "end": "2021-02-08 19:00",
         "spawns": [],
         "eggs": [],
@@ -58,6 +58,10 @@
                 "template": "GOLDEEN"
             },
             {
+                "id": 119,
+                "template": "SEAKING"
+            },
+            {
                 "id": 126,
                 "template": "MAGMAR"
             },
@@ -78,8 +82,20 @@
                 "template": "MEDITITE"
             },
             {
+                "id": 390,
+                "template": "CHIMCHAR"
+            },
+            {
                 "id": 498,
                 "template": "TEPIG"
+            },
+            {
+                "id": 554,
+                "template": "DARUMAKA"
+            },
+            {
+                "id": 653,
+                "template": "FENNEKIN"
             }
         ],
         "eggs": [
@@ -146,7 +162,7 @@
     {
         "name": "Increased Trade Distance (Lunar New Year)",
         "type": "event",
-        "start": "2021-02-08 22:00",
+        "start": null,
         "end": "2021-02-15 22:00",
         "spawns": [],
         "eggs": [],
@@ -179,12 +195,86 @@
         "type": "event",
         "start": "2021-02-14 13:00",
         "end": "2021-02-18 20:00",
-        "spawns": [],
-        "eggs": [],
+        "spawns": [
+            {
+                "id": 517,
+                "template": "MUNNA"
+            },
+            {
+                "id": 518,
+                "template": "MUSHARNA"
+            },
+            {
+                "id": 29,
+                "template": "NIDORAN_FEMALE"
+            },
+            {
+                "id": 32,
+                "template": "NIDORAN_MALE"
+            },
+            {
+                "id": 311,
+                "template": "PLUSLE"
+            },
+            {
+                "id": 312,
+                "template": "MINUN"
+            },
+            {
+                "id": 313,
+                "template": "VOLBEAT"
+            },
+            {
+                "id": 314,
+                "template": "ILLUMISE"
+            },
+            {
+                "id": 349,
+                "template": "FEEBAS"
+            },
+            {
+                "id": 370,
+                "template": "LUVDISC"
+            }
+        ],
+        "eggs": [
+            {
+                "id": 133,
+                "template": "EEVEE"
+            },
+            {
+                "id": 173,
+                "template": "CLEFFA"
+            },
+            {
+                "id": 174,
+                "template": "IGGLYBUFF"
+            },
+            {
+                "id": 175,
+                "template": "TOGEPI"
+            },
+            {
+                "id": 370,
+                "template": "LUVDISC"
+            },
+            {
+                "id": 517,
+                "template": "MUNNA"
+            },
+            {
+                "id": 527,
+                "template": "WOOBAT"
+            },
+            {
+                "id": 546,
+                "template": "COTTONEE"
+            }
+        ],
         "shinies": [],
         "bonuses": [],
         "features": [],
-        "has_quests": false,
+        "has_quests": true,
         "has_spawnpoints": false
     },
     {
