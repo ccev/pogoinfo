@@ -484,5 +484,11 @@
         "type": "Event",
         "start": "2021-02-08 22:00",
         "end": "2021-02-15 22:00"
+    },
+    {
+        "name": "Carnival 2021 (Latin America and the Caribbean)",
+        "type": "Event",
+        "start": "2021-02-18 10:00",
+        "end": "2021-02-19 20:00"
     }
 ]
