@@ -243,11 +243,19 @@
         "shinies": [],
         "bonuses": [
             {
-                "bonus": "increased-lucky-chance"
+                "text": "INCREASED CHANCE TO BECOME LUCKY FRIENDS WITH YOUR FRIENDS",
+                "template": "increased-lucky-chance"
             },
             {
-                "bonus": "increased-trade-range",
+                "text": "INCREASED CHANCE THAT POK\u00c9MON YOU TRADE BECOME LUCKY POK\u00c9MON"
+            },
+            {
+                "text": "TRADE RANGE INCREASED TO 40 KM",
+                "template": "increased-trade-range",
                 "value": "40"
+            },
+            {
+                "text": "INCREASED CHANCE OF RECEIVING BERRIES FROM GIFTS"
             }
         ],
         "features": [
@@ -313,7 +321,8 @@
         ],
         "bonuses": [
             {
-                "bonus": "longer-incense",
+                "text": "3 HOUR INCENSE",
+                "template": "longer-incense",
                 "value": "3"
             }
         ],
