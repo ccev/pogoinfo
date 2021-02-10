@@ -243,7 +243,8 @@
         "shinies": [],
         "bonuses": [
             {
-                "bonus": "increased-trade-range"
+                "bonus": "increased-trade-range",
+                "multiplier": "40"
             }
         ],
         "features": [],
