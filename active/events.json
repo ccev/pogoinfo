@@ -246,14 +246,18 @@
                 "bonus": "increased-lucky-chance"
             },
             {
-                "bonus": "increased-lucky-chance"
-            },
-            {
                 "bonus": "increased-trade-range",
                 "value": "40"
             }
         ],
-        "features": [],
+        "features": [
+            "Evolve Kirlia during the event to get a Gardevoir or a Gallade that knows Synchronoise!",
+            "Complete event-exclusive Field Research to encounter Pok\u00e9mon like Ralts, Volbeat, Illumise, Spinda with a heart pattern, and Alomomola, as well as earn other rewards.",
+            "Complete the Valentine\u2019s Day\u2013themed Collection Challenge during the event by collecting Nidoran\u2640, Nidoran\u2642, Espeon, Umbreon, Plusle, Minun, Volbeat, Illumise, Luvdisc, Latias, Latios, and Alomomola to receive five Silver Pinap Berries, a Lucky Egg, and an Egg Incubator. Head on over to the Today View to track your progress!",
+            "During the event, you can pick up a free one-time bundle in the shop featuring three Remote Raid Passes.",
+            "Event-exclusive stickers will be available from Gifts. Be sure to get them while you can!",
+            "New Munna-inspired avatar items will be available in the shop during and after this event."
+        ],
         "has_quests": true,
         "has_spawnpoints": false
     },
@@ -313,7 +317,9 @@
                 "value": "3"
             }
         ],
-        "features": [],
+        "features": [
+            "Check out the in-game Store to receive a free item bundle (one-time purchase) containing: 50 Pok\u00e9 balls, 2 Incense , 10 Razz Berries and 1 Remote Raid Pass."
+        ],
         "has_quests": false,
         "has_spawnpoints": false
     },
