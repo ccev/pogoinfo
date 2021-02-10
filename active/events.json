@@ -6,6 +6,7 @@
         "end": "2021-02-17 19:00",
         "spawns": [],
         "eggs": [],
+        "raids": [],
         "shinies": [],
         "bonuses": [],
         "features": [],
@@ -117,6 +118,71 @@
                 "template": "LITLEO"
             }
         ],
+        "raids": [
+            {
+                "id": 307,
+                "template": "MEDITITE"
+            },
+            {
+                "id": 318,
+                "template": "CARVANHA"
+            },
+            {
+                "id": 355,
+                "template": "DUSKULL"
+            },
+            {
+                "id": 451,
+                "template": "SKORUPI"
+            },
+            {
+                "id": 554,
+                "template": "DARUMAKA"
+            },
+            {
+                "id": 224,
+                "template": "OCTILLERY"
+            },
+            {
+                "id": 241,
+                "template": "MILTANK"
+            },
+            {
+                "id": 257,
+                "template": "BLAZIKEN"
+            },
+            {
+                "id": 323,
+                "template": "CAMERUPT"
+            },
+            {
+                "id": 359,
+                "template": "ABSOL"
+            },
+            {
+                "id": 380,
+                "template": "LATIAS"
+            },
+            {
+                "id": 381,
+                "template": "LATIOS"
+            },
+            {
+                "id": 18,
+                "template": "PIDGEOT",
+                "temp_evolution_id": 1
+            },
+            {
+                "id": 130,
+                "template": "GYARADOS",
+                "temp_evolution_id": 1
+            },
+            {
+                "id": 181,
+                "template": "AMPHAROS",
+                "temp_evolution_id": 1
+            }
+        ],
         "shinies": [
             {
                 "id": 130,
@@ -135,6 +201,7 @@
         "end": "2021-02-15 22:00",
         "spawns": [],
         "eggs": [],
+        "raids": [],
         "shinies": [],
         "bonuses": [],
         "features": [],
@@ -153,6 +220,7 @@
             }
         ],
         "eggs": [],
+        "raids": [],
         "shinies": [],
         "bonuses": [],
         "features": [],
@@ -240,22 +308,95 @@
                 "template": "COTTONEE"
             }
         ],
+        "raids": [
+            {
+                "id": 280,
+                "template": "RALTS"
+            },
+            {
+                "id": 313,
+                "template": "VOLBEAT"
+            },
+            {
+                "id": 314,
+                "template": "ILLUMISE"
+            },
+            {
+                "id": 349,
+                "template": "FEEBAS"
+            },
+            {
+                "id": 517,
+                "template": "MUNNA"
+            },
+            {
+                "id": 677,
+                "template": "ESPURR"
+            },
+            {
+                "id": 176,
+                "template": "TOGETIC"
+            },
+            {
+                "id": 196,
+                "template": "ESPEON"
+            },
+            {
+                "id": 197,
+                "template": "UMBREON"
+            },
+            {
+                "id": 282,
+                "template": "GARDEVOIR"
+            },
+            {
+                "id": 475,
+                "template": "GALLADE"
+            },
+            {
+                "id": 594,
+                "template": "ALOMOMOLA"
+            },
+            {
+                "id": 380,
+                "template": "LATIAS"
+            },
+            {
+                "id": 381,
+                "template": "LATIOS"
+            },
+            {
+                "id": 18,
+                "template": "PIDGEOT",
+                "temp_evolution_id": 1
+            },
+            {
+                "id": 130,
+                "template": "GYARADOS",
+                "temp_evolution_id": 1
+            },
+            {
+                "id": 181,
+                "template": "AMPHAROS",
+                "temp_evolution_id": 1
+            }
+        ],
         "shinies": [],
         "bonuses": [
             {
-                "text": "INCREASED CHANCE TO BECOME LUCKY FRIENDS WITH YOUR FRIENDS",
+                "text": "Increased Chance to become Lucky Friends with your friends",
                 "template": "increased-lucky-chance"
             },
             {
-                "text": "INCREASED CHANCE THAT POK\u00c9MON YOU TRADE BECOME LUCKY POK\u00c9MON"
+                "text": "Increased Chance that Pok\u00e9mon you trade become Lucky Pok\u00e9mon"
             },
             {
-                "text": "TRADE RANGE INCREASED TO 40 KM",
+                "text": "Trade Range Increased to 40 km",
                 "template": "increased-trade-range",
                 "value": "40"
             },
             {
-                "text": "INCREASED CHANCE OF RECEIVING BERRIES FROM GIFTS"
+                "text": "Increased Chance of receiving Berries from Gifts"
             }
         ],
         "features": [
@@ -313,6 +454,16 @@
             }
         ],
         "eggs": [],
+        "raids": [
+            {
+                "id": 401,
+                "template": "KRICKETOT"
+            },
+            {
+                "id": 587,
+                "template": "EMOLGA"
+            }
+        ],
         "shinies": [
             {
                 "id": 39,
@@ -321,7 +472,7 @@
         ],
         "bonuses": [
             {
-                "text": "3 HOUR INCENSE",
+                "text": "3 Hour Incense",
                 "template": "longer-incense",
                 "value": "3"
             }
@@ -488,6 +639,24 @@
             }
         ],
         "eggs": [],
+        "raids": [
+            {
+                "id": 144,
+                "template": "ARTICUNO"
+            },
+            {
+                "id": 145,
+                "template": "ZAPDOS"
+            },
+            {
+                "id": 146,
+                "template": "MOLTRES"
+            },
+            {
+                "id": 150,
+                "template": "MEWTWO"
+            }
+        ],
         "shinies": [
             {
                 "id": 21,
@@ -683,6 +852,7 @@
             }
         ],
         "eggs": [],
+        "raids": [],
         "shinies": [],
         "bonuses": [],
         "features": [],
@@ -696,6 +866,7 @@
         "end": "2021-02-24 19:00",
         "spawns": [],
         "eggs": [],
+        "raids": [],
         "shinies": [],
         "bonuses": [],
         "features": [],
@@ -709,6 +880,7 @@
         "end": null,
         "spawns": [],
         "eggs": [],
+        "raids": [],
         "shinies": [],
         "bonuses": [],
         "features": [],
@@ -722,6 +894,7 @@
         "end": "2021-02-28 23:59",
         "spawns": [],
         "eggs": [],
+        "raids": [],
         "shinies": [],
         "bonuses": [],
         "features": [],
@@ -860,6 +1033,14 @@
             {
                 "id": 568,
                 "template": "TRUBBISH"
+            },
+            {
+                "id": 631,
+                "template": "HEATMOR"
+            },
+            {
+                "id": 632,
+                "template": "DURANT"
             }
         ],
         "eggs": [
@@ -882,6 +1063,23 @@
             {
                 "id": 403,
                 "template": "SHINX"
+            }
+        ],
+        "raids": [
+            {
+                "id": 6,
+                "template": "CHARIZARD",
+                "temp_evolution_id": 2
+            },
+            {
+                "id": 94,
+                "template": "GENGAR",
+                "temp_evolution_id": 1
+            },
+            {
+                "id": 460,
+                "template": "ABOMASNOW",
+                "temp_evolution_id": 1
             }
         ],
         "shinies": [],
