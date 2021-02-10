@@ -243,8 +243,14 @@
         "shinies": [],
         "bonuses": [
             {
+                "bonus": "increased-lucky-chance"
+            },
+            {
+                "bonus": "increased-lucky-chance"
+            },
+            {
                 "bonus": "increased-trade-range",
-                "multiplier": "40"
+                "value": "40"
             }
         ],
         "features": [],
@@ -301,7 +307,12 @@
                 "template": "JIGGLYPUFF"
             }
         ],
-        "bonuses": [],
+        "bonuses": [
+            {
+                "bonus": "longer-incense",
+                "value": "3"
+            }
+        ],
         "features": [],
         "has_quests": false,
         "has_spawnpoints": false
