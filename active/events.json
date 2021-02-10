@@ -241,7 +241,11 @@
             }
         ],
         "shinies": [],
-        "bonuses": [],
+        "bonuses": [
+            {
+                "bonus": "increased-trade-range"
+            }
+        ],
         "features": [],
         "has_quests": true,
         "has_spawnpoints": false
