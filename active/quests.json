@@ -1,19 +1,6 @@
 {
     "event": [
         {
-            "task": "Send 3 Gifts to friends",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 52,
-                        "template": "MEOWTH_NORMAL",
-                        "form": 63
-                    }
-                }
-            ]
-        },
-        {
             "task": "Send 10 Gifts to friends",
             "rewards": [
                 {
@@ -30,6 +17,19 @@
                         "id": 52,
                         "template": "MEOWTH_GALARIAN",
                         "form": 2335
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Send 3 Gifts to friends",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 52,
+                        "template": "MEOWTH_NORMAL",
+                        "form": 63
                     }
                 }
             ]

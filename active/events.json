@@ -1,36 +1,5 @@
 [
     {
-        "name": "Suicune Raid Hour",
-        "type": "raid-hour",
-        "start": null,
-        "end": "2021-02-08 19:00",
-        "spawns": [],
-        "eggs": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
-        "name": "Miltank Spotlight Hour",
-        "type": "spotlight-hour",
-        "start": "2021-02-09 18:00",
-        "end": "2021-02-09 19:00",
-        "spawns": [
-            {
-                "id": 241,
-                "template": "MILTANK"
-            }
-        ],
-        "eggs": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": true
-    },
-    {
         "name": "Latias & Latios Raid Hour",
         "type": "raid-hour",
         "start": "2021-02-17 18:00",
@@ -46,7 +15,7 @@
     {
         "name": "Lunar New Year 2021",
         "type": "event",
-        "start": "2021-02-09 10:00",
+        "start": null,
         "end": "2021-02-14 13:00",
         "spawns": [
             {
@@ -275,6 +244,61 @@
         "bonuses": [],
         "features": [],
         "has_quests": true,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Carnival 2021 (Latin America and the Caribbean)",
+        "type": "event",
+        "start": "2021-02-18 10:00",
+        "end": "2021-02-19 20:00",
+        "spawns": [
+            {
+                "id": 39,
+                "template": "JIGGLYPUFF"
+            },
+            {
+                "id": 50,
+                "template": "DIGLETT"
+            },
+            {
+                "id": 237,
+                "template": "HITMONTOP"
+            },
+            {
+                "id": 255,
+                "template": "TORCHIC"
+            },
+            {
+                "id": 270,
+                "template": "LOTAD"
+            },
+            {
+                "id": 401,
+                "template": "KRICKETOT"
+            },
+            {
+                "id": 436,
+                "template": "BRONZOR"
+            },
+            {
+                "id": 517,
+                "template": "MUNNA"
+            },
+            {
+                "id": 587,
+                "template": "EMOLGA"
+            }
+        ],
+        "eggs": [],
+        "shinies": [
+            {
+                "id": 39,
+                "template": "JIGGLYPUFF"
+            }
+        ],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
         "has_spawnpoints": false
     },
     {
