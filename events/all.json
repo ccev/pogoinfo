@@ -490,5 +490,11 @@
         "type": "Event",
         "start": "2021-02-18 10:00",
         "end": "2021-02-19 20:00"
+    },
+    {
+        "name": "Kanto Celebration Event",
+        "type": "Event",
+        "start": "2021-02-21 10:00",
+        "end": "2021-02-27 20:00"
     }
 ]

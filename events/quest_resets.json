@@ -16,5 +16,23 @@
             "end"
         ],
         "confidence": 9
+    },
+    {
+        "name": "Kanto Celebration Event Start",
+        "time": "2021-02-21 10:00",
+        "type": [
+            "event",
+            "start"
+        ],
+        "confidence": 9
+    },
+    {
+        "name": "Kanto Celebration Event End",
+        "time": "2021-02-27 20:00",
+        "type": [
+            "event",
+            "end"
+        ],
+        "confidence": 9
     }
 ]
