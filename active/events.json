@@ -1,0 +1,1091 @@
+[
+    {
+        "name": "Latias & Latios Raid Hour",
+        "type": "raid-hour",
+        "start": "2021-02-17 18:00",
+        "end": "2021-02-17 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Lunar New Year 2021",
+        "type": "event",
+        "start": null,
+        "end": "2021-02-14 13:00",
+        "spawns": [
+            {
+                "id": 98,
+                "template": "KRABBY"
+            },
+            {
+                "id": 118,
+                "template": "GOLDEEN"
+            },
+            {
+                "id": 119,
+                "template": "SEAKING"
+            },
+            {
+                "id": 126,
+                "template": "MAGMAR"
+            },
+            {
+                "id": 129,
+                "template": "MAGIKARP"
+            },
+            {
+                "id": 130,
+                "template": "GYARADOS"
+            },
+            {
+                "id": 241,
+                "template": "MILTANK"
+            },
+            {
+                "id": 307,
+                "template": "MEDITITE"
+            },
+            {
+                "id": 390,
+                "template": "CHIMCHAR"
+            },
+            {
+                "id": 498,
+                "template": "TEPIG"
+            },
+            {
+                "id": 554,
+                "template": "DARUMAKA"
+            },
+            {
+                "id": 653,
+                "template": "FENNEKIN"
+            }
+        ],
+        "eggs": [
+            {
+                "id": 19,
+                "template": "RATTATA"
+            },
+            {
+                "id": 23,
+                "template": "EKANS"
+            },
+            {
+                "id": 56,
+                "template": "MANKEY"
+            },
+            {
+                "id": 77,
+                "template": "PONYTA"
+            },
+            {
+                "id": 179,
+                "template": "MAREEP"
+            },
+            {
+                "id": 228,
+                "template": "HOUNDOUR"
+            },
+            {
+                "id": 241,
+                "template": "MILTANK"
+            },
+            {
+                "id": 255,
+                "template": "TORCHIC"
+            },
+            {
+                "id": 371,
+                "template": "BAGON"
+            },
+            {
+                "id": 427,
+                "template": "BUNEARY"
+            },
+            {
+                "id": 498,
+                "template": "TEPIG"
+            },
+            {
+                "id": 667,
+                "template": "LITLEO"
+            }
+        ],
+        "raids": [
+            {
+                "id": 307,
+                "template": "MEDITITE"
+            },
+            {
+                "id": 318,
+                "template": "CARVANHA"
+            },
+            {
+                "id": 355,
+                "template": "DUSKULL"
+            },
+            {
+                "id": 451,
+                "template": "SKORUPI"
+            },
+            {
+                "id": 554,
+                "template": "DARUMAKA"
+            },
+            {
+                "id": 224,
+                "template": "OCTILLERY"
+            },
+            {
+                "id": 241,
+                "template": "MILTANK"
+            },
+            {
+                "id": 257,
+                "template": "BLAZIKEN"
+            },
+            {
+                "id": 323,
+                "template": "CAMERUPT"
+            },
+            {
+                "id": 359,
+                "template": "ABSOL"
+            },
+            {
+                "id": 380,
+                "template": "LATIAS"
+            },
+            {
+                "id": 381,
+                "template": "LATIOS"
+            },
+            {
+                "id": 18,
+                "template": "PIDGEOT",
+                "temp_evolution_id": 1
+            },
+            {
+                "id": 130,
+                "template": "GYARADOS",
+                "temp_evolution_id": 1
+            },
+            {
+                "id": 181,
+                "template": "AMPHAROS",
+                "temp_evolution_id": 1
+            }
+        ],
+        "shinies": [
+            {
+                "id": 130,
+                "template": "GYARADOS"
+            }
+        ],
+        "bonuses": [],
+        "features": [],
+        "has_quests": true,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Increased Trade Distance (Lunar New Year)",
+        "type": "event",
+        "start": null,
+        "end": "2021-02-15 22:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Luvdisc Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2021-02-16 18:00",
+        "end": "2021-02-16 19:00",
+        "spawns": [
+            {
+                "id": 370,
+                "template": "LUVDISC"
+            }
+        ],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": true
+    },
+    {
+        "name": "Valentine\u2019s Day Event",
+        "type": "event",
+        "start": "2021-02-14 13:00",
+        "end": "2021-02-18 20:00",
+        "spawns": [
+            {
+                "id": 517,
+                "template": "MUNNA"
+            },
+            {
+                "id": 518,
+                "template": "MUSHARNA"
+            },
+            {
+                "id": 29,
+                "template": "NIDORAN_FEMALE"
+            },
+            {
+                "id": 32,
+                "template": "NIDORAN_MALE"
+            },
+            {
+                "id": 311,
+                "template": "PLUSLE"
+            },
+            {
+                "id": 312,
+                "template": "MINUN"
+            },
+            {
+                "id": 313,
+                "template": "VOLBEAT"
+            },
+            {
+                "id": 314,
+                "template": "ILLUMISE"
+            },
+            {
+                "id": 349,
+                "template": "FEEBAS"
+            },
+            {
+                "id": 370,
+                "template": "LUVDISC"
+            }
+        ],
+        "eggs": [
+            {
+                "id": 133,
+                "template": "EEVEE"
+            },
+            {
+                "id": 173,
+                "template": "CLEFFA"
+            },
+            {
+                "id": 174,
+                "template": "IGGLYBUFF"
+            },
+            {
+                "id": 175,
+                "template": "TOGEPI"
+            },
+            {
+                "id": 370,
+                "template": "LUVDISC"
+            },
+            {
+                "id": 517,
+                "template": "MUNNA"
+            },
+            {
+                "id": 527,
+                "template": "WOOBAT"
+            },
+            {
+                "id": 546,
+                "template": "COTTONEE"
+            }
+        ],
+        "raids": [
+            {
+                "id": 280,
+                "template": "RALTS"
+            },
+            {
+                "id": 313,
+                "template": "VOLBEAT"
+            },
+            {
+                "id": 314,
+                "template": "ILLUMISE"
+            },
+            {
+                "id": 349,
+                "template": "FEEBAS"
+            },
+            {
+                "id": 517,
+                "template": "MUNNA"
+            },
+            {
+                "id": 677,
+                "template": "ESPURR"
+            },
+            {
+                "id": 176,
+                "template": "TOGETIC"
+            },
+            {
+                "id": 196,
+                "template": "ESPEON"
+            },
+            {
+                "id": 197,
+                "template": "UMBREON"
+            },
+            {
+                "id": 282,
+                "template": "GARDEVOIR"
+            },
+            {
+                "id": 475,
+                "template": "GALLADE"
+            },
+            {
+                "id": 594,
+                "template": "ALOMOMOLA"
+            },
+            {
+                "id": 380,
+                "template": "LATIAS"
+            },
+            {
+                "id": 381,
+                "template": "LATIOS"
+            },
+            {
+                "id": 18,
+                "template": "PIDGEOT",
+                "temp_evolution_id": 1
+            },
+            {
+                "id": 130,
+                "template": "GYARADOS",
+                "temp_evolution_id": 1
+            },
+            {
+                "id": 181,
+                "template": "AMPHAROS",
+                "temp_evolution_id": 1
+            }
+        ],
+        "shinies": [],
+        "bonuses": [
+            {
+                "text": "Increased Chance to become Lucky Friends with your friends",
+                "template": "increased-lucky-chance"
+            },
+            {
+                "text": "Increased Chance that Pok\u00e9mon you trade become Lucky Pok\u00e9mon"
+            },
+            {
+                "text": "Trade Range Increased to 40 km",
+                "template": "increased-trade-range",
+                "value": "40"
+            },
+            {
+                "text": "Increased Chance of receiving Berries from Gifts"
+            }
+        ],
+        "features": [
+            "Evolve Kirlia during the event to get a Gardevoir or a Gallade that knows Synchronoise!",
+            "Complete event-exclusive Field Research to encounter Pok\u00e9mon like Ralts, Volbeat, Illumise, Spinda with a heart pattern, and Alomomola, as well as earn other rewards.",
+            "Complete the Valentine\u2019s Day\u2013themed Collection Challenge during the event by collecting Nidoran\u2640, Nidoran\u2642, Espeon, Umbreon, Plusle, Minun, Volbeat, Illumise, Luvdisc, Latias, Latios, and Alomomola to receive five Silver Pinap Berries, a Lucky Egg, and an Egg Incubator. Head on over to the Today View to track your progress!",
+            "During the event, you can pick up a free one-time bundle in the shop featuring three Remote Raid Passes.",
+            "Event-exclusive stickers will be available from Gifts. Be sure to get them while you can!",
+            "New Munna-inspired avatar items will be available in the shop during and after this event."
+        ],
+        "has_quests": true,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Carnival 2021 (Latin America and the Caribbean)",
+        "type": "event",
+        "start": "2021-02-18 10:00",
+        "end": "2021-02-19 20:00",
+        "spawns": [
+            {
+                "id": 39,
+                "template": "JIGGLYPUFF"
+            },
+            {
+                "id": 50,
+                "template": "DIGLETT"
+            },
+            {
+                "id": 237,
+                "template": "HITMONTOP"
+            },
+            {
+                "id": 255,
+                "template": "TORCHIC"
+            },
+            {
+                "id": 270,
+                "template": "LOTAD"
+            },
+            {
+                "id": 401,
+                "template": "KRICKETOT"
+            },
+            {
+                "id": 436,
+                "template": "BRONZOR"
+            },
+            {
+                "id": 517,
+                "template": "MUNNA"
+            },
+            {
+                "id": 587,
+                "template": "EMOLGA"
+            }
+        ],
+        "eggs": [],
+        "raids": [
+            {
+                "id": 401,
+                "template": "KRICKETOT"
+            },
+            {
+                "id": 587,
+                "template": "EMOLGA"
+            }
+        ],
+        "shinies": [
+            {
+                "id": 39,
+                "template": "JIGGLYPUFF"
+            }
+        ],
+        "bonuses": [
+            {
+                "text": "3 Hour Incense",
+                "template": "longer-incense",
+                "value": "3"
+            }
+        ],
+        "features": [
+            "Check out the in-game Store to receive a free item bundle (one-time purchase) containing: 50 Pok\u00e9 balls, 2 Incense , 10 Razz Berries and 1 Remote Raid Pass."
+        ],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Pok\u00e9mon GO Tour: Kanto",
+        "type": "event",
+        "start": "2021-02-20 09:00",
+        "end": "2021-02-20 21:00",
+        "spawns": [
+            {
+                "id": 23,
+                "template": "EKANS"
+            },
+            {
+                "id": 43,
+                "template": "ODDISH"
+            },
+            {
+                "id": 56,
+                "template": "MANKEY"
+            },
+            {
+                "id": 58,
+                "template": "GROWLITHE"
+            },
+            {
+                "id": 123,
+                "template": "SCYTHER"
+            },
+            {
+                "id": 125,
+                "template": "ELECTABUZZ"
+            },
+            {
+                "id": 1,
+                "template": "BULBASAUR"
+            },
+            {
+                "id": 4,
+                "template": "CHARMANDER"
+            },
+            {
+                "id": 7,
+                "template": "SQUIRTLE"
+            },
+            {
+                "id": 16,
+                "template": "PIDGEY"
+            },
+            {
+                "id": 25,
+                "template": "PIKACHU"
+            },
+            {
+                "id": 29,
+                "template": "NIDORAN_FEMALE"
+            },
+            {
+                "id": 50,
+                "template": "DIGLETT"
+            },
+            {
+                "id": 77,
+                "template": "PONYTA"
+            },
+            {
+                "id": 90,
+                "template": "SHELLDER"
+            },
+            {
+                "id": 96,
+                "template": "DROWZEE"
+            },
+            {
+                "id": 98,
+                "template": "KRABBY"
+            },
+            {
+                "id": 106,
+                "template": "HITMONLEE"
+            },
+            {
+                "id": 108,
+                "template": "LICKITUNG"
+            },
+            {
+                "id": 133,
+                "template": "EEVEE"
+            },
+            {
+                "id": 140,
+                "template": "KABUTO"
+            },
+            {
+                "id": 147,
+                "template": "DRATINI"
+            },
+            {
+                "id": 27,
+                "template": "SANDSHREW"
+            },
+            {
+                "id": 37,
+                "template": "VULPIX"
+            },
+            {
+                "id": 52,
+                "template": "MEOWTH"
+            },
+            {
+                "id": 69,
+                "template": "BELLSPROUT"
+            },
+            {
+                "id": 126,
+                "template": "MAGMAR"
+            },
+            {
+                "id": 127,
+                "template": "PINSIR"
+            },
+            {
+                "id": 32,
+                "template": "NIDORAN_MALE"
+            },
+            {
+                "id": 54,
+                "template": "PSYDUCK"
+            },
+            {
+                "id": 74,
+                "template": "GEODUDE"
+            },
+            {
+                "id": 102,
+                "template": "EXEGGCUTE"
+            },
+            {
+                "id": 107,
+                "template": "HITMONCHAN"
+            },
+            {
+                "id": 109,
+                "template": "KOFFING"
+            },
+            {
+                "id": 114,
+                "template": "TANGELA"
+            },
+            {
+                "id": 116,
+                "template": "HORSEA"
+            },
+            {
+                "id": 138,
+                "template": "OMANYTE"
+            }
+        ],
+        "eggs": [],
+        "raids": [
+            {
+                "id": 144,
+                "template": "ARTICUNO"
+            },
+            {
+                "id": 145,
+                "template": "ZAPDOS"
+            },
+            {
+                "id": 146,
+                "template": "MOLTRES"
+            },
+            {
+                "id": 150,
+                "template": "MEWTWO"
+            }
+        ],
+        "shinies": [
+            {
+                "id": 21,
+                "template": "SPEAROW"
+            },
+            {
+                "id": 22,
+                "template": "FEAROW"
+            },
+            {
+                "id": 46,
+                "template": "PARAS"
+            },
+            {
+                "id": 47,
+                "template": "PARASECT"
+            },
+            {
+                "id": 106,
+                "template": "HITMONLEE"
+            },
+            {
+                "id": 107,
+                "template": "HITMONCHAN"
+            },
+            {
+                "id": 132,
+                "template": "DITTO"
+            },
+            {
+                "id": 143,
+                "template": "SNORLAX"
+            },
+            {
+                "id": 151,
+                "template": "MEW"
+            },
+            {
+                "id": 1,
+                "template": "BULBASAUR"
+            },
+            {
+                "id": 4,
+                "template": "CHARMANDER"
+            },
+            {
+                "id": 7,
+                "template": "SQUIRTLE"
+            },
+            {
+                "id": 16,
+                "template": "PIDGEY"
+            },
+            {
+                "id": 23,
+                "template": "EKANS"
+            },
+            {
+                "id": 25,
+                "template": "PIKACHU"
+            },
+            {
+                "id": 29,
+                "template": "NIDORAN_FEMALE"
+            },
+            {
+                "id": 43,
+                "template": "ODDISH"
+            },
+            {
+                "id": 50,
+                "template": "DIGLETT"
+            },
+            {
+                "id": 56,
+                "template": "MANKEY"
+            },
+            {
+                "id": 58,
+                "template": "GROWLITHE"
+            },
+            {
+                "id": 77,
+                "template": "PONYTA"
+            },
+            {
+                "id": 90,
+                "template": "SHELLDER"
+            },
+            {
+                "id": 96,
+                "template": "DROWZEE"
+            },
+            {
+                "id": 98,
+                "template": "KRABBY"
+            },
+            {
+                "id": 108,
+                "template": "LICKITUNG"
+            },
+            {
+                "id": 123,
+                "template": "SCYTHER"
+            },
+            {
+                "id": 125,
+                "template": "ELECTABUZZ"
+            },
+            {
+                "id": 133,
+                "template": "EEVEE"
+            },
+            {
+                "id": 140,
+                "template": "KABUTO"
+            },
+            {
+                "id": 147,
+                "template": "DRATINI"
+            },
+            {
+                "id": 27,
+                "template": "SANDSHREW"
+            },
+            {
+                "id": 32,
+                "template": "NIDORAN_MALE"
+            },
+            {
+                "id": 37,
+                "template": "VULPIX"
+            },
+            {
+                "id": 52,
+                "template": "MEOWTH"
+            },
+            {
+                "id": 54,
+                "template": "PSYDUCK"
+            },
+            {
+                "id": 69,
+                "template": "BELLSPROUT"
+            },
+            {
+                "id": 74,
+                "template": "GEODUDE"
+            },
+            {
+                "id": 102,
+                "template": "EXEGGCUTE"
+            },
+            {
+                "id": 109,
+                "template": "KOFFING"
+            },
+            {
+                "id": 114,
+                "template": "TANGELA"
+            },
+            {
+                "id": 116,
+                "template": "HORSEA"
+            },
+            {
+                "id": 126,
+                "template": "MAGMAR"
+            },
+            {
+                "id": 127,
+                "template": "PINSIR"
+            },
+            {
+                "id": 138,
+                "template": "OMANYTE"
+            }
+        ],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Pikachu Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2021-02-23 18:00",
+        "end": "2021-02-23 19:00",
+        "spawns": [
+            {
+                "id": 25,
+                "template": "PIKACHU"
+            }
+        ],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": true
+    },
+    {
+        "name": "Articuno, Zapdos, Moltres, and Mewtwo Raid Hour",
+        "type": "raid-hour",
+        "start": "2021-02-24 18:00",
+        "end": "2021-02-24 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Kanto Celebration Event & Raid Day",
+        "type": "event",
+        "start": null,
+        "end": null,
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Meowth Balloons Appearing",
+        "type": "event",
+        "start": null,
+        "end": "2021-02-28 23:59",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Season of Celebration",
+        "type": "event",
+        "start": null,
+        "end": "2021-03-01 08:00",
+        "spawns": [
+            {
+                "id": 27,
+                "template": "SANDSHREW_ALOLA",
+                "form": 52
+            },
+            {
+                "id": 35,
+                "template": "CLEFAIRY"
+            },
+            {
+                "id": 37,
+                "template": "VULPIX_ALOLA",
+                "form": 56
+            },
+            {
+                "id": 39,
+                "template": "JIGGLYPUFF"
+            },
+            {
+                "id": 86,
+                "template": "SEEL"
+            },
+            {
+                "id": 131,
+                "template": "LAPRAS"
+            },
+            {
+                "id": 216,
+                "template": "TEDDIURSA"
+            },
+            {
+                "id": 234,
+                "template": "STANTLER"
+            },
+            {
+                "id": 436,
+                "template": "BRONZOR"
+            },
+            {
+                "id": 459,
+                "template": "SNOVER"
+            },
+            {
+                "id": 572,
+                "template": "MINCCINO"
+            },
+            {
+                "id": 585,
+                "template": "DEERLING_WINTER",
+                "form": 588
+            },
+            {
+                "id": 615,
+                "template": "CRYOGONAL"
+            },
+            {
+                "id": 58,
+                "template": "GROWLITHE"
+            },
+            {
+                "id": 213,
+                "template": "SHUCKLE"
+            },
+            {
+                "id": 309,
+                "template": "ELECTRIKE"
+            },
+            {
+                "id": 412,
+                "template": "BURMY_PLANT",
+                "form": 118
+            },
+            {
+                "id": 412,
+                "template": "BURMY_TRASH",
+                "form": 120
+            },
+            {
+                "id": 412,
+                "template": "BURMY_SANDY",
+                "form": 119
+            },
+            {
+                "id": 554,
+                "template": "DARUMAKA"
+            },
+            {
+                "id": 585,
+                "template": "DEERLING_SUMMER",
+                "form": 586
+            },
+            {
+                "id": 16,
+                "template": "PIDGEY"
+            },
+            {
+                "id": 194,
+                "template": "WOOPER"
+            },
+            {
+                "id": 200,
+                "template": "MISDREAVUS"
+            },
+            {
+                "id": 261,
+                "template": "POOCHYENA"
+            },
+            {
+                "id": 304,
+                "template": "ARON"
+            },
+            {
+                "id": 425,
+                "template": "DRIFLOON"
+            },
+            {
+                "id": 427,
+                "template": "BUNEARY"
+            },
+            {
+                "id": 529,
+                "template": "DRILBUR"
+            },
+            {
+                "id": 568,
+                "template": "TRUBBISH"
+            },
+            {
+                "id": 631,
+                "template": "HEATMOR"
+            },
+            {
+                "id": 632,
+                "template": "DURANT"
+            }
+        ],
+        "eggs": [
+            {
+                "id": 58,
+                "template": "GROWLITHE"
+            },
+            {
+                "id": 278,
+                "template": "WINGULL"
+            },
+            {
+                "id": 343,
+                "template": "BALTOY"
+            },
+            {
+                "id": 580,
+                "template": "DUCKLETT"
+            },
+            {
+                "id": 403,
+                "template": "SHINX"
+            }
+        ],
+        "raids": [
+            {
+                "id": 6,
+                "template": "CHARIZARD",
+                "temp_evolution_id": 2
+            },
+            {
+                "id": 94,
+                "template": "GENGAR",
+                "temp_evolution_id": 1
+            },
+            {
+                "id": 460,
+                "template": "ABOMASNOW",
+                "temp_evolution_id": 1
+            }
+        ],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    }
+]
