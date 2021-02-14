@@ -48,7 +48,8 @@
                 "314_00",
                 "349_00",
                 "517_00",
-                "Espurr"
+                "Espurr",
+                "370_00"
             ],
             "3": [
                 "176_00",
@@ -84,6 +85,9 @@
             ],
             "Catch 3 Fairy-type Pokemon": [
                 "2 Razz Berries"
+            ],
+            "Make 5 Great Curveball throws in a row": [
+                "327_00"
             ]
         }
     }
