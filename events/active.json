@@ -1,60 +1,55 @@
 {
-    "name": "Lunar New Year 2021",
-    "start": "2021-02-09 10:00",
-    "end": "2021-02-14 13:00",
+    "name": "Increased Trade Distance",
+    "start": null,
+    "end": "2021-03-01 22:00",
     "details": {
         "bonuses": [
-            "Release of Mega Gyarados",
-            "More Pok\u00e9Balls in Gifts",
-            "Increased chance to become Lucky Friends",
-            "Increased chance for Lucky trades",
-            "Trade radius increased to 40km",
-            "New boxes in the shop"
+            "Surprise release of shiny Alomomola",
+            "Free bundle of 3 Remote Raid Passes in the shop",
+            "Increased chance to become Lucky Friends, to have Lucky trades, and the trade radius is increased to 40km",
+            "More berries in Gifts",
+            "Munna-inspired avatar items",
+            "Event-exclusive stickers in Gifts"
         ],
         "eggs": [
-            "019_00",
-            "023_00",
-            "056_00",
-            "077_00",
-            "179_00",
-            "228_00",
-            "241_00",
-            "255_00",
-            "371_00",
-            "427_00",
-            "498_00",
-            "Litleo"
+            "133_00",
+            "173_00",
+            "174_00",
+            "175_00",
+            "370_00",
+            "517_00",
+            "527_00",
+            "546_00"
         ],
         "spawns": [
-            "098_00",
-            "118_00",
-            "126_00",
-            "129_00",
-            "241_00",
-            "307_00",
-            "498_00",
-            "130_00",
-            "554_00",
-            "005_00",
-            "401_00",
-            "119_00",
-            "390_00",
-            "653_00"
+            "032_00",
+            "032_00",
+            "311_00",
+            "312_00",
+            "313_00",
+            "314_00",
+            "370_00",
+            "517_00",
+            "300_00",
+            "349_00",
+            "113_00"
         ],
         "raids": {
             "1": [
-                "307_00",
-                "318_00",
-                "355_00",
-                "451_00",
-                "554_00"
+                "280_00",
+                "313_00",
+                "314_00",
+                "349_00",
+                "517_00",
+                "Espurr"
             ],
             "3": [
-                "241_00",
-                "224_00",
-                "257_00",
-                "323_00",
-                "359_00"
+                "176_00",
+                "196_00",
+                "197_00",
+                "282_00",
+                "475_00",
+                "594_00"
             ],
             "5": [
                 "381_00",
@@ -68,17 +63,20 @@
         },
         "quests": {
             "Send 3 Gifts to friends": [
-                "052_00"
+                "314_00",
+                "313_00"
             ],
-            "Send 10 Gifts to friends": [
-                "052_64",
-                "052_2335"
+            "Use 5 Berries to help catch Pokemon": [
+                "280_00"
             ],
-            "Catch 6 Water-type Pokemon": [
-                "241_00"
+            "Win 2 raids": [
+                "594_00"
             ],
-            "Catch 12 Pokemon": [
-                "307_00"
+            "Catch 20 Luvdisc": [
+                "594_00"
+            ],
+            "Catch 3 Fairy-type Pokemon": [
+                "2 Razz Berries"
             ]
         }
     }
