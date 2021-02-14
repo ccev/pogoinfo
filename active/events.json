@@ -1,19 +1,5 @@
 [
     {
-        "name": "Latias & Latios Raid Hour",
-        "type": "raid-hour",
-        "start": "2021-02-17 18:00",
-        "end": "2021-02-17 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Lunar New Year 2021",
         "type": "event",
         "start": null,
@@ -195,20 +181,6 @@
         "has_spawnpoints": false
     },
     {
-        "name": "Increased Trade Distance (Lunar New Year)",
-        "type": "event",
-        "start": null,
-        "end": "2021-02-15 22:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Luvdisc Spotlight Hour",
         "type": "spotlight-hour",
         "start": "2021-02-16 18:00",
@@ -226,6 +198,20 @@
         "features": [],
         "has_quests": false,
         "has_spawnpoints": true
+    },
+    {
+        "name": "Latias & Latios Raid Hour",
+        "type": "raid-hour",
+        "start": "2021-02-17 18:00",
+        "end": "2021-02-17 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
     },
     {
         "name": "Valentine\u2019s Day Event",
@@ -250,6 +236,22 @@
                 "template": "NIDORAN_MALE"
             },
             {
+                "id": 35,
+                "template": "CLEFAIRY"
+            },
+            {
+                "id": 39,
+                "template": "JIGGLYPUFF"
+            },
+            {
+                "id": 113,
+                "template": "CHANSEY"
+            },
+            {
+                "id": 300,
+                "template": "SKITTY"
+            },
+            {
                 "id": 311,
                 "template": "PLUSLE"
             },
@@ -272,6 +274,10 @@
             {
                 "id": 370,
                 "template": "LUVDISC"
+            },
+            {
+                "id": 527,
+                "template": "WOOBAT"
             }
         ],
         "eggs": [
@@ -381,7 +387,12 @@
                 "temp_evolution_id": 1
             }
         ],
-        "shinies": [],
+        "shinies": [
+            {
+                "id": 594,
+                "template": "ALOMOMOLA"
+            }
+        ],
         "bonuses": [
             {
                 "text": "Increased Chance to become Lucky Friends with your friends",
@@ -402,7 +413,7 @@
         "features": [
             "Evolve Kirlia during the event to get a Gardevoir or a Gallade that knows Synchronoise!",
             "Complete event-exclusive Field Research to encounter Pok\u00e9mon like Ralts, Volbeat, Illumise, Spinda with a heart pattern, and Alomomola, as well as earn other rewards.",
-            "Complete the Valentine\u2019s Day\u2013themed Collection Challenge during the event by collecting Nidoran\u2640, Nidoran\u2642, Espeon, Umbreon, Plusle, Minun, Volbeat, Illumise, Luvdisc, Latias, Latios, and Alomomola to receive five Silver Pinap Berries, a Lucky Egg, and an Egg Incubator. Head on over to the Today View to track your progress!",
+            "Complete the Valentine\u2019s Day\u2013themed Collection Challenge during the event by collecting Nidoran\u2640, Nidoran\u2642, Espeon, Umbreon, Plusle, Minun, Volbeat, Illumise, Luvdisc, Latias, Latios, and Alomomola to receive three Silver Pinap Berries, three Rocket Radars, and two Charged TMs. Head on over to the Today View to track your progress!",
             "During the event, you can pick up a free one-time bundle in the shop featuring three Remote Raid Passes.",
             "Event-exclusive stickers will be available from Gifts. Be sure to get them while you can!",
             "New Munna-inspired avatar items will be available in the shop during and after this event."
@@ -874,17 +885,228 @@
         "has_spawnpoints": false
     },
     {
-        "name": "Kanto Celebration Event & Raid Day",
+        "name": "Kanto Celebration Event",
         "type": "event",
-        "start": null,
-        "end": null,
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
+        "start": "2021-02-21 10:00",
+        "end": "2021-02-27 20:00",
+        "spawns": [
+            {
+                "id": 1,
+                "template": "BULBASAUR"
+            },
+            {
+                "id": 4,
+                "template": "CHARMANDER"
+            },
+            {
+                "id": 7,
+                "template": "SQUIRTLE"
+            },
+            {
+                "id": 13,
+                "template": "WEEDLE"
+            },
+            {
+                "id": 25,
+                "template": "PIKACHU"
+            },
+            {
+                "id": 35,
+                "template": "CLEFAIRY"
+            },
+            {
+                "id": 54,
+                "template": "PSYDUCK"
+            },
+            {
+                "id": 74,
+                "template": "GEODUDE"
+            },
+            {
+                "id": 79,
+                "template": "SLOWPOKE"
+            },
+            {
+                "id": 92,
+                "template": "GASTLY"
+            },
+            {
+                "id": 100,
+                "template": "VOLTORB"
+            },
+            {
+                "id": 129,
+                "template": "MAGIKARP"
+            },
+            {
+                "id": 10,
+                "template": "CATERPIE"
+            },
+            {
+                "id": 16,
+                "template": "PIDGEY"
+            },
+            {
+                "id": 21,
+                "template": "SPEAROW"
+            },
+            {
+                "id": 60,
+                "template": "POLIWAG"
+            },
+            {
+                "id": 63,
+                "template": "ABRA"
+            },
+            {
+                "id": 66,
+                "template": "MACHOP"
+            },
+            {
+                "id": 86,
+                "template": "SEEL"
+            },
+            {
+                "id": 98,
+                "template": "KRABBY"
+            },
+            {
+                "id": 102,
+                "template": "EXEGGCUTE"
+            },
+            {
+                "id": 116,
+                "template": "HORSEA"
+            },
+            {
+                "id": 118,
+                "template": "GOLDEEN"
+            }
+        ],
+        "eggs": [
+            {
+                "id": 43,
+                "template": "ODDISH"
+            },
+            {
+                "id": 69,
+                "template": "BELLSPROUT"
+            },
+            {
+                "id": 114,
+                "template": "TANGELA"
+            },
+            {
+                "id": 147,
+                "template": "DRATINI"
+            },
+            {
+                "id": 172,
+                "template": "PICHU"
+            },
+            {
+                "id": 239,
+                "template": "ELEKID"
+            },
+            {
+                "id": 240,
+                "template": "MAGBY"
+            }
+        ],
+        "raids": [
+            {
+                "id": 1,
+                "template": "BULBASAUR"
+            },
+            {
+                "id": 4,
+                "template": "CHARMANDER"
+            },
+            {
+                "id": 7,
+                "template": "SQUIRTLE"
+            },
+            {
+                "id": 25,
+                "template": "PIKACHU"
+            },
+            {
+                "id": 129,
+                "template": "MAGIKARP"
+            },
+            {
+                "id": 147,
+                "template": "DRATINI"
+            },
+            {
+                "id": 64,
+                "template": "KADABRA"
+            },
+            {
+                "id": 67,
+                "template": "MACHOKE"
+            },
+            {
+                "id": 75,
+                "template": "GRAVELER"
+            },
+            {
+                "id": 93,
+                "template": "HAUNTER"
+            },
+            {
+                "id": 123,
+                "template": "SCYTHER"
+            },
+            {
+                "id": 127,
+                "template": "PINSIR"
+            },
+            {
+                "id": 131,
+                "template": "LAPRAS"
+            },
+            {
+                "id": 144,
+                "template": "ARTICUNO"
+            },
+            {
+                "id": 145,
+                "template": "ZAPDOS"
+            },
+            {
+                "id": 146,
+                "template": "MOLTRES"
+            },
+            {
+                "id": 150,
+                "template": "MEWTWO"
+            },
+            {
+                "id": 3,
+                "template": "VENUSAUR",
+                "temp_evolution_id": 1
+            },
+            {
+                "id": 6,
+                "template": "CHARIZARD",
+                "temp_evolution_id": 2
+            },
+            {
+                "id": 6,
+                "template": "CHARIZARD",
+                "temp_evolution_id": 3
+            },
+            {
+                "id": 9,
+                "template": "BLASTOISE",
+                "temp_evolution_id": 1
+            }
+        ],
         "shinies": [],
         "bonuses": [],
         "features": [],
-        "has_quests": false,
+        "has_quests": true,
         "has_spawnpoints": false
     },
     {
@@ -1082,6 +1304,20 @@
                 "temp_evolution_id": 1
             }
         ],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Increased Trade Distance",
+        "type": "event",
+        "start": null,
+        "end": "2021-03-01 22:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
         "shinies": [],
         "bonuses": [],
         "features": [],
