@@ -1,11 +1,13 @@
 {
-    "name": "Increased Trade Distance",
-    "start": null,
-    "end": "2021-03-01 22:00",
+    "name": "Valentine\u2019s Day Event",
+    "start": "2021-02-14 13:00",
+    "end": "2021-02-18 20:00",
     "details": {
         "bonuses": [
             "Surprise release of shiny Alomomola",
+            "Release of Munna and Musharna",
             "Free bundle of 3 Remote Raid Passes in the shop",
+            "Gallade and Gardevoir evolved or caught during the event will learn their CD move Synchronise",
             "Increased chance to become Lucky Friends, to have Lucky trades, and the trade radius is increased to 40km",
             "More berries in Gifts",
             "Munna-inspired avatar items",
@@ -32,7 +34,12 @@
             "517_00",
             "300_00",
             "349_00",
-            "113_00"
+            "113_00",
+            "518_00",
+            "029_00",
+            "035_00",
+            "039_00",
+            "527_00"
         ],
         "raids": {
             "1": [
