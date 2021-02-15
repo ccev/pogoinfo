@@ -490,14 +490,14 @@
                         "form": 161
                     },
                     {
+                        "id": 207,
+                        "template": "GLIGAR_SHADOW",
+                        "form": 804
+                    },
+                    {
                         "id": 227,
                         "template": "SKARMORY_SHADOW",
                         "form": 1296
-                    },
-                    {
-                        "id": 41,
-                        "template": "ZUBAT_SHADOW",
-                        "form": 158
                     }
                 ],
                 [

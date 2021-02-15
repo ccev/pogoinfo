@@ -1,60 +1,73 @@
 {
     "event": [
         {
-            "task": "Send 10 Gifts to friends",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 52,
-                        "template": "MEOWTH_ALOLA",
-                        "form": 64
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 52,
-                        "template": "MEOWTH_GALARIAN",
-                        "form": 2335
-                    }
-                }
-            ]
-        },
-        {
             "task": "Send 3 Gifts to friends",
             "rewards": [
                 {
                     "type": "pokemon",
                     "reward": {
-                        "id": 52,
-                        "template": "MEOWTH_NORMAL",
-                        "form": 63
+                        "id": 314,
+                        "template": "ILLUMISE"
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 313,
+                        "template": "VOLBEAT"
                     }
                 }
             ]
         },
         {
-            "task": "Catch 6 Water-type Pok\u00e9mon",
+            "task": "Use 5 Berries to help catch Pok\u00e9mon",
             "rewards": [
                 {
                     "type": "pokemon",
                     "reward": {
-                        "id": 241,
-                        "template": "MILTANK"
+                        "id": 280,
+                        "template": "RALTS_NORMAL",
+                        "form": 292
                     }
                 }
             ]
         },
         {
-            "task": "Catch 12 Pok\u00e9mon",
+            "task": "Win 2 raids",
             "rewards": [
                 {
                     "type": "pokemon",
                     "reward": {
-                        "id": 307,
-                        "template": "MEDITITE"
+                        "id": 594,
+                        "template": "ALOMOMOLA"
                     }
+                }
+            ]
+        },
+        {
+            "task": "Catch 20 Luvdisc",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 594,
+                        "template": "ALOMOMOLA"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Catch 3 Fairy-type Pok\u00e9mon",
+            "rewards": [
+                {
+                    "type": "item",
+                    "amount": 2,
+                    "id": 701
+                },
+                {
+                    "type": "item",
+                    "amount": 2,
+                    "id": 705
                 }
             ]
         }
