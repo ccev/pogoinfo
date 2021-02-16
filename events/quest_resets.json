@@ -1,23 +1,5 @@
 [
     {
-        "name": "Valentine\u2019s Day Event Start",
-        "time": "2021-02-14 13:00",
-        "type": [
-            "event",
-            "start"
-        ],
-        "confidence": 9
-    },
-    {
-        "name": "Valentine\u2019s Day Event End",
-        "time": "2021-02-18 20:00",
-        "type": [
-            "event",
-            "end"
-        ],
-        "confidence": 9
-    },
-    {
         "name": "Kanto Celebration Event Start",
         "time": "2021-02-21 10:00",
         "type": [
@@ -34,5 +16,23 @@
             "end"
         ],
         "confidence": 9
+    },
+    {
+        "name": "Fletchling Community Day Start",
+        "time": "2021-03-06 11:00",
+        "type": [
+            "cday",
+            "start"
+        ],
+        "confidence": 10
+    },
+    {
+        "name": "Fletchling Community Day End",
+        "time": "2021-03-06 17:00",
+        "type": [
+            "cday",
+            "end"
+        ],
+        "confidence": 10
     }
 ]
