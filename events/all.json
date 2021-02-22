@@ -496,5 +496,17 @@
         "type": "Event",
         "start": "2021-02-21 10:00",
         "end": "2021-02-27 20:00"
+    },
+    {
+        "name": "Pok\u00e9mon Spotlight Hour",
+        "type": "Pok\u00e9mon Spotlight Hour",
+        "start": null,
+        "end": "2021-03-30 19:00"
+    },
+    {
+        "name": "Season of Legends",
+        "type": "Event",
+        "start": "2021-03-01 08:00",
+        "end": "2021-06-01 10:00"
     }
 ]
