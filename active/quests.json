@@ -1,6 +1,43 @@
 {
     "event": [
         {
+            "task": "Defeat 2 Team GO Rocket Grunts",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 48,
+                        "template": "VENONAT_NORMAL",
+                        "form": 259
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 41,
+                        "template": "ZUBAT_NORMAL",
+                        "form": 157
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 29,
+                        "template": "NIDORAN_NORMAL",
+                        "form": 776
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 32,
+                        "template": "NIDORAN_NORMAL",
+                        "form": 776
+                    }
+                }
+            ]
+        },
+        {
             "task": "Catch 3 Pok\u00e9mon",
             "rewards": [
                 {
@@ -29,19 +66,6 @@
             ]
         },
         {
-            "task": "Transfer 6 Pok\u00e9mon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 129,
-                        "template": "MAGIKARP_NORMAL",
-                        "form": 253
-                    }
-                }
-            ]
-        },
-        {
             "task": "Earn 3 hearts with your buddy",
             "rewards": [
                 {
@@ -61,40 +85,6 @@
             ]
         },
         {
-            "task": "Win a raid",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 143,
-                        "template": "SNORLAX_NORMAL",
-                        "form": 199
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Defeat 2 Team GO Rocket Grunts",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 48,
-                        "template": "VENONAT_NORMAL",
-                        "form": 259
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 41,
-                        "template": "ZUBAT_NORMAL",
-                        "form": 157
-                    }
-                }
-            ]
-        },
-        {
             "task": "Hatch an Egg",
             "rewards": [
                 {
@@ -103,6 +93,40 @@
                         "id": 138,
                         "template": "OMANYTE_NORMAL",
                         "form": 740
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 140,
+                        "template": "KABUTO_NORMAL",
+                        "form": 1104
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Transfer 6 Pok\u00e9mon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 129,
+                        "template": "MAGIKARP_NORMAL",
+                        "form": 253
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Win a raid",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 143,
+                        "template": "SNORLAX_NORMAL",
+                        "form": 199
                     }
                 }
             ]

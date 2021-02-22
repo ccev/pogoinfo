@@ -144,14 +144,14 @@
                         "form": 263
                     },
                     {
-                        "id": 127,
-                        "template": "PINSIR_SHADOW",
-                        "form": 899
-                    },
-                    {
                         "id": 212,
                         "template": "SCIZOR_SHADOW",
                         "form": 251
+                    },
+                    {
+                        "id": 127,
+                        "template": "PINSIR_SHADOW",
+                        "form": 899
                     }
                 ],
                 [
@@ -161,14 +161,14 @@
                         "form": 623
                     },
                     {
-                        "id": 123,
-                        "template": "SCYTHER_SHADOW",
-                        "form": 248
-                    },
-                    {
                         "id": 212,
                         "template": "SCIZOR_SHADOW",
                         "form": 251
+                    },
+                    {
+                        "id": 123,
+                        "template": "SCYTHER_SHADOW",
+                        "form": 248
                     }
                 ]
             ]
@@ -512,14 +512,14 @@
                         "form": 203
                     },
                     {
-                        "id": 123,
-                        "template": "SCYTHER_SHADOW",
-                        "form": 248
-                    },
-                    {
                         "id": 42,
                         "template": "GOLBAT_SHADOW",
                         "form": 161
+                    },
+                    {
+                        "id": 123,
+                        "template": "SCYTHER_SHADOW",
+                        "form": 248
                     }
                 ],
                 [
@@ -1253,14 +1253,14 @@
                         "form": 320
                     },
                     {
-                        "id": 477,
-                        "template": "DUSKNOIR_SHADOW",
-                        "form": 921
-                    },
-                    {
                         "id": 473,
                         "template": "MAMOSWINE_SHADOW",
                         "form": 1839
+                    },
+                    {
+                        "id": 477,
+                        "template": "DUSKNOIR_SHADOW",
+                        "form": 921
                     }
                 ]
             ]
@@ -1548,14 +1548,14 @@
                         "form": 921
                     },
                     {
-                        "id": 302,
-                        "template": "SABLEYE_SHADOW",
-                        "form": 924
-                    },
-                    {
                         "id": 354,
                         "template": "BANETTE_SHADOW",
                         "form": 912
+                    },
+                    {
+                        "id": 302,
+                        "template": "SABLEYE_SHADOW",
+                        "form": 924
                     }
                 ]
             ]
@@ -1601,14 +1601,14 @@
                         "form": 659
                     },
                     {
-                        "id": 180,
-                        "template": "FLAAFFY_SHADOW",
-                        "form": 650
-                    },
-                    {
                         "id": 125,
                         "template": "ELECTABUZZ_SHADOW",
                         "form": 641
+                    },
+                    {
+                        "id": 180,
+                        "template": "FLAAFFY_SHADOW",
+                        "form": 650
                     }
                 ],
                 [

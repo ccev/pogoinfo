@@ -35,7 +35,7 @@
     {
         "name": "Kanto Celebration Event",
         "type": "event",
-        "start": "2021-02-21 10:00",
+        "start": null,
         "end": "2021-02-27 20:00",
         "spawns": [
             {
