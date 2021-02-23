@@ -505,6 +505,25 @@
         "has_spawnpoints": false
     },
     {
+        "name": "Pok\u00e9mon Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": null,
+        "end": "2021-03-30 19:00",
+        "spawns": [
+            {
+                "id": 25,
+                "template": "PIKACHU"
+            }
+        ],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": true
+    },
+    {
         "name": "Fletchling Community Day",
         "type": "community-day",
         "start": "2021-03-06 11:00",
@@ -544,5 +563,159 @@
         "features": [],
         "has_quests": false,
         "has_spawnpoints": true
+    },
+    {
+        "name": "Season of Legends",
+        "type": "event",
+        "start": "2021-03-01 08:00",
+        "end": "2021-06-01 10:00",
+        "spawns": [
+            {
+                "id": 114,
+                "template": "TANGELA"
+            },
+            {
+                "id": 123,
+                "template": "SCYTHER"
+            },
+            {
+                "id": 147,
+                "template": "DRATINI"
+            },
+            {
+                "id": 387,
+                "template": "TURTWIG"
+            },
+            {
+                "id": 390,
+                "template": "CHIMCHAR"
+            },
+            {
+                "id": 393,
+                "template": "PIPLUP"
+            },
+            {
+                "id": 415,
+                "template": "COMBEE"
+            },
+            {
+                "id": 453,
+                "template": "CROAGUNK"
+            },
+            {
+                "id": 546,
+                "template": "COTTONEE"
+            },
+            {
+                "id": 580,
+                "template": "DUCKLETT"
+            },
+            {
+                "id": 585,
+                "template": "DEERLING_SPRING",
+                "form": 585
+            },
+            {
+                "id": 56,
+                "template": "MANKEY"
+            },
+            {
+                "id": 193,
+                "template": "YANMA"
+            },
+            {
+                "id": 204,
+                "template": "PINECO"
+            },
+            {
+                "id": 371,
+                "template": "BAGON"
+            },
+            {
+                "id": 418,
+                "template": "BUIZEL"
+            },
+            {
+                "id": 495,
+                "template": "SNIVY"
+            },
+            {
+                "id": 498,
+                "template": "TEPIG"
+            },
+            {
+                "id": 501,
+                "template": "OSHAWOTT"
+            },
+            {
+                "id": 527,
+                "template": "WOOBAT"
+            },
+            {
+                "id": 585,
+                "template": "DEERLING_AUTUMN",
+                "form": 587
+            },
+            {
+                "id": 597,
+                "template": "FERROSEED"
+            }
+        ],
+        "eggs": [
+            {
+                "id": 252,
+                "template": "TREECKO"
+            },
+            {
+                "id": 255,
+                "template": "TORCHIC"
+            },
+            {
+                "id": 258,
+                "template": "MUDKIP"
+            },
+            {
+                "id": 406,
+                "template": "BUDEW"
+            },
+            {
+                "id": 96,
+                "template": "DROWZEE"
+            },
+            {
+                "id": 298,
+                "template": "AZURILL"
+            },
+            {
+                "id": 290,
+                "template": "NINCADA"
+            },
+            {
+                "id": 594,
+                "template": "ALOMOMOLA"
+            }
+        ],
+        "raids": [
+            {
+                "id": 641,
+                "template": "TORNADUS_THERIAN",
+                "form": 141
+            },
+            {
+                "id": 642,
+                "template": "THUNDURUS_THERIAN",
+                "form": 143
+            },
+            {
+                "id": 645,
+                "template": "LANDORUS_THERIAN",
+                "form": 145
+            }
+        ],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
     }
 ]

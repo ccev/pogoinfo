@@ -48,8 +48,23 @@
             "form": 69
         },
         {
+            "id": 83,
+            "template": "FARFETCHD_NORMAL",
+            "form": 1023
+        },
+        {
             "id": 93,
             "template": "HAUNTER"
+        },
+        {
+            "id": 115,
+            "template": "KANGASKHAN_NORMAL",
+            "form": 839
+        },
+        {
+            "id": 122,
+            "template": "MR_MIME_NORMAL",
+            "form": 1080
         },
         {
             "id": 123,
@@ -60,6 +75,10 @@
             "id": 127,
             "template": "PINSIR_NORMAL",
             "form": 898
+        },
+        {
+            "id": 128,
+            "template": "TAUROS"
         },
         {
             "id": 131,
