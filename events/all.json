@@ -508,5 +508,59 @@
         "type": "Event",
         "start": "2021-03-01 08:00",
         "end": "2021-06-01 10:00"
+    },
+    {
+        "name": "Krabby Spotlight Hour",
+        "type": "Pok\u00e9mon Spotlight Hour",
+        "start": null,
+        "end": "2021-03-02 19:00"
+    },
+    {
+        "name": "Drowzee Spotlight Hour",
+        "type": "Pok\u00e9mon Spotlight Hour",
+        "start": null,
+        "end": "2021-03-09 19:00"
+    },
+    {
+        "name": "Incense Day: Psychic-Type and Steel-Type",
+        "type": "Event",
+        "start": "2021-03-14 11:00",
+        "end": "2021-03-14 17:00"
+    },
+    {
+        "name": "Searching for Legends",
+        "type": "Event",
+        "start": "2021-03-09 10:00",
+        "end": "2021-03-14 20:00"
+    },
+    {
+        "name": "Voltorb Spotlight Hour",
+        "type": "Pok\u00e9mon Spotlight Hour",
+        "start": null,
+        "end": "2021-03-16 19:00"
+    },
+    {
+        "name": "Charge Up!",
+        "type": "Event",
+        "start": "2021-03-16 13:00",
+        "end": "2021-03-22 13:00"
+    },
+    {
+        "name": "Surskit Spotlight Hour",
+        "type": "Pok\u00e9mon Spotlight Hour",
+        "start": null,
+        "end": "2021-03-23 19:00"
+    },
+    {
+        "name": "Weather Week",
+        "type": "Event",
+        "start": "2021-03-24 10:00",
+        "end": "2021-03-29 20:00"
+    },
+    {
+        "name": "Slugma Spotlight Hour",
+        "type": "Pok\u00e9mon Spotlight Hour",
+        "start": null,
+        "end": "2021-03-30 19:00"
     }
 ]
