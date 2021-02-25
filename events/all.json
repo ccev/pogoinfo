@@ -562,5 +562,35 @@
         "type": "Pok\u00e9mon Spotlight Hour",
         "start": null,
         "end": "2021-03-30 19:00"
+    },
+    {
+        "name": "Incarnate Forme Landorus Raid Hour",
+        "type": "Raid Hour",
+        "start": "2021-03-03 18:00",
+        "end": "2021-03-03 19:00"
+    },
+    {
+        "name": "Incarnate Forme Tornadus Raid Hour",
+        "type": "Raid Hour",
+        "start": "2021-03-10 18:00",
+        "end": "2021-03-10 19:00"
+    },
+    {
+        "name": "Incarnate Forme Thundurus Raid Hour",
+        "type": "Raid Hour",
+        "start": "2021-03-15 18:00",
+        "end": "2021-03-15 19:00"
+    },
+    {
+        "name": "Therian Forme Thundurus Raid Hour",
+        "type": "Raid Hour",
+        "start": "2021-03-24 18:00",
+        "end": "2021-03-24 19:00"
+    },
+    {
+        "name": "Therian Forme Tornadus Raid Hour",
+        "type": "Raid Hour",
+        "start": "2021-03-31 18:00",
+        "end": "2021-03-31 19:00"
     }
 ]
