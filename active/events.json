@@ -1,38 +1,5 @@
 [
     {
-        "name": "Pikachu Spotlight Hour",
-        "type": "spotlight-hour",
-        "start": "2021-02-23 18:00",
-        "end": "2021-02-23 19:00",
-        "spawns": [
-            {
-                "id": 25,
-                "template": "PIKACHU"
-            }
-        ],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": true
-    },
-    {
-        "name": "Articuno, Zapdos, Moltres, and Mewtwo Raid Hour",
-        "type": "raid-hour",
-        "start": "2021-02-24 18:00",
-        "end": "2021-02-24 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Kanto Celebration Event",
         "type": "event",
         "start": null,
@@ -505,14 +472,14 @@
         "has_spawnpoints": false
     },
     {
-        "name": "Pok\u00e9mon Spotlight Hour",
+        "name": "Krabby Spotlight Hour",
         "type": "spotlight-hour",
-        "start": null,
-        "end": "2021-03-30 19:00",
+        "start": "2021-03-02 18:00",
+        "end": "2021-03-02 19:00",
         "spawns": [
             {
-                "id": 25,
-                "template": "PIKACHU"
+                "id": 98,
+                "template": "KRABBY"
             }
         ],
         "eggs": [],
@@ -522,6 +489,20 @@
         "features": [],
         "has_quests": false,
         "has_spawnpoints": true
+    },
+    {
+        "name": "Incarnate Forme Landorus Raid Hour",
+        "type": "raid-hour",
+        "start": "2021-03-03 18:00",
+        "end": "2021-03-03 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
     },
     {
         "name": "Fletchling Community Day",
@@ -563,6 +544,204 @@
         "features": [],
         "has_quests": false,
         "has_spawnpoints": true
+    },
+    {
+        "name": "Drowzee Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2021-03-09 18:00",
+        "end": "2021-03-09 19:00",
+        "spawns": [
+            {
+                "id": 96,
+                "template": "DROWZEE"
+            }
+        ],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": true
+    },
+    {
+        "name": "Incarnate Forme Tornadus Raid Hour",
+        "type": "raid-hour",
+        "start": "2021-03-10 18:00",
+        "end": "2021-03-10 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Incense Day: Psychic-Type and Steel-Type",
+        "type": "event",
+        "start": "2021-03-14 11:00",
+        "end": "2021-03-14 17:00",
+        "spawns": [
+            {
+                "id": 374,
+                "template": "BELDUM"
+            }
+        ],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Searching for Legends",
+        "type": "event",
+        "start": "2021-03-09 10:00",
+        "end": "2021-03-14 20:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [
+            {
+                "id": 299,
+                "template": "NOSEPASS"
+            }
+        ],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Incarnate Forme Thundurus Raid Hour",
+        "type": "raid-hour",
+        "start": "2021-03-15 18:00",
+        "end": "2021-03-15 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Voltorb Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2021-03-16 18:00",
+        "end": "2021-03-16 19:00",
+        "spawns": [
+            {
+                "id": 100,
+                "template": "VOLTORB"
+            }
+        ],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": true
+    },
+    {
+        "name": "Therian Forme Thundurus Raid Hour",
+        "type": "raid-hour",
+        "start": "2021-03-24 18:00",
+        "end": "2021-03-24 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Charge Up!",
+        "type": "event",
+        "start": "2021-03-16 13:00",
+        "end": "2021-03-22 13:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Surskit Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2021-03-23 18:00",
+        "end": "2021-03-23 19:00",
+        "spawns": [
+            {
+                "id": 283,
+                "template": "SURSKIT"
+            }
+        ],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": true
+    },
+    {
+        "name": "Weather Week",
+        "type": "event",
+        "start": "2021-03-24 10:00",
+        "end": "2021-03-29 20:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Slugma Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2021-03-30 18:00",
+        "end": "2021-03-30 19:00",
+        "spawns": [
+            {
+                "id": 218,
+                "template": "SLUGMA"
+            }
+        ],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": true
+    },
+    {
+        "name": "Therian Forme Tornadus Raid Hour",
+        "type": "raid-hour",
+        "start": "2021-03-31 18:00",
+        "end": "2021-03-31 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
     },
     {
         "name": "Season of Legends",
