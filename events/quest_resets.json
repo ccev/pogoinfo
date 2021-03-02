@@ -16,5 +16,23 @@
             "end"
         ],
         "confidence": 10
+    },
+    {
+        "name": "Searching for Legends Start",
+        "time": "2021-03-09 10:00",
+        "type": [
+            "event",
+            "start"
+        ],
+        "confidence": 9
+    },
+    {
+        "name": "Searching for Legends End",
+        "time": "2021-03-14 08:00",
+        "type": [
+            "event",
+            "end"
+        ],
+        "confidence": 9
     }
 ]
