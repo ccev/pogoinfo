@@ -1,136 +1,75 @@
 {
     "1": [
         {
-            "id": 1,
-            "template": "BULBASAUR_NORMAL",
-            "form": 163
+            "id": 215,
+            "template": "SNEASEL_NORMAL",
+            "form": 797
         },
         {
-            "id": 4,
-            "template": "CHARMANDER_NORMAL",
-            "form": 172
+            "id": 220,
+            "template": "SWINUB_NORMAL",
+            "form": 1277
         },
         {
-            "id": 7,
-            "template": "SQUIRTLE_NORMAL",
-            "form": 181
+            "id": 529,
+            "template": "DRILBUR"
         },
         {
-            "id": 25,
-            "template": "PIKACHU_NORMAL",
-            "form": 598
+            "id": 580,
+            "template": "DUCKLETT"
         },
         {
-            "id": 129,
-            "template": "MAGIKARP_NORMAL",
-            "form": 253
-        },
-        {
-            "id": 147,
-            "template": "DRATINI_NORMAL",
-            "form": 190
+            "id": 677,
+            "template": "ESPURR"
         }
     ],
     "3": [
         {
-            "id": 64,
-            "template": "KADABRA_NORMAL",
-            "form": 307
+            "id": 207,
+            "template": "GLIGAR_NORMAL",
+            "form": 803
         },
         {
-            "id": 67,
-            "template": "MACHOKE_NORMAL",
-            "form": 812
+            "id": 232,
+            "template": "DONPHAN"
         },
         {
-            "id": 75,
-            "template": "GRAVELER_NORMAL",
-            "form": 69
+            "id": 340,
+            "template": "WHISCASH"
         },
         {
-            "id": 83,
-            "template": "FARFETCHD_NORMAL",
-            "form": 1023
+            "id": 362,
+            "template": "GLALIE"
         },
         {
-            "id": 93,
-            "template": "HAUNTER"
-        },
-        {
-            "id": 115,
-            "template": "KANGASKHAN_NORMAL",
-            "form": 839
-        },
-        {
-            "id": 122,
-            "template": "MR_MIME_NORMAL",
-            "form": 1080
-        },
-        {
-            "id": 123,
-            "template": "SCYTHER_NORMAL",
-            "form": 247
-        },
-        {
-            "id": 127,
-            "template": "PINSIR_NORMAL",
-            "form": 898
-        },
-        {
-            "id": 128,
-            "template": "TAUROS"
-        },
-        {
-            "id": 131,
-            "template": "LAPRAS_NORMAL",
-            "form": 322
+            "id": 389,
+            "template": "TORTERRA_NORMAL",
+            "form": 694
         }
     ],
     "5": [
         {
-            "id": 144,
-            "template": "ARTICUNO_NORMAL",
-            "form": 716
-        },
-        {
-            "id": 145,
-            "template": "ZAPDOS_NORMAL",
-            "form": 773
-        },
-        {
-            "id": 146,
-            "template": "MOLTRES_NORMAL",
-            "form": 836
-        },
-        {
-            "id": 150,
-            "template": "MEWTWO_NORMAL",
-            "form": 135
+            "id": 645,
+            "template": "LANDORUS_INCARNATE",
+            "form": 144
         }
     ],
     "6": [
         {
-            "id": 3,
-            "template": "VENUSAUR_NORMAL",
-            "form": 169,
-            "temp_evolution_id": 1
-        },
-        {
-            "id": 6,
-            "template": "CHARIZARD_NORMAL",
-            "form": 178,
-            "temp_evolution_id": 2
-        },
-        {
-            "id": 6,
-            "template": "CHARIZARD_NORMAL",
-            "form": 178,
-            "temp_evolution_id": 3
-        },
-        {
             "id": 9,
             "template": "BLASTOISE_NORMAL",
             "form": 187,
+            "temp_evolution_id": 1
+        },
+        {
+            "id": 18,
+            "template": "PIDGEOT",
+            "temp_evolution_id": 1
+        },
+        {
+            "id": 181,
+            "template": "AMPHAROS_NORMAL",
+            "form": 652,
             "temp_evolution_id": 1
         }
     ]

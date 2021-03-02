@@ -74,14 +74,14 @@
                 ],
                 [
                     {
-                        "id": 149,
-                        "template": "DRAGONITE_SHADOW",
-                        "form": 197
-                    },
-                    {
                         "id": 143,
                         "template": "SNORLAX_SHADOW",
                         "form": 200
+                    },
+                    {
+                        "id": 149,
+                        "template": "DRAGONITE_SHADOW",
+                        "form": 197
                     },
                     {
                         "id": 130,
@@ -1134,14 +1134,14 @@
                 ],
                 [
                     {
-                        "id": 55,
-                        "template": "GOLDUCK_SHADOW",
-                        "form": 290
-                    },
-                    {
                         "id": 61,
                         "template": "POLIWHIRL_SHADOW",
                         "form": 239
+                    },
+                    {
+                        "id": 55,
+                        "template": "GOLDUCK_SHADOW",
+                        "form": 290
                     },
                     {
                         "id": 259,
