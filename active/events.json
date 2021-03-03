@@ -107,6 +107,148 @@
         "has_spawnpoints": false
     },
     {
+        "name": "Searching for Legends",
+        "type": "event",
+        "start": "2021-03-09 10:00",
+        "end": "2021-03-14 08:00",
+        "spawns": [
+            {
+                "id": 50,
+                "template": "DIGLETT"
+            },
+            {
+                "id": 74,
+                "template": "GEODUDE"
+            },
+            {
+                "id": 81,
+                "template": "MAGNEMITE"
+            },
+            {
+                "id": 299,
+                "template": "NOSEPASS"
+            },
+            {
+                "id": 304,
+                "template": "ARON"
+            },
+            {
+                "id": 343,
+                "template": "BALTOY"
+            },
+            {
+                "id": 524,
+                "template": "ROGGENROLA"
+            },
+            {
+                "id": 529,
+                "template": "DRILBUR"
+            },
+            {
+                "id": 50,
+                "template": "DIGLETT_ALOLA",
+                "form": 60
+            },
+            {
+                "id": 74,
+                "template": "GEODUDE_ALOLA",
+                "form": 68
+            },
+            {
+                "id": 305,
+                "template": "LAIRON"
+            },
+            {
+                "id": 374,
+                "template": "BELDUM"
+            }
+        ],
+        "eggs": [],
+        "raids": [
+            {
+                "id": 50,
+                "template": "DIGLETT_ALOLA",
+                "form": 60
+            },
+            {
+                "id": 299,
+                "template": "NOSEPASS"
+            },
+            {
+                "id": 524,
+                "template": "ROGGENROLA"
+            },
+            {
+                "id": 529,
+                "template": "DRILBUR"
+            },
+            {
+                "id": 597,
+                "template": "FERROSEED"
+            },
+            {
+                "id": 599,
+                "template": "KLINK"
+            },
+            {
+                "id": 75,
+                "template": "GRAVELER_ALOLA",
+                "form": 70
+            },
+            {
+                "id": 82,
+                "template": "MAGNETON"
+            },
+            {
+                "id": 227,
+                "template": "SKARMORY"
+            },
+            {
+                "id": 375,
+                "template": "METANG"
+            },
+            {
+                "id": 641,
+                "template": "TORNADUS_INCARNATE",
+                "form": 140
+            },
+            {
+                "id": 642,
+                "template": "THUNDURUS_INCARNATE",
+                "form": 142
+            },
+            {
+                "id": 9,
+                "template": "BLASTOISE",
+                "temp_evolution_id": 1
+            },
+            {
+                "id": 18,
+                "template": "PIDGEOT",
+                "temp_evolution_id": 1
+            },
+            {
+                "id": 181,
+                "template": "AMPHAROS",
+                "temp_evolution_id": 1
+            }
+        ],
+        "shinies": [
+            {
+                "id": 299,
+                "template": "NOSEPASS"
+            },
+            {
+                "id": 476,
+                "template": "PROBOPASS"
+            }
+        ],
+        "bonuses": [],
+        "features": [],
+        "has_quests": true,
+        "has_spawnpoints": false
+    },
+    {
         "name": "Incense Day: Psychic-Type and Steel-Type",
         "type": "event",
         "start": "2021-03-14 11:00",
@@ -120,25 +262,6 @@
         "eggs": [],
         "raids": [],
         "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
-        "name": "Searching for Legends",
-        "type": "event",
-        "start": "2021-03-09 10:00",
-        "end": "2021-03-14 20:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [
-            {
-                "id": 299,
-                "template": "NOSEPASS"
-            }
-        ],
         "bonuses": [],
         "features": [],
         "has_quests": false,
@@ -274,7 +397,7 @@
     {
         "name": "Season of Legends",
         "type": "event",
-        "start": "2021-03-01 08:00",
+        "start": null,
         "end": "2021-06-01 10:00",
         "spawns": [
             {
