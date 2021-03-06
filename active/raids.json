@@ -1,18 +1,16 @@
 {
     "1": [
         {
-            "id": 215,
-            "template": "SNEASEL_NORMAL",
-            "form": 797
+            "id": 100,
+            "template": "VOLTORB"
         },
         {
-            "id": 220,
-            "template": "SWINUB_NORMAL",
-            "form": 1277
+            "id": 333,
+            "template": "SWABLU"
         },
         {
-            "id": 529,
-            "template": "DRILBUR"
+            "id": 524,
+            "template": "ROGGENROLA"
         },
         {
             "id": 580,
@@ -25,33 +23,34 @@
     ],
     "3": [
         {
-            "id": 207,
-            "template": "GLIGAR_NORMAL",
-            "form": 803
+            "id": 82,
+            "template": "MAGNETON_NORMAL",
+            "form": 658
         },
         {
-            "id": 232,
-            "template": "DONPHAN"
+            "id": 142,
+            "template": "AERODACTYL_NORMAL",
+            "form": 1110
         },
         {
-            "id": 340,
-            "template": "WHISCASH"
+            "id": 306,
+            "template": "AGGRON_NORMAL",
+            "form": 1475
         },
         {
-            "id": 362,
-            "template": "GLALIE"
+            "id": 426,
+            "template": "DRIFBLIM"
         },
         {
-            "id": 389,
-            "template": "TORTERRA_NORMAL",
-            "form": 694
+            "id": 520,
+            "template": "TRANQUILL"
         }
     ],
     "5": [
         {
-            "id": 645,
-            "template": "LANDORUS_INCARNATE",
-            "form": 144
+            "id": 641,
+            "template": "TORNADUS_INCARNATE",
+            "form": 140
         }
     ],
     "6": [
