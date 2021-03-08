@@ -1,23 +1,5 @@
 [
     {
-        "name": "Fletchling Community Day Start",
-        "time": "2021-03-06 11:00",
-        "type": [
-            "cday",
-            "start"
-        ],
-        "confidence": 10
-    },
-    {
-        "name": "Fletchling Community Day End",
-        "time": "2021-03-06 17:00",
-        "type": [
-            "cday",
-            "end"
-        ],
-        "confidence": 10
-    },
-    {
         "name": "Searching for Legends Start",
         "time": "2021-03-09 10:00",
         "type": [
