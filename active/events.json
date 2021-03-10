@@ -1,46 +1,5 @@
 [
     {
-        "name": "Fletchling Community Day",
-        "type": "community-day",
-        "start": "2021-03-06 11:00",
-        "end": "2021-03-06 17:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [
-            {
-                "id": 661,
-                "template": "FLETCHLING"
-            },
-            {
-                "id": 662,
-                "template": "FLETCHINDER"
-            },
-            {
-                "id": 663,
-                "template": "TALONFLAME"
-            }
-        ],
-        "bonuses": [
-            {
-                "text": "Increased Spawns"
-            },
-            {
-                "text": "3x Catch XP",
-                "template": "increased-xp",
-                "value": "3"
-            },
-            {
-                "text": "3-hour Incense",
-                "template": "longer-incense",
-                "value": "3"
-            }
-        ],
-        "features": [],
-        "has_quests": true,
-        "has_spawnpoints": true
-    },
-    {
         "name": "Drowzee Spotlight Hour",
         "type": "spotlight-hour",
         "start": "2021-03-09 18:00",
@@ -100,8 +59,16 @@
                 "template": "ARON"
             },
             {
+                "id": 305,
+                "template": "LAIRON"
+            },
+            {
                 "id": 343,
                 "template": "BALTOY"
+            },
+            {
+                "id": 374,
+                "template": "BELDUM"
             },
             {
                 "id": 524,
@@ -122,15 +89,40 @@
                 "form": 68
             },
             {
-                "id": 305,
-                "template": "LAIRON"
+                "id": 227,
+                "template": "SKARMORY"
+            },
+            {
+                "id": 410,
+                "template": "SHIELDON"
+            }
+        ],
+        "eggs": [
+            {
+                "id": 81,
+                "template": "MAGNEMITE"
+            },
+            {
+                "id": 299,
+                "template": "NOSEPASS"
+            },
+            {
+                "id": 304,
+                "template": "ARON"
+            },
+            {
+                "id": 343,
+                "template": "BALTOY"
             },
             {
                 "id": 374,
                 "template": "BELDUM"
+            },
+            {
+                "id": 529,
+                "template": "DRILBUR"
             }
         ],
-        "eggs": [],
         "raids": [
             {
                 "id": 50,
@@ -222,8 +214,49 @@
         "end": "2021-03-14 17:00",
         "spawns": [
             {
+                "id": 177,
+                "template": "NATU"
+            },
+            {
+                "id": 203,
+                "template": "GIRAFARIG"
+            },
+            {
+                "id": 307,
+                "template": "MEDITITE"
+            },
+            {
+                "id": 343,
+                "template": "BALTOY"
+            },
+            {
                 "id": 374,
                 "template": "BELDUM"
+            },
+            {
+                "id": 517,
+                "template": "MUNNA"
+            },
+            {
+                "id": 50,
+                "template": "DIGLETT_ALOLA",
+                "form": 60
+            },
+            {
+                "id": 81,
+                "template": "MAGNEMITE"
+            },
+            {
+                "id": 304,
+                "template": "ARON"
+            },
+            {
+                "id": 410,
+                "template": "SHIELDON"
+            },
+            {
+                "id": 436,
+                "template": "BRONZOR"
             }
         ],
         "eggs": [],
@@ -284,15 +317,139 @@
     {
         "name": "Charge Up!",
         "type": "event",
-        "start": "2021-03-16 13:00",
-        "end": "2021-03-22 13:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
+        "start": "2021-03-16 10:00",
+        "end": "2021-03-22 20:00",
+        "spawns": [
+            {
+                "id": 74,
+                "template": "GEODUDE_ALOLA",
+                "form": 68
+            },
+            {
+                "id": 100,
+                "template": "VOLTORB"
+            },
+            {
+                "id": 309,
+                "template": "ELECTRIKE"
+            },
+            {
+                "id": 602,
+                "template": "TYNAMO"
+            },
+            {
+                "id": 618,
+                "template": "STUNFISK"
+            },
+            {
+                "id": 603,
+                "template": "EELEKTRIK"
+            },
+            {
+                "id": 604,
+                "template": "EELEKTROSS"
+            }
+        ],
+        "eggs": [
+            {
+                "id": 172,
+                "template": "PICHU"
+            },
+            {
+                "id": 239,
+                "template": "ELEKID"
+            },
+            {
+                "id": 309,
+                "template": "ELECTRIKE"
+            },
+            {
+                "id": 403,
+                "template": "SHINX"
+            },
+            {
+                "id": 595,
+                "template": "JOLTIK"
+            },
+            {
+                "id": 602,
+                "template": "TYNAMO"
+            },
+            {
+                "id": 618,
+                "template": "STUNFISK"
+            }
+        ],
+        "raids": [
+            {
+                "id": 100,
+                "template": "VOLTORB"
+            },
+            {
+                "id": 403,
+                "template": "SHINX"
+            },
+            {
+                "id": 522,
+                "template": "BLITZLE"
+            },
+            {
+                "id": 599,
+                "template": "KLINK"
+            },
+            {
+                "id": 602,
+                "template": "TYNAMO"
+            },
+            {
+                "id": 26,
+                "template": "RAICHU_ALOLA",
+                "form": 50
+            },
+            {
+                "id": 75,
+                "template": "GRAVELER_ALOLA",
+                "form": 70
+            },
+            {
+                "id": 82,
+                "template": "MAGNETON"
+            },
+            {
+                "id": 181,
+                "template": "AMPHAROS"
+            },
+            {
+                "id": 642,
+                "template": "THUNDURUS_THERIAN",
+                "form": 143
+            },
+            {
+                "id": 229,
+                "template": "HOUNDOOM",
+                "temp_evolution_id": 1
+            },
+            {
+                "id": 310,
+                "template": "MANECTRIC"
+            },
+            {
+                "id": 460,
+                "template": "ABOMASNOW",
+                "temp_evolution_id": 1
+            }
+        ],
         "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
+        "bonuses": [
+            {
+                "text": "You\u2019ll have a higher chance of receiving Evolution items when opening Gifts during the event period!"
+            }
+        ],
+        "features": [
+            "Event-exclusive Field Research tasks will reward Pok\u00e9 Balls, Ampharos Mega Energy, Manectric Mega Energy, encounters with Electric-type Pok\u00e9mon, and more.",
+            "Timed Research focused on evolving and powering up Electric-type Pok\u00e9mon will be available!"
+        ],
+        "has_quests": true,
         "has_spawnpoints": false
     },
     {

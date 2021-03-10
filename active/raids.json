@@ -1,49 +1,52 @@
 {
     "1": [
         {
-            "id": 100,
-            "template": "VOLTORB"
+            "id": 50,
+            "template": "DIGLETT_ALOLA",
+            "form": 60
         },
         {
-            "id": 333,
-            "template": "SWABLU"
+            "id": 299,
+            "template": "NOSEPASS_NORMAL",
+            "form": 1460
         },
         {
             "id": 524,
             "template": "ROGGENROLA"
         },
         {
-            "id": 580,
-            "template": "DUCKLETT"
+            "id": 529,
+            "template": "DRILBUR"
         },
         {
-            "id": 677,
-            "template": "ESPURR"
+            "id": 597,
+            "template": "FERROSEED"
+        },
+        {
+            "id": 599,
+            "template": "KLINK"
         }
     ],
     "3": [
+        {
+            "id": 75,
+            "template": "GRAVELER_ALOLA",
+            "form": 70
+        },
         {
             "id": 82,
             "template": "MAGNETON_NORMAL",
             "form": 658
         },
         {
-            "id": 142,
-            "template": "AERODACTYL_NORMAL",
-            "form": 1110
+            "id": 227,
+            "template": "SKARMORY_NORMAL",
+            "form": 1295
         },
         {
-            "id": 306,
-            "template": "AGGRON_NORMAL",
-            "form": 1475
-        },
-        {
-            "id": 426,
-            "template": "DRIFBLIM"
-        },
-        {
-            "id": 520,
-            "template": "TRANQUILL"
+            "id": 375,
+            "template": "METANG_NORMAL",
+            "form": 767
         }
     ],
     "5": [

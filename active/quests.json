@@ -1,5 +1,82 @@
 {
-    "event": [],
+    "event": [
+        {
+            "task": "Power up Pok\u00e9mon 5 times",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 299,
+                        "template": "NOSEPASS_NORMAL",
+                        "form": 1460
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Earn a candy walking with your buddy",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 299,
+                        "template": "NOSEPASS_NORMAL",
+                        "form": 1460
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Catch 5 Steel-type Pok\u00e9mon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 299,
+                        "template": "NOSEPASS_NORMAL",
+                        "form": 1460
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Catch 5 Rock-type Pok\u00e9mon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 524,
+                        "template": "ROGGENROLA"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Use an Incense",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 410,
+                        "template": "SHIELDON"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Win a raid",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 227,
+                        "template": "SKARMORY_NORMAL",
+                        "form": 1295
+                    }
+                }
+            ]
+        }
+    ],
     "quests": [
         {
             "task": "Catch 5 Pok\u00e9mon with Weather Boost",
