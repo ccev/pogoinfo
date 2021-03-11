@@ -1069,14 +1069,14 @@
                 ],
                 [
                     {
-                        "id": 246,
-                        "template": "LARVITAR_SHADOW",
-                        "form": 314
-                    },
-                    {
                         "id": 305,
                         "template": "LAIRON_SHADOW",
                         "form": 1473
+                    },
+                    {
+                        "id": 246,
+                        "template": "LARVITAR_SHADOW",
+                        "form": 314
                     },
                     {
                         "id": 247,
