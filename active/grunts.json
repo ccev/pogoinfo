@@ -369,14 +369,14 @@
                 ],
                 [
                     {
-                        "id": 67,
-                        "template": "MACHOKE_SHADOW",
-                        "form": 813
-                    },
-                    {
                         "id": 106,
                         "template": "HITMONLEE_SHADOW",
                         "form": 714
+                    },
+                    {
+                        "id": 67,
+                        "template": "MACHOKE_SHADOW",
+                        "form": 813
                     }
                 ]
             ]
@@ -1519,14 +1519,14 @@
                         "form": 909
                     },
                     {
-                        "id": 355,
-                        "template": "DUSKULL_SHADOW",
-                        "form": 915
-                    },
-                    {
                         "id": 200,
                         "template": "MISDREAVUS_SHADOW",
                         "form": 720
+                    },
+                    {
+                        "id": 355,
+                        "template": "DUSKULL_SHADOW",
+                        "form": 915
                     }
                 ],
                 [
@@ -1543,9 +1543,9 @@
                 ],
                 [
                     {
-                        "id": 302,
-                        "template": "SABLEYE_SHADOW",
-                        "form": 924
+                        "id": 354,
+                        "template": "BANETTE_SHADOW",
+                        "form": 912
                     },
                     {
                         "id": 477,
@@ -1553,9 +1553,9 @@
                         "form": 921
                     },
                     {
-                        "id": 354,
-                        "template": "BANETTE_SHADOW",
-                        "form": 912
+                        "id": 302,
+                        "template": "SABLEYE_SHADOW",
+                        "form": 924
                     }
                 ]
             ]
