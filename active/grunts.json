@@ -1117,14 +1117,14 @@
             "team": [
                 [
                     {
-                        "id": 90,
-                        "template": "SHELLDER_SHADOW",
-                        "form": 877
-                    },
-                    {
                         "id": 60,
                         "template": "POLIWAG_SHADOW",
                         "form": 236
+                    },
+                    {
+                        "id": 90,
+                        "template": "SHELLDER_SHADOW",
+                        "form": 877
                     },
                     {
                         "id": 194,
@@ -1543,14 +1543,14 @@
                 ],
                 [
                     {
-                        "id": 354,
-                        "template": "BANETTE_SHADOW",
-                        "form": 912
-                    },
-                    {
                         "id": 477,
                         "template": "DUSKNOIR_SHADOW",
                         "form": 921
+                    },
+                    {
+                        "id": 354,
+                        "template": "BANETTE_SHADOW",
+                        "form": 912
                     },
                     {
                         "id": 302,
