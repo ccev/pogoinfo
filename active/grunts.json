@@ -139,14 +139,14 @@
                 ],
                 [
                     {
-                        "id": 127,
-                        "template": "PINSIR_SHADOW",
-                        "form": 899
-                    },
-                    {
                         "id": 49,
                         "template": "VENOMOTH_SHADOW",
                         "form": 263
+                    },
+                    {
+                        "id": 127,
+                        "template": "PINSIR_SHADOW",
+                        "form": 899
                     },
                     {
                         "id": 212,
@@ -266,14 +266,14 @@
                 ],
                 [
                     {
-                        "id": 148,
-                        "template": "DRAGONAIR_SHADOW",
-                        "form": 194
-                    },
-                    {
                         "id": 330,
                         "template": "FLYGON_SHADOW",
                         "form": 753
+                    },
+                    {
+                        "id": 148,
+                        "template": "DRAGONAIR_SHADOW",
+                        "form": 194
                     }
                 ],
                 [
@@ -507,14 +507,14 @@
                 ],
                 [
                     {
-                        "id": 42,
-                        "template": "GOLBAT_SHADOW",
-                        "form": 161
-                    },
-                    {
                         "id": 169,
                         "template": "CROBAT_SHADOW",
                         "form": 203
+                    },
+                    {
+                        "id": 42,
+                        "template": "GOLBAT_SHADOW",
+                        "form": 161
                     },
                     {
                         "id": 123,
@@ -1548,14 +1548,14 @@
                         "form": 921
                     },
                     {
-                        "id": 354,
-                        "template": "BANETTE_SHADOW",
-                        "form": 912
-                    },
-                    {
                         "id": 302,
                         "template": "SABLEYE_SHADOW",
                         "form": 924
+                    },
+                    {
+                        "id": 354,
+                        "template": "BANETTE_SHADOW",
+                        "form": 912
                     }
                 ]
             ]
@@ -1584,14 +1584,14 @@
                         "form": 656
                     },
                     {
-                        "id": 179,
-                        "template": "MAREEP_SHADOW",
-                        "form": 647
-                    },
-                    {
                         "id": 125,
                         "template": "ELECTABUZZ_SHADOW",
                         "form": 641
+                    },
+                    {
+                        "id": 179,
+                        "template": "MAREEP_SHADOW",
+                        "form": 647
                     }
                 ],
                 [
