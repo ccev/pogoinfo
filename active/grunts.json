@@ -62,14 +62,14 @@
                         "form": 242
                     },
                     {
-                        "id": 143,
-                        "template": "SNORLAX_SHADOW",
-                        "form": 200
-                    },
-                    {
                         "id": 282,
                         "template": "GARDEVOIR_SHADOW",
                         "form": 299
+                    },
+                    {
+                        "id": 143,
+                        "template": "SNORLAX_SHADOW",
+                        "form": 200
                     }
                 ],
                 [
@@ -369,14 +369,14 @@
                 ],
                 [
                     {
-                        "id": 106,
-                        "template": "HITMONLEE_SHADOW",
-                        "form": 714
-                    },
-                    {
                         "id": 67,
                         "template": "MACHOKE_SHADOW",
                         "form": 813
+                    },
+                    {
+                        "id": 106,
+                        "template": "HITMONLEE_SHADOW",
+                        "form": 714
                     }
                 ]
             ]
@@ -430,14 +430,14 @@
                         "form": 727
                     },
                     {
-                        "id": 229,
-                        "template": "HOUNDOOM_SHADOW",
-                        "form": 233
-                    },
-                    {
                         "id": 126,
                         "template": "MAGMAR_SHADOW",
                         "form": 635
+                    },
+                    {
+                        "id": 229,
+                        "template": "HOUNDOOM_SHADOW",
+                        "form": 233
                     }
                 ],
                 [
@@ -890,14 +890,14 @@
                         "form": 777
                     },
                     {
-                        "id": 32,
-                        "template": "NIDORAN_SHADOW",
-                        "form": 777
-                    },
-                    {
                         "id": 41,
                         "template": "ZUBAT_SHADOW",
                         "form": 158
+                    },
+                    {
+                        "id": 32,
+                        "template": "NIDORAN_SHADOW",
+                        "form": 777
                     }
                 ],
                 [
@@ -1069,14 +1069,14 @@
                 ],
                 [
                     {
-                        "id": 305,
-                        "template": "LAIRON_SHADOW",
-                        "form": 1473
-                    },
-                    {
                         "id": 246,
                         "template": "LARVITAR_SHADOW",
                         "form": 314
+                    },
+                    {
+                        "id": 305,
+                        "template": "LAIRON_SHADOW",
+                        "form": 1473
                     },
                     {
                         "id": 247,
