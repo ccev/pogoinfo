@@ -189,6 +189,10 @@
                 "template": "GIRAFARIG"
             },
             {
+                "id": 280,
+                "template": "RALTS"
+            },
+            {
                 "id": 307,
                 "template": "MEDITITE"
             },
@@ -205,6 +209,14 @@
                 "template": "MUNNA"
             },
             {
+                "id": 574,
+                "template": "GOTHITA"
+            },
+            {
+                "id": 605,
+                "template": "ELGYEM"
+            },
+            {
                 "id": 50,
                 "template": "DIGLETT_ALOLA",
                 "form": 60
@@ -212,6 +224,14 @@
             {
                 "id": 81,
                 "template": "MAGNEMITE"
+            },
+            {
+                "id": 227,
+                "template": "SKARMORY"
+            },
+            {
+                "id": 299,
+                "template": "NOSEPASS"
             },
             {
                 "id": 304,
@@ -224,6 +244,10 @@
             {
                 "id": 436,
                 "template": "BRONZOR"
+            },
+            {
+                "id": 597,
+                "template": "FERROSEED"
             }
         ],
         "eggs": [],
