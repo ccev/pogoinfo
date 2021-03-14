@@ -1,30 +1,25 @@
 {
     "1": [
         {
-            "id": 50,
-            "template": "DIGLETT_ALOLA",
-            "form": 60
+            "id": 403,
+            "template": "SHINX"
         },
         {
-            "id": 299,
-            "template": "NOSEPASS_NORMAL",
-            "form": 1460
+            "id": 459,
+            "template": "SNOVER_NORMAL",
+            "form": 932
         },
         {
             "id": 524,
             "template": "ROGGENROLA"
         },
         {
-            "id": 529,
-            "template": "DRILBUR"
+            "id": 595,
+            "template": "JOLTIK"
         },
         {
-            "id": 597,
-            "template": "FERROSEED"
-        },
-        {
-            "id": 599,
-            "template": "KLINK"
+            "id": 677,
+            "template": "ESPURR"
         }
     ],
     "3": [
@@ -34,19 +29,24 @@
             "form": 70
         },
         {
-            "id": 82,
-            "template": "MAGNETON_NORMAL",
-            "form": 658
+            "id": 112,
+            "template": "RHYDON_NORMAL",
+            "form": 849
         },
         {
-            "id": 227,
-            "template": "SKARMORY_NORMAL",
-            "form": 1295
+            "id": 221,
+            "template": "PILOSWINE_NORMAL",
+            "form": 1280
         },
         {
-            "id": 375,
-            "template": "METANG_NORMAL",
-            "form": 767
+            "id": 299,
+            "template": "NOSEPASS_NORMAL",
+            "form": 1460
+        },
+        {
+            "id": 618,
+            "template": "STUNFISK_NORMAL",
+            "form": 2246
         }
     ],
     "5": [
