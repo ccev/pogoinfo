@@ -1,14 +1,12 @@
 # Pogo Information
 
-Lots of up-to-date data for Pogo. Updated everyday at 9am GMT.
+Lots of up-to-date data for Pogo. Updated automatically.
 
-Go through the code and see if you find something useful.
-- events/active.json is only good for event spawns. eggs/raids/quests are not really supported
-
+Go through the files and see if you find something useful. Most of the structures are self-explainatory (except for Grunts maybe, but that format is explained in active/README.md)
 
 ### Pokemon Format:
 
-Each key will only be there, if the script knows about it and its value is > 0.
+Each key will only be there, if the bot knows about it and its value is > 0. All possible keys:
 
 ```js
 {
