@@ -43,4 +43,4 @@ This file holds information about the Team Rocket grunts with the ID of 1 to 50 
 Event types: `event` `raid-hour` `spotlight-hour` `community-day`
 
 The bot tries to recognize some common bonuses and convert them into "IDs" that might be easier to work with. Bonuses it can recognize:
-`reduced-hatch-distance` `increased-stardust` `increased-candy` `increased-xp` `increased-trade-range` `increased-lucky-chance` `longer-incense` `longer-lucky-egg` v`longer-star-piece`
+`reduced-hatch-distance` `increased-stardust` `increased-candy` `increased-xp` `increased-trade-range` `increased-lucky-chance` `longer-incense` `longer-lucky-egg` `longer-star-piece`
