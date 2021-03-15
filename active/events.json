@@ -53,17 +53,53 @@
         "end": "2021-03-22 20:00",
         "spawns": [
             {
+                "id": 25,
+                "template": "PIKACHU"
+            },
+            {
                 "id": 74,
                 "template": "GEODUDE_ALOLA",
                 "form": 68
+            },
+            {
+                "id": 81,
+                "template": "MAGNEMITE"
             },
             {
                 "id": 100,
                 "template": "VOLTORB"
             },
             {
+                "id": 125,
+                "template": "ELECTABUZZ"
+            },
+            {
+                "id": 170,
+                "template": "CHINCHOU"
+            },
+            {
+                "id": 179,
+                "template": "MAREEP"
+            },
+            {
                 "id": 309,
                 "template": "ELECTRIKE"
+            },
+            {
+                "id": 311,
+                "template": "PLUSLE"
+            },
+            {
+                "id": 312,
+                "template": "MINUN"
+            },
+            {
+                "id": 522,
+                "template": "BLITZLE"
+            },
+            {
+                "id": 595,
+                "template": "JOLTIK"
             },
             {
                 "id": 602,
@@ -163,7 +199,8 @@
             },
             {
                 "id": 310,
-                "template": "MANECTRIC"
+                "template": "MANECTRIC",
+                "temp_evolution_id": 1
             },
             {
                 "id": 460,

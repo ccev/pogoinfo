@@ -139,14 +139,14 @@
                 ],
                 [
                     {
-                        "id": 49,
-                        "template": "VENOMOTH_SHADOW",
-                        "form": 263
-                    },
-                    {
                         "id": 127,
                         "template": "PINSIR_SHADOW",
                         "form": 899
+                    },
+                    {
+                        "id": 49,
+                        "template": "VENOMOTH_SHADOW",
+                        "form": 263
                     },
                     {
                         "id": 212,
@@ -619,14 +619,14 @@
                 ],
                 [
                     {
-                        "id": 275,
-                        "template": "SHIFTRY_SHADOW",
-                        "form": 632
-                    },
-                    {
                         "id": 71,
                         "template": "VICTREEBEL_SHADOW",
                         "form": 671
+                    },
+                    {
+                        "id": 275,
+                        "template": "SHIFTRY_SHADOW",
+                        "form": 632
                     },
                     {
                         "id": 45,

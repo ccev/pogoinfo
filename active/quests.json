@@ -1,77 +1,40 @@
 {
     "event": [
         {
-            "task": "Power up Pok\u00e9mon 5 times",
+            "task": "Catch 5 Electric-type Pok\u00e9mon",
             "rewards": [
                 {
                     "type": "pokemon",
                     "reward": {
-                        "id": 299,
-                        "template": "NOSEPASS_NORMAL",
-                        "form": 1460
+                        "id": 25,
+                        "template": "PIKACHU_NORMAL",
+                        "form": 598
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 100,
+                        "template": "VOLTORB"
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 595,
+                        "template": "JOLTIK"
                     }
                 }
             ]
         },
         {
-            "task": "Earn a candy walking with your buddy",
+            "task": "Catch 25 Electric-type Pok\u00e9mon",
             "rewards": [
                 {
                     "type": "pokemon",
                     "reward": {
-                        "id": 299,
-                        "template": "NOSEPASS_NORMAL",
-                        "form": 1460
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Catch 5 Steel-type Pok\u00e9mon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 299,
-                        "template": "NOSEPASS_NORMAL",
-                        "form": 1460
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Catch 5 Rock-type Pok\u00e9mon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 524,
-                        "template": "ROGGENROLA"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Use an Incense",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 410,
-                        "template": "SHIELDON"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Win a raid",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 227,
-                        "template": "SKARMORY_NORMAL",
-                        "form": 1295
+                        "id": 602,
+                        "template": "TYNAMO"
                     }
                 }
             ]
