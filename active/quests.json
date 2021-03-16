@@ -44,6 +44,11 @@
             "rewards": [
                 {
                     "type": "item",
+                    "amount": 5,
+                    "id": 1
+                },
+                {
+                    "type": "item",
                     "amount": 3,
                     "id": 2
                 }
@@ -73,6 +78,27 @@
                     "reward": {
                         "id": 18,
                         "template": "PIDGEOT"
+                    }
+                },
+                {
+                    "type": "energy",
+                    "reward": {
+                        "id": 229,
+                        "template": "HOUNDOOM_NORMAL",
+                        "form": 232
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Power up Pok\u00e9mon 7 times",
+            "rewards": [
+                {
+                    "type": "energy",
+                    "reward": {
+                        "id": 460,
+                        "template": "ABOMASNOW_NORMAL",
+                        "form": 935
                     }
                 }
             ]

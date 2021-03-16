@@ -1601,14 +1601,14 @@
                         "form": 659
                     },
                     {
-                        "id": 125,
-                        "template": "ELECTABUZZ_SHADOW",
-                        "form": 641
-                    },
-                    {
                         "id": 180,
                         "template": "FLAAFFY_SHADOW",
                         "form": 650
+                    },
+                    {
+                        "id": 125,
+                        "template": "ELECTABUZZ_SHADOW",
+                        "form": 641
                     }
                 ],
                 [
