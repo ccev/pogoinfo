@@ -59,6 +59,41 @@
                         "template": "GENGAR_NORMAL",
                         "form": 1044
                     }
+                },
+                {
+                    "type": "energy",
+                    "reward": {
+                        "id": 130,
+                        "template": "GYARADOS_NORMAL",
+                        "form": 256
+                    }
+                },
+                {
+                    "type": "energy",
+                    "reward": {
+                        "id": 18,
+                        "template": "PIDGEOT"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Power up Pok\u00e9mon 10 times",
+            "rewards": [
+                {
+                    "type": "energy",
+                    "reward": {
+                        "id": 181,
+                        "template": "AMPHAROS_NORMAL",
+                        "form": 652
+                    }
+                },
+                {
+                    "type": "energy",
+                    "reward": {
+                        "id": 310,
+                        "template": "MANECTRIC"
+                    }
                 }
             ]
         }

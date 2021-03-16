@@ -1459,14 +1459,14 @@
                 ],
                 [
                     {
-                        "id": 70,
-                        "template": "WEEPINBELL_SHADOW",
-                        "form": 668
-                    },
-                    {
                         "id": 20,
                         "template": "RATICATE_SHADOW",
                         "form": 155
+                    },
+                    {
+                        "id": 70,
+                        "template": "WEEPINBELL_SHADOW",
+                        "form": 668
                     }
                 ],
                 [
