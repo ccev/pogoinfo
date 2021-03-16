@@ -60,17 +60,38 @@
                 {
                     "type": "energy",
                     "reward": {
-                        "id": 94,
-                        "template": "GENGAR_NORMAL",
-                        "form": 1044
+                        "id": 3,
+                        "template": "VENUSAUR_NORMAL",
+                        "form": 169
                     }
                 },
                 {
                     "type": "energy",
                     "reward": {
-                        "id": 130,
-                        "template": "GYARADOS_NORMAL",
-                        "form": 256
+                        "id": 6,
+                        "template": "CHARIZARD_NORMAL",
+                        "form": 178
+                    }
+                },
+                {
+                    "type": "energy",
+                    "reward": {
+                        "id": 9,
+                        "template": "BLASTOISE_NORMAL",
+                        "form": 187
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Power up Pok\u00e9mon 7 times",
+            "rewards": [
+                {
+                    "type": "energy",
+                    "reward": {
+                        "id": 15,
+                        "template": "BEEDRILL_NORMAL",
+                        "form": 622
                     }
                 },
                 {
@@ -83,9 +104,9 @@
                 {
                     "type": "energy",
                     "reward": {
-                        "id": 229,
-                        "template": "HOUNDOOM_NORMAL",
-                        "form": 232
+                        "id": 94,
+                        "template": "GENGAR_NORMAL",
+                        "form": 1044
                     }
                 }
             ]
@@ -93,6 +114,22 @@
         {
             "task": "Power up Pok\u00e9mon 7 times",
             "rewards": [
+                {
+                    "type": "energy",
+                    "reward": {
+                        "id": 130,
+                        "template": "GYARADOS_NORMAL",
+                        "form": 256
+                    }
+                },
+                {
+                    "type": "energy",
+                    "reward": {
+                        "id": 229,
+                        "template": "HOUNDOOM_NORMAL",
+                        "form": 232
+                    }
+                },
                 {
                     "type": "energy",
                     "reward": {
