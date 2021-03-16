@@ -70,6 +70,10 @@
                 "template": "VOLTORB"
             },
             {
+                "id": 101,
+                "template": "ELECTRODE"
+            },
+            {
                 "id": 125,
                 "template": "ELECTABUZZ"
             },

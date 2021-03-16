@@ -38,6 +38,29 @@
                     }
                 }
             ]
+        },
+        {
+            "task": "Power up Pok\u00e9mon 5 times",
+            "rewards": [
+                {
+                    "type": "item",
+                    "amount": 3,
+                    "id": 2
+                }
+            ]
+        },
+        {
+            "task": "Power up Pok\u00e9mon 7 times",
+            "rewards": [
+                {
+                    "type": "energy",
+                    "reward": {
+                        "id": 94,
+                        "template": "GENGAR_NORMAL",
+                        "form": 1044
+                    }
+                }
+            ]
         }
     ],
     "quests": [
