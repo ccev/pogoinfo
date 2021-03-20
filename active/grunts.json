@@ -266,14 +266,14 @@
                 ],
                 [
                     {
-                        "id": 148,
-                        "template": "DRAGONAIR_SHADOW",
-                        "form": 194
-                    },
-                    {
                         "id": 330,
                         "template": "FLYGON_SHADOW",
                         "form": 753
+                    },
+                    {
+                        "id": 148,
+                        "template": "DRAGONAIR_SHADOW",
+                        "form": 194
                     }
                 ],
                 [
@@ -996,14 +996,14 @@
                         "form": 308
                     },
                     {
-                        "id": 281,
-                        "template": "KIRLIA_SHADOW",
-                        "form": 296
-                    },
-                    {
                         "id": 96,
                         "template": "DROWZEE_SHADOW",
                         "form": 215
+                    },
+                    {
+                        "id": 281,
+                        "template": "KIRLIA_SHADOW",
+                        "form": 296
                     }
                 ],
                 [
