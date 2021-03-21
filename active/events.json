@@ -1,19 +1,5 @@
 [
     {
-        "name": "Therian Forme Thundurus Raid Hour",
-        "type": "raid-hour",
-        "start": "2021-03-24 18:00",
-        "end": "2021-03-24 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Charge Up!",
         "type": "event",
         "start": "2021-03-16 10:00",
@@ -210,6 +196,20 @@
         "features": [],
         "has_quests": false,
         "has_spawnpoints": true
+    },
+    {
+        "name": "Therian Forme Thundurus Raid Hour",
+        "type": "raid-hour",
+        "start": "2021-03-24 18:00",
+        "end": "2021-03-24 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
     },
     {
         "name": "Celebrate the Festival of Colors in India",
