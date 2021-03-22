@@ -451,6 +451,47 @@
         "has_spawnpoints": false
     },
     {
+        "name": "April Community Day",
+        "type": "community-day",
+        "start": null,
+        "end": "2021-04-01 17:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [
+            {
+                "id": 661,
+                "template": "FLETCHLING"
+            },
+            {
+                "id": 662,
+                "template": "FLETCHINDER"
+            },
+            {
+                "id": 663,
+                "template": "TALONFLAME"
+            }
+        ],
+        "bonuses": [
+            {
+                "text": "Increased Spawns"
+            },
+            {
+                "text": "3x Catch XP",
+                "template": "increased-xp",
+                "value": "3"
+            },
+            {
+                "text": "3-hour Incense",
+                "template": "longer-incense",
+                "value": "3"
+            }
+        ],
+        "features": [],
+        "has_quests": true,
+        "has_spawnpoints": true
+    },
+    {
         "name": "Pok\u00e9mon GO Tour: Kanto Bonus Event",
         "type": "event",
         "start": null,
