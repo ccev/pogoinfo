@@ -109,6 +109,14 @@
             "end": "2021-03-30 19:00",
             "lure_duration": 30,
             "local_times": true
+        },
+        {
+            "name": "Snivy Community Day",
+            "type": "cday",
+            "start": "2021-04-11 11:00",
+            "end": "2021-04-11 17:00",
+            "lure_duration": 30,
+            "local_times": true
         }
     ]
 }
