@@ -144,14 +144,14 @@
                         "form": 899
                     },
                     {
-                        "id": 49,
-                        "template": "VENOMOTH_SHADOW",
-                        "form": 263
-                    },
-                    {
                         "id": 212,
                         "template": "SCIZOR_SHADOW",
                         "form": 251
+                    },
+                    {
+                        "id": 49,
+                        "template": "VENOMOTH_SHADOW",
+                        "form": 263
                     }
                 ],
                 [
@@ -1459,14 +1459,14 @@
                 ],
                 [
                     {
-                        "id": 70,
-                        "template": "WEEPINBELL_SHADOW",
-                        "form": 668
-                    },
-                    {
                         "id": 20,
                         "template": "RATICATE_SHADOW",
                         "form": 155
+                    },
+                    {
+                        "id": 70,
+                        "template": "WEEPINBELL_SHADOW",
+                        "form": 668
                     }
                 ],
                 [
