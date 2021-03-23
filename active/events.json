@@ -1,184 +1,5 @@
 [
     {
-        "name": "Charge Up!",
-        "type": "event",
-        "start": "2021-03-16 10:00",
-        "end": "2021-03-22 20:00",
-        "spawns": [
-            {
-                "id": 25,
-                "template": "PIKACHU"
-            },
-            {
-                "id": 74,
-                "template": "GEODUDE_ALOLA",
-                "form": 68
-            },
-            {
-                "id": 81,
-                "template": "MAGNEMITE"
-            },
-            {
-                "id": 100,
-                "template": "VOLTORB"
-            },
-            {
-                "id": 101,
-                "template": "ELECTRODE"
-            },
-            {
-                "id": 125,
-                "template": "ELECTABUZZ"
-            },
-            {
-                "id": 170,
-                "template": "CHINCHOU"
-            },
-            {
-                "id": 179,
-                "template": "MAREEP"
-            },
-            {
-                "id": 309,
-                "template": "ELECTRIKE"
-            },
-            {
-                "id": 311,
-                "template": "PLUSLE"
-            },
-            {
-                "id": 312,
-                "template": "MINUN"
-            },
-            {
-                "id": 522,
-                "template": "BLITZLE"
-            },
-            {
-                "id": 595,
-                "template": "JOLTIK"
-            },
-            {
-                "id": 602,
-                "template": "TYNAMO"
-            },
-            {
-                "id": 618,
-                "template": "STUNFISK"
-            },
-            {
-                "id": 603,
-                "template": "EELEKTRIK"
-            },
-            {
-                "id": 604,
-                "template": "EELEKTROSS"
-            }
-        ],
-        "eggs": [
-            {
-                "id": 172,
-                "template": "PICHU"
-            },
-            {
-                "id": 239,
-                "template": "ELEKID"
-            },
-            {
-                "id": 309,
-                "template": "ELECTRIKE"
-            },
-            {
-                "id": 403,
-                "template": "SHINX"
-            },
-            {
-                "id": 595,
-                "template": "JOLTIK"
-            },
-            {
-                "id": 602,
-                "template": "TYNAMO"
-            },
-            {
-                "id": 618,
-                "template": "STUNFISK"
-            }
-        ],
-        "raids": [
-            {
-                "id": 100,
-                "template": "VOLTORB"
-            },
-            {
-                "id": 403,
-                "template": "SHINX"
-            },
-            {
-                "id": 522,
-                "template": "BLITZLE"
-            },
-            {
-                "id": 599,
-                "template": "KLINK"
-            },
-            {
-                "id": 602,
-                "template": "TYNAMO"
-            },
-            {
-                "id": 26,
-                "template": "RAICHU_ALOLA",
-                "form": 50
-            },
-            {
-                "id": 75,
-                "template": "GRAVELER_ALOLA",
-                "form": 70
-            },
-            {
-                "id": 82,
-                "template": "MAGNETON"
-            },
-            {
-                "id": 181,
-                "template": "AMPHAROS"
-            },
-            {
-                "id": 642,
-                "template": "THUNDURUS_THERIAN",
-                "form": 143
-            },
-            {
-                "id": 229,
-                "template": "HOUNDOOM",
-                "temp_evolution_id": 1
-            },
-            {
-                "id": 310,
-                "template": "MANECTRIC",
-                "temp_evolution_id": 1
-            },
-            {
-                "id": 460,
-                "template": "ABOMASNOW",
-                "temp_evolution_id": 1
-            }
-        ],
-        "shinies": [],
-        "bonuses": [
-            {
-                "text": "You\u2019ll have a higher chance of receiving Evolution items when opening Gifts during the event period!"
-            }
-        ],
-        "features": [
-            "Event-exclusive Field Research tasks will reward Pok\u00e9 Balls, Ampharos Mega Energy, Manectric Mega Energy, encounters with Electric-type Pok\u00e9mon, and more.",
-            "Timed Research focused on evolving and powering up Electric-type Pok\u00e9mon will be available!"
-        ],
-        "has_quests": true,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Surskit Spotlight Hour",
         "type": "spotlight-hour",
         "start": "2021-03-23 18:00",
@@ -451,47 +272,6 @@
         "has_spawnpoints": false
     },
     {
-        "name": "April Community Day",
-        "type": "community-day",
-        "start": null,
-        "end": "2021-04-01 17:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [
-            {
-                "id": 661,
-                "template": "FLETCHLING"
-            },
-            {
-                "id": 662,
-                "template": "FLETCHINDER"
-            },
-            {
-                "id": 663,
-                "template": "TALONFLAME"
-            }
-        ],
-        "bonuses": [
-            {
-                "text": "Increased Spawns"
-            },
-            {
-                "text": "3x Catch XP",
-                "template": "increased-xp",
-                "value": "3"
-            },
-            {
-                "text": "3-hour Incense",
-                "template": "longer-incense",
-                "value": "3"
-            }
-        ],
-        "features": [],
-        "has_quests": true,
-        "has_spawnpoints": true
-    },
-    {
         "name": "Pok\u00e9mon GO Tour: Kanto Bonus Event",
         "type": "event",
         "start": null,
@@ -504,6 +284,47 @@
         "features": [],
         "has_quests": false,
         "has_spawnpoints": false
+    },
+    {
+        "name": "Snivy Community Day",
+        "type": "community-day",
+        "start": "2021-04-11 11:00",
+        "end": "2021-04-11 17:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [
+            {
+                "id": 495,
+                "template": "SNIVY"
+            },
+            {
+                "id": 496,
+                "template": "SERVINE"
+            },
+            {
+                "id": 497,
+                "template": "SERPERIOR"
+            }
+        ],
+        "bonuses": [
+            {
+                "text": "Increased Spawns"
+            },
+            {
+                "text": "3x Catch Stardust",
+                "template": "increased-stardust",
+                "value": "3"
+            },
+            {
+                "text": "3-hour Incense",
+                "template": "longer-incense",
+                "value": "3"
+            }
+        ],
+        "features": [],
+        "has_quests": true,
+        "has_spawnpoints": true
     },
     {
         "name": "Season of Legends",
