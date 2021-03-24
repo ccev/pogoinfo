@@ -288,8 +288,8 @@
     {
         "name": "Therian Forme Tornadus Raid Hour",
         "type": "raid-hour",
-        "start": "2021-03-31 18:00",
-        "end": "2021-03-31 19:00",
+        "start": "2021-04-07 18:00",
+        "end": "2021-04-07 19:00",
         "spawns": [],
         "eggs": [],
         "raids": [],
@@ -304,6 +304,39 @@
         "type": "event",
         "start": null,
         "end": "2021-04-05 10:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Buneary Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2021-04-06 18:00",
+        "end": "2021-04-06 19:00",
+        "spawns": [
+            {
+                "id": 427,
+                "template": "BUNEARY"
+            }
+        ],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": true
+    },
+    {
+        "name": "Spring into Spring",
+        "type": "event",
+        "start": "2021-04-04 10:00",
+        "end": "2021-04-08 20:00",
         "spawns": [],
         "eggs": [],
         "raids": [],
@@ -352,6 +385,105 @@
         ],
         "features": [],
         "has_quests": true,
+        "has_spawnpoints": true
+    },
+    {
+        "name": "Mankey Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2021-04-13 18:00",
+        "end": "2021-04-13 19:00",
+        "spawns": [
+            {
+                "id": 56,
+                "template": "MANKEY"
+            }
+        ],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": true
+    },
+    {
+        "name": "Therian Forme Landorus Raid Hour",
+        "type": "raid-hour",
+        "start": "2021-04-28 18:00",
+        "end": "2021-04-28 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Rivals' Week",
+        "type": "event",
+        "start": "2021-04-13 10:00",
+        "end": "2021-04-18 20:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Grimer Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2021-04-20 18:00",
+        "end": "2021-04-20 19:00",
+        "spawns": [
+            {
+                "id": 88,
+                "template": "GRIMER"
+            }
+        ],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": true
+    },
+    {
+        "name": "Sustainability Week",
+        "type": "event",
+        "start": "2021-04-20 10:00",
+        "end": "2021-04-25 20:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Finneon Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2021-04-27 18:00",
+        "end": "2021-04-27 19:00",
+        "spawns": [
+            {
+                "id": 456,
+                "template": "FINNEON"
+            }
+        ],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
         "has_spawnpoints": true
     },
     {
