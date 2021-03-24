@@ -1,5 +1,78 @@
 {
-    "event": [],
+    "event": [
+        {
+            "task": "Catch 5 Flying-type Pok\u00e9mon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 333,
+                        "template": "SWABLU"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Catch 7 Water-type Pok\u00e9mon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 535,
+                        "template": "TYMPOLE"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Catch 7 Water-, Electric-, or Bug-type Pok\u00e9mon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 351,
+                        "template": "CASTFORM_RAINY",
+                        "form": 31
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Catch 7 Flying-, Psychic-, or Dragon-type Pok\u00e9mon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 351,
+                        "template": "CASTFORM_RAINY",
+                        "form": 31
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Win 2 raids",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 587,
+                        "template": "EMOLGA"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Power up Pok\u00e9mon 7 times",
+            "rewards": [
+                {
+                    "type": "item",
+                    "amount": 3,
+                    "id": 705
+                }
+            ]
+        }
+    ],
     "quests": [
         {
             "task": "Catch 5 Pok\u00e9mon with Weather Boost",

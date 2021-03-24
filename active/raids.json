@@ -1,52 +1,41 @@
 {
     "1": [
         {
+            "id": 79,
+            "template": "SLOWPOKE_NORMAL",
+            "form": 1017
+        },
+        {
+            "id": 198,
+            "template": "MURKROW_NORMAL",
+            "form": 855
+        },
+        {
             "id": 403,
             "template": "SHINX"
         },
         {
-            "id": 459,
-            "template": "SNOVER_NORMAL",
-            "form": 932
-        },
-        {
-            "id": 524,
-            "template": "ROGGENROLA"
-        },
-        {
-            "id": 595,
-            "template": "JOLTIK"
-        },
-        {
-            "id": 677,
-            "template": "ESPURR"
+            "id": 602,
+            "template": "TYNAMO"
         }
     ],
     "3": [
         {
-            "id": 75,
-            "template": "GRAVELER_ALOLA",
-            "form": 70
+            "id": 62,
+            "template": "POLIWRATH_NORMAL",
+            "form": 241
         },
         {
-            "id": 112,
-            "template": "RHYDON_NORMAL",
-            "form": 849
+            "id": 108,
+            "template": "LICKITUNG"
         },
         {
-            "id": 221,
-            "template": "PILOSWINE_NORMAL",
-            "form": 1280
+            "id": 277,
+            "template": "SWELLOW"
         },
         {
-            "id": 299,
-            "template": "NOSEPASS_NORMAL",
-            "form": 1460
-        },
-        {
-            "id": 618,
-            "template": "STUNFISK_NORMAL",
-            "form": 2246
+            "id": 279,
+            "template": "PELIPPER"
         }
     ],
     "5": [

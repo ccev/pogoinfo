@@ -204,14 +204,14 @@
                 ],
                 [
                     {
-                        "id": 435,
-                        "template": "SKUNTANK_SHADOW",
-                        "form": 795
-                    },
-                    {
                         "id": 274,
                         "template": "NUZLEAF_SHADOW",
                         "form": 629
+                    },
+                    {
+                        "id": 435,
+                        "template": "SKUNTANK_SHADOW",
+                        "form": 795
                     }
                 ],
                 [
@@ -1519,14 +1519,14 @@
                         "form": 909
                     },
                     {
-                        "id": 200,
-                        "template": "MISDREAVUS_SHADOW",
-                        "form": 720
-                    },
-                    {
                         "id": 355,
                         "template": "DUSKULL_SHADOW",
                         "form": 915
+                    },
+                    {
+                        "id": 200,
+                        "template": "MISDREAVUS_SHADOW",
+                        "form": 720
                     }
                 ],
                 [
@@ -1601,14 +1601,14 @@
                         "form": 659
                     },
                     {
-                        "id": 125,
-                        "template": "ELECTABUZZ_SHADOW",
-                        "form": 641
-                    },
-                    {
                         "id": 180,
                         "template": "FLAAFFY_SHADOW",
                         "form": 650
+                    },
+                    {
+                        "id": 125,
+                        "template": "ELECTABUZZ_SHADOW",
+                        "form": 641
                     }
                 ],
                 [
