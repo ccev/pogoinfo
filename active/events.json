@@ -103,41 +103,72 @@
         "end": "2021-03-29 20:00",
         "spawns": [
             {
-                "id": 278,
-                "template": "WINGULL"
+                "id": 47,
+                "template": "PARASECT"
             },
             {
-                "id": 351,
-                "template": "CASTFORM_RAINY",
-                "form": 31
+                "id": 54,
+                "template": "PSYDUCK"
             },
             {
-                "id": 580,
-                "template": "DUCKLETT"
+                "id": 60,
+                "template": "POLIWAG"
             },
             {
                 "id": 134,
                 "template": "VAPOREON"
             },
             {
-                "id": 270,
-                "template": "LOTAD"
-            },
-            {
-                "id": 618,
-                "template": "STUNFISK"
-            },
-            {
                 "id": 227,
                 "template": "SKARMORY"
+            },
+            {
+                "id": 270,
+                "template": "LOTAD"
             },
             {
                 "id": 276,
                 "template": "TAILLOW"
             },
             {
+                "id": 278,
+                "template": "WINGULL"
+            },
+            {
+                "id": 283,
+                "template": "SURSKIT"
+            },
+            {
+                "id": 311,
+                "template": "PLUSLE"
+            },
+            {
+                "id": 312,
+                "template": "MINUN"
+            },
+            {
+                "id": 351,
+                "template": "CASTFORM"
+            },
+            {
+                "id": 453,
+                "template": "CROAGUNK"
+            },
+            {
                 "id": 519,
                 "template": "PIDOVE"
+            },
+            {
+                "id": 580,
+                "template": "DUCKLETT"
+            },
+            {
+                "id": 616,
+                "template": "SHELMET"
+            },
+            {
+                "id": 618,
+                "template": "STUNFISK"
             }
         ],
         "eggs": [
@@ -176,8 +207,20 @@
                 "template": "SLOWPOKE"
             },
             {
+                "id": 198,
+                "template": "MURKROW"
+            },
+            {
+                "id": 403,
+                "template": "SHINX"
+            },
+            {
                 "id": 602,
                 "template": "TYNAMO"
+            },
+            {
+                "id": 108,
+                "template": "LICKITUNG"
             },
             {
                 "id": 277,
