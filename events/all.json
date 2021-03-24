@@ -610,5 +610,53 @@
         "type": "Event",
         "start": "2021-03-24 10:00",
         "end": "2021-03-29 20:00"
+    },
+    {
+        "name": "Buneary Spotlight Hour",
+        "type": "Pok\u00e9mon Spotlight Hour",
+        "start": "2021-04-06 18:00",
+        "end": "2021-04-06 19:00"
+    },
+    {
+        "name": "Spring into Spring",
+        "type": "Event",
+        "start": "2021-04-04 10:00",
+        "end": "2021-04-08 20:00"
+    },
+    {
+        "name": "Mankey Spotlight Hour",
+        "type": "Pok\u00e9mon Spotlight Hour",
+        "start": "2021-04-13 18:00",
+        "end": "2021-04-13 19:00"
+    },
+    {
+        "name": "Therian Forme Landorus Raid Hour",
+        "type": "Raid Hour",
+        "start": "2021-04-28 18:00",
+        "end": "2021-04-28 19:00"
+    },
+    {
+        "name": "Rivals' Week",
+        "type": "Event",
+        "start": "2021-04-13 10:00",
+        "end": "2021-04-18 20:00"
+    },
+    {
+        "name": "Grimer Spotlight Hour",
+        "type": "Pok\u00e9mon Spotlight Hour",
+        "start": "2021-04-20 18:00",
+        "end": "2021-04-20 19:00"
+    },
+    {
+        "name": "Sustainability Week",
+        "type": "Event",
+        "start": "2021-04-20 10:00",
+        "end": "2021-04-25 20:00"
+    },
+    {
+        "name": "Finneon Spotlight Hour",
+        "type": "Pok\u00e9mon Spotlight Hour",
+        "start": "2021-04-27 18:00",
+        "end": "2021-04-27 19:00"
     }
 ]

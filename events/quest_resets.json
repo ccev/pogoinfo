@@ -1,23 +1,5 @@
 [
     {
-        "name": "Weather Week 2021 Start",
-        "time": "2021-03-24 10:00",
-        "type": [
-            "event",
-            "start"
-        ],
-        "confidence": 9
-    },
-    {
-        "name": "Weather Week 2021 End",
-        "time": "2021-03-29 20:00",
-        "type": [
-            "event",
-            "end"
-        ],
-        "confidence": 9
-    },
-    {
         "name": "Snivy Community Day Start",
         "time": "2021-04-11 11:00",
         "type": [
