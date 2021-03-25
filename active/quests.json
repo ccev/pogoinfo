@@ -61,16 +61,6 @@
                     }
                 }
             ]
-        },
-        {
-            "task": "Power up Pok\u00e9mon 7 times",
-            "rewards": [
-                {
-                    "type": "item",
-                    "amount": 3,
-                    "id": 705
-                }
-            ]
         }
     ],
     "quests": [
