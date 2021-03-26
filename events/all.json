@@ -658,5 +658,11 @@
         "type": "Pok\u00e9mon Spotlight Hour",
         "start": "2021-04-27 18:00",
         "end": "2021-04-27 19:00"
+    },
+    {
+        "name": "Incarnate Forme Tornadus, Incarnate Forme Thundurus, and Incarnate Forme Landorus Raid Hour",
+        "type": "Raid Hour",
+        "start": "2021-04-28 18:00",
+        "end": "2021-04-28 19:00"
     }
 ]
