@@ -136,6 +136,18 @@
             {
                 "id": 618,
                 "template": "STUNFISK"
+            },
+            {
+                "id": 21,
+                "template": "SPEAROW"
+            },
+            {
+                "id": 325,
+                "template": "SPOINK"
+            },
+            {
+                "id": 425,
+                "template": "DRIFLOON"
             }
         ],
         "eggs": [
