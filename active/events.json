@@ -1,19 +1,5 @@
 [
     {
-        "name": "Therian Forme Thundurus Raid Hour",
-        "type": "raid-hour",
-        "start": "2021-03-24 18:00",
-        "end": "2021-03-24 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Celebrate the Festival of Colors in India",
         "type": "event",
         "start": "2021-03-28 06:30",
@@ -409,8 +395,8 @@
     {
         "name": "Therian Forme Landorus Raid Hour",
         "type": "raid-hour",
-        "start": "2021-04-28 18:00",
-        "end": "2021-04-28 19:00",
+        "start": "2021-04-21 18:00",
+        "end": "2021-04-21 19:00",
         "spawns": [],
         "eggs": [],
         "raids": [],
@@ -485,6 +471,20 @@
         "features": [],
         "has_quests": false,
         "has_spawnpoints": true
+    },
+    {
+        "name": "Incarnate Forme Tornadus, Incarnate Forme Thundurus, and Incarnate Forme Landorus Raid Hour",
+        "type": "raid-hour",
+        "start": "2021-04-28 18:00",
+        "end": "2021-04-28 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
     },
     {
         "name": "Season of Legends",
