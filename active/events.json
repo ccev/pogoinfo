@@ -271,13 +271,121 @@
         "type": "event",
         "start": "2021-04-04 10:00",
         "end": "2021-04-08 20:00",
-        "spawns": [],
-        "eggs": [],
+        "spawns": [
+            {
+                "template": "UNSET"
+            },
+            {
+                "id": 102,
+                "template": "EXEGGCUTE"
+            },
+            {
+                "id": 183,
+                "template": "MARILL"
+            },
+            {
+                "id": 311,
+                "template": "PLUSLE"
+            },
+            {
+                "id": 312,
+                "template": "MINUN"
+            },
+            {
+                "id": 427,
+                "template": "BUNEARY"
+            },
+            {
+                "id": 659,
+                "template": "BUNNELBY"
+            },
+            {
+                "id": 113,
+                "template": "CHANSEY"
+            },
+            {
+                "id": 242,
+                "template": "BLISSEY"
+            },
+            {
+                "id": 440,
+                "template": "HAPPINY"
+            }
+        ],
+        "eggs": [
+            {
+                "id": 102,
+                "template": "EXEGGCUTE"
+            },
+            {
+                "template": "UNSET"
+            },
+            {
+                "template": "UNSET"
+            },
+            {
+                "id": 175,
+                "template": "TOGEPI"
+            },
+            {
+                "id": 298,
+                "template": "AZURILL"
+            },
+            {
+                "id": 427,
+                "template": "BUNEARY"
+            },
+            {
+                "id": 440,
+                "template": "HAPPINY"
+            },
+            {
+                "id": 446,
+                "template": "MUNCHLAX"
+            },
+            {
+                "id": 627,
+                "template": "RUFFLET"
+            },
+            {
+                "id": 659,
+                "template": "BUNNELBY"
+            }
+        ],
         "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
+        "shinies": [
+            {
+                "id": 659,
+                "template": "BUNNELBY"
+            },
+            {
+                "id": 660,
+                "template": "DIGGERSBY"
+            }
+        ],
+        "bonuses": [
+            {
+                "text": "2x Hatch Candy",
+                "template": "increased-candy",
+                "value": "2"
+            },
+            {
+                "text": "Lucky Eggs will last for one hour",
+                "template": "longer-lucky-egg"
+            },
+            {
+                "text": "1/2 Egg Hatch Distance",
+                "template": "reduced-hatch-distance",
+                "value": "12"
+            }
+        ],
+        "features": [
+            "Mega Lopunny will make its Pok\u00e9mon GO debut in Mega Raids! Other spring-themed Pok\u00e9mon will be appearing in raids as well. There will also be Mega Lopunny\u2013inspired avatar items available in the shop!",
+            "Event-exclusive spring-themed Gift stickers will be available from Pok\u00e9Stops and Gifts during the event, so be sure to get them while they\u2019re available!",
+            "Complete event-exclusive Field Research tasks to encounter Azumarill, Rufflet, and more!",
+            "Complete the spring-themed Collection Challenge during the event by collecting featured Pok\u00e9mon to receive a Lucky Egg, Mega Lopunny Energy, and XP. Head on over to the Today View to track your progress!"
+        ],
+        "has_quests": true,
         "has_spawnpoints": false
     },
     {
