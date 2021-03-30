@@ -590,14 +590,14 @@
                         "form": 1569
                     },
                     {
-                        "id": 187,
-                        "template": "HOPPIP_SHADOW",
-                        "form": 1206
-                    },
-                    {
                         "id": 43,
                         "template": "ODDISH_SHADOW",
                         "form": 266
+                    },
+                    {
+                        "id": 187,
+                        "template": "HOPPIP_SHADOW",
+                        "form": 1206
                     }
                 ],
                 [
@@ -1601,14 +1601,14 @@
                         "form": 659
                     },
                     {
-                        "id": 180,
-                        "template": "FLAAFFY_SHADOW",
-                        "form": 650
-                    },
-                    {
                         "id": 125,
                         "template": "ELECTABUZZ_SHADOW",
                         "form": 641
+                    },
+                    {
+                        "id": 180,
+                        "template": "FLAAFFY_SHADOW",
+                        "form": 650
                     }
                 ],
                 [
