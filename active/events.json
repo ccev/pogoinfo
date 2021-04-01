@@ -1,19 +1,5 @@
 [
     {
-        "name": "Therian Forme Tornadus Raid Hour",
-        "type": "raid-hour",
-        "start": "2021-04-07 18:00",
-        "end": "2021-04-07 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Tricky Pok\u00e9mon 2021",
         "type": "event",
         "start": "2021-04-01 00:00",
@@ -108,6 +94,20 @@
         "features": [],
         "has_quests": false,
         "has_spawnpoints": true
+    },
+    {
+        "name": "Therian Forme Tornadus Raid Hour",
+        "type": "raid-hour",
+        "start": "2021-04-07 18:00",
+        "end": "2021-04-07 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
     },
     {
         "name": "Spring into Spring",
