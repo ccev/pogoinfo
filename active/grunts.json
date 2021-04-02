@@ -512,14 +512,14 @@
                         "form": 203
                     },
                     {
-                        "id": 123,
-                        "template": "SCYTHER_SHADOW",
-                        "form": 248
-                    },
-                    {
                         "id": 42,
                         "template": "GOLBAT_SHADOW",
                         "form": 161
+                    },
+                    {
+                        "id": 123,
+                        "template": "SCYTHER_SHADOW",
+                        "form": 248
                     }
                 ],
                 [

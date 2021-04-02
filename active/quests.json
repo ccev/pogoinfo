@@ -2,32 +2,41 @@
     "event": [],
     "quests": [
         {
-            "task": "Use 5 Berries to help catch Pok\u00e9mon",
+            "task": "Catch 5 Pok\u00e9mon with Weather Boost",
             "rewards": [
                 {
                     "type": "stardust",
-                    "amount": 500
+                    "amount": 200
                 },
                 {
                     "type": "item",
-                    "amount": 6,
+                    "amount": 3,
                     "id": 701
                 },
                 {
                     "type": "item",
-                    "amount": 2,
+                    "amount": 1,
                     "id": 705
                 },
                 {
                     "type": "item",
                     "amount": 5,
-                    "id": 2
+                    "id": 1
                 },
                 {
                     "type": "pokemon",
                     "reward": {
-                        "id": 294,
-                        "template": "LOUDRED"
+                        "id": 60,
+                        "template": "POLIWAG_NORMAL",
+                        "form": 235
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 37,
+                        "template": "VULPIX_NORMAL",
+                        "form": 55
                     }
                 }
             ]
@@ -86,46 +95,6 @@
             ]
         },
         {
-            "task": "Catch 5 Pok\u00e9mon with Weather Boost",
-            "rewards": [
-                {
-                    "type": "stardust",
-                    "amount": 200
-                },
-                {
-                    "type": "item",
-                    "amount": 3,
-                    "id": 701
-                },
-                {
-                    "type": "item",
-                    "amount": 1,
-                    "id": 705
-                },
-                {
-                    "type": "item",
-                    "amount": 5,
-                    "id": 1
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 60,
-                        "template": "POLIWAG_NORMAL",
-                        "form": 235
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 37,
-                        "template": "VULPIX_NORMAL",
-                        "form": 55
-                    }
-                }
-            ]
-        },
-        {
             "task": "Catch a Dragon-type Pok\u00e9mon",
             "rewards": [
                 {
@@ -153,6 +122,45 @@
                         "id": 147,
                         "template": "DRATINI_NORMAL",
                         "form": 190
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Use 5 Berries to help catch Pok\u00e9mon",
+            "rewards": [
+                {
+                    "type": "stardust",
+                    "amount": 500
+                },
+                {
+                    "type": "item",
+                    "amount": 6,
+                    "id": 701
+                },
+                {
+                    "type": "item",
+                    "amount": 2,
+                    "id": 705
+                },
+                {
+                    "type": "item",
+                    "amount": 5,
+                    "id": 2
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 294,
+                        "template": "LOUDRED"
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 188,
+                        "template": "SKIPLOOM_NORMAL",
+                        "form": 1208
                     }
                 }
             ]
@@ -372,6 +380,18 @@
             ]
         },
         {
+            "task": "Make 5 Great Curveball Throws in a row",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 327,
+                        "template": "SPINDA"
+                    }
+                }
+            ]
+        },
+        {
             "task": "Make 3 Excellent Throws in a row",
             "rewards": [
                 {
@@ -380,18 +400,6 @@
                         "id": 443,
                         "template": "GIBLE_NORMAL",
                         "form": 861
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Make 5 Great Curveball Throws in a row",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 327,
-                        "template": "SPINDA"
                     }
                 }
             ]
@@ -572,14 +580,22 @@
             ]
         },
         {
-            "task": "Win 5 raids",
+            "task": "Battle in GO Battle League",
             "rewards": [
                 {
                     "type": "pokemon",
                     "reward": {
-                        "id": 142,
-                        "template": "AERODACTYL_NORMAL",
-                        "form": 1110
+                        "id": 43,
+                        "template": "ODDISH_NORMAL",
+                        "form": 265
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 69,
+                        "template": "BELLSPROUT_NORMAL",
+                        "form": 664
                     }
                 }
             ]
@@ -610,22 +626,14 @@
             ]
         },
         {
-            "task": "Battle another Trainer",
+            "task": "Win 5 raids",
             "rewards": [
                 {
                     "type": "pokemon",
                     "reward": {
-                        "id": 43,
-                        "template": "ODDISH_NORMAL",
-                        "form": 265
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 69,
-                        "template": "BELLSPROUT_NORMAL",
-                        "form": 664
+                        "id": 142,
+                        "template": "AERODACTYL_NORMAL",
+                        "form": 1110
                     }
                 }
             ]
@@ -678,31 +686,6 @@
             ]
         },
         {
-            "task": "Evolve a Pok\u00e9mon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 133,
-                        "template": "EEVEE"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Take a snapshot of a Grass-type Pok\u00e9mon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 1,
-                        "template": "BULBASAUR_NORMAL",
-                        "form": 163
-                    }
-                }
-            ]
-        },
-        {
             "task": "Power up Pok\u00e9mon 5 times",
             "rewards": [
                 {
@@ -727,6 +710,31 @@
                         "id": 7,
                         "template": "SQUIRTLE_NORMAL",
                         "form": 181
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Evolve a Pok\u00e9mon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 133,
+                        "template": "EEVEE"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Take a snapshot of a Grass-type Pok\u00e9mon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 1,
+                        "template": "BULBASAUR_NORMAL",
+                        "form": 163
                     }
                 }
             ]
