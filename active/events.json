@@ -80,16 +80,13 @@
                 "template": "BUNNELBY"
             },
             {
-                "id": 113,
-                "template": "CHANSEY"
+                "template": "UNSET"
             },
             {
-                "id": 242,
-                "template": "BLISSEY"
+                "template": "UNSET"
             },
             {
-                "id": 440,
-                "template": "HAPPINY"
+                "template": "UNSET"
             }
         ],
         "eggs": [
@@ -116,8 +113,7 @@
                 "template": "BUNEARY"
             },
             {
-                "id": 440,
-                "template": "HAPPINY"
+                "template": "UNSET"
             },
             {
                 "id": 446,
@@ -134,6 +130,15 @@
         ],
         "raids": [],
         "shinies": [
+            {
+                "template": "UNSET"
+            },
+            {
+                "template": "UNSET"
+            },
+            {
+                "template": "UNSET"
+            },
             {
                 "id": 659,
                 "template": "BUNNELBY"
