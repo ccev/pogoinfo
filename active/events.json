@@ -53,17 +53,23 @@
         "end": "2021-04-08 20:00",
         "spawns": [
             {
-                "template": "UNSET"
+                "id": 25,
+                "template": "PIKACHU",
+                "costume": 7
             },
             {
                 "id": 102,
                 "template": "EXEGGCUTE"
             },
             {
-                "template": "UNSET"
+                "id": 113,
+                "template": "CHANSEY",
+                "costume": 7
             },
             {
-                "template": "UNSET"
+                "id": 133,
+                "template": "EEVEE",
+                "costume": 7
             },
             {
                 "id": 183,
@@ -86,10 +92,9 @@
                 "template": "BUNNELBY"
             },
             {
-                "template": "UNSET"
-            },
-            {
-                "template": "UNSET"
+                "id": 242,
+                "template": "BLISSEY",
+                "costume": 7
             },
             {
                 "template": "UNSET"
@@ -101,10 +106,14 @@
                 "template": "EXEGGCUTE"
             },
             {
-                "template": "UNSET"
+                "id": 133,
+                "template": "EEVEE",
+                "costume": 7
             },
             {
-                "template": "UNSET"
+                "id": 172,
+                "template": "PICHU",
+                "costume": 7
             },
             {
                 "id": 175,
@@ -137,10 +146,14 @@
         "raids": [],
         "shinies": [
             {
-                "template": "UNSET"
+                "id": 113,
+                "template": "CHANSEY",
+                "costume": 7
             },
             {
-                "template": "UNSET"
+                "id": 242,
+                "template": "BLISSEY",
+                "costume": 7
             },
             {
                 "template": "UNSET"
