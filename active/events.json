@@ -95,9 +95,6 @@
                 "id": 242,
                 "template": "BLISSEY",
                 "costume": 7
-            },
-            {
-                "template": "UNSET"
             }
         ],
         "eggs": [
@@ -128,9 +125,6 @@
                 "template": "BUNEARY"
             },
             {
-                "template": "UNSET"
-            },
-            {
                 "id": 446,
                 "template": "MUNCHLAX"
             },
@@ -154,9 +148,6 @@
                 "id": 242,
                 "template": "BLISSEY",
                 "costume": 7
-            },
-            {
-                "template": "UNSET"
             },
             {
                 "id": 659,
