@@ -1469,14 +1469,14 @@
                         "form": 909
                     },
                     {
-                        "id": 200,
-                        "template": "MISDREAVUS_SHADOW",
-                        "form": 720
-                    },
-                    {
                         "id": 355,
                         "template": "DUSKULL_SHADOW",
                         "form": 915
+                    },
+                    {
+                        "id": 200,
+                        "template": "MISDREAVUS_SHADOW",
+                        "form": 720
                     }
                 ],
                 [
