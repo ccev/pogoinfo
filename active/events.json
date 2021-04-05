@@ -262,13 +262,116 @@
         "type": "event",
         "start": "2021-04-13 10:00",
         "end": "2021-04-18 20:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
+        "spawns": [
+            {
+                "id": 690,
+                "template": "SKRELP"
+            },
+            {
+                "id": 691,
+                "template": "DRAGALGE"
+            },
+            {
+                "id": 692,
+                "template": "CLAUNCHER"
+            },
+            {
+                "id": 693,
+                "template": "CLAWITZER"
+            },
+            {
+                "id": 106,
+                "template": "HITMONLEE"
+            },
+            {
+                "id": 107,
+                "template": "HITMONCHAN"
+            },
+            {
+                "id": 296,
+                "template": "MAKUHITA"
+            },
+            {
+                "id": 307,
+                "template": "MEDITITE"
+            },
+            {
+                "id": 335,
+                "template": "ZANGOOSE"
+            },
+            {
+                "id": 336,
+                "template": "SEVIPER"
+            }
+        ],
+        "eggs": [
+            {
+                "id": 66,
+                "template": "MACHOP"
+            },
+            {
+                "id": 236,
+                "template": "TYROGUE"
+            },
+            {
+                "id": 239,
+                "template": "ELEKID"
+            },
+            {
+                "id": 240,
+                "template": "MAGBY"
+            },
+            {
+                "id": 296,
+                "template": "MAKUHITA"
+            },
+            {
+                "id": 307,
+                "template": "MEDITITE"
+            },
+            {
+                "id": 335,
+                "template": "ZANGOOSE"
+            },
+            {
+                "id": 336,
+                "template": "SEVIPER"
+            }
+        ],
+        "raids": [
+            {
+                "id": 31,
+                "template": "NIDOQUEEN"
+            },
+            {
+                "id": 34,
+                "template": "NIDOKING"
+            },
+            {
+                "id": 335,
+                "template": "ZANGOOSE"
+            },
+            {
+                "id": 336,
+                "template": "SEVIPER"
+            },
+            {
+                "id": 645,
+                "template": "LANDORUS_THERIAN",
+                "form": 145
+            }
+        ],
         "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
+        "bonuses": [
+            {
+                "text": "Increased Team GO Rocket Grunts at Pok\u00e9Stops and in Balloons"
+            }
+        ],
+        "features": [
+            "Enjoy the Rivals\u2019 Week challenge in the Global Challenge Arena! All Trainers around the world can work together to win Raid Battles and unlock a 2\u00d7 Catch Stardust bonus for the duration of the event!",
+            "Enjoy event-exclusive Field Research tasks that will lead to encounters with rival Pok\u00e9mon, such as Skrelp and Clauncher, as well."
+        ],
+        "has_quests": true,
         "has_spawnpoints": false
     },
     {
