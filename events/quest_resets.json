@@ -16,5 +16,23 @@
             "end"
         ],
         "confidence": 10
+    },
+    {
+        "name": "Rivals' Week Start",
+        "time": "2021-04-13 10:00",
+        "type": [
+            "event",
+            "start"
+        ],
+        "confidence": 9
+    },
+    {
+        "name": "Rivals' Week End",
+        "time": "2021-04-18 20:00",
+        "type": [
+            "event",
+            "end"
+        ],
+        "confidence": 9
     }
 ]
