@@ -1,23 +1,5 @@
 [
     {
-        "name": "Spring into Spring Start",
-        "time": "2021-04-04 10:00",
-        "type": [
-            "event",
-            "start"
-        ],
-        "confidence": 9
-    },
-    {
-        "name": "Spring into Spring End",
-        "time": "2021-04-08 20:00",
-        "type": [
-            "event",
-            "end"
-        ],
-        "confidence": 9
-    },
-    {
         "name": "Snivy Community Day Start",
         "time": "2021-04-11 11:00",
         "type": [
