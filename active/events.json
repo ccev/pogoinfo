@@ -1,19 +1,5 @@
 [
     {
-        "name": "Pok\u00e9mon GO Tour: Kanto Bonus Event",
-        "type": "event",
-        "start": null,
-        "end": "2021-04-05 10:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Buneary Spotlight Hour",
         "type": "spotlight-hour",
         "start": "2021-04-06 18:00",
