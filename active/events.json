@@ -380,6 +380,20 @@
         "has_spawnpoints": true
     },
     {
+        "name": "Friendship Day",
+        "type": "event",
+        "start": "2021-04-24 10:00",
+        "end": "2021-04-24 20:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
         "name": "Sustainability Week",
         "type": "event",
         "start": "2021-04-20 10:00",
