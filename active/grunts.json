@@ -507,6 +507,11 @@
                 ],
                 [
                     {
+                        "id": 42,
+                        "template": "GOLBAT_SHADOW",
+                        "form": 161
+                    },
+                    {
                         "id": 169,
                         "template": "CROBAT_SHADOW",
                         "form": 203
@@ -515,11 +520,6 @@
                         "id": 123,
                         "template": "SCYTHER_SHADOW",
                         "form": 248
-                    },
-                    {
-                        "id": 42,
-                        "template": "GOLBAT_SHADOW",
-                        "form": 161
                     }
                 ],
                 [
@@ -1546,14 +1546,14 @@
                 ],
                 [
                     {
-                        "id": 125,
-                        "template": "ELECTABUZZ_SHADOW",
-                        "form": 641
-                    },
-                    {
                         "id": 82,
                         "template": "MAGNETON_SHADOW",
                         "form": 659
+                    },
+                    {
+                        "id": 125,
+                        "template": "ELECTABUZZ_SHADOW",
+                        "form": 641
                     },
                     {
                         "id": 180,
