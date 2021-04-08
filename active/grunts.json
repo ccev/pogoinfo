@@ -283,14 +283,14 @@
                         "form": 194
                     },
                     {
-                        "id": 149,
-                        "template": "DRAGONITE_SHADOW",
-                        "form": 197
-                    },
-                    {
                         "id": 130,
                         "template": "GYARADOS_SHADOW",
                         "form": 257
+                    },
+                    {
+                        "id": 149,
+                        "template": "DRAGONITE_SHADOW",
+                        "form": 197
                     }
                 ]
             ]
@@ -507,14 +507,14 @@
                 ],
                 [
                     {
-                        "id": 42,
-                        "template": "GOLBAT_SHADOW",
-                        "form": 161
-                    },
-                    {
                         "id": 169,
                         "template": "CROBAT_SHADOW",
                         "form": 203
+                    },
+                    {
+                        "id": 42,
+                        "template": "GOLBAT_SHADOW",
+                        "form": 161
                     },
                     {
                         "id": 123,
@@ -1409,14 +1409,14 @@
                 ],
                 [
                     {
-                        "id": 20,
-                        "template": "RATICATE_SHADOW",
-                        "form": 155
-                    },
-                    {
                         "id": 70,
                         "template": "WEEPINBELL_SHADOW",
                         "form": 668
+                    },
+                    {
+                        "id": 20,
+                        "template": "RATICATE_SHADOW",
+                        "form": 155
                     }
                 ],
                 [
