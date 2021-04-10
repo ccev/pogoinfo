@@ -1,81 +1,5 @@
 {
-    "event": [
-        {
-            "task": "Catch 5 Exeggcute",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 427,
-                        "template": "BUNEARY"
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 133,
-                        "template": "EEVEE"
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 25,
-                        "template": "PIKACHU_NORMAL",
-                        "form": 598
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Catch 15 Exeggcute",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 184,
-                        "template": "AZUMARILL"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Use an Incense",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 113,
-                        "template": "CHANSEY"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Catch 25 Exeggcute",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 113,
-                        "template": "CHANSEY"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Win 2 raids",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 627,
-                        "template": "RUFFLET"
-                    }
-                }
-            ]
-        }
-    ],
+    "event": [],
     "quests": [
         {
             "task": "Catch 5 Pok\u00e9mon with Weather Boost",
@@ -669,6 +593,19 @@
             ]
         },
         {
+            "task": "Win 5 raids",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 142,
+                        "template": "AERODACTYL_NORMAL",
+                        "form": 1110
+                    }
+                }
+            ]
+        },
+        {
             "task": "Defeat a Team GO Rocket Grunt",
             "rewards": [
                 {
@@ -689,19 +626,6 @@
                     "reward": {
                         "id": 597,
                         "template": "FERROSEED"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Win 5 raids",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 142,
-                        "template": "AERODACTYL_NORMAL",
-                        "form": 1110
                     }
                 }
             ]

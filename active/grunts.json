@@ -283,14 +283,14 @@
                         "form": 194
                     },
                     {
-                        "id": 130,
-                        "template": "GYARADOS_SHADOW",
-                        "form": 257
-                    },
-                    {
                         "id": 149,
                         "template": "DRAGONITE_SHADOW",
                         "form": 197
+                    },
+                    {
+                        "id": 130,
+                        "template": "GYARADOS_SHADOW",
+                        "form": 257
                     }
                 ]
             ]
@@ -507,14 +507,14 @@
                 ],
                 [
                     {
-                        "id": 169,
-                        "template": "CROBAT_SHADOW",
-                        "form": 203
-                    },
-                    {
                         "id": 42,
                         "template": "GOLBAT_SHADOW",
                         "form": 161
+                    },
+                    {
+                        "id": 169,
+                        "template": "CROBAT_SHADOW",
+                        "form": 203
                     },
                     {
                         "id": 123,
@@ -659,14 +659,14 @@
                         "form": 317
                     },
                     {
-                        "id": 105,
-                        "template": "MAROWAK_SHADOW",
-                        "form": 227
-                    },
-                    {
                         "id": 329,
                         "template": "VIBRAVA_SHADOW",
                         "form": 750
+                    },
+                    {
+                        "id": 105,
+                        "template": "MAROWAK_SHADOW",
+                        "form": 227
                     }
                 ],
                 [
@@ -1546,14 +1546,14 @@
                 ],
                 [
                     {
-                        "id": 82,
-                        "template": "MAGNETON_SHADOW",
-                        "form": 659
-                    },
-                    {
                         "id": 125,
                         "template": "ELECTABUZZ_SHADOW",
                         "form": 641
+                    },
+                    {
+                        "id": 82,
+                        "template": "MAGNETON_SHADOW",
+                        "form": 659
                     },
                     {
                         "id": 180,
