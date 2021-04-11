@@ -1,23 +1,5 @@
 [
     {
-        "name": "Snivy Community Day Start",
-        "time": "2021-04-11 11:00",
-        "type": [
-            "cday",
-            "start"
-        ],
-        "confidence": 10
-    },
-    {
-        "name": "Snivy Community Day End",
-        "time": "2021-04-11 17:00",
-        "type": [
-            "cday",
-            "end"
-        ],
-        "confidence": 10
-    },
-    {
         "name": "Rivals' Week Start",
         "time": "2021-04-13 10:00",
         "type": [
