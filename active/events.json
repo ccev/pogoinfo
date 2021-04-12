@@ -1,46 +1,5 @@
 [
     {
-        "name": "Snivy Community Day",
-        "type": "community-day",
-        "start": "2021-04-11 11:00",
-        "end": "2021-04-11 17:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [
-            {
-                "id": 495,
-                "template": "SNIVY"
-            },
-            {
-                "id": 496,
-                "template": "SERVINE"
-            },
-            {
-                "id": 497,
-                "template": "SERPERIOR"
-            }
-        ],
-        "bonuses": [
-            {
-                "text": "Increased Spawns"
-            },
-            {
-                "text": "3x Catch Stardust",
-                "template": "increased-stardust",
-                "value": "3"
-            },
-            {
-                "text": "3-hour Incense",
-                "template": "longer-incense",
-                "value": "3"
-            }
-        ],
-        "features": [],
-        "has_quests": true,
-        "has_spawnpoints": true
-    },
-    {
         "name": "Mankey Spotlight Hour",
         "type": "spotlight-hour",
         "start": "2021-04-13 18:00",
@@ -180,7 +139,7 @@
         "shinies": [],
         "bonuses": [
             {
-                "text": "Increased Team GO Rocket Grunts at Pok\u00e9Stops and in Balloons"
+                "text": "Increased Team GO Rocket Grunts at Pok\u00e9Stops and in Balloons*"
             }
         ],
         "features": [
@@ -212,14 +171,63 @@
     {
         "name": "Friendship Day",
         "type": "event",
-        "start": "2021-04-24 10:00",
-        "end": "2021-04-24 20:00",
-        "spawns": [],
+        "start": "2021-04-24 11:00",
+        "end": "2021-04-24 14:00",
+        "spawns": [
+            {
+                "id": 114,
+                "template": "TANGELA"
+            },
+            {
+                "id": 152,
+                "template": "CHIKORITA"
+            },
+            {
+                "id": 191,
+                "template": "SUNKERN"
+            },
+            {
+                "id": 546,
+                "template": "COTTONEE"
+            },
+            {
+                "id": 590,
+                "template": "FOONGUS"
+            }
+        ],
         "eggs": [],
         "raids": [],
         "shinies": [],
-        "bonuses": [],
-        "features": [],
+        "bonuses": [
+            {
+                "text": "You\u2019ll have an increased chance of receiving a Lucky Pok\u00e9mon when you complete a trade with a friend.*",
+                "template": "increased-lucky-chance"
+            },
+            {
+                "text": "Trade distance will be increased to 40 km",
+                "value": "40"
+            },
+            {
+                "text": "3x Catch XP",
+                "template": "increased-xp",
+                "value": "3"
+            },
+            {
+                "text": "Incense will last 3 hours",
+                "template": "longer-incense",
+                "value": "3"
+            },
+            {
+                "text": "Lures will last 3 hours",
+                "value": "3"
+            }
+        ],
+        "features": [
+            "Various Grass-type Pok\u00e9mon will be appearing more often in the wild.",
+            "Complete the Friendship Day Collection Challenge before the event concludes to earn 100,000 XP!",
+            "Take part in the Friendship Day Global Challenge! For each hourly challenge you complete, you\u2019ll earn 20,000 XP!",
+            "Green confetti will be appearing on the map in celebration of Grass-type Pok\u00e9mon!"
+        ],
         "has_quests": false,
         "has_spawnpoints": false
     },
