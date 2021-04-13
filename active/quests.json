@@ -1,5 +1,97 @@
 {
-    "event": [],
+    "event": [
+        {
+            "task": "Catch 15 Fighting-type Pok\u00e9mon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 335,
+                        "template": "ZANGOOSE"
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 336,
+                        "template": "SEVIPER"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Catch 6 Fighting-type Pok\u00e9mon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 107,
+                        "template": "HITMONCHAN_NORMAL",
+                        "form": 277
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 106,
+                        "template": "HITMONLEE_NORMAL",
+                        "form": 713
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Win a raid",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 690,
+                        "template": "SKRELP"
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 692,
+                        "template": "CLAUNCHER"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Catch 3 Fighting-type Pok\u00e9mon",
+            "rewards": [
+                {
+                    "type": "item",
+                    "amount": 3,
+                    "id": 102
+                },
+                {
+                    "type": "item",
+                    "amount": 2,
+                    "id": 103
+                },
+                {
+                    "type": "item",
+                    "amount": 1,
+                    "id": 201
+                }
+            ]
+        },
+        {
+            "task": "Win in the GO Battle League",
+            "rewards": [
+                {
+                    "type": "energy",
+                    "reward": {
+                        "id": 428,
+                        "template": "LOPUNNY"
+                    }
+                }
+            ]
+        }
+    ],
     "quests": [
         {
             "task": "Catch 5 Pok\u00e9mon with Weather Boost",
