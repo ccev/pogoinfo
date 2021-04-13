@@ -676,5 +676,11 @@
         "type": "Event",
         "start": "2021-04-24 10:00",
         "end": "2021-04-24 20:00"
+    },
+    {
+        "name": "Sustainability Day",
+        "type": "Event",
+        "start": null,
+        "end": "2021-04-25 22:00"
     }
 ]
