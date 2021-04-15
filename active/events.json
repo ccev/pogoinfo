@@ -1,24 +1,5 @@
 [
     {
-        "name": "Mankey Spotlight Hour",
-        "type": "spotlight-hour",
-        "start": "2021-04-13 18:00",
-        "end": "2021-04-13 19:00",
-        "spawns": [
-            {
-                "id": 56,
-                "template": "MANKEY"
-            }
-        ],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": true
-    },
-    {
         "name": "Therian Forme Landorus Raid Hour",
         "type": "raid-hour",
         "start": "2021-04-21 18:00",
@@ -407,6 +388,55 @@
         "bonuses": [],
         "features": [],
         "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Pok\u00e9mon Snap Celebration Event",
+        "type": "event",
+        "start": "2021-04-29 10:00",
+        "end": "2021-05-02 20:00",
+        "spawns": [
+            {
+                "id": 270,
+                "template": "LOTAD"
+            },
+            {
+                "id": 331,
+                "template": "CACNEA"
+            },
+            {
+                "id": 580,
+                "template": "DUCKLETT"
+            },
+            {
+                "id": 235,
+                "template": "SMEARGLE"
+            }
+        ],
+        "eggs": [],
+        "raids": [
+            {
+                "id": 134,
+                "template": "VAPOREON"
+            },
+            {
+                "id": 154,
+                "template": "MEGANIUM"
+            },
+            {
+                "id": 328,
+                "template": "TRAPINCH"
+            }
+        ],
+        "shinies": [
+            {
+                "id": 235,
+                "template": "SMEARGLE"
+            }
+        ],
+        "bonuses": [],
+        "features": [],
+        "has_quests": true,
         "has_spawnpoints": false
     },
     {
