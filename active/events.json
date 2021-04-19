@@ -124,8 +124,32 @@
                 "template": "BARBARACLE"
             },
             {
+                "id": 54,
+                "template": "PSYDUCK"
+            },
+            {
+                "id": 86,
+                "template": "SEEL"
+            },
+            {
                 "id": 88,
                 "template": "GRIMER"
+            },
+            {
+                "id": 191,
+                "template": "SUNKERN"
+            },
+            {
+                "id": 231,
+                "template": "PHANPY"
+            },
+            {
+                "id": 273,
+                "template": "SEEDOT"
+            },
+            {
+                "id": 388,
+                "template": "GROTLE"
             },
             {
                 "id": 529,
