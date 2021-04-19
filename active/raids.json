@@ -1,58 +1,50 @@
 {
     "1": [
         {
-            "id": 56,
-            "template": "MANKEY"
+            "id": 215,
+            "template": "SNEASEL_NORMAL",
+            "form": 797
         },
         {
-            "id": 403,
-            "template": "SHINX"
+            "id": 220,
+            "template": "SWINUB_NORMAL",
+            "form": 1277
         },
         {
-            "id": 453,
-            "template": "CROAGUNK"
+            "id": 529,
+            "template": "DRILBUR"
         },
         {
-            "id": 532,
-            "template": "TIMBURR"
+            "id": 580,
+            "template": "DUCKLETT"
         },
         {
-            "id": 690,
-            "template": "SKRELP"
-        },
-        {
-            "id": 692,
-            "template": "CLAUNCHER"
+            "id": 677,
+            "template": "ESPURR"
         }
     ],
     "3": [
         {
-            "id": 31,
-            "template": "NIDOQUEEN_NORMAL",
-            "form": 782
+            "id": 207,
+            "template": "GLIGAR_NORMAL",
+            "form": 803
         },
         {
-            "id": 34,
-            "template": "NIDOKING_NORMAL",
-            "form": 788
+            "id": 232,
+            "template": "DONPHAN"
         },
         {
-            "id": 106,
-            "template": "HITMONLEE_NORMAL",
-            "form": 713
+            "id": 340,
+            "template": "WHISCASH"
         },
         {
-            "id": 107,
-            "template": "HITMONCHAN_NORMAL",
-            "form": 277
+            "id": 362,
+            "template": "GLALIE"
         },
         {
-            "id": 335,
-            "template": "ZANGOOSE"
-        },
-        {
-            "id": 336,
-            "template": "SEVIPER"
+            "id": 389,
+            "template": "TORTERRA_NORMAL",
+            "form": 694
         }
     ],
     "5": [

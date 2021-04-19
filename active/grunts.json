@@ -607,26 +607,26 @@
                         "form": 668
                     },
                     {
-                        "id": 2,
-                        "template": "IVYSAUR_SHADOW",
-                        "form": 167
-                    },
-                    {
                         "id": 44,
                         "template": "GLOOM_SHADOW",
                         "form": 269
+                    },
+                    {
+                        "id": 2,
+                        "template": "IVYSAUR_SHADOW",
+                        "form": 167
                     }
                 ],
                 [
                     {
-                        "id": 71,
-                        "template": "VICTREEBEL_SHADOW",
-                        "form": 671
-                    },
-                    {
                         "id": 45,
                         "template": "VILEPLUME_SHADOW",
                         "form": 272
+                    },
+                    {
+                        "id": 71,
+                        "template": "VICTREEBEL_SHADOW",
+                        "form": 671
                     },
                     {
                         "id": 275,
