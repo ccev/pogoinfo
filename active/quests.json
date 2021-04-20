@@ -1,6 +1,50 @@
 {
     "event": [
         {
+            "task": "AR Mapping",
+            "rewards": [
+                {
+                    "type": "energy",
+                    "reward": {
+                        "id": 3,
+                        "template": "VENUSAUR_NORMAL",
+                        "form": 169
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 412,
+                        "template": "BURMY_TRASH",
+                        "form": 120
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 412,
+                        "template": "BURMY_PLANT",
+                        "form": 118
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 412,
+                        "template": "BURMY_SANDY",
+                        "form": 119
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 597,
+                        "template": "FERROSEED"
+                    }
+                }
+            ]
+        },
+        {
             "task": "Catch 5 Grimer",
             "rewards": [
                 {
@@ -21,7 +65,7 @@
             ]
         },
         {
-            "task": "Use 3 Golden Razz Berry to help catch Pok\u00e9mon",
+            "task": "Use 3 Golden Razz Berries to help catch Pok\u00e9mon",
             "rewards": [
                 {
                     "type": "pokemon",
@@ -45,7 +89,7 @@
             ]
         },
         {
-            "task": "Catch 3 Trubbish",
+            "task": "Catch 5 Trubbish",
             "rewards": [
                 {
                     "type": "pokemon",

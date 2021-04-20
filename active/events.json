@@ -196,6 +196,27 @@
         ],
         "raids": [
             {
+                "id": 50,
+                "template": "DIGLETT_ALOLA",
+                "form": 60
+            },
+            {
+                "id": 54,
+                "template": "PSYDUCK"
+            },
+            {
+                "id": 568,
+                "template": "TRUBBISH"
+            },
+            {
+                "id": 597,
+                "template": "FERROSEED"
+            },
+            {
+                "id": 688,
+                "template": "BINACLE"
+            },
+            {
                 "id": 45,
                 "template": "VILEPLUME"
             },
@@ -205,12 +226,16 @@
                 "form": 78
             },
             {
-                "id": 568,
-                "template": "TRUBBISH"
+                "id": 112,
+                "template": "RHYDON"
             },
             {
-                "id": 688,
-                "template": "BINACLE"
+                "id": 323,
+                "template": "CAMERUPT"
+            },
+            {
+                "id": 389,
+                "template": "TORTERRA"
             },
             {
                 "id": 645,
