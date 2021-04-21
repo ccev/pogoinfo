@@ -364,6 +364,47 @@
         "has_spawnpoints": false
     },
     {
+        "name": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA Community Day",
+        "type": "community-day",
+        "start": null,
+        "end": "2021-05-08 17:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [
+            {
+                "id": 495,
+                "template": "SNIVY"
+            },
+            {
+                "id": 496,
+                "template": "SERVINE"
+            },
+            {
+                "id": 497,
+                "template": "SERPERIOR"
+            }
+        ],
+        "bonuses": [
+            {
+                "text": "Increased Spawns"
+            },
+            {
+                "text": "3x Catch Stardust",
+                "template": "increased-stardust",
+                "value": "3"
+            },
+            {
+                "text": "3-hour Incense",
+                "template": "longer-incense",
+                "value": "3"
+            }
+        ],
+        "features": [],
+        "has_quests": true,
+        "has_spawnpoints": true
+    },
+    {
         "name": "Season of Legends",
         "type": "event",
         "start": "2021-03-01 08:00",
