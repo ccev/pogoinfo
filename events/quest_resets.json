@@ -1,23 +1,5 @@
 [
     {
-        "name": "Sustainability Week Start",
-        "time": "2021-04-20 10:00",
-        "type": [
-            "event",
-            "start"
-        ],
-        "confidence": 9
-    },
-    {
-        "name": "Sustainability Week End",
-        "time": "2021-04-25 20:00",
-        "type": [
-            "event",
-            "end"
-        ],
-        "confidence": 9
-    },
-    {
         "name": "Pok\u00e9mon Snap Celebration Event Start",
         "time": "2021-04-29 10:00",
         "type": [
