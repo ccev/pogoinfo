@@ -14,6 +14,14 @@
                 {
                     "type": "pokemon",
                     "reward": {
+                        "id": 645,
+                        "template": "LANDORUS_INCARNATE",
+                        "form": 144
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
                         "id": 412,
                         "template": "BURMY_TRASH",
                         "form": 120
