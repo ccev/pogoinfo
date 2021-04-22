@@ -1,19 +1,5 @@
 [
     {
-        "name": "Therian Forme Landorus Raid Hour",
-        "type": "raid-hour",
-        "start": "2021-04-21 18:00",
-        "end": "2021-04-21 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Friendship Day",
         "type": "event",
         "start": "2021-04-24 11:00",
@@ -64,6 +50,7 @@
             },
             {
                 "text": "Lures will last 3 hours",
+                "template": "longer-lure",
                 "value": "3"
             }
         ],
