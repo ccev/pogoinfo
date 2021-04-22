@@ -36,22 +36,22 @@
             },
             {
                 "text": "Trade distance will be increased to 40 km",
-                "value": "40"
+                "value": 40
             },
             {
                 "text": "3x Catch XP",
                 "template": "increased-xp",
-                "value": "3"
+                "value": 3
             },
             {
                 "text": "Incense will last 3 hours",
                 "template": "longer-incense",
-                "value": "3"
+                "value": 3
             },
             {
                 "text": "Lures will last 3 hours",
                 "template": "longer-lure",
-                "value": "3"
+                "value": 3
             }
         ],
         "features": [
@@ -359,12 +359,12 @@
             {
                 "text": "3x Catch Stardust",
                 "template": "increased-stardust",
-                "value": "3"
+                "value": 3
             },
             {
                 "text": "3-hour Incense",
                 "template": "longer-incense",
-                "value": "3"
+                "value": 3
             }
         ],
         "features": [],
