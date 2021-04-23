@@ -14,6 +14,15 @@
                 "template": "ODDISH"
             },
             {
+                "id": 69,
+                "template": "BELLSPROUT"
+            },
+            {
+                "id": 103,
+                "template": "EXEGGUTOR_ALOLA",
+                "form": 78
+            },
+            {
                 "id": 114,
                 "template": "TANGELA"
             },
@@ -26,6 +35,30 @@
                 "template": "SUNKERN"
             },
             {
+                "id": 252,
+                "template": "TREECKO"
+            },
+            {
+                "id": 285,
+                "template": "SHROOMISH"
+            },
+            {
+                "id": 286,
+                "template": "BRELOOM"
+            },
+            {
+                "id": 331,
+                "template": "CACNEA"
+            },
+            {
+                "id": 387,
+                "template": "TURTWIG"
+            },
+            {
+                "id": 495,
+                "template": "SNIVY"
+            },
+            {
                 "id": 540,
                 "template": "SEWADDLE"
             },
@@ -34,8 +67,20 @@
                 "template": "COTTONEE"
             },
             {
+                "id": 548,
+                "template": "PETILIL"
+            },
+            {
                 "id": 590,
                 "template": "FOONGUS"
+            },
+            {
+                "id": 597,
+                "template": "FERROSEED"
+            },
+            {
+                "id": 650,
+                "template": "CHESPIN"
             }
         ],
         "eggs": [],
