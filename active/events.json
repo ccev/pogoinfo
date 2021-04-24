@@ -10,6 +10,10 @@
                 "template": "BULBASAUR"
             },
             {
+                "id": 3,
+                "template": "VENUSAUR"
+            },
+            {
                 "id": 43,
                 "template": "ODDISH"
             },
@@ -291,6 +295,26 @@
         "bonuses": [],
         "features": [],
         "has_quests": true,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Sustainability Week - Unlocked Rewards",
+        "type": "event",
+        "start": "2021-04-25 10:00",
+        "end": "2021-04-25 20:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [
+            {
+                "id": 645,
+                "template": "LANDORUS_THERIAN",
+                "form": 145
+            }
+        ],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
         "has_spawnpoints": false
     },
     {
