@@ -75,10 +75,6 @@
                 "template": "FOONGUS"
             },
             {
-                "id": 597,
-                "template": "FERROSEED"
-            },
-            {
                 "id": 650,
                 "template": "CHESPIN"
             }
@@ -92,7 +88,7 @@
                 "template": "increased-lucky-chance"
             },
             {
-                "text": "Trade distance will be increased to 40 km",
+                "text": "Trade distance will be increased to 40 km**",
                 "value": 40
             },
             {
