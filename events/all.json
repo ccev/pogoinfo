@@ -688,5 +688,11 @@
         "type": "Event",
         "start": "2021-04-29 10:00",
         "end": "2021-05-02 20:00"
+    },
+    {
+        "name": "Sustainability Week - Unlocked Rewards",
+        "type": "Event",
+        "start": "2021-04-25 10:00",
+        "end": "2021-04-25 20:00"
     }
 ]
