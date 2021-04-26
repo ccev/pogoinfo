@@ -149,6 +149,46 @@
             "end": "2021-04-27 19:00",
             "lure_duration": 30,
             "local_times": true
+        },
+        {
+            "name": "Cottonee Spotlight Hour",
+            "type": "spotlight",
+            "start": "2021-05-04 18:00",
+            "end": "2021-05-04 19:00",
+            "lure_duration": 30,
+            "local_times": true
+        },
+        {
+            "name": "Dratini Spotlight Hour",
+            "type": "spotlight",
+            "start": "2021-05-11 18:00",
+            "end": "2021-05-11 19:00",
+            "lure_duration": 30,
+            "local_times": true
+        },
+        {
+            "name": "May Community Day",
+            "type": "cday",
+            "start": "2021-05-15 11:00",
+            "end": "2021-05-15 17:00",
+            "lure_duration": 30,
+            "local_times": true
+        },
+        {
+            "name": "Alolan Rattata Spotlight Hour",
+            "type": "spotlight",
+            "start": "2021-05-18 18:00",
+            "end": "2021-05-18 19:00",
+            "lure_duration": 30,
+            "local_times": true
+        },
+        {
+            "name": "Marill Spotlight Hour",
+            "type": "spotlight",
+            "start": "2021-05-25 18:00",
+            "end": "2021-05-25 19:00",
+            "lure_duration": 30,
+            "local_times": true
         }
     ]
 }
