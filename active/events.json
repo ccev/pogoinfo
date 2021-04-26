@@ -90,14 +90,14 @@
         "has_spawnpoints": false
     },
     {
-        "name": "Pok\u00e9mon Spotlight Hour",
+        "name": "Cottonee Spotlight Hour",
         "type": "spotlight-hour",
-        "start": null,
-        "end": "2021-05-25 19:00",
+        "start": "2021-05-04 18:00",
+        "end": "2021-05-04 19:00",
         "spawns": [
             {
-                "id": 25,
-                "template": "PIKACHU"
+                "id": 546,
+                "template": "COTTONEE"
             }
         ],
         "eggs": [],
@@ -109,42 +109,34 @@
         "has_spawnpoints": true
     },
     {
-        "name": "Community Day",
+        "name": "Dratini Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2021-05-11 18:00",
+        "end": "2021-05-11 19:00",
+        "spawns": [
+            {
+                "id": 147,
+                "template": "DRATINI"
+            }
+        ],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": true
+    },
+    {
+        "name": "May Community Day",
         "type": "community-day",
-        "start": "2021-05-08 17:00",
-        "end": "2021-05-08 17:00",
+        "start": "2021-05-15 11:00",
+        "end": "2021-05-15 17:00",
         "spawns": [],
         "eggs": [],
         "raids": [],
-        "shinies": [
-            {
-                "id": 495,
-                "template": "SNIVY"
-            },
-            {
-                "id": 496,
-                "template": "SERVINE"
-            },
-            {
-                "id": 497,
-                "template": "SERPERIOR"
-            }
-        ],
-        "bonuses": [
-            {
-                "text": "Increased Spawns"
-            },
-            {
-                "text": "3x Catch Stardust",
-                "template": "increased-stardust",
-                "value": 3
-            },
-            {
-                "text": "3-hour Incense",
-                "template": "longer-incense",
-                "value": 3
-            }
-        ],
+        "shinies": [],
+        "bonuses": [],
         "features": [],
         "has_quests": true,
         "has_spawnpoints": true
@@ -266,6 +258,45 @@
         "features": [],
         "has_quests": true,
         "has_spawnpoints": false
+    },
+    {
+        "name": "Alolan Rattata Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2021-05-18 18:00",
+        "end": "2021-05-18 19:00",
+        "spawns": [
+            {
+                "id": 19,
+                "template": "RATTATA_ALOLA",
+                "form": 46
+            }
+        ],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": true
+    },
+    {
+        "name": "Marill Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2021-05-25 18:00",
+        "end": "2021-05-25 19:00",
+        "spawns": [
+            {
+                "id": 183,
+                "template": "MARILL"
+            }
+        ],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": true
     },
     {
         "name": "Season of Legends",
