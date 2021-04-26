@@ -1,47 +1,45 @@
 {
     "1": [
         {
-            "id": 50,
-            "template": "DIGLETT_ALOLA",
-            "form": 60
+            "id": 215,
+            "template": "SNEASEL_NORMAL",
+            "form": 797
         },
         {
-            "id": 54,
-            "template": "PSYDUCK_NORMAL",
-            "form": 286
+            "id": 220,
+            "template": "SWINUB_NORMAL",
+            "form": 1277
         },
         {
-            "id": 568,
-            "template": "TRUBBISH"
+            "id": 529,
+            "template": "DRILBUR"
         },
         {
-            "id": 597,
-            "template": "FERROSEED"
+            "id": 580,
+            "template": "DUCKLETT"
         },
         {
-            "id": 688,
-            "template": "BINACLE"
+            "id": 677,
+            "template": "ESPURR"
         }
     ],
     "3": [
         {
-            "id": 45,
-            "template": "VILEPLUME_NORMAL",
-            "form": 271
+            "id": 207,
+            "template": "GLIGAR_NORMAL",
+            "form": 803
         },
         {
-            "id": 103,
-            "template": "EXEGGUTOR_ALOLA",
-            "form": 78
+            "id": 232,
+            "template": "DONPHAN"
         },
         {
-            "id": 112,
-            "template": "RHYDON_NORMAL",
-            "form": 849
+            "id": 340,
+            "template": "WHISCASH"
         },
         {
-            "id": 323,
-            "template": "CAMERUPT"
+            "id": 362,
+            "template": "GLALIE"
         },
         {
             "id": 389,

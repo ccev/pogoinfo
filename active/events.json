@@ -1,19 +1,5 @@
 [
     {
-        "name": "Sustainability Day",
-        "type": "event",
-        "start": null,
-        "end": "2021-04-25 22:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Sustainability Week",
         "type": "event",
         "start": "2021-04-20 10:00",
