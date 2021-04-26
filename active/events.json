@@ -150,6 +150,124 @@
         "has_spawnpoints": true
     },
     {
+        "name": "Luminous Legends X",
+        "type": "event",
+        "start": "2021-05-04 10:00",
+        "end": "2021-05-17 20:00",
+        "spawns": [
+            {
+                "id": 682,
+                "template": "SPRITZEE"
+            },
+            {
+                "id": 683,
+                "template": "AROMATISSE"
+            },
+            {
+                "id": 684,
+                "template": "SWIRLIX"
+            },
+            {
+                "id": 685,
+                "template": "SLURPUFF"
+            },
+            {
+                "id": 704,
+                "template": "GOOMY"
+            },
+            {
+                "id": 705,
+                "template": "SLIGGOO"
+            },
+            {
+                "id": 706,
+                "template": "GOODRA"
+            },
+            {
+                "id": 147,
+                "template": "DRATINI"
+            },
+            {
+                "id": 280,
+                "template": "RALTS"
+            },
+            {
+                "id": 371,
+                "template": "BAGON"
+            },
+            {
+                "id": 546,
+                "template": "COTTONEE"
+            },
+            {
+                "id": 674,
+                "template": "PANCHAM"
+            },
+            {
+                "id": 675,
+                "template": "PANGORO"
+            }
+        ],
+        "eggs": [
+            {
+                "id": 173,
+                "template": "CLEFFA"
+            },
+            {
+                "id": 174,
+                "template": "IGGLYBUFF"
+            },
+            {
+                "id": 298,
+                "template": "AZURILL"
+            },
+            {
+                "id": 443,
+                "template": "GIBLE"
+            },
+            {
+                "id": 682,
+                "template": "SPRITZEE"
+            },
+            {
+                "id": 684,
+                "template": "SWIRLIX"
+            }
+        ],
+        "raids": [
+            {
+                "id": 77,
+                "template": "PONYTA_GALARIAN",
+                "form": 2336
+            },
+            {
+                "id": 103,
+                "template": "EXEGGUTOR_ALOLA",
+                "form": 78
+            },
+            {
+                "id": 716,
+                "template": "XERNEAS"
+            }
+        ],
+        "shinies": [
+            {
+                "id": 77,
+                "template": "PONYTA_GALARIAN",
+                "form": 2336
+            },
+            {
+                "id": 78,
+                "template": "RAPIDASH_GALARIAN",
+                "form": 2337
+            }
+        ],
+        "bonuses": [],
+        "features": [],
+        "has_quests": true,
+        "has_spawnpoints": false
+    },
+    {
         "name": "Season of Legends",
         "type": "event",
         "start": "2021-03-01 08:00",
