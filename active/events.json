@@ -1,125 +1,5 @@
 [
     {
-        "name": "Friendship Day",
-        "type": "event",
-        "start": "2021-04-24 11:00",
-        "end": "2021-04-24 14:00",
-        "spawns": [
-            {
-                "id": 1,
-                "template": "BULBASAUR"
-            },
-            {
-                "id": 3,
-                "template": "VENUSAUR"
-            },
-            {
-                "id": 43,
-                "template": "ODDISH"
-            },
-            {
-                "id": 69,
-                "template": "BELLSPROUT"
-            },
-            {
-                "id": 103,
-                "template": "EXEGGUTOR_ALOLA",
-                "form": 78
-            },
-            {
-                "id": 114,
-                "template": "TANGELA"
-            },
-            {
-                "id": 152,
-                "template": "CHIKORITA"
-            },
-            {
-                "id": 191,
-                "template": "SUNKERN"
-            },
-            {
-                "id": 252,
-                "template": "TREECKO"
-            },
-            {
-                "id": 285,
-                "template": "SHROOMISH"
-            },
-            {
-                "id": 286,
-                "template": "BRELOOM"
-            },
-            {
-                "id": 331,
-                "template": "CACNEA"
-            },
-            {
-                "id": 387,
-                "template": "TURTWIG"
-            },
-            {
-                "id": 495,
-                "template": "SNIVY"
-            },
-            {
-                "id": 540,
-                "template": "SEWADDLE"
-            },
-            {
-                "id": 546,
-                "template": "COTTONEE"
-            },
-            {
-                "id": 548,
-                "template": "PETILIL"
-            },
-            {
-                "id": 590,
-                "template": "FOONGUS"
-            },
-            {
-                "id": 650,
-                "template": "CHESPIN"
-            }
-        ],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [
-            {
-                "text": "You\u2019ll have an increased chance of receiving a Lucky Pok\u00e9mon when you complete a trade with a friend.*",
-                "template": "increased-lucky-chance"
-            },
-            {
-                "text": "Trade distance will be increased to 40 km**",
-                "value": 40
-            },
-            {
-                "text": "3x Catch XP",
-                "template": "increased-xp",
-                "value": 3
-            },
-            {
-                "text": "Incense will last 3 hours",
-                "template": "longer-incense",
-                "value": 3
-            },
-            {
-                "text": "Lures will last 3 hours",
-                "template": "longer-lure",
-                "value": 3
-            }
-        ],
-        "features": [
-            "Various Grass-type Pok\u00e9mon will be appearing more often in the wild.",
-            "Complete the Friendship Day Collection Challenge before the event concludes to earn 175,000 XP!",
-            "Green confetti will be appearing on the map in celebration of Grass-type Pok\u00e9mon!"
-        ],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Sustainability Day",
         "type": "event",
         "start": null,
@@ -408,6 +288,25 @@
         "has_spawnpoints": false
     },
     {
+        "name": "Pok\u00e9mon Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": null,
+        "end": "2021-05-25 19:00",
+        "spawns": [
+            {
+                "id": 25,
+                "template": "PIKACHU"
+            }
+        ],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": true
+    },
+    {
         "name": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA Community Day",
         "type": "community-day",
         "start": null,
@@ -483,6 +382,10 @@
                 "template": "POLIWHIRL"
             },
             {
+                "id": 77,
+                "template": "PONYTA"
+            },
+            {
                 "id": 114,
                 "template": "TANGELA"
             },
@@ -501,10 +404,6 @@
             {
                 "id": 210,
                 "template": "GRANBULL"
-            },
-            {
-                "id": 215,
-                "template": "SNEASEL"
             },
             {
                 "id": 216,
@@ -588,14 +487,6 @@
                 "template": "KARRABLAST"
             },
             {
-                "id": 595,
-                "template": "JOLTIK"
-            },
-            {
-                "id": 610,
-                "template": "AXEW"
-            },
-            {
                 "id": 21,
                 "template": "SPEAROW"
             },
@@ -614,10 +505,6 @@
             {
                 "id": 38,
                 "template": "NINETALES"
-            },
-            {
-                "id": 39,
-                "template": "JIGGLYPUFF"
             },
             {
                 "id": 41,
@@ -648,36 +535,8 @@
                 "template": "MANKEY"
             },
             {
-                "id": 58,
-                "template": "GROWLITHE"
-            },
-            {
-                "id": 77,
-                "template": "PONYTA"
-            },
-            {
-                "id": 92,
-                "template": "GASTLY"
-            },
-            {
-                "id": 96,
-                "template": "DROWZEE"
-            },
-            {
-                "id": 124,
-                "template": "JYNX"
-            },
-            {
-                "id": 140,
-                "template": "KABUTO"
-            },
-            {
                 "id": 161,
                 "template": "SENTRET"
-            },
-            {
-                "id": 185,
-                "template": "SUDOWOODO"
             },
             {
                 "id": 193,
@@ -686,10 +545,6 @@
             {
                 "id": 204,
                 "template": "PINECO"
-            },
-            {
-                "id": 220,
-                "template": "SWINUB"
             },
             {
                 "id": 223,
@@ -712,18 +567,6 @@
                 "template": "SEEDOT"
             },
             {
-                "id": 333,
-                "template": "SWABLU"
-            },
-            {
-                "id": 351,
-                "template": "CASTFORM"
-            },
-            {
-                "id": 358,
-                "template": "CHIMECHO"
-            },
-            {
                 "id": 371,
                 "template": "BAGON"
             },
@@ -738,14 +581,6 @@
             {
                 "id": 434,
                 "template": "STUNKY"
-            },
-            {
-                "id": 443,
-                "template": "GIBLE"
-            },
-            {
-                "id": 444,
-                "template": "GABITE"
             },
             {
                 "id": 495,
@@ -764,10 +599,6 @@
                 "template": "WOOBAT"
             },
             {
-                "id": 577,
-                "template": "SOLOSIS"
-            },
-            {
                 "id": 585,
                 "template": "DEERLING_AUTUMN",
                 "form": 587
@@ -779,10 +610,6 @@
             {
                 "id": 616,
                 "template": "SHELMET"
-            },
-            {
-                "id": 714,
-                "template": "NOIBAT"
             },
             {
                 "id": 19,
@@ -809,12 +636,20 @@
                 "template": "NIDORINO"
             },
             {
+                "id": 39,
+                "template": "JIGGLYPUFF"
+            },
+            {
                 "id": 54,
                 "template": "PSYDUCK"
             },
             {
                 "id": 55,
                 "template": "GOLDUCK"
+            },
+            {
+                "id": 58,
+                "template": "GROWLITHE"
             },
             {
                 "id": 63,
@@ -833,6 +668,14 @@
                 "template": "MAGNETON"
             },
             {
+                "id": 92,
+                "template": "GASTLY"
+            },
+            {
+                "id": 96,
+                "template": "DROWZEE"
+            },
+            {
                 "id": 100,
                 "template": "VOLTORB"
             },
@@ -849,12 +692,20 @@
                 "template": "WEEZING"
             },
             {
+                "id": 124,
+                "template": "JYNX"
+            },
+            {
                 "id": 129,
                 "template": "MAGIKARP"
             },
             {
                 "id": 133,
                 "template": "EEVEE"
+            },
+            {
+                "id": 140,
+                "template": "KABUTO"
             },
             {
                 "id": 152,
@@ -893,6 +744,10 @@
                 "template": "FERALIGATR"
             },
             {
+                "id": 185,
+                "template": "SUDOWOODO"
+            },
+            {
                 "id": 187,
                 "template": "HOPPIP"
             },
@@ -903,6 +758,10 @@
             {
                 "id": 206,
                 "template": "DUNSPARCE"
+            },
+            {
+                "id": 220,
+                "template": "SWINUB"
             },
             {
                 "id": 226,
@@ -961,6 +820,18 @@
                 "template": "GRUMPIG"
             },
             {
+                "id": 333,
+                "template": "SWABLU"
+            },
+            {
+                "id": 351,
+                "template": "CASTFORM"
+            },
+            {
+                "id": 358,
+                "template": "CHIMECHO"
+            },
+            {
                 "id": 396,
                 "template": "STARLY"
             },
@@ -978,6 +849,18 @@
                 "template": "GLAMEOW"
             },
             {
+                "id": 443,
+                "template": "GIBLE"
+            },
+            {
+                "id": 444,
+                "template": "GABITE"
+            },
+            {
+                "id": 517,
+                "template": "MUNNA"
+            },
+            {
                 "id": 529,
                 "template": "DRILBUR"
             },
@@ -990,8 +873,16 @@
                 "template": "GOTHITA"
             },
             {
+                "id": 577,
+                "template": "SOLOSIS"
+            },
+            {
                 "id": 592,
                 "template": "FRILLISH"
+            },
+            {
+                "id": 595,
+                "template": "JOLTIK"
             },
             {
                 "id": 653,
@@ -1012,6 +903,10 @@
             {
                 "id": 667,
                 "template": "LITLEO"
+            },
+            {
+                "id": 714,
+                "template": "NOIBAT"
             }
         ],
         "eggs": [
@@ -1096,6 +991,10 @@
                 "template": "LITLEO"
             },
             {
+                "id": 96,
+                "template": "DROWZEE"
+            },
+            {
                 "id": 100,
                 "template": "VOLTORB"
             },
@@ -1104,12 +1003,24 @@
                 "template": "LICKITUNG"
             },
             {
+                "id": 123,
+                "template": "SCYTHER"
+            },
+            {
                 "id": 133,
                 "template": "EEVEE"
             },
             {
+                "id": 204,
+                "template": "PINECO"
+            },
+            {
                 "id": 280,
                 "template": "RALTS"
+            },
+            {
+                "id": 298,
+                "template": "AZURILL"
             },
             {
                 "id": 349,
@@ -1118,6 +1029,10 @@
             {
                 "id": 366,
                 "template": "CLAMPERL"
+            },
+            {
+                "id": 517,
+                "template": "MUNNA"
             },
             {
                 "id": 522,
