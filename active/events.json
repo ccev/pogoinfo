@@ -299,6 +299,30 @@
         "has_spawnpoints": true
     },
     {
+        "name": "Luminous Legends Y",
+        "type": "event",
+        "start": "2021-05-18 10:00",
+        "end": "2021-05-31 20:00",
+        "spawns": [],
+        "eggs": [
+            {
+                "id": 674,
+                "template": "PANCHAM"
+            }
+        ],
+        "raids": [
+            {
+                "id": 716,
+                "template": "XERNEAS"
+            }
+        ],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
         "name": "Season of Legends",
         "type": "event",
         "start": "2021-03-01 08:00",
