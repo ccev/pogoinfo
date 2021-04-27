@@ -312,8 +312,8 @@
         ],
         "raids": [
             {
-                "id": 716,
-                "template": "XERNEAS"
+                "id": 717,
+                "template": "YVELTAL"
             }
         ],
         "shinies": [],
@@ -1119,6 +1119,20 @@
                 "form": 145
             }
         ],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Pok\u00e9mon GO Fest 2021",
+        "type": "event",
+        "start": "2021-07-17 00:00",
+        "end": "2021-07-18 23:59",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
         "shinies": [],
         "bonuses": [],
         "features": [],
