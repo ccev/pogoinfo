@@ -730,5 +730,11 @@
         "type": "Event",
         "start": "2021-05-18 10:00",
         "end": "2021-05-31 20:00"
+    },
+    {
+        "name": "Pok\u00e9mon GO Fest 2021",
+        "type": "Pok\u00e9mon GO Fest",
+        "start": "2021-07-17 00:00",
+        "end": "2021-07-18 23:59"
     }
 ]

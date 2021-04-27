@@ -1,94 +1,80 @@
 {
-    "name": "Valentine\u2019s Day Event",
-    "start": "2021-02-14 13:00",
-    "end": "2021-02-18 20:00",
+    "name": "Mega Venusaur, Mega Abomasnow, Mega Lopunny will be appearing in Mega Raids",
+    "start": "2021-04-20 10:00",
+    "end": "2021-05-04 10:00",
     "details": {
         "bonuses": [
-            "Surprise release of shiny Alomomola",
-            "Release of Munna and Musharna",
-            "Free bundle of 3 Remote Raid Passes in the shop",
-            "Gallade and Gardevoir evolved or caught during the event will learn their CD move Synchronise",
-            "Increased chance to become Lucky Friends, to have Lucky trades, and the trade radius is increased to 40km",
-            "More berries in Gifts",
-            "Munna-inspired avatar items",
-            "Event-exclusive stickers in Gifts"
+            "Skrelp and Clauncher introduced - available in the wild, in raids and in research",
+            "645_145",
+            "Rivals\u2019 Week challenge - trainers can complete 40M raids worldwide, to unlock double catch stardust for the rest of the event"
         ],
-        "eggs": [
-            "133_00",
-            "173_00",
-            "174_00",
-            "175_00",
-            "370_00",
-            "517_00",
-            "527_00",
-            "546_00"
-        ],
+        "eggs": {
+            "1-egg": [
+                "066_00",
+                "239_00",
+                "240_00"
+            ],
+            "2-egg": [
+                "236_00",
+                "296_00",
+                "307_00"
+            ],
+            "3-egg": [
+                "335_00",
+                "336_00"
+            ]
+        },
         "spawns": [
-            "032_00",
-            "032_00",
-            "311_00",
-            "312_00",
-            "313_00",
-            "314_00",
-            "370_00",
-            "517_00",
-            "300_00",
-            "349_00",
-            "113_00",
-            "518_00",
-            "029_00",
-            "035_00",
-            "039_00",
-            "527_00"
+            "106_00",
+            "307_00",
+            "126_00"
         ],
         "raids": {
             "1": [
-                "280_00",
-                "313_00",
-                "314_00",
-                "349_00",
-                "517_00",
-                "Espurr",
-                "370_00"
+                "056_00",
+                "403_00",
+                "453_00",
+                "532_00",
+                "Skrelp",
+                "Clauncher"
             ],
             "3": [
-                "176_00",
-                "196_00",
-                "197_00",
-                "282_00",
-                "475_00",
-                "594_00"
+                "031_00",
+                "034_00",
+                "106_00",
+                "107_00",
+                "335_00",
+                "336_00"
             ],
             "5": [
-                "381_00",
-                "380_00"
+                "645_145"
             ],
             "Mega": [
-                "018_00",
-                "130_00",
-                "181_00"
+                "428_00",
+                "094_00",
+                "310_00"
             ]
         },
         "quests": {
-            "Send 3 Gifts to friends": [
-                "314_00",
-                "313_00"
+            "Catch 3 Fighting-type Pokemon": [
+                "2 Hyper Potions",
+                "3 Super Potions",
+                "1 Revive"
             ],
-            "Use 5 Berries to help catch Pokemon": [
-                "280_00"
+            "Catch 6 Fighting-type Pokemon": [
+                "106_00",
+                "107_00"
             ],
-            "Win 2 raids": [
-                "594_00"
+            "Catch 15 Fighting-type Pokemon": [
+                "335_00",
+                "336_00"
             ],
-            "Catch 20 Luvdisc": [
-                "594_00"
+            "Win a raid": [
+                "Skrelp",
+                "Clauncher"
             ],
-            "Catch 3 Fairy-type Pokemon": [
-                "2 Razz Berries",
-                "2 Pinap Berries"
-            ],
-            "Make 5 Great Curveball throws in a row": [
-                "327_00"
+            "Battle in GO Battle League": [
+                "20 Lopunny Mega Energy"
             ]
         }
     }
