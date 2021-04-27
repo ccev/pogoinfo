@@ -283,14 +283,14 @@
                         "form": 194
                     },
                     {
-                        "id": 149,
-                        "template": "DRAGONITE_SHADOW",
-                        "form": 197
-                    },
-                    {
                         "id": 130,
                         "template": "GYARADOS_SHADOW",
                         "form": 257
+                    },
+                    {
+                        "id": 149,
+                        "template": "DRAGONITE_SHADOW",
+                        "form": 197
                     }
                 ]
             ]

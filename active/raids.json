@@ -1,57 +1,67 @@
 {
     "1": [
         {
-            "id": 215,
-            "template": "SNEASEL_NORMAL",
-            "form": 797
-        },
-        {
             "id": 220,
             "template": "SWINUB_NORMAL",
             "form": 1277
+        },
+        {
+            "id": 309,
+            "template": "ELECTRIKE"
+        },
+        {
+            "id": 519,
+            "template": "PIDOVE"
         },
         {
             "id": 529,
             "template": "DRILBUR"
         },
         {
-            "id": 580,
-            "template": "DUCKLETT"
-        },
-        {
-            "id": 677,
-            "template": "ESPURR"
+            "id": 599,
+            "template": "KLINK"
         }
     ],
     "3": [
+        {
+            "id": 76,
+            "template": "GOLEM_NORMAL",
+            "form": 71
+        },
         {
             "id": 207,
             "template": "GLIGAR_NORMAL",
             "form": 803
         },
         {
-            "id": 232,
-            "template": "DONPHAN"
-        },
-        {
-            "id": 340,
-            "template": "WHISCASH"
+            "id": 277,
+            "template": "SWELLOW"
         },
         {
             "id": 362,
             "template": "GLALIE"
         },
         {
-            "id": 389,
-            "template": "TORTERRA_NORMAL",
-            "form": 694
+            "id": 618,
+            "template": "STUNFISK_NORMAL",
+            "form": 2246
         }
     ],
     "5": [
         {
+            "id": 641,
+            "template": "TORNADUS_INCARNATE",
+            "form": 140
+        },
+        {
+            "id": 642,
+            "template": "THUNDURUS_INCARNATE",
+            "form": 142
+        },
+        {
             "id": 645,
-            "template": "LANDORUS_THERIAN",
-            "form": 145
+            "template": "LANDORUS_INCARNATE",
+            "form": 144
         }
     ],
     "6": [
