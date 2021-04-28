@@ -283,14 +283,14 @@
                         "form": 194
                     },
                     {
-                        "id": 130,
-                        "template": "GYARADOS_SHADOW",
-                        "form": 257
-                    },
-                    {
                         "id": 149,
                         "template": "DRAGONITE_SHADOW",
                         "form": 197
+                    },
+                    {
+                        "id": 130,
+                        "template": "GYARADOS_SHADOW",
+                        "form": 257
                     }
                 ]
             ]
@@ -619,14 +619,14 @@
                 ],
                 [
                     {
-                        "id": 71,
-                        "template": "VICTREEBEL_SHADOW",
-                        "form": 671
-                    },
-                    {
                         "id": 45,
                         "template": "VILEPLUME_SHADOW",
                         "form": 272
+                    },
+                    {
+                        "id": 71,
+                        "template": "VICTREEBEL_SHADOW",
+                        "form": 671
                     },
                     {
                         "id": 275,
