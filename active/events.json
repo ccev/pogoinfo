@@ -128,14 +128,23 @@
         "has_spawnpoints": true
     },
     {
-        "name": "May Community Day",
+        "name": "Swablu Community Day",
         "type": "community-day",
         "start": "2021-05-15 11:00",
         "end": "2021-05-15 17:00",
         "spawns": [],
         "eggs": [],
         "raids": [],
-        "shinies": [],
+        "shinies": [
+            {
+                "id": 333,
+                "template": "SWABLU"
+            },
+            {
+                "id": 334,
+                "template": "ALTARIA"
+            }
+        ],
         "bonuses": [],
         "features": [],
         "has_quests": true,
