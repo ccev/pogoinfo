@@ -1,24 +1,5 @@
 [
     {
-        "name": "Finneon Spotlight Hour",
-        "type": "spotlight-hour",
-        "start": "2021-04-27 18:00",
-        "end": "2021-04-27 19:00",
-        "spawns": [
-            {
-                "id": 456,
-                "template": "FINNEON"
-            }
-        ],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": true
-    },
-    {
         "name": "Incarnate Forme Tornadus, Incarnate Forme Thundurus, and Incarnate Forme Landorus Raid Hour",
         "type": "raid-hour",
         "start": "2021-04-28 18:00",
@@ -39,20 +20,56 @@
         "end": "2021-05-02 20:00",
         "spawns": [
             {
+                "id": 11,
+                "template": "METAPOD"
+            },
+            {
+                "id": 27,
+                "template": "SANDSHREW"
+            },
+            {
+                "id": 74,
+                "template": "GEODUDE"
+            },
+            {
                 "id": 85,
                 "template": "DODRIO"
+            },
+            {
+                "id": 163,
+                "template": "HOOTHOOT"
+            },
+            {
+                "id": 170,
+                "template": "CHINCHOU"
             },
             {
                 "id": 190,
                 "template": "AIPOM"
             },
             {
+                "id": 226,
+                "template": "MANTINE"
+            },
+            {
+                "id": 227,
+                "template": "SKARMORY"
+            },
+            {
                 "id": 270,
                 "template": "LOTAD"
             },
             {
+                "id": 328,
+                "template": "TRAPINCH"
+            },
+            {
                 "id": 331,
                 "template": "CACNEA"
+            },
+            {
+                "id": 456,
+                "template": "FINNEON"
             },
             {
                 "id": 580,
