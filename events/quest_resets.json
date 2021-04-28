@@ -18,7 +18,7 @@
         "confidence": 9
     },
     {
-        "name": "May Community Day Start",
+        "name": "Swablu Community Day Start",
         "time": "2021-05-15 11:00",
         "type": [
             "cday",
@@ -27,7 +27,7 @@
         "confidence": 10
     },
     {
-        "name": "May Community Day End",
+        "name": "Swablu Community Day End",
         "time": "2021-05-15 17:00",
         "type": [
             "cday",
