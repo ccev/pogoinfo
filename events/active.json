@@ -1,80 +1,77 @@
 {
-    "name": "Mega Venusaur, Mega Abomasnow, Mega Lopunny will be appearing in Mega Raids",
-    "start": "2021-04-20 10:00",
-    "end": "2021-05-04 10:00",
+    "name": "Pok\u00e9mon Snap Celebration Event",
+    "start": "2021-04-29 10:00",
+    "end": "2021-05-02 20:00",
     "details": {
         "bonuses": [
-            "Skrelp and Clauncher introduced - available in the wild, in raids and in research",
-            "645_145",
-            "Rivals\u2019 Week challenge - trainers can complete 40M raids worldwide, to unlock double catch stardust for the rest of the event"
+            "Release of shiny Smeargle (Research Group is currently at 4/120 shiny: https://thesilphroad.com/shiny-pokemon . Others are welcome to contribute here: https://thesilphroad.com/research-group)",
+            "More photobombs (15 per day)",
+            "Camera avatar item and Gift sticker"
         ],
-        "eggs": {
-            "1-egg": [
-                "066_00",
-                "239_00",
-                "240_00"
-            ],
-            "2-egg": [
-                "236_00",
-                "296_00",
-                "307_00"
-            ],
-            "3-egg": [
-                "335_00",
-                "336_00"
-            ]
-        },
+        "eggs": [],
         "spawns": [
-            "106_00",
-            "307_00",
-            "126_00"
+            "270_00",
+            "331_00",
+            "580_00",
+            "027_00",
+            "011_00",
+            "190_00",
+            "328_00",
+            "085_00",
+            "531_00",
+            "129_00",
+            "163_00",
+            "170_00",
+            "226_00",
+            "227_00",
+            "456_00"
         ],
         "raids": {
             "1": [
-                "056_00",
-                "403_00",
-                "453_00",
-                "532_00",
-                "Skrelp",
-                "Clauncher"
+                "328_00",
+                "001_00",
+                "Espurr",
+                "580_00",
+                "403_00"
             ],
             "3": [
-                "031_00",
-                "034_00",
-                "106_00",
-                "107_00",
-                "335_00",
-                "336_00"
+                "134_00",
+                "154_00",
+                "450_00",
+                "319_00",
+                "003_00",
+                "248_00"
             ],
             "5": [
-                "645_145"
+                "Tornadus_Incarnate",
+                "Thundurus_Incarnate",
+                "Landorus_Incarnate"
             ],
             "Mega": [
-                "428_00",
-                "094_00",
-                "310_00"
+                "003_00",
+                "460_00",
+                "428_00"
             ]
         },
         "quests": {
-            "Catch 3 Fighting-type Pokemon": [
-                "2 Hyper Potions",
-                "3 Super Potions",
-                "1 Revive"
+            "Use 5 Golden Razz Berries to help catch Pok\u00e9mon": [
+                "131_00",
+                "037_56"
             ],
-            "Catch 6 Fighting-type Pokemon": [
-                "106_00",
-                "107_00"
+            "Take 5 snapshots of wild Pok\u00e9mon": [
+                "226_00",
+                "085_00",
+                "227_00"
             ],
-            "Catch 15 Fighting-type Pokemon": [
-                "335_00",
-                "336_00"
+            "Use 5 Berries to help catch Pok\u00e9mon": [
+                "265_00",
+                "434_00",
+                "194_00",
+                "618_00",
+                "453_00"
             ],
-            "Win a raid": [
-                "Skrelp",
-                "Clauncher"
-            ],
-            "Battle in GO Battle League": [
-                "20 Lopunny Mega Energy"
+            "Take a snapshot of a wild Pok\u00e9mon": [
+                "3 Pinap or Razz Berries"
             ]
         }
     }
