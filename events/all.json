@@ -736,5 +736,17 @@
         "type": "Pok\u00e9mon GO Fest",
         "start": "2021-07-17 00:00",
         "end": "2021-07-18 23:59"
+    },
+    {
+        "name": "Xerneas Raid Hour",
+        "type": "Raid Hour",
+        "start": "2021-05-12 18:00",
+        "end": "2021-05-12 19:00"
+    },
+    {
+        "name": "Yveltal Raid Hour",
+        "type": "Raid Hour",
+        "start": "2021-05-26 18:00",
+        "end": "2021-05-26 19:00"
     }
 ]
