@@ -174,6 +174,20 @@
         "has_spawnpoints": true
     },
     {
+        "name": "Xerneas Raid Hour",
+        "type": "raid-hour",
+        "start": "2021-05-12 18:00",
+        "end": "2021-05-12 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
         "name": "Dratini Spotlight Hour",
         "type": "spotlight-hour",
         "start": "2021-05-11 18:00",
@@ -366,6 +380,20 @@
         "features": [],
         "has_quests": false,
         "has_spawnpoints": true
+    },
+    {
+        "name": "Yveltal Raid Hour",
+        "type": "raid-hour",
+        "start": "2021-05-26 18:00",
+        "end": "2021-05-26 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
     },
     {
         "name": "Marill Spotlight Hour",
