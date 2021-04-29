@@ -4,7 +4,7 @@
     "end": "2021-05-02 20:00",
     "details": {
         "bonuses": [
-            "Release of shiny Smeargle (Research Group is currently at 4/120 shiny: https://thesilphroad.com/shiny-pokemon . Others are welcome to contribute here: https://thesilphroad.com/research-group)",
+            "Release of shiny Smeargle (Research Group is currently at 22/926 shiny (most likely rate is 1 in 64): https://thesilphroad.com/shiny-pokemon . Others are welcome to contribute here: https://thesilphroad.com/research-group)",
             "More photobombs (15 per day)",
             "Camera avatar item and Gift sticker"
         ],
@@ -19,12 +19,12 @@
             "328_00",
             "085_00",
             "531_00",
-            "129_00",
-            "163_00",
-            "170_00",
             "226_00",
             "227_00",
-            "456_00"
+            "456_00",
+            "170_00",
+            "129_00",
+            "163_00"
         ],
         "raids": {
             "1": [
@@ -56,7 +56,8 @@
         "quests": {
             "Use 5 Golden Razz Berries to help catch Pok\u00e9mon": [
                 "131_00",
-                "037_56"
+                "037_56",
+                "227_00"
             ],
             "Take 5 snapshots of wild Pok\u00e9mon": [
                 "226_00",
