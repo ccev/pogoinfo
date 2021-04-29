@@ -1,19 +1,5 @@
 [
     {
-        "name": "Incarnate Forme Tornadus, Incarnate Forme Thundurus, and Incarnate Forme Landorus Raid Hour",
-        "type": "raid-hour",
-        "start": "2021-04-28 18:00",
-        "end": "2021-04-28 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Pok\u00e9mon Snap Celebration Event",
         "type": "event",
         "start": "2021-04-29 10:00",
@@ -224,7 +210,21 @@
                 "template": "ALTARIA"
             }
         ],
-        "bonuses": [],
+        "bonuses": [
+            {
+                "text": "Increased Spawns"
+            },
+            {
+                "text": "1/4 Hatch Distance",
+                "template": "reduced-hatch-distance",
+                "value": 14
+            },
+            {
+                "text": "3-hour Incense",
+                "template": "longer-incense",
+                "value": 3
+            }
+        ],
         "features": [],
         "has_quests": true,
         "has_spawnpoints": true
