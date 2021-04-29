@@ -1,23 +1,5 @@
 [
     {
-        "name": "Pok\u00e9mon Snap Celebration Event Start",
-        "time": "2021-04-29 10:00",
-        "type": [
-            "event",
-            "start"
-        ],
-        "confidence": 9
-    },
-    {
-        "name": "Pok\u00e9mon Snap Celebration Event End",
-        "time": "2021-05-02 20:00",
-        "type": [
-            "event",
-            "end"
-        ],
-        "confidence": 9
-    },
-    {
         "name": "Swablu Community Day Start",
         "time": "2021-05-15 11:00",
         "type": [
