@@ -1,5 +1,112 @@
 {
-    "event": [],
+    "event": [
+        {
+            "task": "Use 5 Berries to help catch Pok\u00e9mon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 265,
+                        "template": "WURMPLE"
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 434,
+                        "template": "STUNKY_NORMAL",
+                        "form": 791
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 194,
+                        "template": "WOOPER_NORMAL",
+                        "form": 1226
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 453,
+                        "template": "CROAGUNK"
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 618,
+                        "template": "STUNFISK_NORMAL",
+                        "form": 2246
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Take 5 snapshots of wild Pok\u00e9mon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 226,
+                        "template": "MANTINE"
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 85,
+                        "template": "DODRIO"
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 227,
+                        "template": "SKARMORY_NORMAL",
+                        "form": 1295
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Use 5 Golden Razz Berries to help catch Pok\u00e9mon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 131,
+                        "template": "LAPRAS_NORMAL",
+                        "form": 322
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 37,
+                        "template": "VULPIX_ALOLA",
+                        "form": 56
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Take a snapshot of a wild Pok\u00e9mon",
+            "rewards": [
+                {
+                    "type": "item",
+                    "amount": 3,
+                    "id": 701
+                },
+                {
+                    "type": "item",
+                    "amount": 3,
+                    "id": 705
+                }
+            ]
+        }
+    ],
     "quests": [
         {
             "task": "Catch 5 Pok\u00e9mon with Weather Boost",

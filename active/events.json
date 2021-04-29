@@ -28,12 +28,12 @@
                 "template": "SANDSHREW"
             },
             {
-                "id": 74,
-                "template": "GEODUDE"
-            },
-            {
                 "id": 85,
                 "template": "DODRIO"
+            },
+            {
+                "id": 129,
+                "template": "MAGIKARP"
             },
             {
                 "id": 163,
@@ -72,6 +72,10 @@
                 "template": "FINNEON"
             },
             {
+                "id": 531,
+                "template": "AUDINO"
+            },
+            {
                 "id": 580,
                 "template": "DUCKLETT"
             },
@@ -83,6 +87,30 @@
         "eggs": [],
         "raids": [
             {
+                "id": 1,
+                "template": "BULBASAUR"
+            },
+            {
+                "id": 328,
+                "template": "TRAPINCH"
+            },
+            {
+                "id": 403,
+                "template": "SHINX"
+            },
+            {
+                "id": 580,
+                "template": "DUCKLETT"
+            },
+            {
+                "id": 677,
+                "template": "ESPURR"
+            },
+            {
+                "id": 3,
+                "template": "VENUSAUR"
+            },
+            {
                 "id": 134,
                 "template": "VAPOREON"
             },
@@ -91,8 +119,42 @@
                 "template": "MEGANIUM"
             },
             {
-                "id": 328,
-                "template": "TRAPINCH"
+                "id": 248,
+                "template": "TYRANITAR"
+            },
+            {
+                "id": 319,
+                "template": "SHARPEDO"
+            },
+            {
+                "id": 641,
+                "template": "TORNADUS_INCARNATE",
+                "form": 140
+            },
+            {
+                "id": 642,
+                "template": "THUNDURUS_INCARNATE",
+                "form": 142
+            },
+            {
+                "id": 645,
+                "template": "LANDORUS_INCARNATE",
+                "form": 144
+            },
+            {
+                "id": 3,
+                "template": "VENUSAUR",
+                "temp_evolution_id": 1
+            },
+            {
+                "id": 428,
+                "template": "LOPUNNY",
+                "temp_evolution_id": 1
+            },
+            {
+                "id": 460,
+                "template": "ABOMASNOW",
+                "temp_evolution_id": 1
             }
         ],
         "shinies": [
