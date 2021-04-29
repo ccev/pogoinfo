@@ -88,6 +88,14 @@
                         "template": "VULPIX_ALOLA",
                         "form": 56
                     }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 227,
+                        "template": "SKARMORY_NORMAL",
+                        "form": 1295
+                    }
                 }
             ]
         },
