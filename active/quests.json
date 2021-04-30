@@ -160,11 +160,6 @@
             "task": "Catch 5 Pok\u00e9mon",
             "rewards": [
                 {
-                    "type": "item",
-                    "amount": 5,
-                    "id": 705
-                },
-                {
                     "type": "pokemon",
                     "reward": {
                         "id": 29,
