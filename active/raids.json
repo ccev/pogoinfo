@@ -1,56 +1,51 @@
 {
     "1": [
         {
-            "id": 1,
-            "template": "BULBASAUR_NORMAL",
-            "form": 163
+            "id": 220,
+            "template": "SWINUB_NORMAL",
+            "form": 1277
         },
         {
-            "id": 328,
-            "template": "TRAPINCH_NORMAL",
-            "form": 746
+            "id": 309,
+            "template": "ELECTRIKE_NORMAL",
+            "form": 1484
         },
         {
-            "id": 403,
-            "template": "SHINX"
+            "id": 519,
+            "template": "PIDOVE"
         },
         {
-            "id": 580,
-            "template": "DUCKLETT"
+            "id": 529,
+            "template": "DRILBUR"
         },
         {
-            "id": 677,
-            "template": "ESPURR"
+            "id": 599,
+            "template": "KLINK"
         }
     ],
     "3": [
         {
-            "id": 3,
-            "template": "VENUSAUR_NORMAL",
-            "form": 169
+            "id": 76,
+            "template": "GOLEM_NORMAL",
+            "form": 71
         },
         {
-            "id": 134,
-            "template": "VAPOREON"
+            "id": 207,
+            "template": "GLIGAR_NORMAL",
+            "form": 803
         },
         {
-            "id": 154,
-            "template": "MEGANIUM"
+            "id": 277,
+            "template": "SWELLOW"
         },
         {
-            "id": 248,
-            "template": "TYRANITAR_NORMAL",
-            "form": 319
+            "id": 362,
+            "template": "GLALIE"
         },
         {
-            "id": 319,
-            "template": "SHARPEDO_NORMAL",
-            "form": 737
-        },
-        {
-            "id": 450,
-            "template": "HIPPOWDON_NORMAL",
-            "form": 891
+            "id": 618,
+            "template": "STUNFISK_NORMAL",
+            "form": 2246
         }
     ],
     "5": [
