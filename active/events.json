@@ -1,160 +1,5 @@
 [
     {
-        "name": "Pok\u00e9mon Snap Celebration Event",
-        "type": "event",
-        "start": "2021-04-29 10:00",
-        "end": "2021-05-02 20:00",
-        "spawns": [
-            {
-                "id": 11,
-                "template": "METAPOD"
-            },
-            {
-                "id": 27,
-                "template": "SANDSHREW"
-            },
-            {
-                "id": 85,
-                "template": "DODRIO"
-            },
-            {
-                "id": 129,
-                "template": "MAGIKARP"
-            },
-            {
-                "id": 163,
-                "template": "HOOTHOOT"
-            },
-            {
-                "id": 170,
-                "template": "CHINCHOU"
-            },
-            {
-                "id": 190,
-                "template": "AIPOM"
-            },
-            {
-                "id": 226,
-                "template": "MANTINE"
-            },
-            {
-                "id": 227,
-                "template": "SKARMORY"
-            },
-            {
-                "id": 270,
-                "template": "LOTAD"
-            },
-            {
-                "id": 328,
-                "template": "TRAPINCH"
-            },
-            {
-                "id": 331,
-                "template": "CACNEA"
-            },
-            {
-                "id": 456,
-                "template": "FINNEON"
-            },
-            {
-                "id": 531,
-                "template": "AUDINO"
-            },
-            {
-                "id": 580,
-                "template": "DUCKLETT"
-            },
-            {
-                "id": 235,
-                "template": "SMEARGLE"
-            }
-        ],
-        "eggs": [],
-        "raids": [
-            {
-                "id": 1,
-                "template": "BULBASAUR"
-            },
-            {
-                "id": 328,
-                "template": "TRAPINCH"
-            },
-            {
-                "id": 403,
-                "template": "SHINX"
-            },
-            {
-                "id": 580,
-                "template": "DUCKLETT"
-            },
-            {
-                "id": 677,
-                "template": "ESPURR"
-            },
-            {
-                "id": 3,
-                "template": "VENUSAUR"
-            },
-            {
-                "id": 134,
-                "template": "VAPOREON"
-            },
-            {
-                "id": 154,
-                "template": "MEGANIUM"
-            },
-            {
-                "id": 248,
-                "template": "TYRANITAR"
-            },
-            {
-                "id": 319,
-                "template": "SHARPEDO"
-            },
-            {
-                "id": 641,
-                "template": "TORNADUS_INCARNATE",
-                "form": 140
-            },
-            {
-                "id": 642,
-                "template": "THUNDURUS_INCARNATE",
-                "form": 142
-            },
-            {
-                "id": 645,
-                "template": "LANDORUS_INCARNATE",
-                "form": 144
-            },
-            {
-                "id": 3,
-                "template": "VENUSAUR",
-                "temp_evolution_id": 1
-            },
-            {
-                "id": 428,
-                "template": "LOPUNNY",
-                "temp_evolution_id": 1
-            },
-            {
-                "id": 460,
-                "template": "ABOMASNOW",
-                "temp_evolution_id": 1
-            }
-        ],
-        "shinies": [
-            {
-                "id": 235,
-                "template": "SMEARGLE"
-            }
-        ],
-        "bonuses": [],
-        "features": [],
-        "has_quests": true,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Cottonee Spotlight Hour",
         "type": "spotlight-hour",
         "start": "2021-05-04 18:00",
@@ -280,6 +125,14 @@
             {
                 "id": 147,
                 "template": "DRATINI"
+            },
+            {
+                "id": 148,
+                "template": "DRAGONAIR"
+            },
+            {
+                "id": 209,
+                "template": "SNUBBULL"
             },
             {
                 "id": 280,
