@@ -624,14 +624,14 @@
                         "form": 272
                     },
                     {
-                        "id": 71,
-                        "template": "VICTREEBEL_SHADOW",
-                        "form": 671
-                    },
-                    {
                         "id": 275,
                         "template": "SHIFTRY_SHADOW",
                         "form": 632
+                    },
+                    {
+                        "id": 71,
+                        "template": "VICTREEBEL_SHADOW",
+                        "form": 671
                     }
                 ]
             ]

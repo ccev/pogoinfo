@@ -218,6 +218,18 @@
             ]
         },
         {
+            "task": "Catch 5 Fairy-type Pok\u00e9mon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 35,
+                        "template": "CLEFAIRY"
+                    }
+                }
+            ]
+        },
+        {
             "task": "Catch a Dragon-type Pok\u00e9mon",
             "rewards": [
                 {
@@ -245,18 +257,6 @@
                         "id": 147,
                         "template": "DRATINI_NORMAL",
                         "form": 190
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Catch 5 Fairy-type Pok\u00e9mon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 35,
-                        "template": "CLEFAIRY"
                     }
                 }
             ]
@@ -358,6 +358,16 @@
             ]
         },
         {
+            "task": "Catch 5 Dark-type Pok\u00e9mon",
+            "rewards": [
+                {
+                    "type": "item",
+                    "amount": 1,
+                    "id": 0
+                }
+            ]
+        },
+        {
             "task": "Make 3 Great Throws",
             "rewards": [
                 {
@@ -436,31 +446,6 @@
             ]
         },
         {
-            "task": "Make 3 Excellent Throws in a row",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 443,
-                        "template": "GIBLE_NORMAL",
-                        "form": 861
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Make 5 Great Curveball Throws in a row",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 327,
-                        "template": "SPINDA"
-                    }
-                }
-            ]
-        },
-        {
             "task": "Make 3 Great Throws in a row",
             "rewards": [
                 {
@@ -498,6 +483,31 @@
                         "id": 95,
                         "template": "ONIX_NORMAL",
                         "form": 902
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Make 3 Excellent Throws in a row",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 443,
+                        "template": "GIBLE_NORMAL",
+                        "form": 861
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Make 5 Great Curveball Throws in a row",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 327,
+                        "template": "SPINDA"
                     }
                 }
             ]
@@ -657,6 +667,40 @@
             ]
         },
         {
+            "task": "Win a level 3 or higher raid",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 138,
+                        "template": "OMANYTE_NORMAL",
+                        "form": 740
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 140,
+                        "template": "KABUTO_NORMAL",
+                        "form": 1104
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Win 5 raids",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 142,
+                        "template": "AERODACTYL_NORMAL",
+                        "form": 1110
+                    }
+                }
+            ]
+        },
+        {
             "task": "Win a raid",
             "rewards": [
                 {
@@ -695,40 +739,6 @@
             ]
         },
         {
-            "task": "Win a level 3 or higher raid",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 138,
-                        "template": "OMANYTE_NORMAL",
-                        "form": 740
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 140,
-                        "template": "KABUTO_NORMAL",
-                        "form": 1104
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Win 5 raids",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 142,
-                        "template": "AERODACTYL_NORMAL",
-                        "form": 1110
-                    }
-                }
-            ]
-        },
-        {
             "task": "Defeat a Team GO Rocket Grunt",
             "rewards": []
         },
@@ -740,6 +750,18 @@
                     "reward": {
                         "id": 39,
                         "template": "JIGGLYPUFF"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Trade a Pok\u00e9mon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 17,
+                        "template": "PIDGEOTTO"
                     }
                 }
             ]
@@ -758,24 +780,41 @@
             ]
         },
         {
-            "task": "Trade a Pok\u00e9mon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 17,
-                        "template": "PIDGEOTTO"
-                    }
-                }
-            ]
-        },
-        {
             "task": "Reach Good Buddy with a Pok\u00e9mon",
             "rewards": [
                 {
                     "type": "item",
                     "amount": 1,
                     "id": 1106
+                }
+            ]
+        },
+        {
+            "task": "Power up Pok\u00e9mon 5 times",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 1,
+                        "template": "BULBASAUR_NORMAL",
+                        "form": 163
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 4,
+                        "template": "CHARMANDER_NORMAL",
+                        "form": 172
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 7,
+                        "template": "SQUIRTLE_NORMAL",
+                        "form": 181
+                    }
                 }
             ]
         },
@@ -813,35 +852,6 @@
                         "id": 13,
                         "template": "WEEDLE_NORMAL",
                         "form": 616
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Power up Pok\u00e9mon 5 times",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 1,
-                        "template": "BULBASAUR_NORMAL",
-                        "form": 163
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 4,
-                        "template": "CHARMANDER_NORMAL",
-                        "form": 172
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 7,
-                        "template": "SQUIRTLE_NORMAL",
-                        "form": 181
                     }
                 }
             ]
@@ -909,6 +919,16 @@
                         "template": "VENUSAUR_NORMAL",
                         "form": 169
                     }
+                }
+            ]
+        },
+        {
+            "task": "Power up Poik\u00e9mon 3 times",
+            "rewards": [
+                {
+                    "type": "item",
+                    "amount": 3,
+                    "id": 3
                 }
             ]
         }
