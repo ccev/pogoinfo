@@ -16,6 +16,14 @@
                         "id": 546,
                         "template": "COTTONEE"
                     }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 209,
+                        "template": "SNUBBULL_NORMAL",
+                        "form": 1253
+                    }
                 }
             ]
         },
@@ -139,6 +147,26 @@
             ]
         },
         {
+            "task": "Catch 5 Fairy-type Pok\u00e9mon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 35,
+                        "template": "CLEFAIRY"
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 209,
+                        "template": "SNUBBULL_NORMAL",
+                        "form": 1253
+                    }
+                }
+            ]
+        },
+        {
             "task": "Catch 10 Pok\u00e9mon",
             "rewards": [
                 {
@@ -227,26 +255,6 @@
                     "reward": {
                         "id": 163,
                         "template": "HOOTHOOT"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Catch 5 Fairy-type Pok\u00e9mon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 35,
-                        "template": "CLEFAIRY"
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 209,
-                        "template": "SNUBBULL_NORMAL",
-                        "form": 1253
                     }
                 }
             ]
