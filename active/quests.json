@@ -1,5 +1,102 @@
 {
-    "event": [],
+    "event": [
+        {
+            "task": "Catch 5 Fairy-type Pok\u00e9mon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 183,
+                        "template": "MARILL"
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 546,
+                        "template": "COTTONEE"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Catch 10 Fairy-type Pok\u00e9mon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 682,
+                        "template": "SPRITZEE"
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 684,
+                        "template": "SWIRLIX"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Use 7 Berries to help catch Pok\u00e9mon. ",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 682,
+                        "template": "SPRITZEE"
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 684,
+                        "template": "SWIRLIX"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Catch 10 Dragon-type Pok\u00e9mon. ",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 443,
+                        "template": "GIBLE_NORMAL",
+                        "form": 861
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Catch 15 Fairy-type Pok\u00e9mon. ",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 77,
+                        "template": "PONYTA_GALARIAN",
+                        "form": 2336
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Win 2 raids. ",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 443,
+                        "template": "GIBLE_NORMAL",
+                        "form": 861
+                    }
+                }
+            ]
+        }
+    ],
     "quests": [
         {
             "task": "Catch 5 Pok\u00e9mon with Weather Boost",
@@ -143,6 +240,14 @@
                         "id": 35,
                         "template": "CLEFAIRY"
                     }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 209,
+                        "template": "SNUBBULL_NORMAL",
+                        "form": 1253
+                    }
                 }
             ]
         },
@@ -248,7 +353,7 @@
                 {
                     "type": "item",
                     "amount": 1,
-                    "id": 0
+                    "id": 202
                 }
             ]
         },
@@ -624,10 +729,6 @@
             ]
         },
         {
-            "task": "Defeat a Team GO Rocket Grunt",
-            "rewards": []
-        },
-        {
             "task": "Earn 5 hearts with your buddy",
             "rewards": [
                 {
@@ -808,7 +909,7 @@
             ]
         },
         {
-            "task": "Power up Poik\u00e9mon 3 times",
+            "task": "Power up Pok\u00e9mon 3 times",
             "rewards": [
                 {
                     "type": "item",
@@ -836,6 +937,14 @@
                     "type": "item",
                     "amount": 1,
                     "id": 709
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 77,
+                        "template": "PONYTA_GALARIAN",
+                        "form": 2336
+                    }
                 }
             ]
         }

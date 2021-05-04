@@ -1,68 +1,54 @@
 {
     "1": [
         {
-            "id": 220,
-            "template": "SWINUB_NORMAL",
-            "form": 1277
+            "id": 77,
+            "template": "PONYTA_GALARIAN",
+            "form": 2336
         },
         {
-            "id": 309,
-            "template": "ELECTRIKE_NORMAL",
-            "form": 1484
+            "id": 147,
+            "template": "DRATINI_NORMAL",
+            "form": 190
         },
         {
-            "id": 519,
-            "template": "PIDOVE"
+            "id": 183,
+            "template": "MARILL"
         },
         {
-            "id": 529,
-            "template": "DRILBUR"
+            "id": 371,
+            "template": "BAGON_NORMAL",
+            "form": 755
         },
         {
-            "id": 599,
-            "template": "KLINK"
+            "id": 677,
+            "template": "ESPURR"
         }
     ],
     "3": [
         {
-            "id": 76,
-            "template": "GOLEM_NORMAL",
-            "form": 71
+            "id": 103,
+            "template": "EXEGGUTOR_ALOLA",
+            "form": 78
         },
         {
-            "id": 207,
-            "template": "GLIGAR_NORMAL",
-            "form": 803
+            "id": 176,
+            "template": "TOGETIC"
         },
         {
-            "id": 277,
-            "template": "SWELLOW"
+            "id": 303,
+            "template": "MAWILE_NORMAL",
+            "form": 833
         },
         {
-            "id": 362,
-            "template": "GLALIE"
-        },
-        {
-            "id": 618,
-            "template": "STUNFISK_NORMAL",
-            "form": 2246
+            "id": 330,
+            "template": "FLYGON_NORMAL",
+            "form": 752
         }
     ],
     "5": [
         {
-            "id": 641,
-            "template": "TORNADUS_INCARNATE",
-            "form": 140
-        },
-        {
-            "id": 642,
-            "template": "THUNDURUS_INCARNATE",
-            "form": 142
-        },
-        {
-            "id": 645,
-            "template": "LANDORUS_INCARNATE",
-            "form": 144
+            "id": 716,
+            "template": "XERNEAS"
         }
     ],
     "6": [
@@ -73,14 +59,14 @@
             "temp_evolution_id": 1
         },
         {
-            "id": 428,
-            "template": "LOPUNNY",
-            "temp_evolution_id": 1
+            "id": 6,
+            "template": "CHARIZARD_NORMAL",
+            "form": 178,
+            "temp_evolution_id": 3
         },
         {
-            "id": 460,
-            "template": "ABOMASNOW_NORMAL",
-            "form": 935,
+            "id": 428,
+            "template": "LOPUNNY",
             "temp_evolution_id": 1
         }
     ]

@@ -123,6 +123,10 @@
                 "template": "GOODRA"
             },
             {
+                "id": 35,
+                "template": "CLEFAIRY"
+            },
+            {
                 "id": 147,
                 "template": "DRATINI"
             },
@@ -188,13 +192,56 @@
                 "form": 2336
             },
             {
+                "id": 147,
+                "template": "DRATINI"
+            },
+            {
+                "id": 183,
+                "template": "MARILL"
+            },
+            {
+                "id": 371,
+                "template": "BAGON"
+            },
+            {
+                "id": 677,
+                "template": "ESPURR"
+            },
+            {
                 "id": 103,
                 "template": "EXEGGUTOR_ALOLA",
                 "form": 78
             },
             {
+                "id": 176,
+                "template": "TOGETIC"
+            },
+            {
+                "id": 303,
+                "template": "MAWILE"
+            },
+            {
+                "id": 330,
+                "template": "FLYGON"
+            },
+            {
                 "id": 716,
                 "template": "XERNEAS"
+            },
+            {
+                "id": 3,
+                "template": "VENUSAUR",
+                "temp_evolution_id": 1
+            },
+            {
+                "id": 6,
+                "template": "CHARIZARD",
+                "temp_evolution_id": 3
+            },
+            {
+                "id": 428,
+                "template": "LOPUNNY",
+                "temp_evolution_id": 1
             }
         ],
         "shinies": [
