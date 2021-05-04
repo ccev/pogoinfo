@@ -1,78 +1,81 @@
 {
-    "name": "Pok\u00e9mon Snap Celebration Event",
-    "start": "2021-04-29 10:00",
-    "end": "2021-05-02 20:00",
+    "name": "Luminous Legends X",
+    "start": "2021-05-04 10:00",
+    "end": "2021-05-17 20:00",
     "details": {
         "bonuses": [
-            "Release of shiny Smeargle (Research Group is currently at 22/926 shiny (most likely rate is 1 in 64): https://thesilphroad.com/shiny-pokemon . Others are welcome to contribute here: https://thesilphroad.com/research-group)",
-            "More photobombs (15 per day)",
-            "Camera avatar item and Gift sticker"
+            "Debut of Xerneas, Spritzee, Swirlix, and Goomy",
+            "Release of Rainy Lure Modules",
+            "Dragonite and Salamence can learn Draco Meteor or Outrage, respectively. Can be evolved from Dragonair/Shelgon or TMed.",
+            "Surprise increase Rocket balloon frequency?"
         ],
-        "eggs": [],
+        "eggs": {
+            "1-egg": [
+                "443_00",
+                "Swirlix",
+                "Spritzee",
+                "173_00",
+                "174_00",
+                "298_00"
+            ]
+        },
         "spawns": [
-            "270_00",
-            "331_00",
-            "580_00",
-            "027_00",
-            "011_00",
-            "190_00",
-            "328_00",
-            "085_00",
-            "531_00",
-            "226_00",
-            "227_00",
-            "456_00",
-            "170_00",
-            "129_00",
-            "163_00"
+            "147_00",
+            "280_00",
+            "371_00",
+            "546_00",
+            "682_00",
+            "683_00",
+            "684_00",
+            "685_00",
+            "704_00",
+            "705_00",
+            "706_00"
         ],
         "raids": {
             "1": [
-                "328_00",
-                "001_00",
+                "077_2336",
+                "147_00",
+                "183_00",
                 "Espurr",
-                "580_00",
-                "403_00"
+                "371_00"
             ],
             "3": [
-                "134_00",
-                "154_00",
-                "450_00",
-                "319_00",
-                "003_00",
-                "248_00"
+                "103_78",
+                "176_00",
+                "303_00",
+                "330_00"
             ],
             "5": [
-                "Tornadus_Incarnate",
-                "Thundurus_Incarnate",
-                "Landorus_Incarnate"
+                "Xerneas"
             ],
             "Mega": [
                 "003_00",
-                "460_00",
+                "006_00",
                 "428_00"
             ]
         },
         "quests": {
-            "Use 5 Golden Razz Berries to help catch Pok\u00e9mon": [
-                "131_00",
-                "037_56",
-                "227_00"
+            "Catch 10 Dragon-type Pok\u00e9mon": [
+                "443_00"
             ],
-            "Take 5 snapshots of wild Pok\u00e9mon": [
-                "226_00",
-                "085_00",
-                "227_00"
+            "Catch 5 Fairy-type Pok\u00e9mon": [
+                "183_00",
+                "546_00"
             ],
-            "Use 5 Berries to help catch Pok\u00e9mon": [
-                "265_00",
-                "434_00",
-                "194_00",
-                "618_00",
-                "453_00"
+            "Catch 10 Fairy-type Pok\u00e9mon": [
+                "Spritzee",
+                "Swirlix"
             ],
-            "Take a snapshot of a wild Pok\u00e9mon": [
-                "3 Pinap or Razz Berries"
+            "Catch 15 Fairy-type Pok\u00e9mon": [
+                "077_2336"
+            ],
+            "Use 7 Berries to help catch Pok\u00e9mon": [
+                "Spritzee",
+                "Swirlix"
+            ],
+            "Win 2 Raids": [
+                "443_00"
             ]
         }
     }
