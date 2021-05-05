@@ -607,14 +607,14 @@
                         "form": 668
                     },
                     {
-                        "id": 44,
-                        "template": "GLOOM_SHADOW",
-                        "form": 269
-                    },
-                    {
                         "id": 2,
                         "template": "IVYSAUR_SHADOW",
                         "form": 167
+                    },
+                    {
+                        "id": 44,
+                        "template": "GLOOM_SHADOW",
+                        "form": 269
                     }
                 ],
                 [
@@ -624,14 +624,14 @@
                         "form": 671
                     },
                     {
-                        "id": 275,
-                        "template": "SHIFTRY_SHADOW",
-                        "form": 632
-                    },
-                    {
                         "id": 45,
                         "template": "VILEPLUME_SHADOW",
                         "form": 272
+                    },
+                    {
+                        "id": 275,
+                        "template": "SHIFTRY_SHADOW",
+                        "form": 632
                     }
                 ]
             ]
@@ -1419,9 +1419,9 @@
                 ],
                 [
                     {
-                        "id": 145,
-                        "template": "ZAPDOS_SHADOW",
-                        "form": 774
+                        "id": 146,
+                        "template": "MOLTRES_SHADOW",
+                        "form": 837
                     }
                 ]
             ]
