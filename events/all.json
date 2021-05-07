@@ -748,5 +748,11 @@
         "type": "Raid Hour",
         "start": "2021-05-26 18:00",
         "end": "2021-05-26 19:00"
+    },
+    {
+        "name": "Special Bonuses - Luminous Legends X",
+        "type": "Event",
+        "start": "2021-05-11 10:00",
+        "end": "2021-05-17 20:00"
     }
 ]
