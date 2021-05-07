@@ -70,6 +70,50 @@
         "has_spawnpoints": true
     },
     {
+        "name": "Special Bonuses - Luminous Legends X",
+        "type": "event",
+        "start": "2021-05-11 10:00",
+        "end": "2021-05-17 20:00",
+        "spawns": [
+            {
+                "id": 674,
+                "template": "PANCHAM"
+            },
+            {
+                "id": 675,
+                "template": "PANGORO"
+            }
+        ],
+        "eggs": [],
+        "raids": [
+            {
+                "id": 77,
+                "template": "PONYTA_GALARIAN",
+                "form": 2336
+            },
+            {
+                "id": 674,
+                "template": "PANCHAM"
+            }
+        ],
+        "shinies": [
+            {
+                "id": 77,
+                "template": "PONYTA_GALARIAN",
+                "form": 2336
+            },
+            {
+                "id": 78,
+                "template": "RAPIDASH_GALARIAN",
+                "form": 2337
+            }
+        ],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
         "name": "Luminous Legends X",
         "type": "event",
         "start": "2021-05-04 10:00",

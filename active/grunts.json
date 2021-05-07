@@ -619,14 +619,14 @@
                 ],
                 [
                     {
-                        "id": 45,
-                        "template": "VILEPLUME_SHADOW",
-                        "form": 272
-                    },
-                    {
                         "id": 71,
                         "template": "VICTREEBEL_SHADOW",
                         "form": 671
+                    },
+                    {
+                        "id": 45,
+                        "template": "VILEPLUME_SHADOW",
+                        "form": 272
                     },
                     {
                         "id": 275,
@@ -1548,14 +1548,14 @@
                         "form": 912
                     },
                     {
-                        "id": 477,
-                        "template": "DUSKNOIR_SHADOW",
-                        "form": 921
-                    },
-                    {
                         "id": 302,
                         "template": "SABLEYE_SHADOW",
                         "form": 924
+                    },
+                    {
+                        "id": 477,
+                        "template": "DUSKNOIR_SHADOW",
+                        "form": 921
                     }
                 ]
             ]
