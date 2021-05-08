@@ -1613,14 +1613,14 @@
                 ],
                 [
                     {
-                        "id": 125,
-                        "template": "ELECTABUZZ_SHADOW",
-                        "form": 641
-                    },
-                    {
                         "id": 181,
                         "template": "AMPHAROS_SHADOW",
                         "form": 653
+                    },
+                    {
+                        "id": 125,
+                        "template": "ELECTABUZZ_SHADOW",
+                        "form": 641
                     }
                 ]
             ]
