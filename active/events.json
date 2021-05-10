@@ -340,6 +340,122 @@
         "has_spawnpoints": true
     },
     {
+        "name": "Pok\u00e9mon GO Special Weekend in May (Japan, Mexico, US)",
+        "type": "event",
+        "start": "2021-05-29 00:00",
+        "end": "2021-05-30 23:59",
+        "spawns": [
+            {
+                "id": 35,
+                "template": "CLEFAIRY"
+            },
+            {
+                "id": 39,
+                "template": "JIGGLYPUFF"
+            },
+            {
+                "id": 133,
+                "template": "EEVEE"
+            },
+            {
+                "id": 183,
+                "template": "MARILL"
+            },
+            {
+                "id": 302,
+                "template": "SABLEYE"
+            },
+            {
+                "id": 434,
+                "template": "STUNKY"
+            },
+            {
+                "id": 682,
+                "template": "SPRITZEE"
+            },
+            {
+                "id": 684,
+                "template": "SWIRLIX"
+            },
+            {
+                "id": 201,
+                "template": "UNOWN_Y",
+                "form": 25
+            },
+            {
+                "id": 201,
+                "template": "UNOWN_S",
+                "form": 19
+            },
+            {
+                "id": 201,
+                "template": "UNOWN_V",
+                "form": 22
+            }
+        ],
+        "eggs": [],
+        "raids": [],
+        "shinies": [
+            {
+                "id": 133,
+                "template": "EEVEE"
+            },
+            {
+                "id": 134,
+                "template": "VAPOREON"
+            },
+            {
+                "id": 135,
+                "template": "JOLTEON"
+            },
+            {
+                "id": 136,
+                "template": "FLAREON"
+            },
+            {
+                "id": 196,
+                "template": "ESPEON"
+            },
+            {
+                "id": 197,
+                "template": "UMBREON"
+            },
+            {
+                "id": 470,
+                "template": "LEAFEON"
+            },
+            {
+                "id": 471,
+                "template": "GLACEON"
+            }
+        ],
+        "bonuses": [
+            {
+                "text": "Increased Chance at Lucky Pok\u00e9mon when trading with a friend",
+                "template": "increased-lucky-chance"
+            },
+            {
+                "text": "2x Catch XP",
+                "template": "increased-xp",
+                "value": 2
+            },
+            {
+                "text": "Number of gifts you can open is doubled*"
+            },
+            {
+                "text": "Trade Distance Increased to 40 km*",
+                "value": 40
+            }
+        ],
+        "features": [
+            "Event-exclusive Field Research that include encounters of Pok\u00e9mon such as Eevee, Spritzee, Swirlix, and Deino.",
+            "Event-exclusive Timed Research that will reward you with XP, Stardust, an Incense, a Star Piece, a Lucky Egg, Spritzee Candies, and Swirlix Candies.",
+            "An exclusive event medal when you redeem your offer code in-game or on the Offer Redemption site."
+        ],
+        "has_quests": true,
+        "has_spawnpoints": false
+    },
+    {
         "name": "Luminous Legends Y",
         "type": "event",
         "start": "2021-05-18 10:00",
