@@ -760,5 +760,23 @@
         "type": "Ticketed Event",
         "start": "2021-05-29 00:00",
         "end": "2021-05-30 23:59"
+    },
+    {
+        "name": "Luminous Legends Y - Part 1",
+        "type": "Event",
+        "start": "2021-05-18 10:00",
+        "end": "2021-05-24 20:00"
+    },
+    {
+        "name": "Pok\u00e9mon GO Special Weekend - Features for all Trainers",
+        "type": "Event",
+        "start": "2021-05-28 19:00",
+        "end": "2021-05-31 19:00"
+    },
+    {
+        "name": "Luminous Legends Y - Part 2",
+        "type": "Event",
+        "start": "2021-05-25 10:00",
+        "end": "2021-05-31 20:00"
     }
 ]
