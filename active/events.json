@@ -321,6 +321,154 @@
         "has_spawnpoints": false
     },
     {
+        "name": "Luminous Legends Y - Part 1",
+        "type": "event",
+        "start": "2021-05-18 10:00",
+        "end": "2021-05-24 20:00",
+        "spawns": [
+            {
+                "id": 228,
+                "template": "HOUNDOUR"
+            },
+            {
+                "id": 318,
+                "template": "CARVANHA"
+            },
+            {
+                "id": 682,
+                "template": "SPRITZEE"
+            },
+            {
+                "id": 684,
+                "template": "SWIRLIX"
+            },
+            {
+                "id": 704,
+                "template": "GOOMY"
+            }
+        ],
+        "eggs": [
+            {
+                "id": 19,
+                "template": "RATTATA_ALOLA",
+                "form": 46
+            },
+            {
+                "id": 52,
+                "template": "MEOWTH_ALOLA",
+                "form": 64
+            },
+            {
+                "id": 88,
+                "template": "GRIMER_ALOLA",
+                "form": 74
+            },
+            {
+                "id": 215,
+                "template": "SNEASEL"
+            },
+            {
+                "id": 261,
+                "template": "POOCHYENA"
+            },
+            {
+                "id": 434,
+                "template": "STUNKY"
+            },
+            {
+                "id": 509,
+                "template": "PURRLOIN"
+            },
+            {
+                "id": 211,
+                "template": "QWILFISH"
+            },
+            {
+                "id": 246,
+                "template": "LARVITAR"
+            },
+            {
+                "id": 359,
+                "template": "ABSOL"
+            },
+            {
+                "id": 451,
+                "template": "SKORUPI"
+            },
+            {
+                "id": 551,
+                "template": "SANDILE"
+            },
+            {
+                "id": 559,
+                "template": "SCRAGGY"
+            },
+            {
+                "id": 624,
+                "template": "PAWNIARD"
+            },
+            {
+                "id": 629,
+                "template": "VULLABY"
+            },
+            {
+                "id": 633,
+                "template": "DEINO"
+            },
+            {
+                "id": 674,
+                "template": "PANCHAM"
+            }
+        ],
+        "raids": [
+            {
+                "id": 52,
+                "template": "MEOWTH_ALOLA",
+                "form": 64
+            },
+            {
+                "id": 717,
+                "template": "YVELTAL"
+            },
+            {
+                "id": 181,
+                "template": "AMPHAROS",
+                "temp_evolution_id": 1
+            },
+            {
+                "id": 229,
+                "template": "HOUNDOOM",
+                "temp_evolution_id": 1
+            },
+            {
+                "id": 334,
+                "template": "ALTARIA",
+                "temp_evolution_id": 1
+            }
+        ],
+        "shinies": [
+            {
+                "id": 263,
+                "template": "ZIGZAGOON_GALARIAN",
+                "form": 946
+            },
+            {
+                "id": 264,
+                "template": "LINOONE_GALARIAN",
+                "form": 948
+            },
+            {
+                "id": 862,
+                "template": "OBSTAGOON_NORMAL",
+                "form": 2501
+            }
+        ],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
         "name": "Marill Spotlight Hour",
         "type": "spotlight-hour",
         "start": "2021-05-25 18:00",
@@ -427,6 +575,10 @@
             {
                 "id": 471,
                 "template": "GLACEON"
+            },
+            {
+                "id": 700,
+                "template": "SYLVEON"
             }
         ],
         "bonuses": [
@@ -448,35 +600,150 @@
             }
         ],
         "features": [
-            "Event-exclusive Field Research that include encounters of Pok\u00e9mon such as Eevee, Spritzee, Swirlix, and Deino.",
-            "Event-exclusive Timed Research that will reward you with XP, Stardust, an Incense, a Star Piece, a Lucky Egg, Spritzee Candies, and Swirlix Candies.",
-            "An exclusive event medal when you redeem your offer code in-game or on the Offer Redemption site."
+            "Event-exclusive Timed Research will reward encounters with Eevee, Spritzee, Swirlix, and Deino!",
+            "Event-exclusive Timed Research will be available and reward XP, Stardust, an Incense, a Star Piece, a Lucky Egg, Spritzee Candy, and Swirlix Candy.",
+            "You\u2019ll receive an exclusive medal when you redeem a ticket code on the Offer Redemption website."
         ],
         "has_quests": true,
         "has_spawnpoints": false
     },
     {
-        "name": "Luminous Legends Y",
+        "name": "Pok\u00e9mon GO Special Weekend - Features for all Trainers",
         "type": "event",
-        "start": "2021-05-18 10:00",
-        "end": "2021-05-31 20:00",
+        "start": "2021-05-28 19:00",
+        "end": "2021-05-31 19:00",
         "spawns": [],
-        "eggs": [
-            {
-                "id": 674,
-                "template": "PANCHAM"
-            }
-        ],
-        "raids": [
-            {
-                "id": 717,
-                "template": "YVELTAL"
-            }
-        ],
+        "eggs": [],
+        "raids": [],
         "shinies": [],
         "bonuses": [],
         "features": [],
         "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Luminous Legends Y - Part 2",
+        "type": "event",
+        "start": "2021-05-25 10:00",
+        "end": "2021-05-31 20:00",
+        "spawns": [
+            {
+                "id": 133,
+                "template": "EEVEE"
+            },
+            {
+                "id": 280,
+                "template": "RALTS"
+            },
+            {
+                "id": 682,
+                "template": "SPRITZEE"
+            },
+            {
+                "id": 684,
+                "template": "SWIRLIX"
+            },
+            {
+                "id": 700,
+                "template": "SYLVEON"
+            }
+        ],
+        "eggs": [
+            {
+                "id": 133,
+                "template": "EEVEE"
+            },
+            {
+                "id": 173,
+                "template": "CLEFFA"
+            },
+            {
+                "id": 174,
+                "template": "IGGLYBUFF"
+            },
+            {
+                "id": 175,
+                "template": "TOGEPI"
+            },
+            {
+                "id": 298,
+                "template": "AZURILL"
+            },
+            {
+                "id": 682,
+                "template": "SPRITZEE"
+            },
+            {
+                "id": 684,
+                "template": "SWIRLIX"
+            }
+        ],
+        "raids": [
+            {
+                "id": 263,
+                "template": "ZIGZAGOON_GALARIAN",
+                "form": 946
+            },
+            {
+                "id": 134,
+                "template": "VAPOREON"
+            },
+            {
+                "id": 135,
+                "template": "JOLTEON"
+            },
+            {
+                "id": 136,
+                "template": "FLAREON"
+            },
+            {
+                "id": 196,
+                "template": "ESPEON"
+            },
+            {
+                "id": 197,
+                "template": "UMBREON"
+            },
+            {
+                "id": 717,
+                "template": "YVELTAL"
+            },
+            {
+                "id": 181,
+                "template": "AMPHAROS",
+                "temp_evolution_id": 1
+            },
+            {
+                "id": 229,
+                "template": "HOUNDOOM",
+                "temp_evolution_id": 1
+            },
+            {
+                "id": 334,
+                "template": "ALTARIA",
+                "temp_evolution_id": 1
+            }
+        ],
+        "shinies": [
+            {
+                "id": 263,
+                "template": "ZIGZAGOON_GALARIAN",
+                "form": 946
+            },
+            {
+                "id": 264,
+                "template": "LINOONE_GALARIAN",
+                "form": 948
+            },
+            {
+                "id": 862,
+                "template": "OBSTAGOON_NORMAL",
+                "form": 2501
+            }
+        ],
+        "bonuses": [],
+        "features": [],
+        "has_quests": true,
         "has_spawnpoints": false
     },
     {
