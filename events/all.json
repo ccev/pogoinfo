@@ -754,5 +754,11 @@
         "type": "Event",
         "start": "2021-05-11 10:00",
         "end": "2021-05-17 20:00"
+    },
+    {
+        "name": "Pok\u00e9mon GO Special Weekend in May (Japan, Mexico, US)",
+        "type": "Ticketed Event",
+        "start": "2021-05-29 00:00",
+        "end": "2021-05-30 23:59"
     }
 ]
