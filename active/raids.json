@@ -20,6 +20,10 @@
             "form": 755
         },
         {
+            "id": 674,
+            "template": "PANCHAM"
+        },
+        {
             "id": 677,
             "template": "ESPURR"
         }
