@@ -1231,14 +1231,14 @@
                 ],
                 [
                     {
-                        "id": 475,
-                        "template": "GALLADE_SHADOW",
-                        "form": 302
-                    },
-                    {
                         "id": 346,
                         "template": "CRADILY_SHADOW",
                         "form": 1572
+                    },
+                    {
+                        "id": 475,
+                        "template": "GALLADE_SHADOW",
+                        "form": 302
                     },
                     {
                         "id": 199,
