@@ -1,19 +1,5 @@
 [
     {
-        "name": "Xerneas Raid Hour",
-        "type": "raid-hour",
-        "start": "2021-05-12 18:00",
-        "end": "2021-05-12 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Swablu Community Day",
         "type": "community-day",
         "start": "2021-05-15 11:00",
