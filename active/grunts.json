@@ -524,14 +524,14 @@
                 ],
                 [
                     {
-                        "id": 130,
-                        "template": "GYARADOS_SHADOW",
-                        "form": 257
-                    },
-                    {
                         "id": 149,
                         "template": "DRAGONITE_SHADOW",
                         "form": 197
+                    },
+                    {
+                        "id": 130,
+                        "template": "GYARADOS_SHADOW",
+                        "form": 257
                     },
                     {
                         "id": 169,
@@ -1231,14 +1231,14 @@
                 ],
                 [
                     {
-                        "id": 346,
-                        "template": "CRADILY_SHADOW",
-                        "form": 1572
-                    },
-                    {
                         "id": 475,
                         "template": "GALLADE_SHADOW",
                         "form": 302
+                    },
+                    {
+                        "id": 346,
+                        "template": "CRADILY_SHADOW",
+                        "form": 1572
                     },
                     {
                         "id": 199,

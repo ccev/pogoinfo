@@ -57,20 +57,20 @@
     ],
     "6": [
         {
-            "id": 3,
-            "template": "VENUSAUR_NORMAL",
-            "form": 169,
+            "id": 181,
+            "template": "AMPHAROS_NORMAL",
+            "form": 652,
             "temp_evolution_id": 1
         },
         {
-            "id": 6,
-            "template": "CHARIZARD_NORMAL",
-            "form": 178,
-            "temp_evolution_id": 3
+            "id": 229,
+            "template": "HOUNDOOM_NORMAL",
+            "form": 232,
+            "temp_evolution_id": 1
         },
         {
-            "id": 428,
-            "template": "LOPUNNY",
+            "id": 334,
+            "template": "ALTARIA",
             "temp_evolution_id": 1
         }
     ]
