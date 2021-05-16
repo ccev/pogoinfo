@@ -1,23 +1,5 @@
 [
     {
-        "name": "Swablu Community Day Start",
-        "time": "2021-05-15 11:00",
-        "type": [
-            "cday",
-            "start"
-        ],
-        "confidence": 10
-    },
-    {
-        "name": "Swablu Community Day End",
-        "time": "2021-05-15 17:00",
-        "type": [
-            "cday",
-            "end"
-        ],
-        "confidence": 10
-    },
-    {
         "name": "Pok\u00e9mon GO Special Weekend in May (Japan, Mexico, US) Start",
         "time": "2021-05-29 00:00",
         "type": [
