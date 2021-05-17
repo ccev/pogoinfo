@@ -257,8 +257,26 @@
         "end": "2021-05-24 20:00",
         "spawns": [
             {
+                "id": 19,
+                "template": "RATTATA_ALOLA",
+                "form": 46
+            },
+            {
+                "id": 88,
+                "template": "GRIMER_ALOLA",
+                "form": 74
+            },
+            {
+                "id": 198,
+                "template": "MURKROW"
+            },
+            {
                 "id": 228,
                 "template": "HOUNDOUR"
+            },
+            {
+                "id": 261,
+                "template": "POOCHYENA"
             },
             {
                 "id": 318,
