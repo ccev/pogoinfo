@@ -1,27 +1,19 @@
 {
     "1": [
         {
-            "id": 77,
-            "template": "PONYTA_GALARIAN",
-            "form": 2336
+            "id": 52,
+            "template": "MEOWTH_ALOLA",
+            "form": 64
         },
         {
-            "id": 147,
-            "template": "DRATINI_NORMAL",
-            "form": 190
+            "id": 198,
+            "template": "MURKROW_NORMAL",
+            "form": 855
         },
         {
-            "id": 183,
-            "template": "MARILL"
-        },
-        {
-            "id": 371,
-            "template": "BAGON_NORMAL",
-            "form": 755
-        },
-        {
-            "id": 674,
-            "template": "PANCHAM"
+            "id": 215,
+            "template": "SNEASEL_NORMAL",
+            "form": 797
         },
         {
             "id": 677,
@@ -30,29 +22,30 @@
     ],
     "3": [
         {
-            "id": 103,
-            "template": "EXEGGUTOR_ALOLA",
-            "form": 78
+            "id": 110,
+            "template": "WEEZING_GALARIAN",
+            "form": 944
         },
         {
-            "id": 176,
-            "template": "TOGETIC"
+            "id": 248,
+            "template": "TYRANITAR_NORMAL",
+            "form": 319
         },
         {
-            "id": 303,
-            "template": "MAWILE_NORMAL",
-            "form": 833
+            "id": 332,
+            "template": "CACTURNE_NORMAL",
+            "form": 613
         },
         {
-            "id": 330,
-            "template": "FLYGON_NORMAL",
-            "form": 752
+            "id": 359,
+            "template": "ABSOL_NORMAL",
+            "form": 830
         }
     ],
     "5": [
         {
-            "id": 716,
-            "template": "XERNEAS"
+            "id": 717,
+            "template": "YVELTAL"
         }
     ],
     "6": [

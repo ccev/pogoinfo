@@ -279,6 +279,10 @@
                 "template": "POOCHYENA"
             },
             {
+                "id": 274,
+                "template": "NUZLEAF"
+            },
+            {
                 "id": 318,
                 "template": "CARVANHA"
             },
@@ -373,6 +377,31 @@
                 "id": 52,
                 "template": "MEOWTH_ALOLA",
                 "form": 64
+            },
+            {
+                "id": 198,
+                "template": "MURKROW"
+            },
+            {
+                "id": 215,
+                "template": "SNEASEL"
+            },
+            {
+                "id": 677,
+                "template": "ESPURR"
+            },
+            {
+                "id": 110,
+                "template": "WEEZING_GALARIAN",
+                "form": 944
+            },
+            {
+                "id": 248,
+                "template": "TYRANITAR"
+            },
+            {
+                "id": 359,
+                "template": "ABSOL"
             },
             {
                 "id": 717,
