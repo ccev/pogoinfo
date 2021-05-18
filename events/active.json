@@ -3,31 +3,9 @@
     "start": null,
     "end": "2021-05-17 20:00",
     "details": {
-        "bonuses": [
-            "Debut of Xerneas, Spritzee, Swirlix, and Goomy",
-            "Release of Rainy Lure Modules",
-            "Dragonite and Salamence can learn Draco Meteor or Outrage, respectively. Can be evolved from Dragonair/Shelgon or TMed.",
-            "Surprise increase Rocket balloon frequency?"
-        ],
-        "eggs": {
-            "1-egg": [
-                "443_00",
-                "Swirlix",
-                "Spritzee",
-                "173_00",
-                "174_00",
-                "298_00"
-            ]
-        },
+        "bonuses": [],
+        "eggs": [],
         "spawns": [
-            "147_00",
-            "148_00",
-            "280_00",
-            "371_00",
-            "546_00",
-            "039_00",
-            "035_00",
-            "209_00",
             "682_00",
             "683_00",
             "684_00",
@@ -36,56 +14,7 @@
             "705_00",
             "706_00"
         ],
-        "raids": {
-            "1": [
-                "077_2336",
-                "147_00",
-                "183_00",
-                "Espurr",
-                "371_00",
-                "Pancham"
-            ],
-            "3": [
-                "103_78",
-                "176_00",
-                "303_00",
-                "330_00"
-            ],
-            "5": [
-                "Xerneas"
-            ],
-            "Mega": [
-                "181_00",
-                "229_00",
-                "334_00"
-            ]
-        },
-        "quests": {
-            "Catch 10 Dragon-type Pok\u00e9mon": [
-                "443_00"
-            ],
-            "Catch 5 Fairy-type Pok\u00e9mon": [
-                "183_00",
-                "546_00",
-                "209_00"
-            ],
-            "Catch 10 Fairy-type Pok\u00e9mon": [
-                "Spritzee",
-                "Swirlix"
-            ],
-            "Catch 15 Fairy-type Pok\u00e9mon": [
-                "077_2336"
-            ],
-            "Use 7 Berries to help catch Pok\u00e9mon": [
-                "Spritzee",
-                "Swirlix"
-            ],
-            "Win 2 Raids": [
-                "443_00"
-            ],
-            "AR Mapping": [
-                "077_2336"
-            ]
-        }
+        "raids": {},
+        "quests": {}
     }
 }
