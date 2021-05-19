@@ -1319,9 +1319,9 @@
                 ],
                 [
                     {
-                        "id": 45,
-                        "template": "VILEPLUME_SHADOW",
-                        "form": 272
+                        "id": 462,
+                        "template": "MAGNEZONE_SHADOW",
+                        "form": 662
                     },
                     {
                         "id": 212,
@@ -1329,9 +1329,9 @@
                         "form": 251
                     },
                     {
-                        "id": 462,
-                        "template": "MAGNEZONE_SHADOW",
-                        "form": 662
+                        "id": 45,
+                        "template": "VILEPLUME_SHADOW",
+                        "form": 272
                     }
                 ]
             ]
@@ -1441,12 +1441,51 @@
         }
     },
     "46": {
-        "active": false,
+        "active": true,
         "character": {
             "template": "CHARACTER_DECOY_GRUNT_FEMALE",
             "gender": 0,
             "boss": false,
             "type": {}
+        },
+        "lineup": {
+            "rewards": [
+                0,
+                1
+            ],
+            "team": [
+                [
+                    {
+                        "id": 69,
+                        "template": "BELLSPROUT_SHADOW",
+                        "form": 665
+                    }
+                ],
+                [
+                    {
+                        "id": 20,
+                        "template": "RATICATE_SHADOW",
+                        "form": 155
+                    },
+                    {
+                        "id": 70,
+                        "template": "WEEPINBELL_SHADOW",
+                        "form": 668
+                    }
+                ],
+                [
+                    {
+                        "id": 20,
+                        "template": "RATICATE_SHADOW",
+                        "form": 155
+                    },
+                    {
+                        "id": 143,
+                        "template": "SNORLAX_SHADOW",
+                        "form": 200
+                    }
+                ]
+            ]
         }
     },
     "47": {
