@@ -62,14 +62,14 @@
                         "form": 200
                     },
                     {
-                        "id": 282,
-                        "template": "GARDEVOIR_SHADOW",
-                        "form": 299
-                    },
-                    {
                         "id": 62,
                         "template": "POLIWRATH_SHADOW",
                         "form": 242
+                    },
+                    {
+                        "id": 282,
+                        "template": "GARDEVOIR_SHADOW",
+                        "form": 299
                     }
                 ],
                 [
@@ -998,9 +998,9 @@
             "team": [
                 [
                     {
-                        "id": 202,
-                        "template": "WOBBUFFET_SHADOW",
-                        "form": 686
+                        "id": 102,
+                        "template": "EXEGGCUTE_SHADOW",
+                        "form": 730
                     },
                     {
                         "id": 79,
@@ -1008,9 +1008,9 @@
                         "form": 1018
                     },
                     {
-                        "id": 102,
-                        "template": "EXEGGCUTE_SHADOW",
-                        "form": 730
+                        "id": 202,
+                        "template": "WOBBUFFET_SHADOW",
+                        "form": 686
                     }
                 ],
                 [
@@ -1213,6 +1213,11 @@
                         "id": 129,
                         "template": "MAGIKARP_SHADOW",
                         "form": 254
+                    },
+                    {
+                        "id": 130,
+                        "template": "GYARADOS_SHADOW",
+                        "form": 257
                     }
                 ]
             ]
@@ -1359,14 +1364,14 @@
                         "form": 807
                     },
                     {
-                        "id": 181,
-                        "template": "AMPHAROS_SHADOW",
-                        "form": 653
-                    },
-                    {
                         "id": 210,
                         "template": "GRANBULL_SHADOW",
                         "form": 1257
+                    },
+                    {
+                        "id": 181,
+                        "template": "AMPHAROS_SHADOW",
+                        "form": 653
                     }
                 ],
                 [
@@ -1568,14 +1573,14 @@
                 ],
                 [
                     {
-                        "id": 181,
-                        "template": "AMPHAROS_SHADOW",
-                        "form": 653
-                    },
-                    {
                         "id": 125,
                         "template": "ELECTABUZZ_SHADOW",
                         "form": 641
+                    },
+                    {
+                        "id": 181,
+                        "template": "AMPHAROS_SHADOW",
+                        "form": 653
                     }
                 ]
             ]
