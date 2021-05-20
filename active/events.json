@@ -327,9 +327,9 @@
                 "template": "increased-lucky-chance"
             },
             {
-                "text": "2x Catch XP",
+                "text": "4x Catch XP**",
                 "template": "increased-xp",
-                "value": 2
+                "value": 4
             },
             {
                 "text": "Number of gifts you can open is doubled*"

@@ -127,14 +127,14 @@
                         "form": 1575
                     },
                     {
-                        "id": 451,
-                        "template": "SKORUPI_SHADOW",
-                        "form": 1797
-                    },
-                    {
                         "id": 213,
                         "template": "SHUCKLE_SHADOW",
                         "form": 828
+                    },
+                    {
+                        "id": 451,
+                        "template": "SKORUPI_SHADOW",
+                        "form": 1797
                     }
                 ],
                 [
@@ -1307,14 +1307,14 @@
                         "form": 1488
                     },
                     {
-                        "id": 217,
-                        "template": "URSARING_SHADOW",
-                        "form": 1269
-                    },
-                    {
                         "id": 169,
                         "template": "CROBAT_SHADOW",
                         "form": 203
+                    },
+                    {
+                        "id": 217,
+                        "template": "URSARING_SHADOW",
+                        "form": 1269
                     }
                 ],
                 [
@@ -1463,14 +1463,14 @@
                 ],
                 [
                     {
-                        "id": 20,
-                        "template": "RATICATE_SHADOW",
-                        "form": 155
-                    },
-                    {
                         "id": 70,
                         "template": "WEEPINBELL_SHADOW",
                         "form": 668
+                    },
+                    {
+                        "id": 20,
+                        "template": "RATICATE_SHADOW",
+                        "form": 155
                     }
                 ],
                 [
