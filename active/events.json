@@ -1,19 +1,5 @@
 [
     {
-        "name": "Yveltal Raid Hour",
-        "type": "raid-hour",
-        "start": "2021-05-26 18:00",
-        "end": "2021-05-26 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Luminous Legends Y - Part 1",
         "type": "event",
         "start": "2021-05-18 10:00",
@@ -226,6 +212,20 @@
         "features": [],
         "has_quests": false,
         "has_spawnpoints": true
+    },
+    {
+        "name": "Yveltal Raid Hour",
+        "type": "raid-hour",
+        "start": "2021-05-26 18:00",
+        "end": "2021-05-26 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
     },
     {
         "name": "Pok\u00e9mon GO Special Weekend in May (Japan, Mexico, US)",
@@ -1311,7 +1311,21 @@
                 "template": "GARCHOMP"
             }
         ],
-        "bonuses": [],
+        "bonuses": [
+            {
+                "text": "Increased Spawns"
+            },
+            {
+                "text": "3x Catch XP",
+                "template": "increased-xp",
+                "value": 3
+            },
+            {
+                "text": "3-hour Incense",
+                "template": "longer-incense",
+                "value": 3
+            }
+        ],
         "features": [],
         "has_quests": true,
         "has_spawnpoints": true

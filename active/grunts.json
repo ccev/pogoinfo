@@ -284,9 +284,14 @@
                         "form": 197
                     },
                     {
-                        "id": 130,
-                        "template": "GYARADOS_SHADOW",
-                        "form": 257
+                        "id": 330,
+                        "template": "FLYGON_SHADOW",
+                        "form": 753
+                    },
+                    {
+                        "id": 148,
+                        "template": "DRAGONAIR_SHADOW",
+                        "form": 194
                     }
                 ]
             ]
