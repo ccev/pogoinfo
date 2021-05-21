@@ -452,19 +452,14 @@
             "team": [
                 [
                     {
-                        "id": 37,
-                        "template": "VULPIX_SHADOW",
-                        "form": 725
-                    },
-                    {
                         "id": 228,
                         "template": "HOUNDOUR_SHADOW",
                         "form": 230
                     },
                     {
-                        "id": 126,
-                        "template": "MAGMAR_SHADOW",
-                        "form": 635
+                        "id": 37,
+                        "template": "VULPIX_SHADOW",
+                        "form": 725
                     }
                 ],
                 [
@@ -1468,14 +1463,14 @@
                 ],
                 [
                     {
-                        "id": 70,
-                        "template": "WEEPINBELL_SHADOW",
-                        "form": 668
-                    },
-                    {
                         "id": 20,
                         "template": "RATICATE_SHADOW",
                         "form": 155
+                    },
+                    {
+                        "id": 70,
+                        "template": "WEEPINBELL_SHADOW",
+                        "form": 668
                     }
                 ],
                 [
