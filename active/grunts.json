@@ -57,9 +57,9 @@
                 ],
                 [
                     {
-                        "id": 143,
-                        "template": "SNORLAX_SHADOW",
-                        "form": 200
+                        "id": 282,
+                        "template": "GARDEVOIR_SHADOW",
+                        "form": 299
                     },
                     {
                         "id": 62,
@@ -67,16 +67,16 @@
                         "form": 242
                     },
                     {
-                        "id": 282,
-                        "template": "GARDEVOIR_SHADOW",
-                        "form": 299
+                        "id": 143,
+                        "template": "SNORLAX_SHADOW",
+                        "form": 200
                     }
                 ],
                 [
                     {
-                        "id": 143,
-                        "template": "SNORLAX_SHADOW",
-                        "form": 200
+                        "id": 149,
+                        "template": "DRAGONITE_SHADOW",
+                        "form": 197
                     },
                     {
                         "id": 130,
@@ -84,9 +84,9 @@
                         "form": 257
                     },
                     {
-                        "id": 149,
-                        "template": "DRAGONITE_SHADOW",
-                        "form": 197
+                        "id": 143,
+                        "template": "SNORLAX_SHADOW",
+                        "form": 200
                     }
                 ]
             ]
@@ -279,14 +279,14 @@
                 ],
                 [
                     {
-                        "id": 149,
-                        "template": "DRAGONITE_SHADOW",
-                        "form": 197
-                    },
-                    {
                         "id": 330,
                         "template": "FLYGON_SHADOW",
                         "form": 753
+                    },
+                    {
+                        "id": 149,
+                        "template": "DRAGONITE_SHADOW",
+                        "form": 197
                     },
                     {
                         "id": 148,
