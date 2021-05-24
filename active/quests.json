@@ -877,24 +877,22 @@
             "task": "Power up Pok\u00e9mon 5 times",
             "rewards": [
                 {
-                    "type": "item",
+                    "type": "energy",
                     "reward": {
                         "id": 15,
                         "template": "BEEDRILL_NORMAL",
                         "form": 622
                     },
-                    "amount": 10,
-                    "id": 0
+                    "amount": 10
                 },
                 {
-                    "type": "item",
+                    "type": "energy",
                     "reward": {
                         "id": 3,
                         "template": "VENUSAUR_NORMAL",
                         "form": 169
                     },
-                    "amount": 10,
-                    "id": 0
+                    "amount": 10
                 }
             ]
         },
@@ -902,24 +900,22 @@
             "task": "Power up Pok\u00e9mon 10 times",
             "rewards": [
                 {
-                    "type": "item",
+                    "type": "energy",
                     "reward": {
                         "id": 15,
                         "template": "BEEDRILL_NORMAL",
                         "form": 622
                     },
-                    "amount": 20,
-                    "id": 0
+                    "amount": 20
                 },
                 {
-                    "type": "item",
+                    "type": "energy",
                     "reward": {
                         "id": 3,
                         "template": "VENUSAUR_NORMAL",
                         "form": 169
                     },
-                    "amount": 20,
-                    "id": 0
+                    "amount": 20
                 }
             ]
         },
