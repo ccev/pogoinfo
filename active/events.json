@@ -1302,6 +1302,20 @@
         "has_spawnpoints": false
     },
     {
+        "name": "GO Battle Night",
+        "type": "event",
+        "start": "2021-06-03 18:00",
+        "end": "2021-06-03 23:59",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
         "name": "Gible Community Day",
         "type": "community-day",
         "start": "2021-06-06 11:00",
