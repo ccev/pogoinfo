@@ -716,6 +716,11 @@
                         "id": 329,
                         "template": "VIBRAVA_SHADOW",
                         "form": 750
+                    },
+                    {
+                        "id": 247,
+                        "template": "PUPITAR_SHADOW",
+                        "form": 317
                     }
                 ],
                 [
