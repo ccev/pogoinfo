@@ -29,7 +29,7 @@
             ]
         },
         {
-            "task": "Purify 5 Shadow Pok\u00e9mon. ",
+            "task": "Purify 5 Shadow Pokémon. ",
             "rewards": [
                 {
                     "type": "pokemon",
@@ -48,7 +48,7 @@
             ]
         },
         {
-            "task": "Catch 5 Shadow Pok\u00e9mon. ",
+            "task": "Catch 5 Shadow Pokémon. ",
             "rewards": [
                 {
                     "type": "pokemon",
@@ -114,7 +114,7 @@
     ],
     "quests": [
         {
-            "task": "Catch 5 Pok\u00e9mon with Weather Boost",
+            "task": "Catch 5 Pokémon with Weather Boost",
             "rewards": [
                 {
                     "type": "stardust",
@@ -154,7 +154,7 @@
             ]
         },
         {
-            "task": "Catch 10 Pok\u00e9mon",
+            "task": "Catch 10 Pokémon",
             "rewards": [
                 {
                     "type": "stardust",
@@ -186,7 +186,7 @@
             ]
         },
         {
-            "task": "Catch a Dragon-type Pok\u00e9mon",
+            "task": "Catch a Dragon-type Pokémon",
             "rewards": [
                 {
                     "type": "stardust",
@@ -218,7 +218,7 @@
             ]
         },
         {
-            "task": "Use 10 Berries to help catch Pok\u00e9mon",
+            "task": "Use 10 Berries to help catch Pokémon",
             "rewards": [
                 {
                     "type": "pokemon",
@@ -230,7 +230,7 @@
             ]
         },
         {
-            "task": "Catch 3 Pok\u00e9mon",
+            "task": "Catch 3 Pokémon",
             "rewards": [
                 {
                     "type": "item",
@@ -247,7 +247,7 @@
             ]
         },
         {
-            "task": "Catch 5 Fairy-type Pok\u00e9mon",
+            "task": "Catch 5 Fairy-type Pokémon",
             "rewards": [
                 {
                     "type": "pokemon",
@@ -259,7 +259,7 @@
             ]
         },
         {
-            "task": "Use 5 Berries to help catch Pok\u00e9mon",
+            "task": "Use 5 Berries to help catch Pokémon",
             "rewards": [
                 {
                     "type": "stardust",
@@ -283,7 +283,7 @@
             ]
         },
         {
-            "task": "Catch 10 Pok\u00e9mon with Weather Boost",
+            "task": "Catch 10 Pokémon with Weather Boost",
             "rewards": [
                 {
                     "type": "stardust",
@@ -307,7 +307,7 @@
             ]
         },
         {
-            "task": "Catch 10 Normal-type Pok\u00e9mon",
+            "task": "Catch 10 Normal-type Pokémon",
             "rewards": [
                 {
                     "type": "stardust",
@@ -355,7 +355,7 @@
             ]
         },
         {
-            "task": "Catch 5 Dark-type Pok\u00e9mon",
+            "task": "Catch 5 Dark-type Pokémon",
             "rewards": [
                 {
                     "type": "item",
@@ -748,7 +748,7 @@
             ]
         },
         {
-            "task": "Trade a Pok\u00e9mon",
+            "task": "Trade a Pokémon",
             "rewards": [
                 {
                     "type": "pokemon",
@@ -773,7 +773,7 @@
             ]
         },
         {
-            "task": "Reach Good Buddy with a Pok\u00e9mon",
+            "task": "Reach Good Buddy with a Pokémon",
             "rewards": [
                 {
                     "type": "item",
@@ -783,7 +783,7 @@
             ]
         },
         {
-            "task": "Power up Pok\u00e9mon 5 times",
+            "task": "Power up Pokémon 5 times",
             "rewards": [
                 {
                     "type": "pokemon",
@@ -812,7 +812,7 @@
             ]
         },
         {
-            "task": "Evolve a Pok\u00e9mon",
+            "task": "Evolve a Pokémon",
             "rewards": [
                 {
                     "type": "pokemon",
@@ -837,7 +837,7 @@
             ]
         },
         {
-            "task": "Take a snapshot of a Bug-type Pok\u00e9mon",
+            "task": "Take a snapshot of a Bug-type Pokémon",
             "rewards": [
                 {
                     "type": "pokemon",
@@ -850,7 +850,7 @@
             ]
         },
         {
-            "task": "Spin 10 Pok\u00e9Stops or Gyms",
+            "task": "Spin 10 PokéStops or Gyms",
             "rewards": [
                 {
                     "type": "stardust",
@@ -874,7 +874,7 @@
             ]
         },
         {
-            "task": "Power up Pok\u00e9mon 5 times",
+            "task": "Power up Pokémon 5 times",
             "rewards": [
                 {
                     "type": "energy",
@@ -897,7 +897,7 @@
             ]
         },
         {
-            "task": "Power up Pok\u00e9mon 10 times",
+            "task": "Power up Pokémon 10 times",
             "rewards": [
                 {
                     "type": "energy",
@@ -920,7 +920,7 @@
             ]
         },
         {
-            "task": "Power up Pok\u00e9mon 3 times",
+            "task": "Power up Pokémon 3 times",
             "rewards": [
                 {
                     "type": "item",
@@ -947,7 +947,7 @@
             ]
         },
         {
-            "task": "Sponsored: Catch 8 Pok\u00e9mon",
+            "task": "Sponsored: Catch 8 Pokémon",
             "rewards": [
                 {
                     "type": "stardust",
