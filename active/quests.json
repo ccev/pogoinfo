@@ -1,67 +1,55 @@
 {
     "event": [
         {
+            "task": "Take a snapshot of a Fairy-type Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 133,
+                        "template": "EEVEE"
+                    }
+                }
+            ]
+        },
+        {
             "task": "Defeat 2 Team GO Rocket Grunts",
             "rewards": [
                 {
                     "type": "pokemon",
                     "reward": {
-                        "id": 198,
-                        "template": "MURKROW_NORMAL",
-                        "form": 855
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 509,
-                        "template": "PURRLOIN"
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 228,
-                        "template": "HOUNDOUR_NORMAL",
-                        "form": 229
+                        "id": 197,
+                        "template": "UMBREON"
                     }
                 }
             ]
         },
         {
-            "task": "Purify 5 Shadow Pokémon. ",
+            "task": "Earn 3 hearts with your buddy",
             "rewards": [
                 {
                     "type": "pokemon",
                     "reward": {
-                        "id": 682,
-                        "template": "SPRITZEE"
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 684,
-                        "template": "SWIRLIX"
+                        "id": 133,
+                        "template": "EEVEE"
                     }
                 }
             ]
         },
         {
-            "task": "Catch 5 Shadow Pokémon. ",
+            "task": "Purify 3 Shadow Pokémon",
             "rewards": [
                 {
                     "type": "pokemon",
                     "reward": {
-                        "id": 451,
-                        "template": "SKORUPI_NORMAL",
-                        "form": 1796
+                        "id": 196,
+                        "template": "ESPEON"
                     }
                 }
             ]
         },
         {
-            "task": "Defeat a Team GO Rocket Leader",
+            "task": "Win a raid",
             "rewards": [
                 {
                     "type": "pokemon",
@@ -69,31 +57,6 @@
                         "id": 263,
                         "template": "ZIGZAGOON_GALARIAN",
                         "form": 946
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Defeat 5 Team GO Rocket Grunts",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 52,
-                        "template": "MEOWTH_ALOLA",
-                        "form": 64
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Win 2 raids",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 559,
-                        "template": "SCRAGGY"
                     }
                 }
             ]
@@ -102,12 +65,9 @@
             "task": "AR Mapping",
             "rewards": [
                 {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 263,
-                        "template": "ZIGZAGOON_GALARIAN",
-                        "form": 946
-                    }
+                    "type": "item",
+                    "amount": 1,
+                    "id": 709
                 }
             ]
         }

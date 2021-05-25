@@ -1,200 +1,5 @@
 [
     {
-        "name": "Luminous Legends Y - Part 1",
-        "type": "event",
-        "start": "2021-05-18 10:00",
-        "end": "2021-05-24 20:00",
-        "spawns": [
-            {
-                "id": 19,
-                "template": "RATTATA_ALOLA",
-                "form": 46
-            },
-            {
-                "id": 88,
-                "template": "GRIMER_ALOLA",
-                "form": 74
-            },
-            {
-                "id": 198,
-                "template": "MURKROW"
-            },
-            {
-                "id": 228,
-                "template": "HOUNDOUR"
-            },
-            {
-                "id": 261,
-                "template": "POOCHYENA"
-            },
-            {
-                "id": 274,
-                "template": "NUZLEAF"
-            },
-            {
-                "id": 318,
-                "template": "CARVANHA"
-            },
-            {
-                "id": 682,
-                "template": "SPRITZEE"
-            },
-            {
-                "id": 684,
-                "template": "SWIRLIX"
-            },
-            {
-                "id": 704,
-                "template": "GOOMY"
-            }
-        ],
-        "eggs": [
-            {
-                "id": 19,
-                "template": "RATTATA_ALOLA",
-                "form": 46
-            },
-            {
-                "id": 52,
-                "template": "MEOWTH_ALOLA",
-                "form": 64
-            },
-            {
-                "id": 88,
-                "template": "GRIMER_ALOLA",
-                "form": 74
-            },
-            {
-                "id": 215,
-                "template": "SNEASEL"
-            },
-            {
-                "id": 261,
-                "template": "POOCHYENA"
-            },
-            {
-                "id": 434,
-                "template": "STUNKY"
-            },
-            {
-                "id": 509,
-                "template": "PURRLOIN"
-            },
-            {
-                "id": 211,
-                "template": "QWILFISH"
-            },
-            {
-                "id": 246,
-                "template": "LARVITAR"
-            },
-            {
-                "id": 359,
-                "template": "ABSOL"
-            },
-            {
-                "id": 451,
-                "template": "SKORUPI"
-            },
-            {
-                "id": 551,
-                "template": "SANDILE"
-            },
-            {
-                "id": 559,
-                "template": "SCRAGGY"
-            },
-            {
-                "id": 624,
-                "template": "PAWNIARD"
-            },
-            {
-                "id": 629,
-                "template": "VULLABY"
-            },
-            {
-                "id": 633,
-                "template": "DEINO"
-            },
-            {
-                "id": 674,
-                "template": "PANCHAM"
-            }
-        ],
-        "raids": [
-            {
-                "id": 52,
-                "template": "MEOWTH_ALOLA",
-                "form": 64
-            },
-            {
-                "id": 198,
-                "template": "MURKROW"
-            },
-            {
-                "id": 215,
-                "template": "SNEASEL"
-            },
-            {
-                "id": 677,
-                "template": "ESPURR"
-            },
-            {
-                "id": 110,
-                "template": "WEEZING_GALARIAN",
-                "form": 944
-            },
-            {
-                "id": 248,
-                "template": "TYRANITAR"
-            },
-            {
-                "id": 359,
-                "template": "ABSOL"
-            },
-            {
-                "id": 717,
-                "template": "YVELTAL"
-            },
-            {
-                "id": 181,
-                "template": "AMPHAROS",
-                "temp_evolution_id": 1
-            },
-            {
-                "id": 229,
-                "template": "HOUNDOOM",
-                "temp_evolution_id": 1
-            },
-            {
-                "id": 334,
-                "template": "ALTARIA",
-                "temp_evolution_id": 1
-            }
-        ],
-        "shinies": [
-            {
-                "id": 263,
-                "template": "ZIGZAGOON_GALARIAN",
-                "form": 946
-            },
-            {
-                "id": 264,
-                "template": "LINOONE_GALARIAN",
-                "form": 948
-            },
-            {
-                "id": 862,
-                "template": "OBSTAGOON_NORMAL",
-                "form": 2501
-            }
-        ],
-        "bonuses": [],
-        "features": [],
-        "has_quests": true,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Marill Spotlight Hour",
         "type": "spotlight-hour",
         "start": "2021-05-25 18:00",
@@ -228,7 +33,7 @@
         "has_spawnpoints": false
     },
     {
-        "name": "Pok\u00e9mon GO Special Weekend in May (Japan, Mexico, US)",
+        "name": "Pokémon GO Special Weekend in May (Japan, Mexico, US)",
         "type": "event",
         "start": "2021-05-29 00:00",
         "end": "2021-05-30 23:59",
@@ -323,7 +128,7 @@
         ],
         "bonuses": [
             {
-                "text": "Increased Chance at Lucky Pok\u00e9mon when trading with a friend",
+                "text": "Increased Chance at Lucky Pokémon when trading with a friend",
                 "template": "increased-lucky-chance"
             },
             {
@@ -342,13 +147,13 @@
         "features": [
             "Event-exclusive Timed Research will reward encounters with Eevee, Spritzee, Swirlix, and Deino!",
             "Event-exclusive Timed Research will be available and reward XP, Stardust, an Incense, a Star Piece, a Lucky Egg, Spritzee Candy, and Swirlix Candy.",
-            "You\u2019ll receive an exclusive medal when you redeem a ticket code on the Offer Redemption website."
+            "You’ll receive an exclusive medal when you redeem a ticket code on the Offer Redemption website."
         ],
         "has_quests": true,
         "has_spawnpoints": false
     },
     {
-        "name": "Pok\u00e9mon GO Special Weekend - Features for all Trainers",
+        "name": "Pokémon GO Special Weekend - Features for all Trainers",
         "type": "event",
         "start": "2021-05-28 19:00",
         "end": "2021-05-31 19:00",
@@ -368,12 +173,53 @@
         "end": "2021-05-31 20:00",
         "spawns": [
             {
+                "id": 19,
+                "template": "RATTATA_ALOLA",
+                "form": 46
+            },
+            {
+                "id": 35,
+                "template": "CLEFAIRY"
+            },
+            {
+                "id": 39,
+                "template": "JIGGLYPUFF"
+            },
+            {
                 "id": 133,
                 "template": "EEVEE"
             },
             {
+                "id": 176,
+                "template": "TOGETIC"
+            },
+            {
+                "id": 183,
+                "template": "MARILL"
+            },
+            {
+                "id": 198,
+                "template": "MURKROW"
+            },
+            {
+                "id": 209,
+                "template": "SNUBBULL"
+            },
+            {
+                "id": 228,
+                "template": "HOUNDOUR"
+            },
+            {
+                "id": 261,
+                "template": "POOCHYENA"
+            },
+            {
                 "id": 280,
                 "template": "RALTS"
+            },
+            {
+                "id": 318,
+                "template": "CARVANHA"
             },
             {
                 "id": 682,
@@ -489,10 +335,10 @@
             }
         ],
         "features": [
-            "Event-exclusive Field Research tasks will lead to encounters with Eevee, some of Eevee\u2019s Evolutions, and more.",
+            "Event-exclusive Field Research tasks will lead to encounters with Eevee, some of Eevee’s Evolutions, and more.",
             "Event-exclusive AR Mapping tasks will reward Poffins!",
             "Sylveon-inspired avatar items will be available in the shop!",
-            "If you\u2019re lucky, you might find a Shiny Galarian Zigzagoon! Shiny Galarian Zigzagoon will continue to be available after the event.",
+            "If you’re lucky, you might find a Shiny Galarian Zigzagoon! Shiny Galarian Zigzagoon will continue to be available after the event.",
             "Galarian Zigzagoon will be appearing in one-star raids for the rest of the event."
         ],
         "has_quests": true,
@@ -1357,7 +1203,7 @@
         "has_spawnpoints": true
     },
     {
-        "name": "Pok\u00e9mon GO Fest 2021",
+        "name": "Pokémon GO Fest 2021",
         "type": "event",
         "start": "2021-07-17 10:00",
         "end": "2021-07-18 18:00",
