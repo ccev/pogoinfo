@@ -4,13 +4,20 @@
     "end": "2021-05-31 20:00",
     "details": {
         "bonuses": [
-            "Sylveon will make it's debut, evolvable from Eevee when you're earned some Buddy hearts with it.",
+            "Sylveon will make its debut, evolvable from Eevee when you're earned 70 Buddy hearts with it.",
+            "Team GO Rocket balloons every 4 hours.",
             "3x Catch XP",
             "The release of Shiny Galarian Zigzagoon family"
         ],
         "eggs": {
             "1-egg": [
-                ""
+                "133_00",
+                "173_00",
+                "174_00",
+                "175_00",
+                "298_00",
+                "Spritzee",
+                "Swirlix"
             ]
         },
         "spawns": [
@@ -63,7 +70,8 @@
                 "133_00"
             ],
             "Earn 5 hearts with your buddy": [
-                "035_00"
+                "035_00",
+                "039_00"
             ],
             "Purify 3 Shadow Pokemon": [
                 "196_00"
