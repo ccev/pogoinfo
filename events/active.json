@@ -1,11 +1,26 @@
 {
     "name": "Luminous Legends Y - Part 1",
-    "start": "2021-05-18 10:00",
+    "start": null,
     "end": "2021-05-24 20:00",
     "details": {
-        "bonuses": [],
-        "eggs": [],
+        "bonuses": [
+            "Sylveon will make it's debut, evolvable from Eevee when you're earned some Buddy hearts with it.",
+            "3x Catch XP",
+            "The release of Shiny Galarian Zigzagoon family"
+        ],
+        "eggs": {
+            "1-egg": [
+                ""
+            ]
+        },
         "spawns": [
+            "133_00",
+            "280_00",
+            "176_00",
+            "209_00",
+            "039_00",
+            "035_00",
+            "183_00",
             "019_00",
             "088_00",
             "198_00",
@@ -14,7 +29,46 @@
             "274_00",
             "318_00"
         ],
-        "raids": {},
-        "quests": {}
+        "raids": {
+            "1": [
+                "263_946",
+                "133_00"
+            ],
+            "3": [
+                "134_00",
+                "135_00",
+                "136_00",
+                "196_00",
+                "197_00"
+            ],
+            "5": [
+                "Yveltal"
+            ],
+            "Mega": [
+                "334_00",
+                "181_00",
+                "229_00"
+            ]
+        },
+        "quests": {
+            "Take a snapshot of a Fairy-type Pokemon": [
+                "133_00"
+            ],
+            "Defeat 2 Team GO Rocket Grunts": [
+                "197_00"
+            ],
+            "Earn 3 hearts with your buddy": [
+                "133_00"
+            ],
+            "Earn 5 hearts with your buddy: Clefairy (s)": [
+                ""
+            ],
+            "Purify 3 Shadow Pokemon": [
+                "196_00"
+            ],
+            "Win a raid": [
+                "263_946"
+            ]
+        }
     }
 }
