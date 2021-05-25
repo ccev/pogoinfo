@@ -22,6 +22,7 @@
             "035_00",
             "183_00",
             "019_00",
+            "198_00",
             "228_00",
             "261_00",
             "318_00",
@@ -31,7 +32,9 @@
         "raids": {
             "1": [
                 "263_946",
-                "133_00"
+                "133_00",
+                "Espurr",
+                "037_56"
             ],
             "3": [
                 "134_00",
@@ -59,8 +62,8 @@
             "Earn 3 hearts with your buddy": [
                 "133_00"
             ],
-            "Earn 5 hearts with your buddy: Clefairy (s)": [
-                ""
+            "Earn 5 hearts with your buddy": [
+                "035_00"
             ],
             "Purify 3 Shadow Pokemon": [
                 "196_00"
