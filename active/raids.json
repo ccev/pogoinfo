@@ -1,6 +1,11 @@
 {
     "1": [
         {
+            "id": 37,
+            "template": "VULPIX_ALOLA",
+            "form": 56
+        },
+        {
             "id": 133,
             "template": "EEVEE"
         },
@@ -8,6 +13,10 @@
             "id": 263,
             "template": "ZIGZAGOON_GALARIAN",
             "form": 946
+        },
+        {
+            "id": 677,
+            "template": "ESPURR"
         }
     ],
     "3": [

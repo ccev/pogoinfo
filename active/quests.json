@@ -62,6 +62,18 @@
             ]
         },
         {
+            "task": "Earn 5 hearts with your buddy",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 35,
+                        "template": "CLEFAIRY"
+                    }
+                }
+            ]
+        },
+        {
             "task": "AR Mapping",
             "rewards": [
                 {
