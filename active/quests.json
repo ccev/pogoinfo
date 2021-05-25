@@ -1,6 +1,25 @@
 {
     "event": [
         {
+            "task": "Earn 5 hearts with your buddy",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 35,
+                        "template": "CLEFAIRY"
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 39,
+                        "template": "JIGGLYPUFF"
+                    }
+                }
+            ]
+        },
+        {
             "task": "Take a snapshot of a Fairy-type Pokémon",
             "rewards": [
                 {
@@ -57,18 +76,6 @@
                         "id": 263,
                         "template": "ZIGZAGOON_GALARIAN",
                         "form": 946
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Earn 5 hearts with your buddy",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 35,
-                        "template": "CLEFAIRY"
                     }
                 }
             ]
