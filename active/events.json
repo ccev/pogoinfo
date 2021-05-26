@@ -1,24 +1,5 @@
 [
     {
-        "name": "Marill Spotlight Hour",
-        "type": "spotlight-hour",
-        "start": "2021-05-25 18:00",
-        "end": "2021-05-25 19:00",
-        "spawns": [
-            {
-                "id": 183,
-                "template": "MARILL"
-            }
-        ],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": true
-    },
-    {
         "name": "Yveltal Raid Hour",
         "type": "raid-hour",
         "start": "2021-05-26 18:00",
