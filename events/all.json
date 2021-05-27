@@ -784,5 +784,17 @@
         "type": "Event",
         "start": "2021-06-03 18:00",
         "end": "2021-06-03 23:59"
+    },
+    {
+        "name": "Pok\u00e9mon GO Fest 2021 Day 1: Catch!",
+        "type": "Pok\u00e9mon GO Fest",
+        "start": "2021-07-17 10:00",
+        "end": "2021-07-17 18:00"
+    },
+    {
+        "name": "Pok\u00e9mon GO Fest 2021 Day 2: Raid!",
+        "type": "Pok\u00e9mon GO Fest",
+        "start": "2021-07-18 10:00",
+        "end": "2021-07-18 18:00"
     }
 ]
