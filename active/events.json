@@ -1236,20 +1236,6 @@
         "has_spawnpoints": false
     },
     {
-        "name": "Regice Raid Hour",
-        "type": "raid-hour",
-        "start": "2021-06-09 18:00",
-        "end": "2021-06-09 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
         "name": "A Very Slow Discovery",
         "type": "event",
         "start": "2021-06-08 13:00",
@@ -1281,6 +1267,20 @@
         "features": [],
         "has_quests": false,
         "has_spawnpoints": true
+    },
+    {
+        "name": "Regice Raid Hour",
+        "type": "raid-hour",
+        "start": "2021-06-16 18:00",
+        "end": "2021-06-16 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
     },
     {
         "name": "Solstice Event 2021",
