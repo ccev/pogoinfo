@@ -205,6 +205,46 @@
             "end": "2021-06-06 17:00",
             "lure_duration": 30,
             "local_times": true
+        },
+        {
+            "name": "Dwebble Spotlight Hour",
+            "type": "spotlight",
+            "start": "2021-06-01 18:00",
+            "end": "2021-06-01 19:00",
+            "lure_duration": 30,
+            "local_times": true
+        },
+        {
+            "name": "Abra Spotlight Hour",
+            "type": "spotlight",
+            "start": "2021-06-08 18:00",
+            "end": "2021-06-08 19:00",
+            "lure_duration": 30,
+            "local_times": true
+        },
+        {
+            "name": "Slowpoke Spotlight Hour",
+            "type": "spotlight",
+            "start": "2021-06-15 18:00",
+            "end": "2021-06-15 19:00",
+            "lure_duration": 30,
+            "local_times": true
+        },
+        {
+            "name": "Swinub Spotlight Hour",
+            "type": "spotlight",
+            "start": "2021-06-22 18:00",
+            "end": "2021-06-22 19:00",
+            "lure_duration": 30,
+            "local_times": true
+        },
+        {
+            "name": "Aipom Spotlight Hour",
+            "type": "spotlight",
+            "start": "2021-06-29 18:00",
+            "end": "2021-06-29 19:00",
+            "lure_duration": 30,
+            "local_times": true
         }
     ]
 }
