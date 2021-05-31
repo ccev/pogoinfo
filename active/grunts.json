@@ -217,14 +217,14 @@
                 ],
                 [
                     {
-                        "id": 275,
-                        "template": "SHIFTRY_SHADOW",
-                        "form": 632
-                    },
-                    {
                         "id": 332,
                         "template": "CACTURNE_SHADOW",
                         "form": 614
+                    },
+                    {
+                        "id": 275,
+                        "template": "SHIFTRY_SHADOW",
+                        "form": 632
                     }
                 ]
             ]
@@ -631,6 +631,11 @@
                 ],
                 [
                     {
+                        "id": 44,
+                        "template": "GLOOM_SHADOW",
+                        "form": 269
+                    },
+                    {
                         "id": 114,
                         "template": "TANGELA_SHADOW",
                         "form": 1060
@@ -639,11 +644,6 @@
                         "id": 188,
                         "template": "SKIPLOOM_SHADOW",
                         "form": 1209
-                    },
-                    {
-                        "id": 44,
-                        "template": "GLOOM_SHADOW",
-                        "form": 269
                     }
                 ],
                 [
