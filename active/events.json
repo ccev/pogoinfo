@@ -1417,6 +1417,10 @@
                 "template": "FLYGON"
             },
             {
+                "id": 538,
+                "template": "THROH"
+            },
+            {
                 "id": 147,
                 "template": "DRATINI"
             },
@@ -1649,6 +1653,10 @@
                 "template": "FLYGON"
             },
             {
+                "id": 538,
+                "template": "THROH"
+            },
+            {
                 "id": 147,
                 "template": "DRATINI"
             },
@@ -1792,15 +1800,248 @@
     {
         "name": "Season of Discovery",
         "type": "event",
-        "start": "2021-06-01 13:00",
-        "end": "2021-09-01 13:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
+        "start": "2021-06-01 10:00",
+        "end": "2021-09-01 10:00",
+        "spawns": [
+            {
+                "id": 19,
+                "template": "RATTATA_ALOLA",
+                "form": 46
+            },
+            {
+                "id": 69,
+                "template": "BELLSPROUT"
+            },
+            {
+                "id": 81,
+                "template": "MAGNEMITE"
+            },
+            {
+                "id": 84,
+                "template": "DODUO"
+            },
+            {
+                "id": 111,
+                "template": "RHYHORN"
+            },
+            {
+                "id": 129,
+                "template": "MAGIKARP"
+            },
+            {
+                "id": 137,
+                "template": "PORYGON"
+            },
+            {
+                "id": 183,
+                "template": "MARILL"
+            },
+            {
+                "id": 299,
+                "template": "NOSEPASS"
+            },
+            {
+                "id": 320,
+                "template": "WAILMER"
+            },
+            {
+                "id": 451,
+                "template": "SKORUPI"
+            },
+            {
+                "id": 557,
+                "template": "DWEBBLE"
+            },
+            {
+                "id": 50,
+                "template": "DIGLETT_ALOLA",
+                "form": 60
+            },
+            {
+                "id": 120,
+                "template": "STARYU"
+            },
+            {
+                "id": 123,
+                "template": "SCYTHER"
+            },
+            {
+                "id": 252,
+                "template": "TREECKO"
+            },
+            {
+                "id": 255,
+                "template": "TORCHIC"
+            },
+            {
+                "id": 258,
+                "template": "MUDKIP"
+            },
+            {
+                "id": 302,
+                "template": "SABLEYE"
+            },
+            {
+                "id": 339,
+                "template": "BARBOACH"
+            },
+            {
+                "id": 415,
+                "template": "COMBEE"
+            },
+            {
+                "id": 548,
+                "template": "PETILIL"
+            },
+            {
+                "id": 585,
+                "template": "DEERLING_SUMMER",
+                "form": 586
+            },
+            {
+                "id": 27,
+                "template": "SANDSHREW_ALOLA",
+                "form": 52
+            },
+            {
+                "id": 37,
+                "template": "VULPIX_ALOLA",
+                "form": 56
+            },
+            {
+                "id": 90,
+                "template": "SHELLDER"
+            },
+            {
+                "id": 108,
+                "template": "LICKITUNG"
+            },
+            {
+                "id": 358,
+                "template": "CHIMECHO"
+            },
+            {
+                "id": 387,
+                "template": "TURTWIG"
+            },
+            {
+                "id": 390,
+                "template": "CHIMCHAR"
+            },
+            {
+                "id": 393,
+                "template": "PIPLUP"
+            },
+            {
+                "id": 585,
+                "template": "DEERLING_WINTER",
+                "form": 588
+            },
+            {
+                "id": 613,
+                "template": "CUBCHOO"
+            }
+        ],
+        "eggs": [
+            {
+                "id": 307,
+                "template": "MEDITITE"
+            },
+            {
+                "id": 418,
+                "template": "BUIZEL"
+            },
+            {
+                "id": 682,
+                "template": "SPRITZEE"
+            },
+            {
+                "id": 684,
+                "template": "SWIRLIX"
+            },
+            {
+                "id": 175,
+                "template": "TOGEPI"
+            },
+            {
+                "id": 207,
+                "template": "GLIGAR"
+            },
+            {
+                "id": 227,
+                "template": "SKARMORY"
+            },
+            {
+                "id": 438,
+                "template": "BONSLY"
+            },
+            {
+                "id": 532,
+                "template": "TIMBURR"
+            },
+            {
+                "id": 627,
+                "template": "RUFFLET"
+            },
+            {
+                "id": 704,
+                "template": "GOOMY"
+            },
+            {
+                "id": 714,
+                "template": "NOIBAT"
+            },
+            {
+                "id": 408,
+                "template": "CRANIDOS"
+            },
+            {
+                "id": 410,
+                "template": "SHIELDON"
+            },
+            {
+                "id": 690,
+                "template": "SKRELP"
+            },
+            {
+                "id": 692,
+                "template": "CLAUNCHER"
+            },
+            {
+                "id": 371,
+                "template": "BAGON"
+            },
+            {
+                "id": 374,
+                "template": "BELDUM"
+            },
+            {
+                "id": 443,
+                "template": "GIBLE"
+            },
+            {
+                "id": 447,
+                "template": "RIOLU"
+            }
+        ],
+        "raids": [
+            {
+                "id": 377,
+                "template": "REGIROCK"
+            },
+            {
+                "id": 378,
+                "template": "REGICE"
+            },
+            {
+                "id": 379,
+                "template": "REGISTEEL"
+            }
+        ],
         "shinies": [],
         "bonuses": [],
         "features": [],
-        "has_quests": false,
+        "has_quests": true,
         "has_spawnpoints": false
     }
 ]
