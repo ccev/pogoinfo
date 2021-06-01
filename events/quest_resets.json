@@ -16,23 +16,5 @@
             "end"
         ],
         "confidence": 10
-    },
-    {
-        "name": "Season of Discovery Start",
-        "time": "2021-06-01 10:00",
-        "type": [
-            "event",
-            "start"
-        ],
-        "confidence": 9
-    },
-    {
-        "name": "Season of Discovery End",
-        "time": "2021-09-01 10:00",
-        "type": [
-            "event",
-            "end"
-        ],
-        "confidence": 9
     }
 ]
