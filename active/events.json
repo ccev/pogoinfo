@@ -1,19 +1,5 @@
 [
     {
-        "name": "Pokémon GO Special Weekend - Features for all Trainers",
-        "type": "event",
-        "start": "2021-05-28 19:00",
-        "end": "2021-05-31 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Luminous Legends Y - Part 2",
         "type": "event",
         "start": "2021-05-25 10:00",
