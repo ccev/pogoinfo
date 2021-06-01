@@ -1,6 +1,21 @@
 {
     "1": [
         {
+            "id": 27,
+            "template": "SANDSHREW_ALOLA",
+            "form": 52
+        },
+        {
+            "id": 81,
+            "template": "MAGNEMITE_NORMAL",
+            "form": 655
+        },
+        {
+            "id": 220,
+            "template": "SWINUB_NORMAL",
+            "form": 1277
+        },
+        {
             "id": 299,
             "template": "NOSEPASS_NORMAL",
             "form": 1460
@@ -12,8 +27,23 @@
     ],
     "3": [
         {
+            "id": 68,
+            "template": "MACHAMP_NORMAL",
+            "form": 815
+        },
+        {
+            "id": 76,
+            "template": "GOLEM_NORMAL",
+            "form": 71
+        },
+        {
             "id": 87,
             "template": "DEWGONG"
+        },
+        {
+            "id": 227,
+            "template": "SKARMORY_NORMAL",
+            "form": 1295
         }
     ],
     "5": [

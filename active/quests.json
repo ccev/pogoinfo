@@ -1,96 +1,5 @@
 {
-    "event": [
-        {
-            "task": "Earn 5 hearts with your buddy",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 35,
-                        "template": "CLEFAIRY"
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 39,
-                        "template": "JIGGLYPUFF"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Take a snapshot of a Fairy-type Pokémon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 133,
-                        "template": "EEVEE"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Defeat 2 Team GO Rocket Grunts",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 197,
-                        "template": "UMBREON"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Earn 3 hearts with your buddy",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 133,
-                        "template": "EEVEE"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Purify 3 Shadow Pokémon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 196,
-                        "template": "ESPEON"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Win a raid",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 263,
-                        "template": "ZIGZAGOON_GALARIAN",
-                        "form": 946
-                    }
-                }
-            ]
-        },
-        {
-            "task": "AR Mapping",
-            "rewards": [
-                {
-                    "type": "item",
-                    "amount": 1,
-                    "id": 709
-                }
-            ]
-        }
-    ],
+    "event": [],
     "quests": [
         {
             "task": "Catch 5 Pokémon with Weather Boost",
@@ -238,6 +147,19 @@
             ]
         },
         {
+            "task": "Catch 7 Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 129,
+                        "template": "MAGIKARP_NORMAL",
+                        "form": 253
+                    }
+                }
+            ]
+        },
+        {
             "task": "Use 5 Berries to help catch Pokémon",
             "rewards": [
                 {
@@ -340,6 +262,44 @@
                     "type": "item",
                     "amount": 1,
                     "id": 202
+                }
+            ]
+        },
+        {
+            "task": "Catch 10 Water-type Pokémon",
+            "rewards": [
+                {
+                    "type": "item",
+                    "amount": 5,
+                    "id": 2
+                }
+            ]
+        },
+        {
+            "task": "Catch 10 Grass-type Pokémon",
+            "rewards": [
+                {
+                    "type": "energy",
+                    "reward": {
+                        "id": 3,
+                        "template": "VENUSAUR_NORMAL",
+                        "form": 169
+                    },
+                    "amount": 10
+                }
+            ]
+        },
+        {
+            "task": "Catch 10 Fire-type Pokémon",
+            "rewards": [
+                {
+                    "type": "energy",
+                    "reward": {
+                        "id": 6,
+                        "template": "CHARIZARD_NORMAL",
+                        "form": 178
+                    },
+                    "amount": 10
                 }
             ]
         },
@@ -484,6 +444,31 @@
                     "reward": {
                         "id": 327,
                         "template": "SPINDA"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Make 5 Nice Throws",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 206,
+                        "template": "DUNSPARCE"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Make 3 Great Throws",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 209,
+                        "template": "SNUBBULL_NORMAL",
+                        "form": 1253
                     }
                 }
             ]
@@ -824,6 +809,61 @@
                         "id": 13,
                         "template": "WEEDLE_NORMAL",
                         "form": 616
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Take a snapshot of a wild Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 198,
+                        "template": "MURKROW_NORMAL",
+                        "form": 855
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Power up Pokémon 7 times",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 258,
+                        "template": "MUDKIP_NORMAL",
+                        "form": 205
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Power up Pokémon 5 times",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 152,
+                        "template": "CHIKORITA"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Spin 3 PokéStops or Gyms",
+            "rewards": [
+                {
+                    "type": "item",
+                    "amount": 6,
+                    "id": 701
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 185,
+                        "template": "SUDOWOODO"
                     }
                 }
             ]
