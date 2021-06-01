@@ -16,5 +16,23 @@
             "end"
         ],
         "confidence": 10
+    },
+    {
+        "name": "A Very Slow Discovery Start",
+        "time": "2021-06-08 10:00",
+        "type": [
+            "event",
+            "start"
+        ],
+        "confidence": 9
+    },
+    {
+        "name": "A Very Slow Discovery End",
+        "time": "2021-06-13 20:00",
+        "type": [
+            "event",
+            "end"
+        ],
+        "confidence": 9
     }
 ]
