@@ -928,13 +928,88 @@
         "type": "event",
         "start": "2021-06-08 10:00",
         "end": "2021-06-13 20:00",
-        "spawns": [],
+        "spawns": [
+            {
+                "id": 79,
+                "template": "SLOWPOKE"
+            },
+            {
+                "id": 80,
+                "template": "SLOWBRO"
+            },
+            {
+                "id": 287,
+                "template": "SLAKOTH"
+            },
+            {
+                "id": 288,
+                "template": "VIGOROTH"
+            },
+            {
+                "id": 316,
+                "template": "GULPIN"
+            },
+            {
+                "id": 325,
+                "template": "SPOINK"
+            }
+        ],
         "eggs": [],
-        "raids": [],
+        "raids": [
+            {
+                "id": 88,
+                "template": "GRIMER_ALOLA",
+                "form": 74
+            },
+            {
+                "id": 90,
+                "template": "SHELLDER"
+            },
+            {
+                "id": 403,
+                "template": "SHINX"
+            },
+            {
+                "id": 532,
+                "template": "TIMBURR"
+            },
+            {
+                "id": 143,
+                "template": "SNORLAX"
+            },
+            {
+                "id": 199,
+                "template": "SLOWKING"
+            },
+            {
+                "id": 289,
+                "template": "SLAKING"
+            },
+            {
+                "id": 454,
+                "template": "TOXICROAK"
+            },
+            {
+                "id": 377,
+                "template": "REGIROCK"
+            },
+            {
+                "id": 378,
+                "template": "REGICE"
+            },
+            {
+                "id": 379,
+                "template": "REGISTEEL"
+            },
+            {
+                "id": 80,
+                "template": "SLOWBRO"
+            }
+        ],
         "shinies": [],
         "bonuses": [],
         "features": [],
-        "has_quests": false,
+        "has_quests": true,
         "has_spawnpoints": false
     },
     {
@@ -1773,6 +1848,10 @@
                 "template": "BIDOOF"
             },
             {
+                "id": 410,
+                "template": "SHIELDON"
+            },
+            {
                 "id": 418,
                 "template": "BUIZEL"
             },
@@ -1963,6 +2042,10 @@
                 "template": "OMANYTE"
             },
             {
+                "id": 155,
+                "template": "CYNDAQUIL"
+            },
+            {
                 "id": 165,
                 "template": "LEDYBA"
             },
@@ -2031,12 +2114,20 @@
                 "template": "FEEBAS"
             },
             {
+                "id": 355,
+                "template": "DUSKULL"
+            },
+            {
                 "id": 370,
                 "template": "LUVDISC"
             },
             {
                 "id": 396,
                 "template": "STARLY"
+            },
+            {
+                "id": 397,
+                "template": "STARAVIA"
             },
             {
                 "id": 415,
@@ -2169,10 +2260,6 @@
             {
                 "id": 408,
                 "template": "CRANIDOS"
-            },
-            {
-                "id": 410,
-                "template": "SHIELDON"
             },
             {
                 "id": 527,

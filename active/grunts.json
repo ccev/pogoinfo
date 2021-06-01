@@ -57,6 +57,11 @@
                 ],
                 [
                     {
+                        "id": 62,
+                        "template": "POLIWRATH_SHADOW",
+                        "form": 242
+                    },
+                    {
                         "id": 143,
                         "template": "SNORLAX_SHADOW",
                         "form": 200
@@ -65,11 +70,6 @@
                         "id": 282,
                         "template": "GARDEVOIR_SHADOW",
                         "form": 299
-                    },
-                    {
-                        "id": 62,
-                        "template": "POLIWRATH_SHADOW",
-                        "form": 242
                     }
                 ],
                 [
