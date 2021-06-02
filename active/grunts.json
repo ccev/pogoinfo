@@ -205,14 +205,14 @@
                 ],
                 [
                     {
-                        "id": 262,
-                        "template": "MIGHTYENA_SHADOW",
-                        "form": 1371
-                    },
-                    {
                         "id": 302,
                         "template": "SABLEYE_SHADOW",
                         "form": 924
+                    },
+                    {
+                        "id": 262,
+                        "template": "MIGHTYENA_SHADOW",
+                        "form": 1371
                     }
                 ],
                 [
@@ -403,14 +403,14 @@
                 ],
                 [
                     {
-                        "id": 106,
-                        "template": "HITMONLEE_SHADOW",
-                        "form": 714
-                    },
-                    {
                         "id": 107,
                         "template": "HITMONCHAN_SHADOW",
                         "form": 278
+                    },
+                    {
+                        "id": 106,
+                        "template": "HITMONLEE_SHADOW",
+                        "form": 714
                     },
                     {
                         "id": 297,
@@ -553,14 +553,14 @@
                 ],
                 [
                     {
-                        "id": 130,
-                        "template": "GYARADOS_SHADOW",
-                        "form": 257
-                    },
-                    {
                         "id": 169,
                         "template": "CROBAT_SHADOW",
                         "form": 203
+                    },
+                    {
+                        "id": 130,
+                        "template": "GYARADOS_SHADOW",
+                        "form": 257
                     },
                     {
                         "id": 149,
