@@ -1,24 +1,5 @@
 [
     {
-        "name": "Dwebble Spotlight Hour",
-        "type": "spotlight-hour",
-        "start": "2021-06-01 18:00",
-        "end": "2021-06-01 19:00",
-        "spawns": [
-            {
-                "id": 557,
-                "template": "DWEBBLE"
-            }
-        ],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": true
-    },
-    {
         "name": "Regirock Raid Hour",
         "type": "raid-hour",
         "start": "2021-06-02 18:00",
@@ -813,6 +794,10 @@
                 "template": "RAICHU"
             },
             {
+                "id": 41,
+                "template": "ZUBAT"
+            },
+            {
                 "id": 52,
                 "template": "MEOWTH"
             },
@@ -1368,10 +1353,6 @@
                 "id": 37,
                 "template": "VULPIX_ALOLA",
                 "form": 56
-            },
-            {
-                "id": 41,
-                "template": "ZUBAT"
             },
             {
                 "id": 50,
