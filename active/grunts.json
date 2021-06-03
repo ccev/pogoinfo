@@ -217,14 +217,14 @@
                 ],
                 [
                     {
-                        "id": 275,
-                        "template": "SHIFTRY_SHADOW",
-                        "form": 632
-                    },
-                    {
                         "id": 332,
                         "template": "CACTURNE_SHADOW",
                         "form": 614
+                    },
+                    {
+                        "id": 275,
+                        "template": "SHIFTRY_SHADOW",
+                        "form": 632
                     }
                 ]
             ]
