@@ -81,6 +81,11 @@
         "spawns": [
             {
                 "id": 79,
+                "template": "SLOWPOKE_GALARIAN",
+                "form": 2582
+            },
+            {
+                "id": 79,
                 "template": "SLOWPOKE"
             },
             {
@@ -106,6 +111,11 @@
         ],
         "eggs": [],
         "raids": [
+            {
+                "id": 79,
+                "template": "SLOWPOKE_GALARIAN",
+                "form": 2582
+            },
             {
                 "id": 88,
                 "template": "GRIMER_ALOLA",
