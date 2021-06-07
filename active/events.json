@@ -1,51 +1,5 @@
 [
     {
-        "name": "Gible Community Day",
-        "type": "community-day",
-        "start": "2021-06-06 11:00",
-        "end": "2021-06-06 17:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [
-            {
-                "id": 443,
-                "template": "GIBLE"
-            },
-            {
-                "id": 444,
-                "template": "GABITE"
-            },
-            {
-                "id": 445,
-                "template": "GARCHOMP"
-            }
-        ],
-        "bonuses": [
-            {
-                "text": "Increased Spawns"
-            },
-            {
-                "text": "3x Catch XP",
-                "template": "increased-xp",
-                "value": 3
-            },
-            {
-                "text": "3-hour Incense",
-                "template": "longer-incense",
-                "value": 3
-            },
-            {
-                "text": "3-hour Lures",
-                "template": "longer-lure",
-                "value": 3
-            }
-        ],
-        "features": [],
-        "has_quests": true,
-        "has_spawnpoints": true
-    },
-    {
         "name": "Abra Spotlight Hour",
         "type": "spotlight-hour",
         "start": "2021-06-08 18:00",
@@ -168,7 +122,8 @@
             },
             {
                 "id": 80,
-                "template": "SLOWBRO"
+                "template": "SLOWBRO",
+                "temp_evolution_id": 1
             }
         ],
         "shinies": [],
@@ -263,7 +218,7 @@
         "has_spawnpoints": true
     },
     {
-        "name": "Bidoof Event 2021",
+        "name": "An Unexpected Event 2021",
         "type": "event",
         "start": "2021-06-25 10:00",
         "end": "2021-07-01 20:00",
