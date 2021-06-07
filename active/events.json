@@ -44,6 +44,15 @@
                 "form": 2582
             },
             {
+                "id": 80,
+                "template": "SLOWBRO_GALARIAN",
+                "form": 2583
+            },
+            {
+                "id": 54,
+                "template": "PSYDUCK"
+            },
+            {
                 "id": 79,
                 "template": "SLOWPOKE"
             },
@@ -130,6 +139,50 @@
         "bonuses": [],
         "features": [],
         "has_quests": true,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Special Raid Weekend - Earn Bonus Candy and Candy XL",
+        "type": "event",
+        "start": "2021-06-12 10:00",
+        "end": "2021-06-13 20:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [
+            {
+                "id": 377,
+                "template": "REGIROCK"
+            },
+            {
+                "id": 378,
+                "template": "REGICE"
+            },
+            {
+                "id": 379,
+                "template": "REGISTEEL"
+            },
+            {
+                "id": 80,
+                "template": "SLOWBRO",
+                "temp_evolution_id": 1
+            }
+        ],
+        "shinies": [],
+        "bonuses": [
+            {
+                "text": "Earn twice the Candy for catching Pokémon",
+                "template": "increased-candy"
+            },
+            {
+                "text": "Trainers level 40 and above will have three times the chance to obtain Candy XL from catching Pokémon",
+                "value": 40
+            },
+            {
+                "text": "Raids will be happening more frequently, including five-star raids and Mega Raids"
+            }
+        ],
+        "features": [],
+        "has_quests": false,
         "has_spawnpoints": false
     },
     {
