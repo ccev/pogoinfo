@@ -1,23 +1,5 @@
 [
     {
-        "name": "Gible Community Day Start",
-        "time": "2021-06-06 11:00",
-        "type": [
-            "cday",
-            "start"
-        ],
-        "confidence": 10
-    },
-    {
-        "name": "Gible Community Day End",
-        "time": "2021-06-06 17:00",
-        "type": [
-            "cday",
-            "end"
-        ],
-        "confidence": 10
-    },
-    {
         "name": "A Very Slow Discovery Start",
         "time": "2021-06-08 10:00",
         "type": [
