@@ -1,24 +1,23 @@
 {
     "1": [
         {
-            "id": 27,
-            "template": "SANDSHREW_ALOLA",
-            "form": 52
+            "id": 79,
+            "template": "SLOWPOKE_GALARIAN",
+            "form": 2582
         },
         {
-            "id": 81,
-            "template": "MAGNEMITE_NORMAL",
-            "form": 655
+            "id": 88,
+            "template": "GRIMER_ALOLA",
+            "form": 74
         },
         {
-            "id": 220,
-            "template": "SWINUB_NORMAL",
-            "form": 1277
+            "id": 90,
+            "template": "SHELLDER_NORMAL",
+            "form": 876
         },
         {
-            "id": 299,
-            "template": "NOSEPASS_NORMAL",
-            "form": 1460
+            "id": 403,
+            "template": "SHINX"
         },
         {
             "id": 532,
@@ -27,23 +26,22 @@
     ],
     "3": [
         {
-            "id": 68,
-            "template": "MACHAMP_NORMAL",
-            "form": 815
+            "id": 143,
+            "template": "SNORLAX_NORMAL",
+            "form": 199
         },
         {
-            "id": 76,
-            "template": "GOLEM_NORMAL",
-            "form": 71
+            "id": 199,
+            "template": "SLOWKING_NORMAL",
+            "form": 1238
         },
         {
-            "id": 87,
-            "template": "DEWGONG"
+            "id": 289,
+            "template": "SLAKING"
         },
         {
-            "id": 227,
-            "template": "SKARMORY_NORMAL",
-            "form": 1295
+            "id": 454,
+            "template": "TOXICROAK"
         }
     ],
     "5": [
@@ -62,8 +60,9 @@
     ],
     "6": [
         {
-            "id": 428,
-            "template": "LOPUNNY",
+            "id": 80,
+            "template": "SLOWBRO_NORMAL",
+            "form": 1020,
             "temp_evolution_id": 1
         }
     ]

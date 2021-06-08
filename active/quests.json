@@ -1,5 +1,119 @@
 {
-    "event": [],
+    "event": [
+        {
+            "task": "Catch 8 Water-type Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 79,
+                        "template": "SLOWPOKE_NORMAL",
+                        "form": 1017
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Catch 8 Psychic-type Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 79,
+                        "template": "SLOWPOKE_NORMAL",
+                        "form": 1017
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Evolve a Psychic-type Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 80,
+                        "template": "SLOWBRO_NORMAL",
+                        "form": 1020
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Give your buddy 3 treats",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 316,
+                        "template": "GULPIN"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Win a raid in under 10 minutes",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 287,
+                        "template": "SLAKOTH"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Evolve 3 Slowpoke",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 79,
+                        "template": "SLOWPOKE_GALARIAN",
+                        "form": 2582
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Win a raid in under 60 seconds",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 79,
+                        "template": "SLOWPOKE_GALARIAN",
+                        "form": 2582
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Evolve a Slowpoke",
+            "rewards": [
+                {
+                    "type": "energy",
+                    "reward": {
+                        "id": 80,
+                        "template": "SLOWBRO_NORMAL",
+                        "form": 1020
+                    },
+                    "amount": 20
+                }
+            ]
+        },
+        {
+            "task": "Evolve a Pokémon",
+            "rewards": [
+                {
+                    "type": "item",
+                    "amount": 1,
+                    "id": 1102
+                }
+            ]
+        }
+    ],
     "quests": [
         {
             "task": "Catch 5 Pokémon with Weather Boost",
@@ -1132,15 +1246,6 @@
         {
             "task": "Power up Pokémon 10 times",
             "rewards": [
-                {
-                    "type": "energy",
-                    "reward": {
-                        "id": 15,
-                        "template": "BEEDRILL_NORMAL",
-                        "form": 622
-                    },
-                    "amount": 20
-                },
                 {
                     "type": "energy",
                     "reward": {

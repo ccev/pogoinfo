@@ -62,14 +62,14 @@
                         "form": 242
                     },
                     {
-                        "id": 282,
-                        "template": "GARDEVOIR_SHADOW",
-                        "form": 299
-                    },
-                    {
                         "id": 143,
                         "template": "SNORLAX_SHADOW",
                         "form": 200
+                    },
+                    {
+                        "id": 282,
+                        "template": "GARDEVOIR_SHADOW",
+                        "form": 299
                     }
                 ],
                 [
@@ -553,14 +553,14 @@
                 ],
                 [
                     {
-                        "id": 169,
-                        "template": "CROBAT_SHADOW",
-                        "form": 203
-                    },
-                    {
                         "id": 130,
                         "template": "GYARADOS_SHADOW",
                         "form": 257
+                    },
+                    {
+                        "id": 169,
+                        "template": "CROBAT_SHADOW",
+                        "form": 203
                     },
                     {
                         "id": 149,
@@ -1008,14 +1008,14 @@
                         "form": 686
                     },
                     {
-                        "id": 79,
-                        "template": "SLOWPOKE_SHADOW",
-                        "form": 1018
-                    },
-                    {
                         "id": 102,
                         "template": "EXEGGCUTE_SHADOW",
                         "form": 730
+                    },
+                    {
+                        "id": 79,
+                        "template": "SLOWPOKE_SHADOW",
+                        "form": 1018
                     }
                 ],
                 [
@@ -1426,14 +1426,14 @@
                         "form": 868
                     },
                     {
-                        "id": 34,
-                        "template": "NIDOKING_SHADOW",
-                        "form": 789
-                    },
-                    {
                         "id": 115,
                         "template": "KANGASKHAN_SHADOW",
                         "form": 840
+                    },
+                    {
+                        "id": 34,
+                        "template": "NIDOKING_SHADOW",
+                        "form": 789
                     }
                 ],
                 [
@@ -1562,14 +1562,14 @@
                 ],
                 [
                     {
-                        "id": 477,
-                        "template": "DUSKNOIR_SHADOW",
-                        "form": 921
-                    },
-                    {
                         "id": 354,
                         "template": "BANETTE_SHADOW",
                         "form": 912
+                    },
+                    {
+                        "id": 477,
+                        "template": "DUSKNOIR_SHADOW",
+                        "form": 921
                     },
                     {
                         "id": 302,
