@@ -1,6 +1,27 @@
 {
     "event": [
         {
+            "task": "Evolve a Psychic-type Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 79,
+                        "template": "SLOWPOKE_NORMAL",
+                        "form": 1017
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 90,
+                        "template": "SHELLDER_NORMAL",
+                        "form": 876
+                    }
+                }
+            ]
+        },
+        {
             "task": "Catch 8 Water-type Pokémon",
             "rewards": [
                 {
@@ -22,19 +43,6 @@
                         "id": 79,
                         "template": "SLOWPOKE_NORMAL",
                         "form": 1017
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Evolve a Psychic-type Pokémon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 80,
-                        "template": "SLOWBRO_NORMAL",
-                        "form": 1020
                     }
                 }
             ]
