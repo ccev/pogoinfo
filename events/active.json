@@ -3,9 +3,21 @@
     "start": null,
     "end": "2021-09-01 10:00",
     "details": {
-        "bonuses": [],
+        "bonuses": [
+            "Galarian Slowpoke and Mega Slowbro debut",
+            "Evolve Galarian Slowpoke to Galarian Slowbro by catching 30 Poison-types with it as your buddy",
+            "Free box in the shop containing 20 Pok\u00e9 Balls, 10 Great Balls, and a King\u2019s Rock"
+        ],
         "eggs": [],
         "spawns": [
+            "079_00",
+            "287_00",
+            "316_00",
+            "325_00",
+            "288_00",
+            "080_00",
+            "088_00",
+            "054_00",
             "001_00",
             "002_00",
             "004_00",
@@ -28,7 +40,6 @@
             "071_00",
             "072_00",
             "073_00",
-            "079_00",
             "081_00",
             "082_00",
             "084_00",
@@ -68,10 +79,8 @@
             "301_00",
             "304_00",
             "315_00",
-            "316_00",
             "320_00",
             "322_00",
-            "325_00",
             "328_00",
             "329_00",
             "333_00",
@@ -112,7 +121,57 @@
             "692_00",
             "714_00"
         ],
-        "raids": {},
-        "quests": {}
+        "raids": {
+            "1": [
+                "079_00",
+                "088_74",
+                "090_00",
+                "403_00",
+                "532_00"
+            ],
+            "3": [
+                "143_00",
+                "199_00",
+                "289_00",
+                "454_00"
+            ],
+            "5": [
+                "377_00",
+                "378_00",
+                "379_00"
+            ],
+            "Mega": [
+                "080_00"
+            ]
+        },
+        "quests": {
+            "Catch 8 Water-type Pok\u00e9mon": [
+                "079_00"
+            ],
+            "Catch 8 Psychic-type Pok\u00e9mon": [
+                "079_00"
+            ],
+            "Give your buddy 3 treats": [
+                "316_00"
+            ],
+            "Win a raid in under 10 minutes": [
+                "287_00"
+            ],
+            "Win a raid in under 60 seconds": [
+                "079_00"
+            ],
+            "Evolve a Psychic-type Pok\u00e9mon": [
+                "080_00"
+            ],
+            "Evolve a Slowpoke": [
+                "20 Mega Slowbro energy"
+            ],
+            "Evolve a Pok\u00e9mon": [
+                "King's Rock"
+            ],
+            "Evolve 3 Pok\u00e9mon": [
+                "079_00"
+            ]
+        }
     }
 }
