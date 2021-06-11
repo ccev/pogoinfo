@@ -1,38 +1,5 @@
 [
     {
-        "name": "Abra Spotlight Hour",
-        "type": "spotlight-hour",
-        "start": "2021-06-08 18:00",
-        "end": "2021-06-08 19:00",
-        "spawns": [
-            {
-                "id": 63,
-                "template": "ABRA"
-            }
-        ],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": true
-    },
-    {
-        "name": "Registeel Raid Hour",
-        "type": "raid-hour",
-        "start": "2021-06-09 18:00",
-        "end": "2021-06-09 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
         "name": "A Very Slow Discovery",
         "type": "event",
         "start": "2021-06-08 10:00",
@@ -287,6 +254,20 @@
         "features": [],
         "has_quests": false,
         "has_spawnpoints": false
+    },
+    {
+        "name": "July Community Day",
+        "type": "community-day",
+        "start": "2021-07-03 11:00",
+        "end": "2021-07-03 17:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": true,
+        "has_spawnpoints": true
     },
     {
         "name": "GO Battle Night",
@@ -750,6 +731,20 @@
         "features": [],
         "has_quests": false,
         "has_spawnpoints": false
+    },
+    {
+        "name": "August Community Day",
+        "type": "community-day",
+        "start": "2021-08-15 11:00",
+        "end": "2021-08-15 17:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": true,
+        "has_spawnpoints": true
     },
     {
         "name": "Season of Discovery",
