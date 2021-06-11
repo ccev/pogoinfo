@@ -245,6 +245,22 @@
             "end": "2021-06-29 19:00",
             "lure_duration": 30,
             "local_times": true
+        },
+        {
+            "name": "July Community Day",
+            "type": "cday",
+            "start": "2021-07-03 11:00",
+            "end": "2021-07-03 17:00",
+            "lure_duration": 30,
+            "local_times": true
+        },
+        {
+            "name": "August Community Day",
+            "type": "cday",
+            "start": "2021-08-15 11:00",
+            "end": "2021-08-15 17:00",
+            "lure_duration": 30,
+            "local_times": true
         }
     ]
 }
