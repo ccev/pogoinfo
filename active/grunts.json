@@ -708,14 +708,14 @@
                 ],
                 [
                     {
-                        "id": 329,
-                        "template": "VIBRAVA_SHADOW",
-                        "form": 750
-                    },
-                    {
                         "id": 105,
                         "template": "MAROWAK_SHADOW",
                         "form": 227
+                    },
+                    {
+                        "id": 329,
+                        "template": "VIBRAVA_SHADOW",
+                        "form": 750
                     },
                     {
                         "id": 247,
