@@ -37,13 +37,127 @@
         "type": "event",
         "start": "2021-06-17 10:00",
         "end": "2021-06-20 20:00",
-        "spawns": [],
+        "spawns": [
+            {
+                "id": 143,
+                "template": "SNORLAX"
+            },
+            {
+                "id": 337,
+                "template": "LUNATONE"
+            },
+            {
+                "id": 338,
+                "template": "SOLROCK"
+            },
+            {
+                "id": 363,
+                "template": "SPHEAL"
+            },
+            {
+                "id": 193,
+                "template": "YANMA"
+            },
+            {
+                "id": 390,
+                "template": "CHIMCHAR"
+            },
+            {
+                "id": 585,
+                "template": "DEERLING_SUMMER",
+                "form": 586
+            },
+            {
+                "id": 361,
+                "template": "SNORUNT"
+            },
+            {
+                "id": 459,
+                "template": "SNOVER"
+            },
+            {
+                "id": 585,
+                "template": "DEERLING_WINTER",
+                "form": 588
+            }
+        ],
         "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
+        "raids": [
+            {
+                "id": 105,
+                "template": "MAROWAK_ALOLA",
+                "form": 80
+            },
+            {
+                "id": 193,
+                "template": "YANMA"
+            },
+            {
+                "id": 548,
+                "template": "PETILIL"
+            },
+            {
+                "id": 131,
+                "template": "LAPRAS"
+            },
+            {
+                "id": 221,
+                "template": "PILOSWINE"
+            },
+            {
+                "id": 361,
+                "template": "SNORUNT"
+            },
+            {
+                "id": 337,
+                "template": "LUNATONE"
+            },
+            {
+                "id": 338,
+                "template": "SOLROCK"
+            },
+            {
+                "id": 599,
+                "template": "KLINK"
+            }
+        ],
+        "shinies": [
+            {
+                "id": 193,
+                "template": "YANMA"
+            },
+            {
+                "id": 361,
+                "template": "SNORUNT"
+            },
+            {
+                "id": 362,
+                "template": "GLALIE"
+            },
+            {
+                "id": 469,
+                "template": "YANMEGA"
+            },
+            {
+                "id": 478,
+                "template": "FROSLASS"
+            }
+        ],
+        "bonuses": [
+            {
+                "text": "Your Buddy will be eager to help you on your adventures! During the event, they’ll give you gift items and Poké Balls more frequently."
+            },
+            {
+                "text": "The walking distance required to earn hearts with your buddy will be halved."
+            }
+        ],
+        "features": [
+            "Raid-related Field Research will also be available from PokéStops exclusively during this window.",
+            "Complete event-exclusive Field Research tasks to earn rewards like encounters with Yanma in the northern hemisphere, encounters with Snorunt in the southern hemisphere, and even Silver Pinap Berries if you’re lucky!",
+            "Take a few snapshots for a surprise!",
+            "Lunatone and Solrock will be appearing in the wild around the world during the event. Afterwards, Lunatone will be appearing exclusively in the eastern hemisphere, and Solrock will be appearing exclusively in the western hemisphere."
+        ],
+        "has_quests": true,
         "has_spawnpoints": false
     },
     {
@@ -85,17 +199,53 @@
         "has_spawnpoints": true
     },
     {
-        "name": "An Unexpected Event 2021",
+        "name": "Bidoof Breakout",
         "type": "event",
         "start": "2021-06-25 10:00",
         "end": "2021-07-01 20:00",
-        "spawns": [],
+        "spawns": [
+            {
+                "id": 399,
+                "template": "BIDOOF"
+            }
+        ],
         "eggs": [],
         "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
+        "shinies": [
+            {
+                "id": 399,
+                "template": "BIDOOF"
+            },
+            {
+                "id": 400,
+                "template": "BIBAREL"
+            }
+        ],
+        "bonuses": [
+            {
+                "text": "2x Catch XP*",
+                "template": "increased-xp",
+                "value": 2
+            },
+            {
+                "text": "3x Catch XP**",
+                "value": 3
+            },
+            {
+                "text": "4x Catch XP***",
+                "value": 4
+            }
+        ],
+        "features": [
+            "Bidoof will be appearing more often in the wild, in raids, and in encounters after you complete event-exclusive Field Research! If you’re lucky, you might encounter a Shiny Bidoof! Our preliminary research suggests that the rate at which Bidoof will be appearing in the wild will increase over the course of the event.",
+            "On certain days of the event, Bidoof you encounter will know attacks that they normally cannot learn. On Thursday, July 1, 2021, from 10:00 a.m. to 8:00 p.m. local time, you can use a Charged TM to teach Bidoof any of these attacks. After the event, you can use an Elite Charged TM to do the same. During each of the times listed below, you can encounter Bidoof that know the following attacks.\n        \nShadow Ball: From Friday, June 25, 2021, at 10:00 a.m. to Saturday, June 26, 2021, at 11:59 p.m. local time\nThunderbolt: From Sunday, June 27, 2021, at 12:00 a.m. to Monday, June 28, 2021, at 11:59 p.m. local time\nIce Beam: From Tuesday, June 29, 2021, at 12:00 a.m. to Wednesday, June 30, 2021, at 11:59 p.m. local time\n\n",
+            "Shadow Ball: From Friday, June 25, 2021, at 10:00 a.m. to Saturday, June 26, 2021, at 11:59 p.m. local time",
+            "Thunderbolt: From Sunday, June 27, 2021, at 12:00 a.m. to Monday, June 28, 2021, at 11:59 p.m. local time",
+            "Ice Beam: From Tuesday, June 29, 2021, at 12:00 a.m. to Wednesday, June 30, 2021, at 11:59 p.m. local time",
+            "Evolve Bidoof anytime during the event to get a Bibarel that knows Hyper Beam.",
+            "You’ll be able to get Bidoof Gift stickers from spinning PokéStops and opening Gifts."
+        ],
+        "has_quests": true,
         "has_spawnpoints": false
     },
     {
