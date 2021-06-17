@@ -1,13 +1,37 @@
 {
     "event": [
         {
-            "task": "Catch 10 Pokémon. ",
+            "task": "Catch 5 Solrock. ",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 338,
+                        "template": "SOLROCK"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "South- Catch 10 Pokémon. ",
             "rewards": [
                 {
                     "type": "pokemon",
                     "reward": {
                         "id": 361,
                         "template": "SNORUNT"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "North- Catch 10 Pokémon. ",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 193,
+                        "template": "YANMA"
                     }
                 }
             ]
@@ -32,33 +56,25 @@
             ]
         },
         {
-            "task": "Earn 3 candies walking with your buddy",
+            "task": "South- Earn 3 candies walking with your buddy",
             "rewards": [
                 {
                     "type": "pokemon",
                     "reward": {
-                        "id": 459,
-                        "template": "SNOVER_NORMAL",
-                        "form": 932
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 193,
-                        "template": "YANMA"
+                        "id": 361,
+                        "template": "SNORUNT"
                     }
                 }
             ]
         },
         {
-            "task": "Catch 5 Solrock. ",
+            "task": "North- Earn 3 candies walking with your buddy",
             "rewards": [
                 {
                     "type": "pokemon",
                     "reward": {
-                        "id": 338,
-                        "template": "SOLROCK"
+                        "id": 193,
+                        "template": "YANMA"
                     }
                 }
             ]
@@ -113,18 +129,6 @@
             ]
         },
         {
-            "task": "Spin 7 PokéStops or Gyms",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 379,
-                        "template": "REGISTEEL"
-                    }
-                }
-            ]
-        },
-        {
             "task": "Use 3 Golden Razz Berries. ",
             "rewards": [
                 {
@@ -139,18 +143,6 @@
                     "reward": {
                         "id": 378,
                         "template": "REGICE"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Use 3 Golden Razz Berries. ",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 379,
-                        "template": "REGISTEEL"
                     }
                 }
             ]
