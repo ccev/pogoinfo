@@ -4,20 +4,18 @@
     "end": "2021-09-01 10:00",
     "details": {
         "bonuses": [
-            "Galarian Slowpoke and Mega Slowbro debut",
-            "Evolve Galarian Slowpoke to Galarian Slowbro by catching 30 Poison-types with it as your buddy",
-            "Free box in the shop containing 20 Pok\u00e9 Balls, 10 Great Balls, and a King\u2019s Rock"
+            "Release of shiny Regigigas",
+            "Lunatone and Solrock spawning globally",
+            "Increased frequency of Buddy presents (also contain Pok\u00e9 Balls)",
+            "Buddy heart walking distance halved to 1km",
+            "Solrock and Lunatone photobombing buddy snapshots (4 a day)"
         ],
         "eggs": [],
         "spawns": [
-            "079_00",
-            "287_00",
-            "316_00",
-            "325_00",
-            "288_00",
-            "080_00",
-            "088_00",
-            "054_00",
+            "337_00",
+            "338_00",
+            "363_00",
+            "143_00",
             "001_00",
             "002_00",
             "004_00",
@@ -40,6 +38,7 @@
             "071_00",
             "072_00",
             "073_00",
+            "079_00",
             "081_00",
             "082_00",
             "084_00",
@@ -51,7 +50,6 @@
             "129_00",
             "133_00",
             "137_00",
-            "143_00",
             "161_00",
             "177_00",
             "178_00",
@@ -79,8 +77,10 @@
             "301_00",
             "304_00",
             "315_00",
+            "316_00",
             "320_00",
             "322_00",
+            "325_00",
             "328_00",
             "329_00",
             "333_00",
@@ -123,55 +123,56 @@
         ],
         "raids": {
             "1": [
-                "079_2582",
-                "088_74",
-                "090_00",
-                "403_00",
-                "532_00"
+                "337_00",
+                "338_00",
+                "599_00",
+                "193_00",
+                "548_00"
             ],
             "3": [
-                "143_00",
-                "199_00",
-                "289_00",
-                "454_00"
+                "105_80"
             ],
             "5": [
-                "377_00",
-                "378_00",
-                "379_00"
+                "486_00"
             ],
             "Mega": [
-                "080_00"
+                "130_00"
+            ],
+            "Tier": [
+                "Raid Bosses"
+            ],
+            ":-": [
+                ":-"
             ]
         },
         "quests": {
-            "Catch 8 Water-type Pok\u00e9mon": [
-                "079_00"
+            "Catch 5 Lunatone": [
+                "337_00"
             ],
-            "Catch 8 Psychic-type Pok\u00e9mon": [
-                "079_00"
+            "Catch 15 Lunatone": [
+                "1 Silver Pinap"
             ],
-            "Give your buddy 3 treats": [
-                "316_00"
+            "Earn 3 candies walking with your buddy": [
+                "459_00",
+                "South)",
+                "193_00",
+                "North)"
             ],
-            "Win a raid in under 10 minutes": [
-                "287_00"
+            "Catch 10 Pokemon": [
+                "361_00",
+                "South)"
             ],
             "Win a raid in under 60 seconds": [
-                "079_2582"
+                "2 Silver Pinaps"
             ],
-            "Evolve a Psychic-type Pok\u00e9mon": [
-                "079_00",
-                "090_00"
+            "Spin 7 Pok\u00e9stops or Gyms ": [
+                "3x Regirock/Regice/Registeel Candy"
             ],
-            "Evolve a Slowpoke": [
-                "20 Mega Slowbro energy"
+            "Use 3 Golden razz ": [
+                "3x Regirock/Regice/Registeel Candy"
             ],
-            "Evolve a Pok\u00e9mon": [
-                "King's Rock"
-            ],
-            "Evolve 3 Slowpoke": [
-                "079_2582"
+            "Win tier 3 or higher raid": [
+                "3x Regigigas Candy"
             ]
         }
     }
