@@ -79,14 +79,14 @@
                         "form": 200
                     },
                     {
-                        "id": 130,
-                        "template": "GYARADOS_SHADOW",
-                        "form": 257
-                    },
-                    {
                         "id": 149,
                         "template": "DRAGONITE_SHADOW",
                         "form": 197
+                    },
+                    {
+                        "id": 130,
+                        "template": "GYARADOS_SHADOW",
+                        "form": 257
                     }
                 ]
             ]
@@ -1431,9 +1431,19 @@
                         "form": 868
                     },
                     {
+                        "id": 76,
+                        "template": "GOLEM_SHADOW",
+                        "form": 886
+                    },
+                    {
                         "id": 34,
                         "template": "NIDOKING_SHADOW",
                         "form": 789
+                    },
+                    {
+                        "id": 68,
+                        "template": "MACHAMP_SHADOW",
+                        "form": 816
                     }
                 ],
                 [

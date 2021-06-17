@@ -6,8 +6,46 @@
                 {
                     "type": "pokemon",
                     "reward": {
+                        "id": 337,
+                        "template": "LUNATONE"
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
                         "id": 338,
                         "template": "SOLROCK"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Catch 5 Lunatone. ",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 337,
+                        "template": "LUNATONE"
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 338,
+                        "template": "SOLROCK"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "North- Earn 3 candies walking with your buddy",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 193,
+                        "template": "YANMA"
                     }
                 }
             ]
@@ -37,25 +75,6 @@
             ]
         },
         {
-            "task": "Catch 5 Lunatone. ",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 337,
-                        "template": "LUNATONE"
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 338,
-                        "template": "SOLROCK"
-                    }
-                }
-            ]
-        },
-        {
             "task": "South- Earn 3 candies walking with your buddy",
             "rewards": [
                 {
@@ -63,18 +82,6 @@
                     "reward": {
                         "id": 361,
                         "template": "SNORUNT"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "North- Earn 3 candies walking with your buddy",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 193,
-                        "template": "YANMA"
                     }
                 }
             ]
@@ -94,7 +101,7 @@
             "rewards": [
                 {
                     "type": "item",
-                    "amount": 2,
+                    "amount": 1,
                     "id": 708
                 }
             ]
@@ -129,7 +136,7 @@
             ]
         },
         {
-            "task": "Use 3 Golden Razz Berries. ",
+            "task": "Use 3 Golden Razz Berries to help catch Pokémon",
             "rewards": [
                 {
                     "type": "pokemon",
