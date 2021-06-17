@@ -1,5 +1,173 @@
 {
-    "event": [],
+    "event": [
+        {
+            "task": "Catch 10 Pokémon. ",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 361,
+                        "template": "SNORUNT"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Catch 5 Lunatone. ",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 337,
+                        "template": "LUNATONE"
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 338,
+                        "template": "SOLROCK"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Earn 3 candies walking with your buddy",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 459,
+                        "template": "SNOVER_NORMAL",
+                        "form": 932
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 193,
+                        "template": "YANMA"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Catch 5 Solrock. ",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 338,
+                        "template": "SOLROCK"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Catch 15 Lunatone. ",
+            "rewards": [
+                {
+                    "type": "item",
+                    "amount": 1,
+                    "id": 708
+                }
+            ]
+        },
+        {
+            "task": "Win a raid in under 60 seconds. ",
+            "rewards": [
+                {
+                    "type": "item",
+                    "amount": 2,
+                    "id": 708
+                }
+            ]
+        },
+        {
+            "task": "Catch 15 Solrock",
+            "rewards": [
+                {
+                    "type": "item",
+                    "amount": 1,
+                    "id": 708
+                }
+            ]
+        },
+        {
+            "task": "Spin 7 PokéStops or Gyms",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 377,
+                        "template": "REGIROCK"
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 378,
+                        "template": "REGICE"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Spin 7 PokéStops or Gyms",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 379,
+                        "template": "REGISTEEL"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Use 3 Golden Razz Berries. ",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 377,
+                        "template": "REGIROCK"
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 378,
+                        "template": "REGICE"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Use 3 Golden Razz Berries. ",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 379,
+                        "template": "REGISTEEL"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Win a level 3 or higher raid",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 486,
+                        "template": "REGIGIGAS"
+                    }
+                }
+            ]
+        }
+    ],
     "quests": [
         {
             "task": "Catch 5 Pokémon with Weather Boost",

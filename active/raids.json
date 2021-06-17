@@ -1,70 +1,77 @@
 {
     "1": [
         {
-            "id": 27,
-            "template": "SANDSHREW_ALOLA",
-            "form": 52
+            "id": 193,
+            "template": "YANMA"
         },
         {
-            "id": 81,
-            "template": "MAGNEMITE_NORMAL",
-            "form": 655
+            "id": 337,
+            "template": "LUNATONE"
         },
         {
-            "id": 220,
-            "template": "SWINUB_NORMAL",
-            "form": 1277
+            "id": 338,
+            "template": "SOLROCK"
         },
         {
-            "id": 299,
-            "template": "NOSEPASS_NORMAL",
-            "form": 1460
+            "id": 361,
+            "template": "SNORUNT"
         },
         {
-            "id": 532,
-            "template": "TIMBURR"
+            "id": 459,
+            "template": "SNOVER_NORMAL",
+            "form": 932
+        },
+        {
+            "id": 548,
+            "template": "PETILIL"
+        },
+        {
+            "id": 599,
+            "template": "KLINK"
         }
     ],
     "3": [
         {
-            "id": 68,
-            "template": "MACHAMP_NORMAL",
-            "form": 815
+            "id": 26,
+            "template": "RAICHU_ALOLA",
+            "form": 50
         },
         {
-            "id": 76,
-            "template": "GOLEM_NORMAL",
-            "form": 71
+            "id": 105,
+            "template": "MAROWAK_ALOLA",
+            "form": 80
         },
         {
-            "id": 87,
-            "template": "DEWGONG"
+            "id": 131,
+            "template": "LAPRAS_NORMAL",
+            "form": 322
         },
         {
-            "id": 227,
-            "template": "SKARMORY_NORMAL",
-            "form": 1295
+            "id": 221,
+            "template": "PILOSWINE_NORMAL",
+            "form": 1280
+        },
+        {
+            "id": 365,
+            "template": "WALREIN_NORMAL",
+            "form": 1604
+        },
+        {
+            "id": 419,
+            "template": "FLOATZEL"
         }
     ],
     "5": [
         {
-            "id": 377,
-            "template": "REGIROCK"
-        },
-        {
-            "id": 378,
-            "template": "REGICE"
-        },
-        {
-            "id": 379,
-            "template": "REGISTEEL"
+            "id": 486,
+            "template": "REGIGIGAS"
         }
     ],
     "6": [
         {
-            "id": 80,
-            "template": "SLOWBRO_NORMAL",
-            "form": 1020,
+            "id": 130,
+            "template": "GYARADOS_NORMAL",
+            "form": 256,
             "temp_evolution_id": 1
         }
     ]
