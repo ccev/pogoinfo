@@ -708,14 +708,14 @@
                 ],
                 [
                     {
-                        "id": 329,
-                        "template": "VIBRAVA_SHADOW",
-                        "form": 750
-                    },
-                    {
                         "id": 105,
                         "template": "MAROWAK_SHADOW",
                         "form": 227
+                    },
+                    {
+                        "id": 329,
+                        "template": "VIBRAVA_SHADOW",
+                        "form": 750
                     },
                     {
                         "id": 247,
@@ -1421,24 +1421,24 @@
                 ],
                 [
                     {
-                        "id": 115,
-                        "template": "KANGASKHAN_SHADOW",
-                        "form": 840
-                    },
-                    {
                         "id": 68,
                         "template": "MACHAMP_SHADOW",
                         "form": 816
                     },
                     {
-                        "id": 445,
-                        "template": "GARCHOMP_SHADOW",
-                        "form": 868
-                    },
-                    {
                         "id": 76,
                         "template": "GOLEM_SHADOW",
                         "form": 886
+                    },
+                    {
+                        "id": 115,
+                        "template": "KANGASKHAN_SHADOW",
+                        "form": 840
+                    },
+                    {
+                        "id": 445,
+                        "template": "GARCHOMP_SHADOW",
+                        "form": 868
                     },
                     {
                         "id": 34,
