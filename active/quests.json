@@ -132,6 +132,13 @@
                         "id": 378,
                         "template": "REGICE"
                     }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 379,
+                        "template": "REGISTEEL"
+                    }
                 }
             ]
         },
@@ -150,6 +157,13 @@
                     "reward": {
                         "id": 378,
                         "template": "REGICE"
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 379,
+                        "template": "REGISTEEL"
                     }
                 }
             ]
