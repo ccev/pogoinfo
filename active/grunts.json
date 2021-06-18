@@ -1431,6 +1431,11 @@
                         "form": 868
                     },
                     {
+                        "id": 68,
+                        "template": "MACHAMP_SHADOW",
+                        "form": 816
+                    },
+                    {
                         "id": 76,
                         "template": "GOLEM_SHADOW",
                         "form": 886
@@ -1439,11 +1444,6 @@
                         "id": 34,
                         "template": "NIDOKING_SHADOW",
                         "form": 789
-                    },
-                    {
-                        "id": 68,
-                        "template": "MACHAMP_SHADOW",
-                        "form": 816
                     }
                 ],
                 [
