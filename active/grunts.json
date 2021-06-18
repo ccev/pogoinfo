@@ -1426,14 +1426,14 @@
                         "form": 840
                     },
                     {
-                        "id": 445,
-                        "template": "GARCHOMP_SHADOW",
-                        "form": 868
-                    },
-                    {
                         "id": 68,
                         "template": "MACHAMP_SHADOW",
                         "form": 816
+                    },
+                    {
+                        "id": 445,
+                        "template": "GARCHOMP_SHADOW",
+                        "form": 868
                     },
                     {
                         "id": 76,
