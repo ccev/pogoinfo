@@ -1,23 +1,5 @@
 [
     {
-        "name": "Solstice Event 2021 Start",
-        "time": "2021-06-17 10:00",
-        "type": [
-            "event",
-            "start"
-        ],
-        "confidence": 9
-    },
-    {
-        "name": "Solstice Event 2021 End",
-        "time": "2021-06-20 20:00",
-        "type": [
-            "event",
-            "end"
-        ],
-        "confidence": 9
-    },
-    {
         "name": "Bidoof Breakout Start",
         "time": "2021-06-25 10:00",
         "type": [
