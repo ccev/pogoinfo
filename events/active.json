@@ -1,6 +1,6 @@
 {
     "name": "Solstice Event 2021",
-    "start": "2021-06-17 10:00",
+    "start": null,
     "end": "2021-06-20 20:00",
     "details": {
         "bonuses": [
@@ -49,6 +49,7 @@
                 "338_00"
             ],
             "Catch 5 Solrock": [
+                "337_00",
                 "338_00"
             ],
             "Catch 15 Lunatone": [
@@ -76,7 +77,7 @@
                 "3x Regirock/Regice/Registeel Candy"
             ],
             "Use 3 Golden Razz Berries to help catch Pokemon": [
-                "3x Regirock/Regice/Registeel Candy"
+                "3x Regirock/Regice/Registeel/Regigigas Candy"
             ],
             "Win a level 3 or higher raid": [
                 "3x Regigigas Candy"
