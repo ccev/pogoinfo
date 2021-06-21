@@ -1,64 +1,44 @@
 {
     "1": [
         {
-            "id": 193,
-            "template": "YANMA"
+            "id": 56,
+            "template": "MANKEY"
         },
         {
-            "id": 337,
-            "template": "LUNATONE"
+            "id": 263,
+            "template": "ZIGZAGOON_GALARIAN",
+            "form": 946
         },
         {
-            "id": 338,
-            "template": "SOLROCK"
+            "id": 453,
+            "template": "CROAGUNK"
         },
         {
-            "id": 361,
-            "template": "SNORUNT"
+            "id": 532,
+            "template": "TIMBURR"
         },
         {
-            "id": 459,
-            "template": "SNOVER_NORMAL",
-            "form": 932
-        },
-        {
-            "id": 548,
-            "template": "PETILIL"
-        },
-        {
-            "id": 599,
-            "template": "KLINK"
+            "id": 602,
+            "template": "TYNAMO"
         }
     ],
     "3": [
         {
-            "id": 26,
-            "template": "RAICHU_ALOLA",
-            "form": 50
+            "id": 62,
+            "template": "POLIWRATH_NORMAL",
+            "form": 241
         },
         {
-            "id": 105,
-            "template": "MAROWAK_ALOLA",
-            "form": 80
+            "id": 286,
+            "template": "BRELOOM"
         },
         {
-            "id": 131,
-            "template": "LAPRAS_NORMAL",
-            "form": 322
+            "id": 308,
+            "template": "MEDICHAM"
         },
         {
-            "id": 221,
-            "template": "PILOSWINE_NORMAL",
-            "form": 1280
-        },
-        {
-            "id": 365,
-            "template": "WALREIN_NORMAL",
-            "form": 1604
-        },
-        {
-            "id": 419,
-            "template": "FLOATZEL"
+            "id": 596,
+            "template": "GALVANTULA"
         }
     ],
     "5": [
