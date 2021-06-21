@@ -707,6 +707,25 @@
         "has_spawnpoints": false
     },
     {
+        "name": "Pikachu wearing an Okinawan kariyushi shirt and Shiny Corsola",
+        "type": "event",
+        "start": "2021-07-22 00:00",
+        "end": "2021-07-21 23:59",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [
+            {
+                "id": 222,
+                "template": "CORSOLA"
+            }
+        ],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
         "name": "August Community Day",
         "type": "community-day",
         "start": "2021-08-15 11:00",
