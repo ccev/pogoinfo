@@ -886,5 +886,11 @@
         "type": "Raid Hour",
         "start": "2021-06-30 18:00",
         "end": "2021-06-30 19:00"
+    },
+    {
+        "name": "Pikachu wearing an Okinawan kariyushi shirt and Shiny Corsola",
+        "type": "Event",
+        "start": "2021-07-22 00:00",
+        "end": "2021-07-21 23:59"
     }
 ]
