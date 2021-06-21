@@ -102,15 +102,47 @@
         "has_spawnpoints": false
     },
     {
-        "name": "July Community Day",
+        "name": "Tepig Community Day",
         "type": "community-day",
         "start": "2021-07-03 11:00",
         "end": "2021-07-03 17:00",
         "spawns": [],
         "eggs": [],
         "raids": [],
-        "shinies": [],
-        "bonuses": [],
+        "shinies": [
+            {
+                "id": 498,
+                "template": "TEPIG"
+            },
+            {
+                "id": 499,
+                "template": "PIGNITE"
+            },
+            {
+                "id": 500,
+                "template": "EMBOAR"
+            }
+        ],
+        "bonuses": [
+            {
+                "text": "Increased Spawns"
+            },
+            {
+                "text": "3x Catch Stardust",
+                "template": "increased-stardust",
+                "value": 3
+            },
+            {
+                "text": "3-hour Incense",
+                "template": "longer-incense",
+                "value": 3
+            },
+            {
+                "text": "3-hour Lures",
+                "template": "longer-lure",
+                "value": 3
+            }
+        ],
         "features": [],
         "has_quests": true,
         "has_spawnpoints": true
