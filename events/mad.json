@@ -261,6 +261,14 @@
             "end": "2021-08-15 17:00",
             "lure_duration": 30,
             "local_times": true
+        },
+        {
+            "name": "Tepig Community Day",
+            "type": "cday",
+            "start": "2021-07-03 11:00",
+            "end": "2021-07-03 17:00",
+            "lure_duration": 30,
+            "local_times": true
         }
     ]
 }

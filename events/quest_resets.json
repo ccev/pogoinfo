@@ -18,7 +18,7 @@
         "confidence": 9
     },
     {
-        "name": "July Community Day Start",
+        "name": "Tepig Community Day Start",
         "time": "2021-07-03 11:00",
         "type": [
             "cday",
@@ -27,7 +27,7 @@
         "confidence": 10
     },
     {
-        "name": "July Community Day End",
+        "name": "Tepig Community Day End",
         "time": "2021-07-03 17:00",
         "type": [
             "cday",
