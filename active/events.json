@@ -77,7 +77,8 @@
             "Thunderbolt: From Sunday, June 27, 2021, at 12:00 a.m. to Monday, June 28, 2021, at 11:59 p.m. local time",
             "Ice Beam: From Tuesday, June 29, 2021, at 12:00 a.m. to Wednesday, June 30, 2021, at 11:59 p.m. local time",
             "Evolve Bidoof anytime during the event to get a Bibarel that knows Hyper Beam.",
-            "You’ll be able to get Bidoof Gift stickers from spinning PokéStops and opening Gifts."
+            "You’ll be able to get Bidoof Gift stickers from spinning PokéStops and opening Gifts.",
+            "There will be an event-exclusive Special Research story for special rewards."
         ],
         "has_quests": true,
         "has_spawnpoints": false
@@ -553,6 +554,10 @@
                 "template": "CRESSELIA"
             },
             {
+                "id": 640,
+                "template": "VIRIZION"
+            },
+            {
                 "id": 641,
                 "template": "TORNADUS_THERIAN",
                 "form": 141
@@ -578,6 +583,10 @@
                 "template": "HEATRAN"
             },
             {
+                "id": 639,
+                "template": "TERRAKION"
+            },
+            {
                 "id": 643,
                 "template": "RESHIRAM"
             },
@@ -585,6 +594,10 @@
                 "id": 645,
                 "template": "LANDORUS_THERIAN",
                 "form": 145
+            },
+            {
+                "id": 717,
+                "template": "YVELTAL"
             },
             {
                 "id": 144,
@@ -646,6 +659,10 @@
             {
                 "id": 483,
                 "template": "DIALGA"
+            },
+            {
+                "id": 638,
+                "template": "COBALION"
             },
             {
                 "id": 642,
