@@ -79,14 +79,14 @@
                         "form": 200
                     },
                     {
-                        "id": 149,
-                        "template": "DRAGONITE_SHADOW",
-                        "form": 197
-                    },
-                    {
                         "id": 130,
                         "template": "GYARADOS_SHADOW",
                         "form": 257
+                    },
+                    {
+                        "id": 149,
+                        "template": "DRAGONITE_SHADOW",
+                        "form": 197
                     }
                 ]
             ]
@@ -161,14 +161,14 @@
                         "form": 623
                     },
                     {
-                        "id": 123,
-                        "template": "SCYTHER_SHADOW",
-                        "form": 248
-                    },
-                    {
                         "id": 212,
                         "template": "SCIZOR_SHADOW",
                         "form": 251
+                    },
+                    {
+                        "id": 123,
+                        "template": "SCYTHER_SHADOW",
+                        "form": 248
                     }
                 ]
             ]
@@ -648,14 +648,14 @@
                 ],
                 [
                     {
-                        "id": 45,
-                        "template": "VILEPLUME_SHADOW",
-                        "form": 272
-                    },
-                    {
                         "id": 275,
                         "template": "SHIFTRY_SHADOW",
                         "form": 632
+                    },
+                    {
+                        "id": 45,
+                        "template": "VILEPLUME_SHADOW",
+                        "form": 272
                     },
                     {
                         "id": 71,
@@ -708,14 +708,14 @@
                 ],
                 [
                     {
-                        "id": 329,
-                        "template": "VIBRAVA_SHADOW",
-                        "form": 750
-                    },
-                    {
                         "id": 105,
                         "template": "MAROWAK_SHADOW",
                         "form": 227
+                    },
+                    {
+                        "id": 329,
+                        "template": "VIBRAVA_SHADOW",
+                        "form": 750
                     },
                     {
                         "id": 247,
@@ -1008,14 +1008,14 @@
                         "form": 686
                     },
                     {
-                        "id": 79,
-                        "template": "SLOWPOKE_SHADOW",
-                        "form": 1018
-                    },
-                    {
                         "id": 102,
                         "template": "EXEGGCUTE_SHADOW",
                         "form": 730
+                    },
+                    {
+                        "id": 79,
+                        "template": "SLOWPOKE_SHADOW",
+                        "form": 1018
                     }
                 ],
                 [
@@ -1562,14 +1562,14 @@
                 ],
                 [
                     {
-                        "id": 354,
-                        "template": "BANETTE_SHADOW",
-                        "form": 912
-                    },
-                    {
                         "id": 477,
                         "template": "DUSKNOIR_SHADOW",
                         "form": 921
+                    },
+                    {
+                        "id": 354,
+                        "template": "BANETTE_SHADOW",
+                        "form": 912
                     },
                     {
                         "id": 302,
