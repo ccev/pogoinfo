@@ -1,19 +1,5 @@
 [
     {
-        "name": "Regigigas Raid Hour",
-        "type": "raid-hour",
-        "start": "2021-06-30 18:00",
-        "end": "2021-06-30 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Aipom Spotlight Hour",
         "type": "spotlight-hour",
         "start": "2021-06-29 18:00",
@@ -31,6 +17,20 @@
         "features": [],
         "has_quests": false,
         "has_spawnpoints": true
+    },
+    {
+        "name": "Regigigas Raid Hour",
+        "type": "raid-hour",
+        "start": "2021-06-30 18:00",
+        "end": "2021-06-30 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
     },
     {
         "name": "Bidoof Breakout",
@@ -522,7 +522,145 @@
                 "template": "AUDINO"
             }
         ],
-        "raids": [],
+        "raids": [
+            {
+                "id": 150,
+                "template": "MEWTWO"
+            },
+            {
+                "id": 250,
+                "template": "HO_OH"
+            },
+            {
+                "id": 380,
+                "template": "LATIAS"
+            },
+            {
+                "id": 381,
+                "template": "LATIOS"
+            },
+            {
+                "id": 486,
+                "template": "REGIGIGAS"
+            },
+            {
+                "id": 487,
+                "template": "GIRATINA_ALTERED",
+                "form": 90
+            },
+            {
+                "id": 488,
+                "template": "CRESSELIA"
+            },
+            {
+                "id": 641,
+                "template": "TORNADUS_THERIAN",
+                "form": 141
+            },
+            {
+                "id": 146,
+                "template": "MOLTRES"
+            },
+            {
+                "id": 244,
+                "template": "ENTEI"
+            },
+            {
+                "id": 377,
+                "template": "REGIROCK"
+            },
+            {
+                "id": 383,
+                "template": "GROUDON"
+            },
+            {
+                "id": 485,
+                "template": "HEATRAN"
+            },
+            {
+                "id": 643,
+                "template": "RESHIRAM"
+            },
+            {
+                "id": 645,
+                "template": "LANDORUS_THERIAN",
+                "form": 145
+            },
+            {
+                "id": 144,
+                "template": "ARTICUNO"
+            },
+            {
+                "id": 245,
+                "template": "SUICUNE"
+            },
+            {
+                "id": 249,
+                "template": "LUGIA"
+            },
+            {
+                "id": 378,
+                "template": "REGICE"
+            },
+            {
+                "id": 382,
+                "template": "KYOGRE"
+            },
+            {
+                "id": 480,
+                "template": "UXIE"
+            },
+            {
+                "id": 481,
+                "template": "MESPRIT"
+            },
+            {
+                "id": 482,
+                "template": "AZELF"
+            },
+            {
+                "id": 484,
+                "template": "PALKIA"
+            },
+            {
+                "id": 646,
+                "template": "KYUREM_NORMAL",
+                "form": 146
+            },
+            {
+                "id": 145,
+                "template": "ZAPDOS"
+            },
+            {
+                "id": 243,
+                "template": "RAIKOU"
+            },
+            {
+                "id": 379,
+                "template": "REGISTEEL"
+            },
+            {
+                "id": 384,
+                "template": "RAYQUAZA"
+            },
+            {
+                "id": 483,
+                "template": "DIALGA"
+            },
+            {
+                "id": 642,
+                "template": "THUNDURUS_THERIAN",
+                "form": 143
+            },
+            {
+                "id": 644,
+                "template": "ZEKROM"
+            },
+            {
+                "id": 716,
+                "template": "XERNEAS"
+            }
+        ],
         "shinies": [
             {
                 "id": 293,
