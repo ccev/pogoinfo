@@ -1,23 +1,5 @@
 [
     {
-        "name": "Bidoof Breakout Start",
-        "time": "2021-06-25 10:00",
-        "type": [
-            "event",
-            "start"
-        ],
-        "confidence": 9
-    },
-    {
-        "name": "Bidoof Breakout End",
-        "time": "2021-07-01 20:00",
-        "type": [
-            "event",
-            "end"
-        ],
-        "confidence": 9
-    },
-    {
         "name": "Tepig Community Day Start",
         "time": "2021-07-03 11:00",
         "type": [
