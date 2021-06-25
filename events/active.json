@@ -4,18 +4,19 @@
     "end": "2021-09-01 10:00",
     "details": {
         "bonuses": [
-            "Release of shiny Regigigas",
-            "Lunatone and Solrock spawning globally",
-            "Increased frequency of Buddy presents (also contain Pok\u00e9 Balls)",
-            "Buddy heart walking distance halved to 1km",
-            "Solrock and Lunatone photobombing buddy snapshots (4 a day)"
+            "Release of shiny Bidoof and shadow Bidoof",
+            "Evolve Bidoof to get Bibarel that knows Hyper Beam",
+            "Bidoof stickers from Pok\u00e9Stops and gifts",
+            "2x Catch XP",
+            "Encountered Bidoof will know Shadow Ball",
+            "3x Catch XP",
+            "Encountered Bidoof will know Thunderbolt",
+            "4x Catch XP",
+            "Encountered Bidoof will know Ice Beam"
         ],
         "eggs": [],
         "spawns": [
-            "337_00",
-            "338_00",
-            "363_00",
-            "143_00",
+            "399_00",
             "001_00",
             "002_00",
             "004_00",
@@ -50,6 +51,7 @@
             "129_00",
             "133_00",
             "137_00",
+            "143_00",
             "161_00",
             "177_00",
             "178_00",
@@ -85,7 +87,6 @@
             "329_00",
             "333_00",
             "374_00",
-            "399_00",
             "410_00",
             "418_00",
             "431_00",
@@ -123,68 +124,35 @@
         ],
         "raids": {
             "1": [
-                "337_00",
-                "338_00",
-                "599_00",
-                "193_00",
-                "548_00"
+                "399_00",
+                "056_00",
+                "453_00",
+                "532_00",
+                "602_00",
+                "263_946"
             ],
             "3": [
-                "105_80",
-                "419_00",
-                "026_50"
+                "062_00",
+                "286_00",
+                "308_00",
+                "596_00"
             ],
             "5": [
                 "486_00"
             ],
             "Mega": [
                 "130_00"
-            ],
-            "Tier": [
-                "Raid Bosses"
-            ],
-            ":-": [
-                ":-"
             ]
         },
         "quests": {
-            "Catch 5 Lunatone": [
-                "337_00",
-                "338_00"
+            "Catch a Bidoof": [
+                "399_00"
             ],
-            "Catch 5 Solrock": [
-                "337_00",
-                "338_00"
+            "Catch 3 Bidoof": [
+                "399_00"
             ],
-            "Catch 15 Lunatone": [
-                "1 Silver Pinap"
-            ],
-            "Catch 15 Solrock": [
-                "1 Silver Pinap"
-            ],
-            "Earn 3 candies walking with your buddy": [
-                "361_00",
-                "South)",
-                "193_00",
-                "North)"
-            ],
-            "Catch 10 Pokemon": [
-                "361_00",
-                "South)",
-                "193_00",
-                "North)"
-            ],
-            "Win a raid in under 60 seconds": [
-                "1 Silver Pinap"
-            ],
-            "Spin 7 Pok\u00e9stops or Gyms ": [
-                "3x Regirock/Regice/Registeel Candy"
-            ],
-            "Use 3 Golden Razz Berries to help catch Pokemon": [
-                "3x Regirock/Regice/Registeel/Regigigas Candy"
-            ],
-            "Win a level 3 or higher raid": [
-                "3x Regigigas Candy"
+            "Catch 5 Bidoof": [
+                "10 Pok\u00e9 Balls"
             ]
         }
     }
