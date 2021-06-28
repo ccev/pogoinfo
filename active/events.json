@@ -84,6 +84,52 @@
         "has_spawnpoints": false
     },
     {
+        "name": "Bidoof Day",
+        "type": "event",
+        "start": "2021-07-01 10:00",
+        "end": "2021-07-01 20:00",
+        "spawns": [
+            {
+                "id": 399,
+                "template": "BIDOOF"
+            }
+        ],
+        "eggs": [],
+        "raids": [
+            {
+                "id": 399,
+                "template": "BIDOOF"
+            }
+        ],
+        "shinies": [
+            {
+                "id": 399,
+                "template": "BIDOOF"
+            },
+            {
+                "id": 400,
+                "template": "BIBAREL"
+            }
+        ],
+        "bonuses": [
+            {
+                "text": "4x Catch XP",
+                "template": "increased-xp",
+                "value": 4
+            }
+        ],
+        "features": [
+            "Features that are available throughout the Bidoof Breakout event will be available on Bidoof Day.",
+            "Bidoof will also be the only Pokémon you can challenge in one-star, three-star, and even five-star Raid Battles! If you’re lucky, you might encounter a Shiny Bidoof! Mega Raids will not be available during this time.",
+            "Bidoof caught during this time will know Superpower, and you’ll be able to use a Charged TM during the event to teach Bidoof Ice Beam, Shadow Ball, or Thunderbolt. After the event, you can use an Elite Charged TM to teach Bidoof Ice Beam, Shadow Ball, Superpower, or Thunderbolt.",
+            "The Bidoof Cup will be available in the GO Battle League throughout the day! Only Bidoof will be eligible in this cup, and teams of only Bidoof will be allowed. The Master League, the Master League Classic, and the Element Cup will still be available during this time.",
+            "Complete a free event-exclusive Special Research story for special rewards! This will be the first Special Research in which you’ll make choices that’ll affect the research’s story and some parts of your event experience!",
+            "Complete the research to earn an exclusive Bidoof Hat avatar item."
+        ],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
         "name": "Tepig Community Day",
         "type": "community-day",
         "start": "2021-07-03 11:00",
