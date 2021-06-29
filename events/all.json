@@ -898,5 +898,47 @@
         "type": "Event",
         "start": "2021-07-01 10:00",
         "end": "2021-07-01 20:00"
+    },
+    {
+        "name": "Bulbasaur Spotlight Hour",
+        "type": "Pok\u00e9mon Spotlight Hour",
+        "start": "2021-07-06 18:00",
+        "end": "2021-07-06 19:00"
+    },
+    {
+        "name": "Defense Forme Deoxys Raid Hour",
+        "type": "Raid Hour",
+        "start": "2021-07-14 18:00",
+        "end": "2021-07-14 19:00"
+    },
+    {
+        "name": "Charmander Spotlight Hour",
+        "type": "Pok\u00e9mon Spotlight Hour",
+        "start": "2021-07-13 18:00",
+        "end": "2021-07-13 19:00"
+    },
+    {
+        "name": "Pok\u00e9mon GO's Anniversay Celebration",
+        "type": "Event",
+        "start": "2021-07-06 10:00",
+        "end": "2021-07-15 20:00"
+    },
+    {
+        "name": "Squirtle Spotlight Hour",
+        "type": "Pok\u00e9mon Spotlight Hour",
+        "start": "2021-07-20 18:00",
+        "end": "2021-07-20 19:00"
+    },
+    {
+        "name": "Mewtwo Raid Hour",
+        "type": "Raid Hour",
+        "start": "2021-07-21 18:00",
+        "end": "2021-07-21 19:00"
+    },
+    {
+        "name": "Natu Spotlight Hour",
+        "type": "Pok\u00e9mon Spotlight Hour",
+        "start": "2021-07-27 18:00",
+        "end": "2021-07-27 19:00"
     }
 ]

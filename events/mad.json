@@ -269,6 +269,38 @@
             "end": "2021-07-03 17:00",
             "lure_duration": 30,
             "local_times": true
+        },
+        {
+            "name": "Bulbasaur Spotlight Hour",
+            "type": "spotlight",
+            "start": "2021-07-06 18:00",
+            "end": "2021-07-06 19:00",
+            "lure_duration": 30,
+            "local_times": true
+        },
+        {
+            "name": "Charmander Spotlight Hour",
+            "type": "spotlight",
+            "start": "2021-07-13 18:00",
+            "end": "2021-07-13 19:00",
+            "lure_duration": 30,
+            "local_times": true
+        },
+        {
+            "name": "Squirtle Spotlight Hour",
+            "type": "spotlight",
+            "start": "2021-07-20 18:00",
+            "end": "2021-07-20 19:00",
+            "lure_duration": 30,
+            "local_times": true
+        },
+        {
+            "name": "Natu Spotlight Hour",
+            "type": "spotlight",
+            "start": "2021-07-27 18:00",
+            "end": "2021-07-27 19:00",
+            "lure_duration": 30,
+            "local_times": true
         }
     ]
 }
