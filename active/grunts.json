@@ -156,14 +156,14 @@
                 ],
                 [
                     {
-                        "id": 15,
-                        "template": "BEEDRILL_SHADOW",
-                        "form": 623
-                    },
-                    {
                         "id": 212,
                         "template": "SCIZOR_SHADOW",
                         "form": 251
+                    },
+                    {
+                        "id": 15,
+                        "template": "BEEDRILL_SHADOW",
+                        "form": 623
                     },
                     {
                         "id": 123,
@@ -553,14 +553,14 @@
                 ],
                 [
                     {
-                        "id": 169,
-                        "template": "CROBAT_SHADOW",
-                        "form": 203
-                    },
-                    {
                         "id": 130,
                         "template": "GYARADOS_SHADOW",
                         "form": 257
+                    },
+                    {
+                        "id": 169,
+                        "template": "CROBAT_SHADOW",
+                        "form": 203
                     },
                     {
                         "id": 149,
@@ -921,14 +921,14 @@
                 ],
                 [
                     {
-                        "id": 30,
-                        "template": "NIDORINA_SHADOW",
-                        "form": 780
-                    },
-                    {
                         "id": 33,
                         "template": "NIDORINO_SHADOW",
                         "form": 786
+                    },
+                    {
+                        "id": 30,
+                        "template": "NIDORINA_SHADOW",
+                        "form": 780
                     }
                 ],
                 [
@@ -1022,14 +1022,14 @@
                 ],
                 [
                     {
-                        "id": 103,
-                        "template": "EXEGGUTOR_SHADOW",
-                        "form": 732
-                    },
-                    {
                         "id": 97,
                         "template": "HYPNO_SHADOW",
                         "form": 218
+                    },
+                    {
+                        "id": 103,
+                        "template": "EXEGGUTOR_SHADOW",
+                        "form": 732
                     },
                     {
                         "id": 281,
@@ -1468,14 +1468,14 @@
                 ],
                 [
                     {
-                        "id": 20,
-                        "template": "RATICATE_SHADOW",
-                        "form": 155
-                    },
-                    {
                         "id": 70,
                         "template": "WEEPINBELL_SHADOW",
                         "form": 668
+                    },
+                    {
+                        "id": 20,
+                        "template": "RATICATE_SHADOW",
+                        "form": 155
                     }
                 ],
                 [

@@ -1,63 +1,9 @@
 {
-    "1": [
-        {
-            "id": 56,
-            "template": "MANKEY"
-        },
-        {
-            "id": 263,
-            "template": "ZIGZAGOON_GALARIAN",
-            "form": 946
-        },
+    "5": [
         {
             "id": 399,
             "template": "BIDOOF_NORMAL",
             "form": 1667
-        },
-        {
-            "id": 453,
-            "template": "CROAGUNK"
-        },
-        {
-            "id": 532,
-            "template": "TIMBURR"
-        },
-        {
-            "id": 602,
-            "template": "TYNAMO"
-        }
-    ],
-    "3": [
-        {
-            "id": 62,
-            "template": "POLIWRATH_NORMAL",
-            "form": 241
-        },
-        {
-            "id": 286,
-            "template": "BRELOOM"
-        },
-        {
-            "id": 308,
-            "template": "MEDICHAM"
-        },
-        {
-            "id": 596,
-            "template": "GALVANTULA"
-        }
-    ],
-    "5": [
-        {
-            "id": 486,
-            "template": "REGIGIGAS"
-        }
-    ],
-    "6": [
-        {
-            "id": 130,
-            "template": "GYARADOS_NORMAL",
-            "form": 256,
-            "temp_evolution_id": 1
         }
     ]
 }
