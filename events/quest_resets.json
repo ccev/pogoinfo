@@ -1,23 +1,5 @@
 [
     {
-        "name": "Tepig Community Day Start",
-        "time": "2021-07-03 11:00",
-        "type": [
-            "cday",
-            "start"
-        ],
-        "confidence": 10
-    },
-    {
-        "name": "Tepig Community Day End",
-        "time": "2021-07-03 17:00",
-        "type": [
-            "cday",
-            "end"
-        ],
-        "confidence": 10
-    },
-    {
         "name": "August Community Day Start",
         "time": "2021-08-15 11:00",
         "type": [
