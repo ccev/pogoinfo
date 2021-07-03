@@ -1,9 +1,65 @@
 {
+    "1": [
+        {
+            "id": 96,
+            "template": "DROWZEE_NORMAL",
+            "form": 214
+        },
+        {
+            "id": 111,
+            "template": "RHYHORN_NORMAL",
+            "form": 846
+        },
+        {
+            "id": 198,
+            "template": "MURKROW_NORMAL",
+            "form": 855
+        },
+        {
+            "id": 355,
+            "template": "DUSKULL_NORMAL",
+            "form": 914
+        },
+        {
+            "id": 607,
+            "template": "LITWICK"
+        }
+    ],
+    "3": [
+        {
+            "id": 105,
+            "template": "MAROWAK_ALOLA",
+            "form": 80
+        },
+        {
+            "id": 127,
+            "template": "PINSIR_NORMAL",
+            "form": 898
+        },
+        {
+            "id": 248,
+            "template": "TYRANITAR_NORMAL",
+            "form": 319
+        },
+        {
+            "id": 359,
+            "template": "ABSOL_NORMAL",
+            "form": 830
+        }
+    ],
     "5": [
         {
-            "id": 399,
-            "template": "BIDOOF_NORMAL",
-            "form": 1667
+            "id": 386,
+            "template": "DEOXYS_DEFENSE",
+            "form": 35
+        }
+    ],
+    "6": [
+        {
+            "id": 229,
+            "template": "HOUNDOOM_NORMAL",
+            "form": 232,
+            "temp_evolution_id": 1
         }
     ]
 }
