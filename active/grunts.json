@@ -1032,14 +1032,14 @@
                 ],
                 [
                     {
-                        "id": 97,
-                        "template": "HYPNO_SHADOW",
-                        "form": 218
-                    },
-                    {
                         "id": 103,
                         "template": "EXEGGUTOR_SHADOW",
                         "form": 732
+                    },
+                    {
+                        "id": 97,
+                        "template": "HYPNO_SHADOW",
+                        "form": 218
                     },
                     {
                         "id": 281,
@@ -1272,14 +1272,14 @@
                         "form": 320
                     },
                     {
-                        "id": 319,
-                        "template": "SHARPEDO_SHADOW",
-                        "form": 738
-                    },
-                    {
                         "id": 389,
                         "template": "TORTERRA_SHADOW",
                         "form": 695
+                    },
+                    {
+                        "id": 319,
+                        "template": "SHARPEDO_SHADOW",
+                        "form": 738
                     }
                 ]
             ]
