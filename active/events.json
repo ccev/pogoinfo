@@ -70,12 +70,150 @@
         "type": "event",
         "start": "2021-07-06 10:00",
         "end": "2021-07-15 20:00",
-        "spawns": [],
+        "spawns": [
+            {
+                "id": 1,
+                "template": "BULBASAUR"
+            },
+            {
+                "id": 4,
+                "template": "CHARMANDER"
+            },
+            {
+                "id": 7,
+                "template": "SQUIRTLE"
+            },
+            {
+                "id": 252,
+                "template": "TREECKO"
+            },
+            {
+                "id": 255,
+                "template": "TORCHIC"
+            },
+            {
+                "id": 258,
+                "template": "MUDKIP"
+            },
+            {
+                "id": 495,
+                "template": "SNIVY"
+            },
+            {
+                "id": 498,
+                "template": "TEPIG"
+            },
+            {
+                "id": 501,
+                "template": "OSHAWOTT"
+            },
+            {
+                "id": 554,
+                "template": "DARUMAKA"
+            },
+            {
+                "id": 152,
+                "template": "CHIKORITA"
+            },
+            {
+                "id": 155,
+                "template": "CYNDAQUIL"
+            },
+            {
+                "id": 158,
+                "template": "TOTODILE"
+            },
+            {
+                "id": 387,
+                "template": "TURTWIG"
+            },
+            {
+                "id": 390,
+                "template": "CHIMCHAR"
+            },
+            {
+                "id": 393,
+                "template": "PIPLUP"
+            },
+            {
+                "id": 650,
+                "template": "CHESPIN"
+            },
+            {
+                "id": 653,
+                "template": "FENNEKIN"
+            },
+            {
+                "id": 656,
+                "template": "FROAKIE"
+            }
+        ],
         "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
+        "raids": [
+            {
+                "id": 554,
+                "template": "DARUMAKA"
+            },
+            {
+                "id": 650,
+                "template": "CHESPIN"
+            },
+            {
+                "id": 653,
+                "template": "FENNEKIN"
+            },
+            {
+                "id": 656,
+                "template": "FROAKIE"
+            },
+            {
+                "id": 386,
+                "template": "DEOXYS_DEFENSE",
+                "form": 35
+            },
+            {
+                "id": 229,
+                "template": "HOUNDOOM",
+                "temp_evolution_id": 1
+            }
+        ],
+        "shinies": [
+            {
+                "id": 554,
+                "template": "DARUMAKA"
+            },
+            {
+                "id": 555,
+                "template": "DARMANITAN_STANDARD",
+                "form": 138
+            },
+            {
+                "id": 808,
+                "template": "MELTAN"
+            },
+            {
+                "id": 809,
+                "template": "MELMETAL"
+            }
+        ],
+        "bonuses": [
+            {
+                "text": "1-hour Lure Modules",
+                "template": "longer-lure",
+                "value": 1
+            }
+        ],
+        "features": [
+            "You’ll receive daily bonus Field Research tasks that lead to encounters with Bulbasaur, Charmander, Squirtle, Chikorita, Cyndaquil, Totodile, Treecko, Torchic, Mudkip, Turtwig, Chimchar, Piplup, Snivy, Tepig, Oshawott, Chespin, Fennekin, and Froakie.",
+            "Complete the Collection Challenge for this event for a reward encounter with Flying Pikachu with a 5-shaped balloon, as well as Rare Candy and a massive amount of Poké Balls!",
+            "Remember the in-game fireworks from Pokémon GO Fest last year? They’re returning this year to the map in celebration of our five years!",
+            "While you’re looking out for fireworks during the fifth-anniversary celebration, check out the new in-game sky, too! That’s right—the previously announced real-time sky mechanic and additional Pokédex classifications will be available to everyone in the coming days.You can also learn more about the Pokédex classifications in this help center article here.",
+            "If you’re lucky, you might encounter a Shiny Meltan when you activate the Mystery Box during the fifth-anniversary celebration!",
+            "The Jump-Start Special Research will be available during this time for any Trainers who missed out on it during last year’s anniversary celebration, so be sure to open the app during this period to claim it. This Special Research is designed to help you catch up with other Trainers, with a ton of Stardust and XP rewards, as well as some exciting Pokémon encounters.",
+            "You can get fifth-anniversary Gift stickers when you spin PokéStops and open Gifts. You can also pick them up in the shop.",
+            "You’ll be able to expand your Item Bag up to 3,500 from Monday, July 5, 2021 at 1:00 p.m. PDT (GMT −7)! If you need more space in your Item Bag, you can get Item Bag upgrades in the shop.",
+            "The Special Box, Ultra Box, and Adventure Box will contain different items starting on Monday, July 5, 2021, at 1:00 p.m. PDT (GMT −7)."
+        ],
         "has_quests": false,
         "has_spawnpoints": false
     },
