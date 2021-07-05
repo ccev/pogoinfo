@@ -214,7 +214,7 @@
             "You’ll be able to expand your Item Bag up to 3,500 from Monday, July 5, 2021 at 1:00 p.m. PDT (GMT −7)! If you need more space in your Item Bag, you can get Item Bag upgrades in the shop.",
             "The Special Box, Ultra Box, and Adventure Box will contain different items starting on Monday, July 5, 2021, at 1:00 p.m. PDT (GMT −7)."
         ],
-        "has_quests": false,
+        "has_quests": true,
         "has_spawnpoints": false
     },
     {
