@@ -66,7 +66,7 @@
         "has_spawnpoints": true
     },
     {
-        "name": "Pokémon GO's Anniversay Celebration",
+        "name": "Pokémon GO's Anniversary Celebration",
         "type": "event",
         "start": "2021-07-06 10:00",
         "end": "2021-07-15 20:00",
@@ -167,6 +167,23 @@
                 "template": "FROAKIE"
             },
             {
+                "id": 105,
+                "template": "MAROWAK_ALOLA",
+                "form": 80
+            },
+            {
+                "id": 127,
+                "template": "PINSIR"
+            },
+            {
+                "id": 248,
+                "template": "TYRANITAR"
+            },
+            {
+                "id": 359,
+                "template": "ABSOL"
+            },
+            {
                 "id": 386,
                 "template": "DEOXYS_DEFENSE",
                 "form": 35
@@ -214,7 +231,7 @@
             "You’ll be able to expand your Item Bag up to 3,500 from Monday, July 5, 2021 at 1:00 p.m. PDT (GMT −7)! If you need more space in your Item Bag, you can get Item Bag upgrades in the shop.",
             "The Special Box, Ultra Box, and Adventure Box will contain different items starting on Monday, July 5, 2021, at 1:00 p.m. PDT (GMT −7)."
         ],
-        "has_quests": true,
+        "has_quests": false,
         "has_spawnpoints": false
     },
     {

@@ -1,5 +1,18 @@
 {
-    "event": [],
+    "event": [
+        {
+            "task": "Make 5 Great Throws",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 393,
+                        "template": "PIPLUP"
+                    }
+                }
+            ]
+        }
+    ],
     "quests": [
         {
             "task": "Catch 5 Pokémon with Weather Boost",

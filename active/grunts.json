@@ -1158,14 +1158,14 @@
                 ],
                 [
                     {
-                        "id": 195,
-                        "template": "QUAGSIRE_SHADOW",
-                        "form": 1230
-                    },
-                    {
                         "id": 259,
                         "template": "MARSHTOMP_SHADOW",
                         "form": 209
+                    },
+                    {
+                        "id": 195,
+                        "template": "QUAGSIRE_SHADOW",
+                        "form": 1230
                     }
                 ],
                 [
@@ -1272,14 +1272,14 @@
                         "form": 320
                     },
                     {
-                        "id": 389,
-                        "template": "TORTERRA_SHADOW",
-                        "form": 695
-                    },
-                    {
                         "id": 319,
                         "template": "SHARPEDO_SHADOW",
                         "form": 738
+                    },
+                    {
+                        "id": 389,
+                        "template": "TORTERRA_SHADOW",
+                        "form": 695
                     }
                 ]
             ]
