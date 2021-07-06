@@ -1,7 +1,7 @@
 {
-    "name": "Giovanni's Shadow Ho-Oh",
-    "start": null,
-    "end": "2021-09-01 00:00",
+    "name": "Pok\u00e9mon GO's Anniversary Celebration",
+    "start": "2021-07-06 10:00",
+    "end": "2021-07-15 20:00",
     "details": {
         "bonuses": [
             "Release of shiny Darumaka and return of shiny Meltan in the Mystery Box",
@@ -49,10 +49,30 @@
             ]
         },
         "quests": {
+            "Catch 5 Pok\u00e9mon": [
+                "001_00",
+                "004_00",
+                "007_00"
+            ],
+            "Use 5 Berries to help catch Pok\u00e9mon": [
+                "152_00",
+                "155_00",
+                "158_00"
+            ],
+            "Take 5 snapshots of wild Pok\u00e9mon": [
+                "252_00",
+                "255_00",
+                "258_00"
+            ],
             "Make 5 Great Throws": [
                 "387_00",
                 "390_00",
                 "393_00"
+            ],
+            "Send 5 Gifts to friends": [
+                "495_00",
+                "498_00",
+                "501_00"
             ],
             "Spin 5 Pok\u00e9Stops or Gyms": [
                 "Chespin",
