@@ -1,27 +1,30 @@
 {
     "event": [
         {
-            "task": "Spin 5 PokéStops or Gyms",
+            "task": "Catch 5 Pokémon",
             "rewards": [
                 {
                     "type": "pokemon",
                     "reward": {
-                        "id": 650,
-                        "template": "CHESPIN"
+                        "id": 1,
+                        "template": "BULBASAUR_NORMAL",
+                        "form": 163
                     }
                 },
                 {
                     "type": "pokemon",
                     "reward": {
-                        "id": 653,
-                        "template": "FENNEKIN"
+                        "id": 4,
+                        "template": "CHARMANDER_NORMAL",
+                        "form": 172
                     }
                 },
                 {
                     "type": "pokemon",
                     "reward": {
-                        "id": 656,
-                        "template": "FROAKIE"
+                        "id": 7,
+                        "template": "SQUIRTLE_NORMAL",
+                        "form": 181
                     }
                 }
             ]
@@ -109,30 +112,27 @@
             ]
         },
         {
-            "task": "Catch 5 Pokémon",
+            "task": "Spin 5 PokéStops or Gyms",
             "rewards": [
                 {
                     "type": "pokemon",
                     "reward": {
-                        "id": 1,
-                        "template": "BULBASAUR_NORMAL",
-                        "form": 163
+                        "id": 650,
+                        "template": "CHESPIN"
                     }
                 },
                 {
                     "type": "pokemon",
                     "reward": {
-                        "id": 4,
-                        "template": "CHARMANDER_NORMAL",
-                        "form": 172
+                        "id": 653,
+                        "template": "FENNEKIN"
                     }
                 },
                 {
                     "type": "pokemon",
                     "reward": {
-                        "id": 7,
-                        "template": "SQUIRTLE_NORMAL",
-                        "form": 181
+                        "id": 656,
+                        "template": "FROAKIE"
                     }
                 }
             ]
@@ -166,6 +166,11 @@
         {
             "task": "Earn 2 Candies walking with your buddy",
             "rewards": [
+                {
+                    "type": "item",
+                    "amount": 4,
+                    "id": 701
+                },
                 {
                     "type": "item",
                     "amount": 8,
@@ -297,18 +302,6 @@
             ]
         },
         {
-            "task": "Use 3 Pinap Berries while catching Pokémon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 401,
-                        "template": "KRICKETOT"
-                    }
-                }
-            ]
-        },
-        {
             "task": "Catch 5 different species of Pokémon",
             "rewards": [
                 {
@@ -316,6 +309,18 @@
                     "reward": {
                         "id": 535,
                         "template": "TYMPOLE"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Use 3 Pinap Berries while catching Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 401,
+                        "template": "KRICKETOT"
                     }
                 }
             ]
@@ -661,6 +666,18 @@
             ]
         },
         {
+            "task": "Make 5 Great Curveball Throws in a row",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 327,
+                        "template": "SPINDA"
+                    }
+                }
+            ]
+        },
+        {
             "task": "Make 3 Excellent Throws in a row",
             "rewards": [
                 {
@@ -669,18 +686,6 @@
                         "id": 443,
                         "template": "GIBLE_NORMAL",
                         "form": 861
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Make 5 Great Curveball Throws in a row",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 327,
-                        "template": "SPINDA"
                     }
                 }
             ]
@@ -874,6 +879,19 @@
             ]
         },
         {
+            "task": "Battle in GO Battle League",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 67,
+                        "template": "MACHOKE_NORMAL",
+                        "form": 812
+                    }
+                }
+            ]
+        },
+        {
             "task": "Defeat a Team GO Rocket Leader",
             "rewards": [
                 {
@@ -982,35 +1000,6 @@
             ]
         },
         {
-            "task": "Power up Pokémon 3 times",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 1,
-                        "template": "BULBASAUR_NORMAL",
-                        "form": 163
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 4,
-                        "template": "CHARMANDER_NORMAL",
-                        "form": 172
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 7,
-                        "template": "SQUIRTLE_NORMAL",
-                        "form": 181
-                    }
-                }
-            ]
-        },
-        {
             "task": "Take a snapshot of a wild Pokémon",
             "rewards": [
                 {
@@ -1039,6 +1028,35 @@
                     "reward": {
                         "id": 193,
                         "template": "YANMA"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Power up Pokémon 3 times",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 1,
+                        "template": "BULBASAUR_NORMAL",
+                        "form": 163
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 4,
+                        "template": "CHARMANDER_NORMAL",
+                        "form": 172
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 7,
+                        "template": "SQUIRTLE_NORMAL",
+                        "form": 181
                     }
                 }
             ]
@@ -1188,19 +1206,6 @@
                     "reward": {
                         "id": 226,
                         "template": "MANTINE"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Battle in GO Battle League",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 67,
-                        "template": "MACHOKE_NORMAL",
-                        "form": 812
                     }
                 }
             ]
