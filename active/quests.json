@@ -112,32 +112,6 @@
             ]
         },
         {
-            "task": "Spin 5 PokéStops or Gyms",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 650,
-                        "template": "CHESPIN"
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 653,
-                        "template": "FENNEKIN"
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 656,
-                        "template": "FROAKIE"
-                    }
-                }
-            ]
-        },
-        {
             "task": "Send 5 Gifts to friends",
             "rewards": [
                 {
@@ -164,12 +138,43 @@
             ]
         },
         {
+            "task": "Spin 5 PokéStops or Gyms",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 650,
+                        "template": "CHESPIN"
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 653,
+                        "template": "FENNEKIN"
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 656,
+                        "template": "FROAKIE"
+                    }
+                }
+            ]
+        },
+        {
             "task": "Earn 2 Candies walking with your buddy",
             "rewards": [
                 {
                     "type": "item",
                     "amount": 4,
                     "id": 701
+                },
+                {
+                    "type": "item",
+                    "amount": 3,
+                    "id": 705
                 },
                 {
                     "type": "item",

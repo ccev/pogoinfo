@@ -1421,14 +1421,14 @@
                 ],
                 [
                     {
-                        "id": 68,
-                        "template": "MACHAMP_SHADOW",
-                        "form": 816
-                    },
-                    {
                         "id": 76,
                         "template": "GOLEM_SHADOW",
                         "form": 886
+                    },
+                    {
+                        "id": 68,
+                        "template": "MACHAMP_SHADOW",
+                        "form": 816
                     },
                     {
                         "id": 91,
@@ -1538,14 +1538,14 @@
                         "form": 909
                     },
                     {
-                        "id": 200,
-                        "template": "MISDREAVUS_SHADOW",
-                        "form": 720
-                    },
-                    {
                         "id": 355,
                         "template": "DUSKULL_SHADOW",
                         "form": 915
+                    },
+                    {
+                        "id": 200,
+                        "template": "MISDREAVUS_SHADOW",
+                        "form": 720
                     }
                 ],
                 [
@@ -1562,14 +1562,14 @@
                 ],
                 [
                     {
-                        "id": 477,
-                        "template": "DUSKNOIR_SHADOW",
-                        "form": 921
-                    },
-                    {
                         "id": 354,
                         "template": "BANETTE_SHADOW",
                         "form": 912
+                    },
+                    {
+                        "id": 477,
+                        "template": "DUSKNOIR_SHADOW",
+                        "form": 921
                     },
                     {
                         "id": 302,
