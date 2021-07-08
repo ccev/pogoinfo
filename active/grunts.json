@@ -636,14 +636,14 @@
                         "form": 269
                     },
                     {
-                        "id": 188,
-                        "template": "SKIPLOOM_SHADOW",
-                        "form": 1209
-                    },
-                    {
                         "id": 114,
                         "template": "TANGELA_SHADOW",
                         "form": 1060
+                    },
+                    {
+                        "id": 188,
+                        "template": "SKIPLOOM_SHADOW",
+                        "form": 1209
                     }
                 ],
                 [
@@ -1562,14 +1562,14 @@
                 ],
                 [
                     {
-                        "id": 354,
-                        "template": "BANETTE_SHADOW",
-                        "form": 912
-                    },
-                    {
                         "id": 477,
                         "template": "DUSKNOIR_SHADOW",
                         "form": 921
+                    },
+                    {
+                        "id": 354,
+                        "template": "BANETTE_SHADOW",
+                        "form": 912
                     },
                     {
                         "id": 302,
