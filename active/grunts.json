@@ -636,14 +636,14 @@
                         "form": 269
                     },
                     {
-                        "id": 114,
-                        "template": "TANGELA_SHADOW",
-                        "form": 1060
-                    },
-                    {
                         "id": 188,
                         "template": "SKIPLOOM_SHADOW",
                         "form": 1209
+                    },
+                    {
+                        "id": 114,
+                        "template": "TANGELA_SHADOW",
+                        "form": 1060
                     }
                 ],
                 [
