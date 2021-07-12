@@ -469,14 +469,14 @@
                         "form": 727
                     },
                     {
-                        "id": 126,
-                        "template": "MAGMAR_SHADOW",
-                        "form": 635
-                    },
-                    {
                         "id": 229,
                         "template": "HOUNDOOM_SHADOW",
                         "form": 233
+                    },
+                    {
+                        "id": 126,
+                        "template": "MAGMAR_SHADOW",
+                        "form": 635
                     }
                 ],
                 [
@@ -648,14 +648,14 @@
                 ],
                 [
                     {
-                        "id": 275,
-                        "template": "SHIFTRY_SHADOW",
-                        "form": 632
-                    },
-                    {
                         "id": 45,
                         "template": "VILEPLUME_SHADOW",
                         "form": 272
+                    },
+                    {
+                        "id": 275,
+                        "template": "SHIFTRY_SHADOW",
+                        "form": 632
                     },
                     {
                         "id": 71,
@@ -1032,14 +1032,14 @@
                 ],
                 [
                     {
-                        "id": 103,
-                        "template": "EXEGGUTOR_SHADOW",
-                        "form": 732
-                    },
-                    {
                         "id": 97,
                         "template": "HYPNO_SHADOW",
                         "form": 218
+                    },
+                    {
+                        "id": 103,
+                        "template": "EXEGGUTOR_SHADOW",
+                        "form": 732
                     },
                     {
                         "id": 281,
@@ -1538,14 +1538,14 @@
                         "form": 909
                     },
                     {
-                        "id": 355,
-                        "template": "DUSKULL_SHADOW",
-                        "form": 915
-                    },
-                    {
                         "id": 200,
                         "template": "MISDREAVUS_SHADOW",
                         "form": 720
+                    },
+                    {
+                        "id": 355,
+                        "template": "DUSKULL_SHADOW",
+                        "form": 915
                     }
                 ],
                 [
