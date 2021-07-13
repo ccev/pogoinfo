@@ -1,19 +1,5 @@
 [
     {
-        "name": "GO Battle Night",
-        "type": "event",
-        "start": "2021-08-26 18:00",
-        "end": "2021-08-26 23:59",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Charmander Spotlight Hour",
         "type": "spotlight-hour",
         "start": "2021-07-13 18:00",
@@ -916,6 +902,20 @@
         "features": [],
         "has_quests": true,
         "has_spawnpoints": true
+    },
+    {
+        "name": "GO Battle Night",
+        "type": "event",
+        "start": "2021-08-26 18:00",
+        "end": "2021-08-26 23:59",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
     },
     {
         "name": "Season of Discovery",
