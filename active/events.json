@@ -1,24 +1,5 @@
 [
     {
-        "name": "Charmander Spotlight Hour",
-        "type": "spotlight-hour",
-        "start": "2021-07-13 18:00",
-        "end": "2021-07-13 19:00",
-        "spawns": [
-            {
-                "id": 4,
-                "template": "CHARMANDER"
-            }
-        ],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": true
-    },
-    {
         "name": "Defense Forme Deoxys Raid Hour",
         "type": "raid-hour",
         "start": "2021-07-14 18:00",
@@ -207,6 +188,18 @@
         "start": "2021-07-17 10:00",
         "end": "2021-07-17 18:00",
         "spawns": [
+            {
+                "id": 358,
+                "template": "CHIMECHO"
+            },
+            {
+                "id": 401,
+                "template": "KRICKETOT"
+            },
+            {
+                "id": 531,
+                "template": "AUDINO"
+            },
             {
                 "id": 123,
                 "template": "SCYTHER"
@@ -445,6 +438,10 @@
                 "text": "1/2 Egg Hatch Distance",
                 "template": "reduced-hatch-distance",
                 "value": 12
+            },
+            {
+                "text": "Up to 6 Special Trades per Day *",
+                "value": 6
             }
         ],
         "features": [],
@@ -457,6 +454,18 @@
         "start": "2021-07-18 10:00",
         "end": "2021-07-18 18:00",
         "spawns": [
+            {
+                "id": 358,
+                "template": "CHIMECHO"
+            },
+            {
+                "id": 401,
+                "template": "KRICKETOT"
+            },
+            {
+                "id": 531,
+                "template": "AUDINO"
+            },
             {
                 "id": 123,
                 "template": "SCYTHER"
@@ -812,10 +821,14 @@
                 "text": "1/2 Egg Hatch Distance",
                 "template": "reduced-hatch-distance",
                 "value": 12
+            },
+            {
+                "text": "Up to 6 Special Trades per Day *",
+                "value": 6
             }
         ],
         "features": [],
-        "has_quests": false,
+        "has_quests": true,
         "has_spawnpoints": false
     },
     {
