@@ -1,19 +1,5 @@
 [
     {
-        "name": "Defense Forme Deoxys Raid Hour",
-        "type": "raid-hour",
-        "start": "2021-07-14 18:00",
-        "end": "2021-07-14 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Pokémon GO's Anniversary Celebration",
         "type": "event",
         "start": "2021-07-06 10:00",
@@ -455,6 +441,26 @@
         "end": "2021-07-18 18:00",
         "spawns": [
             {
+                "id": 123,
+                "template": "SCYTHER"
+            },
+            {
+                "id": 147,
+                "template": "DRATINI"
+            },
+            {
+                "id": 190,
+                "template": "AIPOM"
+            },
+            {
+                "id": 227,
+                "template": "SKARMORY"
+            },
+            {
+                "id": 333,
+                "template": "SWABLU"
+            },
+            {
                 "id": 358,
                 "template": "CHIMECHO"
             },
@@ -463,20 +469,57 @@
                 "template": "KRICKETOT"
             },
             {
+                "id": 410,
+                "template": "SHIELDON"
+            },
+            {
+                "id": 449,
+                "template": "HIPPOPOTAS"
+            },
+            {
+                "id": 524,
+                "template": "ROGGENROLA"
+            },
+            {
                 "id": 531,
                 "template": "AUDINO"
             },
             {
-                "id": 123,
-                "template": "SCYTHER"
+                "id": 594,
+                "template": "ALOMOMOLA"
             },
             {
-                "id": 190,
-                "template": "AIPOM"
+                "id": 618,
+                "template": "STUNFISK_GALARIAN",
+                "form": 2345
+            },
+            {
+                "id": 633,
+                "template": "DEINO"
             },
             {
                 "id": 656,
                 "template": "FROAKIE"
+            },
+            {
+                "id": 130,
+                "template": "GYARADOS"
+            },
+            {
+                "id": 134,
+                "template": "VAPOREON"
+            },
+            {
+                "id": 136,
+                "template": "FLAREON"
+            },
+            {
+                "id": 184,
+                "template": "AZUMARILL"
+            },
+            {
+                "id": 197,
+                "template": "UMBREON"
             },
             {
                 "id": 201,
@@ -489,8 +532,24 @@
                 "form": 7
             },
             {
+                "id": 248,
+                "template": "TYRANITAR"
+            },
+            {
                 "id": 272,
                 "template": "LUDICOLO"
+            },
+            {
+                "id": 282,
+                "template": "GARDEVOIR"
+            },
+            {
+                "id": 330,
+                "template": "FLYGON"
+            },
+            {
+                "id": 359,
+                "template": "ABSOL"
             },
             {
                 "id": 441,
@@ -505,85 +564,12 @@
                 "template": "SERPERIOR"
             },
             {
-                "id": 227,
-                "template": "SKARMORY"
-            },
-            {
-                "id": 410,
-                "template": "SHIELDON"
-            },
-            {
-                "id": 449,
-                "template": "HIPPOPOTAS"
-            },
-            {
-                "id": 136,
-                "template": "FLAREON"
-            },
-            {
-                "id": 248,
-                "template": "TYRANITAR"
-            },
-            {
-                "id": 330,
-                "template": "FLYGON"
-            },
-            {
                 "id": 538,
                 "template": "THROH"
             },
             {
-                "id": 147,
-                "template": "DRATINI"
-            },
-            {
-                "id": 333,
-                "template": "SWABLU"
-            },
-            {
-                "id": 594,
-                "template": "ALOMOMOLA"
-            },
-            {
-                "id": 130,
-                "template": "GYARADOS"
-            },
-            {
-                "id": 134,
-                "template": "VAPOREON"
-            },
-            {
-                "id": 184,
-                "template": "AZUMARILL"
-            },
-            {
                 "id": 539,
                 "template": "SAWK"
-            },
-            {
-                "id": 524,
-                "template": "ROGGENROLA"
-            },
-            {
-                "id": 618,
-                "template": "STUNFISK_GALARIAN",
-                "form": 2345
-            },
-            {
-                "id": 633,
-                "template": "DEINO"
-            },
-            {
-                "id": 197,
-                "template": "UMBREON"
-            },
-            {
-                "id": 282,
-                "template": "GARDEVOIR"
-            },
-            {
-                "id": 359,
-                "template": "ABSOL"
             },
             {
                 "id": 596,
