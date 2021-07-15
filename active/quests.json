@@ -550,6 +550,37 @@
             ]
         },
         {
+            "task": "Make 5 Nice Throws",
+            "rewards": [
+                {
+                    "type": "stardust",
+                    "amount": 200
+                },
+                {
+                    "type": "item",
+                    "amount": 3,
+                    "id": 701
+                },
+                {
+                    "type": "item",
+                    "amount": 1,
+                    "id": 705
+                },
+                {
+                    "type": "item",
+                    "amount": 5,
+                    "id": 1
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 206,
+                        "template": "DUNSPARCE"
+                    }
+                }
+            ]
+        },
+        {
             "task": "Make 3 Great Throws",
             "rewards": [
                 {
@@ -593,37 +624,6 @@
                         "id": 209,
                         "template": "SNUBBULL_NORMAL",
                         "form": 1253
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Make 5 Nice Throws",
-            "rewards": [
-                {
-                    "type": "stardust",
-                    "amount": 200
-                },
-                {
-                    "type": "item",
-                    "amount": 3,
-                    "id": 701
-                },
-                {
-                    "type": "item",
-                    "amount": 1,
-                    "id": 705
-                },
-                {
-                    "type": "item",
-                    "amount": 5,
-                    "id": 1
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 206,
-                        "template": "DUNSPARCE"
                     }
                 }
             ]
@@ -923,26 +923,6 @@
             ]
         },
         {
-            "task": "Send 3 Gifts to friends",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 11,
-                        "template": "METAPOD"
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 14,
-                        "template": "KAKUNA_NORMAL",
-                        "form": 619
-                    }
-                }
-            ]
-        },
-        {
             "task": "Earn 5 hearts with your buddy",
             "rewards": [
                 {
@@ -962,6 +942,26 @@
                     "reward": {
                         "id": 265,
                         "template": "WURMPLE"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Send 3 Gifts to friends",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 11,
+                        "template": "METAPOD"
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 14,
+                        "template": "KAKUNA_NORMAL",
+                        "form": 619
                     }
                 }
             ]
@@ -1000,6 +1000,18 @@
                         "id": 207,
                         "template": "GLIGAR_NORMAL",
                         "form": 803
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Evolve a Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 133,
+                        "template": "EEVEE"
                     }
                 }
             ]
@@ -1121,58 +1133,6 @@
             ]
         },
         {
-            "task": "Hatch 2 Eggs",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 374,
-                        "template": "BELDUM_NORMAL",
-                        "form": 764
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 531,
-                        "template": "AUDINO"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Spin 5 PokéStops or Gyms",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 293,
-                        "template": "WHISMUR"
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 280,
-                        "template": "RALTS_NORMAL",
-                        "form": 292
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Evolve a Pokémon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 133,
-                        "template": "EEVEE"
-                    }
-                }
-            ]
-        },
-        {
             "task": "Spin 3 PokéStops or Gyms",
             "rewards": [
                 {
@@ -1204,6 +1164,26 @@
             ]
         },
         {
+            "task": "Hatch 2 Eggs",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 374,
+                        "template": "BELDUM_NORMAL",
+                        "form": 764
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 531,
+                        "template": "AUDINO"
+                    }
+                }
+            ]
+        },
+        {
             "task": "Hatch an Egg",
             "rewards": [
                 {
@@ -1211,6 +1191,26 @@
                     "reward": {
                         "id": 226,
                         "template": "MANTINE"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Spin 5 PokéStops or Gyms",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 293,
+                        "template": "WHISMUR"
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 280,
+                        "template": "RALTS_NORMAL",
+                        "form": 292
                     }
                 }
             ]
