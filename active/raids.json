@@ -1,62 +1,61 @@
 {
     "1": [
         {
-            "id": 25,
-            "template": "PIKACHU_NORMAL",
-            "form": 598
+            "id": 215,
+            "template": "SNEASEL_NORMAL",
+            "form": 797
         },
         {
-            "id": 554,
-            "template": "DARUMAKA_NORMAL",
-            "form": 2063
+            "id": 302,
+            "template": "SABLEYE_NORMAL",
+            "form": 923
         },
         {
-            "id": 650,
-            "template": "CHESPIN"
+            "id": 318,
+            "template": "CARVANHA_NORMAL",
+            "form": 734
         },
         {
-            "id": 653,
-            "template": "FENNEKIN"
+            "id": 529,
+            "template": "DRILBUR"
         },
         {
-            "id": 656,
-            "template": "FROAKIE"
+            "id": 677,
+            "template": "ESPURR"
         }
     ],
     "3": [
         {
-            "id": 105,
-            "template": "MAROWAK_ALOLA",
-            "form": 80
+            "id": 47,
+            "template": "PARASECT"
         },
         {
-            "id": 127,
-            "template": "PINSIR_NORMAL",
-            "form": 898
+            "id": 202,
+            "template": "WOBBUFFET_NORMAL",
+            "form": 602
         },
         {
-            "id": 248,
-            "template": "TYRANITAR_NORMAL",
-            "form": 319
+            "id": 344,
+            "template": "CLAYDOL"
         },
         {
-            "id": 359,
-            "template": "ABSOL_NORMAL",
-            "form": 830
+            "id": 376,
+            "template": "METAGROSS_NORMAL",
+            "form": 770
         }
     ],
     "5": [
         {
-            "id": 386,
-            "template": "DEOXYS_DEFENSE",
-            "form": 35
+            "id": 150,
+            "template": "MEWTWO_NORMAL",
+            "form": 135
         }
     ],
     "6": [
         {
-            "id": 229,
-            "template": "HOUNDOOM_NORMAL",
-            "form": 232,
+            "id": 94,
+            "template": "GENGAR_NORMAL",
+            "form": 1044,
             "temp_evolution_id": 1
         }
     ]
