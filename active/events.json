@@ -331,16 +331,6 @@
         ],
         "raids": [
             {
-                "id": 77,
-                "template": "PONYTA_GALARIAN",
-                "form": 2336
-            },
-            {
-                "id": 263,
-                "template": "ZIGZAGOON_GALARIAN",
-                "form": 946
-            },
-            {
                 "id": 633,
                 "template": "DEINO"
             },
