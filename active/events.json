@@ -1,894 +1,5 @@
 [
     {
-        "name": "Pokémon GO Fest 2021 Day 1: Catch!",
-        "type": "event",
-        "start": "2021-07-17 10:00",
-        "end": "2021-07-17 18:00",
-        "spawns": [
-            {
-                "id": 358,
-                "template": "CHIMECHO"
-            },
-            {
-                "id": 401,
-                "template": "KRICKETOT"
-            },
-            {
-                "id": 531,
-                "template": "AUDINO"
-            },
-            {
-                "id": 23,
-                "template": "EKANS"
-            },
-            {
-                "id": 103,
-                "template": "EXEGGUTOR_ALOLA",
-                "form": 78
-            },
-            {
-                "id": 114,
-                "template": "TANGELA"
-            },
-            {
-                "id": 123,
-                "template": "SCYTHER"
-            },
-            {
-                "id": 190,
-                "template": "AIPOM"
-            },
-            {
-                "id": 270,
-                "template": "LOTAD"
-            },
-            {
-                "id": 287,
-                "template": "SLAKOTH"
-            },
-            {
-                "id": 390,
-                "template": "CHIMCHAR"
-            },
-            {
-                "id": 453,
-                "template": "CROAGUNK"
-            },
-            {
-                "id": 495,
-                "template": "SNIVY"
-            },
-            {
-                "id": 540,
-                "template": "SEWADDLE"
-            },
-            {
-                "id": 650,
-                "template": "CHESPIN"
-            },
-            {
-                "id": 656,
-                "template": "FROAKIE"
-            },
-            {
-                "id": 201,
-                "template": "UNOWN_F",
-                "form": 6
-            },
-            {
-                "id": 201,
-                "template": "UNOWN_G",
-                "form": 7
-            },
-            {
-                "id": 272,
-                "template": "LUDICOLO"
-            },
-            {
-                "id": 441,
-                "template": "CHATOT"
-            },
-            {
-                "id": 470,
-                "template": "LEAFEON"
-            },
-            {
-                "id": 497,
-                "template": "SERPERIOR"
-            },
-            {
-                "id": 58,
-                "template": "GROWLITHE"
-            },
-            {
-                "id": 74,
-                "template": "GEODUDE_ALOLA",
-                "form": 68
-            },
-            {
-                "id": 227,
-                "template": "SKARMORY"
-            },
-            {
-                "id": 246,
-                "template": "LARVITAR"
-            },
-            {
-                "id": 304,
-                "template": "ARON"
-            },
-            {
-                "id": 328,
-                "template": "TRAPINCH"
-            },
-            {
-                "id": 331,
-                "template": "CACNEA"
-            },
-            {
-                "id": 410,
-                "template": "SHIELDON"
-            },
-            {
-                "id": 449,
-                "template": "HIPPOPOTAS"
-            },
-            {
-                "id": 451,
-                "template": "SKORUPI"
-            },
-            {
-                "id": 597,
-                "template": "FERROSEED"
-            },
-            {
-                "id": 653,
-                "template": "FENNEKIN"
-            },
-            {
-                "id": 136,
-                "template": "FLAREON"
-            },
-            {
-                "id": 248,
-                "template": "TYRANITAR"
-            },
-            {
-                "id": 330,
-                "template": "FLYGON"
-            },
-            {
-                "id": 538,
-                "template": "THROH"
-            },
-            {
-                "id": 129,
-                "template": "MAGIKARP"
-            },
-            {
-                "id": 147,
-                "template": "DRATINI"
-            },
-            {
-                "id": 170,
-                "template": "CHINCHOU"
-            },
-            {
-                "id": 183,
-                "template": "MARILL"
-            },
-            {
-                "id": 318,
-                "template": "CARVANHA"
-            },
-            {
-                "id": 320,
-                "template": "WAILMER"
-            },
-            {
-                "id": 333,
-                "template": "SWABLU"
-            },
-            {
-                "id": 349,
-                "template": "FEEBAS"
-            },
-            {
-                "id": 363,
-                "template": "SPHEAL"
-            },
-            {
-                "id": 535,
-                "template": "TYMPOLE"
-            },
-            {
-                "id": 594,
-                "template": "ALOMOMOLA"
-            },
-            {
-                "id": 602,
-                "template": "TYNAMO"
-            },
-            {
-                "id": 130,
-                "template": "GYARADOS"
-            },
-            {
-                "id": 134,
-                "template": "VAPOREON"
-            },
-            {
-                "id": 184,
-                "template": "AZUMARILL"
-            },
-            {
-                "id": 539,
-                "template": "SAWK"
-            },
-            {
-                "id": 41,
-                "template": "ZUBAT"
-            },
-            {
-                "id": 143,
-                "template": "SNORLAX"
-            },
-            {
-                "id": 207,
-                "template": "GLIGAR"
-            },
-            {
-                "id": 280,
-                "template": "RALTS"
-            },
-            {
-                "id": 302,
-                "template": "SABLEYE"
-            },
-            {
-                "id": 374,
-                "template": "BELDUM"
-            },
-            {
-                "id": 524,
-                "template": "ROGGENROLA"
-            },
-            {
-                "id": 527,
-                "template": "WOOBAT"
-            },
-            {
-                "id": 582,
-                "template": "VANILLITE"
-            },
-            {
-                "id": 595,
-                "template": "JOLTIK"
-            },
-            {
-                "id": 618,
-                "template": "STUNFISK_GALARIAN",
-                "form": 2345
-            },
-            {
-                "id": 633,
-                "template": "DEINO"
-            },
-            {
-                "id": 197,
-                "template": "UMBREON"
-            },
-            {
-                "id": 282,
-                "template": "GARDEVOIR"
-            },
-            {
-                "id": 359,
-                "template": "ABSOL"
-            },
-            {
-                "id": 596,
-                "template": "GALVANTULA"
-            }
-        ],
-        "eggs": [
-            {
-                "id": 131,
-                "template": "LAPRAS"
-            },
-            {
-                "id": 173,
-                "template": "CLEFFA"
-            },
-            {
-                "id": 174,
-                "template": "IGGLYBUFF"
-            },
-            {
-                "id": 293,
-                "template": "WHISMUR"
-            },
-            {
-                "id": 401,
-                "template": "KRICKETOT"
-            },
-            {
-                "id": 433,
-                "template": "CHINGLING"
-            },
-            {
-                "id": 531,
-                "template": "AUDINO"
-            },
-            {
-                "id": 535,
-                "template": "TYMPOLE"
-            },
-            {
-                "id": 633,
-                "template": "DEINO"
-            }
-        ],
-        "raids": [
-            {
-                "id": 633,
-                "template": "DEINO"
-            },
-            {
-                "id": 110,
-                "template": "WEEZING_GALARIAN",
-                "form": 944
-            },
-            {
-                "id": 237,
-                "template": "HITMONTOP"
-            },
-            {
-                "id": 408,
-                "template": "CRANIDOS"
-            },
-            {
-                "id": 150,
-                "template": "MEWTWO"
-            },
-            {
-                "id": 94,
-                "template": "GENGAR",
-                "temp_evolution_id": 1
-            }
-        ],
-        "shinies": [
-            {
-                "id": 293,
-                "template": "WHISMUR"
-            },
-            {
-                "id": 294,
-                "template": "LOUDRED"
-            },
-            {
-                "id": 295,
-                "template": "EXPLOUD"
-            },
-            {
-                "id": 358,
-                "template": "CHIMECHO"
-            },
-            {
-                "id": 531,
-                "template": "AUDINO"
-            },
-            {
-                "id": 535,
-                "template": "TYMPOLE"
-            },
-            {
-                "id": 536,
-                "template": "PALPITOAD"
-            },
-            {
-                "id": 537,
-                "template": "SEISMITOAD"
-            },
-            {
-                "id": 201,
-                "template": "UNOWN_F",
-                "form": 6
-            },
-            {
-                "id": 201,
-                "template": "UNOWN_G",
-                "form": 7
-            },
-            {
-                "id": 538,
-                "template": "THROH"
-            },
-            {
-                "id": 539,
-                "template": "SAWK"
-            }
-        ],
-        "bonuses": [
-            {
-                "text": "Lures will last 3 hours",
-                "template": "longer-lure",
-                "value": 3
-            },
-            {
-                "text": "1/2 Egg Hatch Distance",
-                "template": "reduced-hatch-distance",
-                "value": 12
-            },
-            {
-                "text": "Up to 6 Special Trades per Day *",
-                "value": 6
-            }
-        ],
-        "features": [],
-        "has_quests": true,
-        "has_spawnpoints": false
-    },
-    {
-        "name": "Pokémon GO Fest 2021 Day 2: Raid!",
-        "type": "event",
-        "start": "2021-07-18 10:00",
-        "end": "2021-07-18 18:00",
-        "spawns": [
-            {
-                "id": 123,
-                "template": "SCYTHER"
-            },
-            {
-                "id": 147,
-                "template": "DRATINI"
-            },
-            {
-                "id": 190,
-                "template": "AIPOM"
-            },
-            {
-                "id": 227,
-                "template": "SKARMORY"
-            },
-            {
-                "id": 333,
-                "template": "SWABLU"
-            },
-            {
-                "id": 358,
-                "template": "CHIMECHO"
-            },
-            {
-                "id": 401,
-                "template": "KRICKETOT"
-            },
-            {
-                "id": 410,
-                "template": "SHIELDON"
-            },
-            {
-                "id": 449,
-                "template": "HIPPOPOTAS"
-            },
-            {
-                "id": 524,
-                "template": "ROGGENROLA"
-            },
-            {
-                "id": 531,
-                "template": "AUDINO"
-            },
-            {
-                "id": 594,
-                "template": "ALOMOMOLA"
-            },
-            {
-                "id": 618,
-                "template": "STUNFISK_GALARIAN",
-                "form": 2345
-            },
-            {
-                "id": 633,
-                "template": "DEINO"
-            },
-            {
-                "id": 656,
-                "template": "FROAKIE"
-            },
-            {
-                "id": 130,
-                "template": "GYARADOS"
-            },
-            {
-                "id": 134,
-                "template": "VAPOREON"
-            },
-            {
-                "id": 136,
-                "template": "FLAREON"
-            },
-            {
-                "id": 184,
-                "template": "AZUMARILL"
-            },
-            {
-                "id": 197,
-                "template": "UMBREON"
-            },
-            {
-                "id": 201,
-                "template": "UNOWN_F",
-                "form": 6
-            },
-            {
-                "id": 201,
-                "template": "UNOWN_G",
-                "form": 7
-            },
-            {
-                "id": 248,
-                "template": "TYRANITAR"
-            },
-            {
-                "id": 272,
-                "template": "LUDICOLO"
-            },
-            {
-                "id": 282,
-                "template": "GARDEVOIR"
-            },
-            {
-                "id": 330,
-                "template": "FLYGON"
-            },
-            {
-                "id": 359,
-                "template": "ABSOL"
-            },
-            {
-                "id": 441,
-                "template": "CHATOT"
-            },
-            {
-                "id": 470,
-                "template": "LEAFEON"
-            },
-            {
-                "id": 497,
-                "template": "SERPERIOR"
-            },
-            {
-                "id": 538,
-                "template": "THROH"
-            },
-            {
-                "id": 539,
-                "template": "SAWK"
-            },
-            {
-                "id": 596,
-                "template": "GALVANTULA"
-            }
-        ],
-        "eggs": [
-            {
-                "id": 131,
-                "template": "LAPRAS"
-            },
-            {
-                "id": 173,
-                "template": "CLEFFA"
-            },
-            {
-                "id": 174,
-                "template": "IGGLYBUFF"
-            },
-            {
-                "id": 293,
-                "template": "WHISMUR"
-            },
-            {
-                "id": 401,
-                "template": "KRICKETOT"
-            },
-            {
-                "id": 433,
-                "template": "CHINGLING"
-            },
-            {
-                "id": 531,
-                "template": "AUDINO"
-            },
-            {
-                "id": 535,
-                "template": "TYMPOLE"
-            },
-            {
-                "id": 633,
-                "template": "DEINO"
-            }
-        ],
-        "raids": [
-            {
-                "id": 150,
-                "template": "MEWTWO"
-            },
-            {
-                "id": 250,
-                "template": "HO_OH"
-            },
-            {
-                "id": 380,
-                "template": "LATIAS"
-            },
-            {
-                "id": 381,
-                "template": "LATIOS"
-            },
-            {
-                "id": 486,
-                "template": "REGIGIGAS"
-            },
-            {
-                "id": 487,
-                "template": "GIRATINA_ALTERED",
-                "form": 90
-            },
-            {
-                "id": 488,
-                "template": "CRESSELIA"
-            },
-            {
-                "id": 640,
-                "template": "VIRIZION"
-            },
-            {
-                "id": 641,
-                "template": "TORNADUS_THERIAN",
-                "form": 141
-            },
-            {
-                "id": 146,
-                "template": "MOLTRES"
-            },
-            {
-                "id": 244,
-                "template": "ENTEI"
-            },
-            {
-                "id": 377,
-                "template": "REGIROCK"
-            },
-            {
-                "id": 383,
-                "template": "GROUDON"
-            },
-            {
-                "id": 485,
-                "template": "HEATRAN"
-            },
-            {
-                "id": 639,
-                "template": "TERRAKION"
-            },
-            {
-                "id": 643,
-                "template": "RESHIRAM"
-            },
-            {
-                "id": 645,
-                "template": "LANDORUS_THERIAN",
-                "form": 145
-            },
-            {
-                "id": 717,
-                "template": "YVELTAL"
-            },
-            {
-                "id": 144,
-                "template": "ARTICUNO"
-            },
-            {
-                "id": 245,
-                "template": "SUICUNE"
-            },
-            {
-                "id": 249,
-                "template": "LUGIA"
-            },
-            {
-                "id": 378,
-                "template": "REGICE"
-            },
-            {
-                "id": 382,
-                "template": "KYOGRE"
-            },
-            {
-                "id": 480,
-                "template": "UXIE"
-            },
-            {
-                "id": 481,
-                "template": "MESPRIT"
-            },
-            {
-                "id": 482,
-                "template": "AZELF"
-            },
-            {
-                "id": 484,
-                "template": "PALKIA"
-            },
-            {
-                "id": 646,
-                "template": "KYUREM_NORMAL",
-                "form": 146
-            },
-            {
-                "id": 145,
-                "template": "ZAPDOS"
-            },
-            {
-                "id": 243,
-                "template": "RAIKOU"
-            },
-            {
-                "id": 379,
-                "template": "REGISTEEL"
-            },
-            {
-                "id": 384,
-                "template": "RAYQUAZA"
-            },
-            {
-                "id": 483,
-                "template": "DIALGA"
-            },
-            {
-                "id": 638,
-                "template": "COBALION"
-            },
-            {
-                "id": 642,
-                "template": "THUNDURUS_THERIAN",
-                "form": 143
-            },
-            {
-                "id": 644,
-                "template": "ZEKROM"
-            },
-            {
-                "id": 716,
-                "template": "XERNEAS"
-            }
-        ],
-        "shinies": [
-            {
-                "id": 293,
-                "template": "WHISMUR"
-            },
-            {
-                "id": 294,
-                "template": "LOUDRED"
-            },
-            {
-                "id": 295,
-                "template": "EXPLOUD"
-            },
-            {
-                "id": 358,
-                "template": "CHIMECHO"
-            },
-            {
-                "id": 531,
-                "template": "AUDINO"
-            },
-            {
-                "id": 535,
-                "template": "TYMPOLE"
-            },
-            {
-                "id": 536,
-                "template": "PALPITOAD"
-            },
-            {
-                "id": 537,
-                "template": "SEISMITOAD"
-            },
-            {
-                "id": 201,
-                "template": "UNOWN_F",
-                "form": 6
-            },
-            {
-                "id": 201,
-                "template": "UNOWN_G",
-                "form": 7
-            },
-            {
-                "id": 538,
-                "template": "THROH"
-            },
-            {
-                "id": 539,
-                "template": "SAWK"
-            }
-        ],
-        "bonuses": [
-            {
-                "text": "Lures will last 3 hours",
-                "template": "longer-lure",
-                "value": 3
-            },
-            {
-                "text": "1/2 Egg Hatch Distance",
-                "template": "reduced-hatch-distance",
-                "value": 12
-            },
-            {
-                "text": "Up to 6 Special Trades per Day *",
-                "value": 6
-            }
-        ],
-        "features": [],
-        "has_quests": true,
-        "has_spawnpoints": false
-    },
-    {
-        "name": "Squirtle Spotlight Hour",
-        "type": "spotlight-hour",
-        "start": "2021-07-20 18:00",
-        "end": "2021-07-20 19:00",
-        "spawns": [
-            {
-                "id": 7,
-                "template": "SQUIRTLE"
-            }
-        ],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": true
-    },
-    {
-        "name": "Mewtwo Raid Hour",
-        "type": "raid-hour",
-        "start": "2021-07-21 18:00",
-        "end": "2021-07-21 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
-        "name": "Pikachu wearing an Okinawan kariyushi shirt and Shiny Corsola",
-        "type": "event",
-        "start": "2021-07-22 00:00",
-        "end": "2021-07-21 23:59",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [
-            {
-                "id": 222,
-                "template": "CORSOLA"
-            }
-        ],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Natu Spotlight Hour",
         "type": "spotlight-hour",
         "start": "2021-07-27 18:00",
@@ -908,24 +19,407 @@
         "has_spawnpoints": true
     },
     {
-        "name": "August Community Day",
+        "name": "Time - Ultra Unlock Part 1",
+        "type": "event",
+        "start": null,
+        "end": "2021-08-03 20:00",
+        "spawns": [
+            {
+                "id": 81,
+                "template": "MAGNEMITE"
+            },
+            {
+                "id": 100,
+                "template": "VOLTORB"
+            },
+            {
+                "id": 137,
+                "template": "PORYGON"
+            },
+            {
+                "id": 138,
+                "template": "OMANYTE"
+            },
+            {
+                "id": 140,
+                "template": "KABUTO"
+            },
+            {
+                "id": 304,
+                "template": "ARON"
+            },
+            {
+                "id": 343,
+                "template": "BALTOY"
+            },
+            {
+                "id": 345,
+                "template": "LILEEP"
+            },
+            {
+                "id": 347,
+                "template": "ANORITH"
+            },
+            {
+                "id": 374,
+                "template": "BELDUM"
+            },
+            {
+                "id": 408,
+                "template": "CRANIDOS"
+            },
+            {
+                "id": 410,
+                "template": "SHIELDON"
+            }
+        ],
+        "eggs": [
+            {
+                "id": 138,
+                "template": "OMANYTE"
+            },
+            {
+                "id": 140,
+                "template": "KABUTO"
+            },
+            {
+                "id": 142,
+                "template": "AERODACTYL"
+            },
+            {
+                "id": 345,
+                "template": "LILEEP"
+            },
+            {
+                "id": 347,
+                "template": "ANORITH"
+            },
+            {
+                "id": 408,
+                "template": "CRANIDOS"
+            },
+            {
+                "id": 410,
+                "template": "SHIELDON"
+            }
+        ],
+        "raids": [
+            {
+                "id": 201,
+                "template": "UNOWN_U",
+                "form": 21
+            },
+            {
+                "id": 408,
+                "template": "CRANIDOS"
+            },
+            {
+                "id": 410,
+                "template": "SHIELDON"
+            },
+            {
+                "id": 436,
+                "template": "BRONZOR"
+            },
+            {
+                "id": 599,
+                "template": "KLINK"
+            },
+            {
+                "id": 82,
+                "template": "MAGNETON"
+            },
+            {
+                "id": 142,
+                "template": "AERODACTYL"
+            },
+            {
+                "id": 233,
+                "template": "PORYGON2"
+            },
+            {
+                "id": 623,
+                "template": "GOLURK"
+            },
+            {
+                "id": 483,
+                "template": "DIALGA"
+            },
+            {
+                "id": 6,
+                "template": "CHARIZARD",
+                "temp_evolution_id": 2
+            }
+        ],
+        "shinies": [
+            {
+                "id": 408,
+                "template": "CRANIDOS"
+            },
+            {
+                "id": 409,
+                "template": "RAMPARDOS"
+            },
+            {
+                "id": 410,
+                "template": "SHIELDON"
+            },
+            {
+                "id": 411,
+                "template": "BASTIODON"
+            },
+            {
+                "id": 483,
+                "template": "DIALGA"
+            },
+            {
+                "id": 201,
+                "template": "UNOWN_U",
+                "form": 21
+            }
+        ],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Eevee Community Day",
         "type": "community-day",
-        "start": "2021-08-15 11:00",
-        "end": "2021-08-15 17:00",
+        "start": "2021-08-13 20:00",
+        "end": "2021-08-16 20:00",
         "spawns": [],
         "eggs": [],
         "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
+        "shinies": [
+            {
+                "id": 133,
+                "template": "EEVEE"
+            },
+            {
+                "id": 134,
+                "template": "VAPOREON"
+            },
+            {
+                "id": 135,
+                "template": "JOLTEON"
+            },
+            {
+                "id": 136,
+                "template": "FLAREON"
+            },
+            {
+                "id": 196,
+                "template": "ESPEON"
+            },
+            {
+                "id": 197,
+                "template": "UMBREON"
+            },
+            {
+                "id": 470,
+                "template": "LEAFEON"
+            },
+            {
+                "id": 471,
+                "template": "GLACEON"
+            },
+            {
+                "id": 700,
+                "template": "SYLVEON"
+            }
+        ],
+        "bonuses": [
+            {
+                "text": "Increased Spawns"
+            },
+            {
+                "text": "1/4 Egg Hatch Distance",
+                "template": "reduced-hatch-distance",
+                "value": 14
+            },
+            {
+                "text": "3-hour Incense",
+                "template": "longer-incense",
+                "value": 3
+            },
+            {
+                "text": "3-hour Lures",
+                "template": "longer-lure",
+                "value": 3
+            }
+        ],
+        "features": [
+            "When you evolve Eevee into any of its Evolutions, that Pokémon will know a special attack!\n        \nVaporeon: Scald (Water-type)\nJolteon: Zap Cannon (Electric-type)\nFlareon: Superpower (Fighting-type)\nEspeon: Shadow Ball (Ghost-type)\nUmbreon: Psychic (Psychic-types)\nLeafeon: Bullet Seed (Grass-type)\nGlaceon: Water Pulse (Water-type)\nSylveon: Psyshock (Psychic-type)\nEevee caught or hatched during this time will know Last Resort.\n\n",
+            "Vaporeon: Scald (Water-type)",
+            "Jolteon: Zap Cannon (Electric-type)",
+            "Flareon: Superpower (Fighting-type)",
+            "Espeon: Shadow Ball (Ghost-type)",
+            "Umbreon: Psychic (Psychic-types)",
+            "Leafeon: Bullet Seed (Grass-type)",
+            "Glaceon: Water Pulse (Water-type)",
+            "Sylveon: Psyshock (Psychic-type)",
+            "Eevee caught or hatched during this time will know Last Resort.",
+            "Evolving Eevee into Sylveon will require only seven hearts instead of the usual 70.",
+            "Timed Research - There will be special Timed Research available that rewards a Mossy Lure Module and a Glacial Lure Module.",
+            "Community Day Box There’ll be a special one-time-purchase Community Day Box available for 1,280 PokéCoins, featuring 50 Ultra Balls, five Incense, an Elite Fast TM, and an Elite Charged TM.",
+            "\nExclusive Special Research Story - For US$1 (or the equivalent pricing tier in your local currency), you’ll be able to access the Eevee Community Day-exclusive Special Research story, What You Choose to Be.\n",
+            "\nPhotobomb - During the event you can snap an AR Photo and get photobombed by Eevee.\n"
+        ],
         "has_quests": true,
         "has_spawnpoints": true
+    },
+    {
+        "name": "Space - Ultra Unlock Part 2",
+        "type": "event",
+        "start": "2021-08-06 10:00",
+        "end": "2021-08-17 20:00",
+        "spawns": [
+            {
+                "id": 35,
+                "template": "CLEFAIRY"
+            },
+            {
+                "id": 517,
+                "template": "MUNNA"
+            },
+            {
+                "id": 550,
+                "template": "BASCULIN_BLUE_STRIPED",
+                "form": 137
+            },
+            {
+                "id": 550,
+                "template": "BASCULIN_RED_STRIPED",
+                "form": 136
+            },
+            {
+                "id": 605,
+                "template": "ELGYEM"
+            },
+            {
+                "id": 631,
+                "template": "HEATMOR"
+            },
+            {
+                "id": 632,
+                "template": "DURANT"
+            }
+        ],
+        "eggs": [
+            {
+                "id": 422,
+                "template": "SHELLOS_EAST_SEA",
+                "form": 97
+            },
+            {
+                "id": 422,
+                "template": "SHELLOS_WEST_SEA",
+                "form": 96
+            },
+            {
+                "id": 550,
+                "template": "BASCULIN_BLUE_STRIPED",
+                "form": 137
+            },
+            {
+                "id": 550,
+                "template": "BASCULIN_RED_STRIPED",
+                "form": 136
+            },
+            {
+                "id": 631,
+                "template": "HEATMOR"
+            },
+            {
+                "id": 632,
+                "template": "DURANT"
+            }
+        ],
+        "raids": [
+            {
+                "id": 201,
+                "template": "UNOWN_U",
+                "form": 21
+            },
+            {
+                "id": 422,
+                "template": "SHELLOS_EAST_SEA",
+                "form": 97
+            },
+            {
+                "id": 422,
+                "template": "SHELLOS_WEST_SEA",
+                "form": 96
+            },
+            {
+                "id": 605,
+                "template": "ELGYEM"
+            },
+            {
+                "id": 677,
+                "template": "ESPURR"
+            },
+            {
+                "id": 65,
+                "template": "ALAKAZAM"
+            },
+            {
+                "id": 115,
+                "template": "KANGASKHAN"
+            },
+            {
+                "id": 214,
+                "template": "HERACROSS"
+            },
+            {
+                "id": 484,
+                "template": "PALKIA"
+            }
+        ],
+        "shinies": [
+            {
+                "id": 214,
+                "template": "HERACROSS"
+            },
+            {
+                "id": 484,
+                "template": "PALKIA"
+            },
+            {
+                "id": 115,
+                "template": "KANGASKHAN"
+            },
+            {
+                "id": 201,
+                "template": "UNOWN_U",
+                "form": 21
+            }
+        ],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
     },
     {
         "name": "GO Battle Night",
         "type": "event",
         "start": "2021-08-26 18:00",
         "end": "2021-08-26 23:59",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "????? - Ultra Unlock Part 3",
+        "type": "event",
+        "start": "2021-08-20 10:00",
+        "end": "2021-08-31 20:00",
         "spawns": [],
         "eggs": [],
         "raids": [],
@@ -1770,6 +1264,25 @@
         "bonuses": [],
         "features": [],
         "has_quests": true,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "[Postponed] Pikachu wearing an Okinawan kariyushi shirt and Shiny Corsola",
+        "type": "event",
+        "start": null,
+        "end": null,
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [
+            {
+                "id": 222,
+                "template": "CORSOLA"
+            }
+        ],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
         "has_spawnpoints": false
     }
 ]

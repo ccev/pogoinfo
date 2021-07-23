@@ -1,48 +1,60 @@
 {
     "1": [
         {
-            "id": 77,
-            "template": "PONYTA_GALARIAN",
-            "form": 2336
-        },
-        {
-            "id": 263,
-            "template": "ZIGZAGOON_GALARIAN",
-            "form": 946
-        },
-        {
-            "id": 633,
-            "template": "DEINO"
-        }
-    ],
-    "3": [
-        {
-            "id": 110,
-            "template": "WEEZING_GALARIAN",
-            "form": 944
-        },
-        {
-            "id": 237,
-            "template": "HITMONTOP"
+            "id": 201,
+            "template": "UNOWN_U",
+            "form": 21
         },
         {
             "id": 408,
             "template": "CRANIDOS"
+        },
+        {
+            "id": 410,
+            "template": "SHIELDON"
+        },
+        {
+            "id": 436,
+            "template": "BRONZOR"
+        },
+        {
+            "id": 599,
+            "template": "KLINK"
+        }
+    ],
+    "3": [
+        {
+            "id": 82,
+            "template": "MAGNETON_NORMAL",
+            "form": 658
+        },
+        {
+            "id": 142,
+            "template": "AERODACTYL_NORMAL",
+            "form": 1110
+        },
+        {
+            "id": 233,
+            "template": "PORYGON2_NORMAL",
+            "form": 680
+        },
+        {
+            "id": 623,
+            "template": "GOLURK"
         }
     ],
     "5": [
         {
-            "id": 150,
-            "template": "MEWTWO_NORMAL",
-            "form": 135
+            "id": 483,
+            "template": "DIALGA"
         }
     ],
     "6": [
         {
-            "id": 94,
-            "template": "GENGAR_NORMAL",
-            "form": 1044,
-            "temp_evolution_id": 1
+            "id": 6,
+            "template": "CHARIZARD_NORMAL",
+            "form": 178,
+            "temp_evolution_id": 2
         }
     ]
 }

@@ -1,185 +1,56 @@
 {
     "event": [
         {
-            "task": "Catch 5 Pokémon",
+            "task": "Hatch an Egg",
             "rewards": [
                 {
                     "type": "pokemon",
                     "reward": {
-                        "id": 1,
-                        "template": "BULBASAUR_NORMAL",
-                        "form": 163
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 4,
-                        "template": "CHARMANDER_NORMAL",
-                        "form": 172
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 7,
-                        "template": "SQUIRTLE_NORMAL",
-                        "form": 181
+                        "id": 410,
+                        "template": "SHIELDON"
                     }
                 }
             ]
         },
         {
-            "task": "Use 5 Berries to help catch Pokémon",
+            "task": "Win a raid",
             "rewards": [
                 {
                     "type": "pokemon",
                     "reward": {
-                        "id": 152,
-                        "template": "CHIKORITA"
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 155,
-                        "template": "CYNDAQUIL"
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 158,
-                        "template": "TOTODILE"
+                        "id": 408,
+                        "template": "CRANIDOS"
                     }
                 }
             ]
         },
         {
-            "task": "Take 5 snapshots of wild Pokémon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 252,
-                        "template": "TREECKO"
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 255,
-                        "template": "TORCHIC_NORMAL",
-                        "form": 1358
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 258,
-                        "template": "MUDKIP_NORMAL",
-                        "form": 205
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Make 5 Great Throws",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 387,
-                        "template": "TURTWIG_NORMAL",
-                        "form": 688
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 390,
-                        "template": "CHIMCHAR_NORMAL",
-                        "form": 818
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 393,
-                        "template": "PIPLUP"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Send 5 Gifts to friends",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 495,
-                        "template": "SNIVY"
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 498,
-                        "template": "TEPIG"
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 501,
-                        "template": "OSHAWOTT"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Spin 5 PokéStops or Gyms",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 650,
-                        "template": "CHESPIN"
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 653,
-                        "template": "FENNEKIN"
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 656,
-                        "template": "FROAKIE"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Earn 2 Candies walking with your buddy",
+            "task": "Spin 10 PokéStops or Gyms",
             "rewards": [
                 {
                     "type": "item",
-                    "amount": 4,
-                    "id": 701
-                },
+                    "amount": 10,
+                    "id": 1
+                }
+            ]
+        },
+        {
+            "task": "Earn a Candy walking with your buddy",
+            "rewards": [
                 {
                     "type": "item",
                     "amount": 3,
-                    "id": 705
-                },
+                    "id": 3
+                }
+            ]
+        },
+        {
+            "task": "Catch 3 Pokémon with Weather Boost",
+            "rewards": [
                 {
                     "type": "item",
-                    "amount": 8,
-                    "id": 1
+                    "amount": 2,
+                    "id": 705
                 }
             ]
         }
