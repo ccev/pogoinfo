@@ -421,6 +421,19 @@
             ]
         },
         {
+            "task": "Catch 10 Normal-type Pokémon",
+            "rewards": [
+                {
+                    "type": "energy",
+                    "reward": {
+                        "id": 18,
+                        "template": "PIDGEOT"
+                    },
+                    "amount": 10
+                }
+            ]
+        },
+        {
             "task": "Make 5 Nice Throws",
             "rewards": [
                 {
