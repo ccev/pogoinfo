@@ -19,6 +19,20 @@
         "has_spawnpoints": true
     },
     {
+        "name": "Dialga Raid Hour",
+        "type": "raid-hour",
+        "start": "2021-08-04 18:00",
+        "end": "2021-08-04 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
         "name": "Time - Ultra Unlock Part 1",
         "type": "event",
         "start": null,
@@ -201,20 +215,6 @@
         "features": [],
         "has_quests": false,
         "has_spawnpoints": true
-    },
-    {
-        "name": "Dialga Raid Hour",
-        "type": "raid-hour",
-        "start": "2021-08-04 18:00",
-        "end": "2021-08-04 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
     },
     {
         "name": "Shellos (East Sea) Spotlight Hour",
