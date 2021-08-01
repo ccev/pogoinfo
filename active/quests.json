@@ -57,6 +57,30 @@
     ],
     "quests": [
         {
+            "task": "Catch 10 Pokémon",
+            "rewards": [
+                {
+                    "type": "stardust",
+                    "amount": 200
+                },
+                {
+                    "type": "item",
+                    "amount": 3,
+                    "id": 701
+                },
+                {
+                    "type": "item",
+                    "amount": 1,
+                    "id": 705
+                },
+                {
+                    "type": "item",
+                    "amount": 5,
+                    "id": 1
+                }
+            ]
+        },
+        {
             "task": "Catch 5 Pokémon with Weather Boost",
             "rewards": [
                 {
@@ -109,6 +133,14 @@
                         "template": "SNOVER_NORMAL",
                         "form": 932
                     }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 194,
+                        "template": "WOOPER_NORMAL",
+                        "form": 1226
+                    }
                 }
             ]
         },
@@ -149,79 +181,6 @@
                         "template": "BAGON_NORMAL",
                         "form": 755
                     }
-                }
-            ]
-        },
-        {
-            "task": "Catch 7 Pokémon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 129,
-                        "template": "MAGIKARP_NORMAL",
-                        "form": 253
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Catch 5 Pokémon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 39,
-                        "template": "JIGGLYPUFF"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Catch 5 different species of Pokémon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 535,
-                        "template": "TYMPOLE"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Use 3 Pinap Berries while catching Pokémon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 401,
-                        "template": "KRICKETOT"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Catch 10 Pokémon",
-            "rewards": [
-                {
-                    "type": "stardust",
-                    "amount": 200
-                },
-                {
-                    "type": "item",
-                    "amount": 3,
-                    "id": 701
-                },
-                {
-                    "type": "item",
-                    "amount": 1,
-                    "id": 705
-                },
-                {
-                    "type": "item",
-                    "amount": 5,
-                    "id": 1
                 }
             ]
         },
@@ -430,6 +389,53 @@
                         "template": "PIDGEOT"
                     },
                     "amount": 10
+                }
+            ]
+        },
+        {
+            "task": "Catch 7 Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 129,
+                        "template": "MAGIKARP_NORMAL",
+                        "form": 253
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Catch 3 Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 74,
+                        "template": "GEODUDE_NORMAL",
+                        "form": 67
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 74,
+                        "template": "GEODUDE_ALOLA",
+                        "form": 68
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Use 3 Razz Berries to help catch Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 54,
+                        "template": "PSYDUCK_NORMAL",
+                        "form": 286
+                    }
                 }
             ]
         },
@@ -773,35 +779,36 @@
                 {
                     "type": "pokemon",
                     "reward": {
-                        "id": 67,
-                        "template": "MACHOKE_NORMAL",
-                        "form": 812
+                        "id": 61,
+                        "template": "POLIWHIRL_NORMAL",
+                        "form": 238
                     }
                 }
             ]
         },
         {
-            "task": "Defeat a Team GO Rocket Leader",
+            "task": "Use 10 supereffective Charged Attacks",
             "rewards": [
                 {
-                    "type": "pokemon",
+                    "type": "energy",
                     "reward": {
-                        "id": 359,
-                        "template": "ABSOL_NORMAL",
-                        "form": 830
-                    }
+                        "id": 6,
+                        "template": "CHARIZARD_NORMAL",
+                        "form": 178
+                    },
+                    "amount": 20
                 }
             ]
         },
         {
-            "task": "Win a raid in under 60 seconds",
+            "task": "Defeat 3 Team GO Rocket grunts",
             "rewards": [
                 {
                     "type": "pokemon",
                     "reward": {
-                        "id": 103,
-                        "template": "EXEGGUTOR_ALOLA",
-                        "form": 78
+                        "id": 451,
+                        "template": "SKORUPI_NORMAL",
+                        "form": 1796
                     }
                 }
             ]
@@ -812,20 +819,8 @@
                 {
                     "type": "pokemon",
                     "reward": {
-                        "id": 285,
-                        "template": "SHROOMISH"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Trade a Pokémon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 265,
-                        "template": "WURMPLE"
+                        "id": 35,
+                        "template": "CLEFAIRY"
                     }
                 }
             ]
@@ -836,16 +831,20 @@
                 {
                     "type": "pokemon",
                     "reward": {
-                        "id": 11,
-                        "template": "METAPOD"
+                        "id": 315,
+                        "template": "ROSELIA"
                     }
-                },
+                }
+            ]
+        },
+        {
+            "task": "Trade a Pokémon",
+            "rewards": [
                 {
                     "type": "pokemon",
                     "reward": {
-                        "id": 14,
-                        "template": "KAKUNA_NORMAL",
-                        "form": 619
+                        "id": 349,
+                        "template": "FEEBAS"
                     }
                 }
             ]
@@ -876,19 +875,6 @@
             ]
         },
         {
-            "task": "Earn 5 Candies walking with your buddy",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 207,
-                        "template": "GLIGAR_NORMAL",
-                        "form": 803
-                    }
-                }
-            ]
-        },
-        {
             "task": "Evolve a Pokémon",
             "rewards": [
                 {
@@ -897,6 +883,84 @@
                         "id": 133,
                         "template": "EEVEE"
                     }
+                }
+            ]
+        },
+        {
+            "task": "Spin 10 PokéStops or Gyms",
+            "rewards": [
+                {
+                    "type": "stardust",
+                    "amount": 200
+                },
+                {
+                    "type": "item",
+                    "amount": 3,
+                    "id": 701
+                },
+                {
+                    "type": "item",
+                    "amount": 1,
+                    "id": 705
+                },
+                {
+                    "type": "item",
+                    "amount": 5,
+                    "id": 1
+                }
+            ]
+        },
+        {
+            "task": "Power up Pokémon 5 times",
+            "rewards": [
+                {
+                    "type": "energy",
+                    "reward": {
+                        "id": 3,
+                        "template": "VENUSAUR_NORMAL",
+                        "form": 169
+                    },
+                    "amount": 10
+                },
+                {
+                    "type": "energy",
+                    "reward": {
+                        "id": 6,
+                        "template": "CHARIZARD_NORMAL",
+                        "form": 178
+                    },
+                    "amount": 10
+                },
+                {
+                    "type": "energy",
+                    "reward": {
+                        "id": 9,
+                        "template": "BLASTOISE_NORMAL",
+                        "form": 187
+                    },
+                    "amount": 10
+                }
+            ]
+        },
+        {
+            "task": "Power up Pokémon 5 times",
+            "rewards": [
+                {
+                    "type": "energy",
+                    "reward": {
+                        "id": 15,
+                        "template": "BEEDRILL_NORMAL",
+                        "form": 622
+                    },
+                    "amount": 10
+                },
+                {
+                    "type": "energy",
+                    "reward": {
+                        "id": 18,
+                        "template": "PIDGEOT"
+                    },
+                    "amount": 10
                 }
             ]
         },
@@ -1057,138 +1121,12 @@
                         "template": "BELDUM_NORMAL",
                         "form": 764
                     }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 531,
-                        "template": "AUDINO"
-                    }
                 }
             ]
         },
         {
             "task": "Hatch an Egg",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 226,
-                        "template": "MANTINE"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Spin 5 PokéStops or Gyms",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 293,
-                        "template": "WHISMUR"
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 280,
-                        "template": "RALTS_NORMAL",
-                        "form": 292
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Take 5 snapshots of wild Normal-type Pokémon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 399,
-                        "template": "BIDOOF_NORMAL",
-                        "form": 1667
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Spin 10 PokéStops or Gyms",
-            "rewards": [
-                {
-                    "type": "stardust",
-                    "amount": 200
-                },
-                {
-                    "type": "item",
-                    "amount": 3,
-                    "id": 701
-                },
-                {
-                    "type": "item",
-                    "amount": 1,
-                    "id": 705
-                },
-                {
-                    "type": "item",
-                    "amount": 5,
-                    "id": 1
-                }
-            ]
-        },
-        {
-            "task": "Power up Pokémon 5 times",
-            "rewards": [
-                {
-                    "type": "energy",
-                    "reward": {
-                        "id": 3,
-                        "template": "VENUSAUR_NORMAL",
-                        "form": 169
-                    },
-                    "amount": 10
-                },
-                {
-                    "type": "energy",
-                    "reward": {
-                        "id": 6,
-                        "template": "CHARIZARD_NORMAL",
-                        "form": 178
-                    },
-                    "amount": 10
-                },
-                {
-                    "type": "energy",
-                    "reward": {
-                        "id": 9,
-                        "template": "BLASTOISE_NORMAL",
-                        "form": 187
-                    },
-                    "amount": 10
-                }
-            ]
-        },
-        {
-            "task": "Power up Pokémon 5 times",
-            "rewards": [
-                {
-                    "type": "energy",
-                    "reward": {
-                        "id": 15,
-                        "template": "BEEDRILL_NORMAL",
-                        "form": 622
-                    },
-                    "amount": 10
-                },
-                {
-                    "type": "energy",
-                    "reward": {
-                        "id": 18,
-                        "template": "PIDGEOT"
-                    },
-                    "amount": 10
-                }
-            ]
+            "rewards": []
         },
         {
             "task": "Power up Pokémon 10 times",
@@ -1201,6 +1139,31 @@
                         "form": 232
                     },
                     "amount": 20
+                }
+            ]
+        },
+        {
+            "task": "Spin 5 PokéStops or Gyms",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 111,
+                        "template": "RHYHORN_NORMAL",
+                        "form": 846
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Take 2 snapshots of wild Rock-type Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 524,
+                        "template": "ROGGENROLA"
+                    }
                 }
             ]
         }

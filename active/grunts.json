@@ -469,14 +469,14 @@
                         "form": 727
                     },
                     {
-                        "id": 229,
-                        "template": "HOUNDOOM_SHADOW",
-                        "form": 233
-                    },
-                    {
                         "id": 126,
                         "template": "MAGMAR_SHADOW",
                         "form": 635
+                    },
+                    {
+                        "id": 229,
+                        "template": "HOUNDOOM_SHADOW",
+                        "form": 233
                     }
                 ],
                 [
@@ -1272,14 +1272,14 @@
                         "form": 320
                     },
                     {
-                        "id": 389,
-                        "template": "TORTERRA_SHADOW",
-                        "form": 695
-                    },
-                    {
                         "id": 319,
                         "template": "SHARPEDO_SHADOW",
                         "form": 738
+                    },
+                    {
+                        "id": 389,
+                        "template": "TORTERRA_SHADOW",
+                        "form": 695
                     }
                 ]
             ]
