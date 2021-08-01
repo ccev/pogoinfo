@@ -1,38 +1,5 @@
 [
     {
-        "name": "Natu Spotlight Hour",
-        "type": "spotlight-hour",
-        "start": "2021-07-27 18:00",
-        "end": "2021-07-27 19:00",
-        "spawns": [
-            {
-                "id": 177,
-                "template": "NATU"
-            }
-        ],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": true
-    },
-    {
-        "name": "Dialga Raid Hour",
-        "type": "raid-hour",
-        "start": "2021-08-04 18:00",
-        "end": "2021-08-04 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Time - Ultra Unlock Part 1",
         "type": "event",
         "start": "2021-07-23 10:00",
@@ -215,6 +182,20 @@
         "features": [],
         "has_quests": false,
         "has_spawnpoints": true
+    },
+    {
+        "name": "Dialga Raid Hour",
+        "type": "raid-hour",
+        "start": "2021-08-04 18:00",
+        "end": "2021-08-04 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
     },
     {
         "name": "Shellos (East Sea) Spotlight Hour",
