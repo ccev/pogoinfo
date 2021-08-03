@@ -517,14 +517,121 @@
         "has_spawnpoints": false
     },
     {
-        "name": "????? - Ultra Unlock Part 3",
+        "name": "Sword and Shield - Ultra Unlock Part 3",
         "type": "event",
         "start": "2021-08-20 10:00",
         "end": "2021-08-31 20:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
+        "spawns": [
+            {
+                "id": 554,
+                "template": "DARUMAKA_GALARIAN",
+                "form": 2341
+            },
+            {
+                "id": 568,
+                "template": "TRUBBISH"
+            }
+        ],
+        "eggs": [
+            {
+                "id": 52,
+                "template": "MEOWTH_GALARIAN",
+                "form": 2335
+            },
+            {
+                "id": 77,
+                "template": "PONYTA_GALARIAN",
+                "form": 2336
+            },
+            {
+                "id": 79,
+                "template": "SLOWPOKE_GALARIAN",
+                "form": 2582
+            },
+            {
+                "id": 83,
+                "template": "FARFETCHD_GALARIAN",
+                "form": 2338
+            },
+            {
+                "id": 263,
+                "template": "ZIGZAGOON_GALARIAN",
+                "form": 946
+            },
+            {
+                "id": 554,
+                "template": "DARUMAKA_GALARIAN",
+                "form": 2341
+            },
+            {
+                "id": 618,
+                "template": "STUNFISK_GALARIAN",
+                "form": 2345
+            }
+        ],
+        "raids": [
+            {
+                "id": 79,
+                "template": "SLOWPOKE_GALARIAN",
+                "form": 2582
+            },
+            {
+                "id": 201,
+                "template": "UNOWN_U",
+                "form": 21
+            },
+            {
+                "id": 263,
+                "template": "ZIGZAGOON_GALARIAN",
+                "form": 946
+            },
+            {
+                "id": 110,
+                "template": "WEEZING_GALARIAN",
+                "form": 944
+            },
+            {
+                "id": 131,
+                "template": "LAPRAS"
+            },
+            {
+                "id": 15,
+                "template": "BEEDRILL",
+                "temp_evolution_id": 1
+            }
+        ],
+        "shinies": [
+            {
+                "id": 52,
+                "template": "MEOWTH_GALARIAN",
+                "form": 2335
+            },
+            {
+                "id": 83,
+                "template": "FARFETCHD_GALARIAN",
+                "form": 2338
+            },
+            {
+                "id": 110,
+                "template": "WEEZING_GALARIAN",
+                "form": 944
+            },
+            {
+                "id": 618,
+                "template": "STUNFISK_GALARIAN",
+                "form": 2345
+            },
+            {
+                "id": 863,
+                "template": "PERRSERKER_NORMAL",
+                "form": 2504
+            },
+            {
+                "id": 865,
+                "template": "SIRFETCHD_NORMAL",
+                "form": 2510
+            }
+        ],
         "bonuses": [],
         "features": [],
         "has_quests": false,
