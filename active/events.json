@@ -475,10 +475,10 @@
         "has_spawnpoints": true
     },
     {
-        "name": "??? Spotlight Hour",
+        "name": "Skwovet Spotlight Hour",
         "type": "spotlight-hour",
-        "start": "2021-08-31 18:00",
-        "end": "2021-08-31 19:00",
+        "start": "2021-08-24 18:00",
+        "end": "2021-08-24 19:00",
         "spawns": [],
         "eggs": [],
         "raids": [],
@@ -636,6 +636,20 @@
         "features": [],
         "has_quests": false,
         "has_spawnpoints": false
+    },
+    {
+        "name": "Wooloo Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2021-08-31 18:00",
+        "end": "2021-08-31 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": true
     },
     {
         "name": "Season of Discovery",

@@ -1272,14 +1272,14 @@
                         "form": 320
                     },
                     {
-                        "id": 389,
-                        "template": "TORTERRA_SHADOW",
-                        "form": 695
-                    },
-                    {
                         "id": 319,
                         "template": "SHARPEDO_SHADOW",
                         "form": 738
+                    },
+                    {
+                        "id": 389,
+                        "template": "TORTERRA_SHADOW",
+                        "form": 695
                     }
                 ]
             ]
@@ -1329,14 +1329,14 @@
                         "form": 251
                     },
                     {
-                        "id": 45,
-                        "template": "VILEPLUME_SHADOW",
-                        "form": 272
-                    },
-                    {
                         "id": 462,
                         "template": "MAGNEZONE_SHADOW",
                         "form": 662
+                    },
+                    {
+                        "id": 45,
+                        "template": "VILEPLUME_SHADOW",
+                        "form": 272
                     }
                 ]
             ]
