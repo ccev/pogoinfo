@@ -1,189 +1,5 @@
 [
     {
-        "name": "Time - Ultra Unlock Part 1",
-        "type": "event",
-        "start": "2021-07-23 10:00",
-        "end": "2021-08-03 20:00",
-        "spawns": [
-            {
-                "id": 81,
-                "template": "MAGNEMITE"
-            },
-            {
-                "id": 100,
-                "template": "VOLTORB"
-            },
-            {
-                "id": 137,
-                "template": "PORYGON"
-            },
-            {
-                "id": 138,
-                "template": "OMANYTE"
-            },
-            {
-                "id": 140,
-                "template": "KABUTO"
-            },
-            {
-                "id": 304,
-                "template": "ARON"
-            },
-            {
-                "id": 343,
-                "template": "BALTOY"
-            },
-            {
-                "id": 345,
-                "template": "LILEEP"
-            },
-            {
-                "id": 347,
-                "template": "ANORITH"
-            },
-            {
-                "id": 374,
-                "template": "BELDUM"
-            },
-            {
-                "id": 408,
-                "template": "CRANIDOS"
-            },
-            {
-                "id": 410,
-                "template": "SHIELDON"
-            }
-        ],
-        "eggs": [
-            {
-                "id": 138,
-                "template": "OMANYTE"
-            },
-            {
-                "id": 140,
-                "template": "KABUTO"
-            },
-            {
-                "id": 142,
-                "template": "AERODACTYL"
-            },
-            {
-                "id": 345,
-                "template": "LILEEP"
-            },
-            {
-                "id": 347,
-                "template": "ANORITH"
-            },
-            {
-                "id": 408,
-                "template": "CRANIDOS"
-            },
-            {
-                "id": 410,
-                "template": "SHIELDON"
-            }
-        ],
-        "raids": [
-            {
-                "id": 201,
-                "template": "UNOWN_U",
-                "form": 21
-            },
-            {
-                "id": 408,
-                "template": "CRANIDOS"
-            },
-            {
-                "id": 410,
-                "template": "SHIELDON"
-            },
-            {
-                "id": 436,
-                "template": "BRONZOR"
-            },
-            {
-                "id": 599,
-                "template": "KLINK"
-            },
-            {
-                "id": 82,
-                "template": "MAGNETON"
-            },
-            {
-                "id": 142,
-                "template": "AERODACTYL"
-            },
-            {
-                "id": 233,
-                "template": "PORYGON2"
-            },
-            {
-                "id": 623,
-                "template": "GOLURK"
-            },
-            {
-                "id": 483,
-                "template": "DIALGA"
-            },
-            {
-                "id": 6,
-                "template": "CHARIZARD",
-                "temp_evolution_id": 2
-            }
-        ],
-        "shinies": [
-            {
-                "id": 408,
-                "template": "CRANIDOS"
-            },
-            {
-                "id": 409,
-                "template": "RAMPARDOS"
-            },
-            {
-                "id": 410,
-                "template": "SHIELDON"
-            },
-            {
-                "id": 411,
-                "template": "BASTIODON"
-            },
-            {
-                "id": 483,
-                "template": "DIALGA"
-            },
-            {
-                "id": 201,
-                "template": "UNOWN_U",
-                "form": 21
-            }
-        ],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
-        "name": "Magnemite Spotlight Hour",
-        "type": "spotlight-hour",
-        "start": "2021-08-03 18:00",
-        "end": "2021-08-03 19:00",
-        "spawns": [
-            {
-                "id": 81,
-                "template": "MAGNEMITE"
-            }
-        ],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": true
-    },
-    {
         "name": "Dialga Raid Hour",
         "type": "raid-hour",
         "start": "2021-08-04 18:00",
@@ -489,7 +305,7 @@
         "has_spawnpoints": true
     },
     {
-        "name": "??? Raid Hour",
+        "name": "Zacian Raid Hour",
         "type": "raid-hour",
         "start": "2021-08-25 18:00",
         "end": "2021-08-25 19:00",
@@ -574,6 +390,11 @@
                 "id": 79,
                 "template": "SLOWPOKE_GALARIAN",
                 "form": 2582
+            },
+            {
+                "id": 83,
+                "template": "FARFETCHD_GALARIAN",
+                "form": 2338
             },
             {
                 "id": 201,
@@ -1486,6 +1307,20 @@
         "bonuses": [],
         "features": [],
         "has_quests": true,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Zamazenta Raid Hour",
+        "type": "raid-hour",
+        "start": "2021-09-01 18:00",
+        "end": "2021-09-01 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
         "has_spawnpoints": false
     },
     {
