@@ -1,19 +1,5 @@
 [
     {
-        "name": "Dialga Raid Hour",
-        "type": "raid-hour",
-        "start": "2021-08-04 18:00",
-        "end": "2021-08-04 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Shellos (East Sea) Spotlight Hour",
         "type": "spotlight-hour",
         "start": "2021-08-10 18:00",
