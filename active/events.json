@@ -130,6 +130,14 @@
                 "template": "CLEFAIRY"
             },
             {
+                "id": 92,
+                "template": "GASTLY"
+            },
+            {
+                "id": 355,
+                "template": "DUSKULL"
+            },
+            {
                 "id": 517,
                 "template": "MUNNA"
             },
@@ -253,7 +261,7 @@
         ],
         "bonuses": [],
         "features": [],
-        "has_quests": false,
+        "has_quests": true,
         "has_spawnpoints": false
     },
     {
