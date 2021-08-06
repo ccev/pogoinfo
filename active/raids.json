@@ -6,55 +6,52 @@
             "form": 21
         },
         {
-            "id": 408,
-            "template": "CRANIDOS"
+            "id": 422,
+            "template": "SHELLOS_EAST_SEA",
+            "form": 97
         },
         {
-            "id": 410,
-            "template": "SHIELDON"
+            "id": 422,
+            "template": "SHELLOS_WEST_SEA",
+            "form": 96
         },
         {
-            "id": 436,
-            "template": "BRONZOR"
+            "id": 605,
+            "template": "ELGYEM"
         },
         {
-            "id": 599,
-            "template": "KLINK"
+            "id": 677,
+            "template": "ESPURR"
         }
     ],
     "3": [
         {
-            "id": 82,
-            "template": "MAGNETON_NORMAL",
-            "form": 658
+            "id": 65,
+            "template": "ALAKAZAM_NORMAL",
+            "form": 310
         },
         {
-            "id": 142,
-            "template": "AERODACTYL_NORMAL",
-            "form": 1110
+            "id": 115,
+            "template": "KANGASKHAN_NORMAL",
+            "form": 839
         },
         {
-            "id": 233,
-            "template": "PORYGON2_NORMAL",
-            "form": 680
-        },
-        {
-            "id": 623,
-            "template": "GOLURK"
+            "id": 214,
+            "template": "HERACROSS"
         }
     ],
     "5": [
         {
-            "id": 483,
-            "template": "DIALGA"
+            "id": 484,
+            "template": "PALKIA"
         }
     ],
     "6": [
         {
-            "id": 6,
-            "template": "CHARIZARD_NORMAL",
-            "form": 178,
-            "temp_evolution_id": 2
+            "id": 181,
+            "template": "AMPHAROS_NORMAL",
+            "form": 652,
+            "temp_evolution_id": 1
         }
     ]
 }
