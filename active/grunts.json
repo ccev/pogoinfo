@@ -1272,14 +1272,14 @@
                         "form": 320
                     },
                     {
-                        "id": 319,
-                        "template": "SHARPEDO_SHADOW",
-                        "form": 738
-                    },
-                    {
                         "id": 389,
                         "template": "TORTERRA_SHADOW",
                         "form": 695
+                    },
+                    {
+                        "id": 319,
+                        "template": "SHARPEDO_SHADOW",
+                        "form": 738
                     }
                 ]
             ]
