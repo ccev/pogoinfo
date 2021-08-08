@@ -1215,20 +1215,6 @@
                     "amount": 10
                 }
             ]
-        },
-        {
-            "task": "Power up Pokémon 10 times",
-            "rewards": [
-                {
-                    "type": "energy",
-                    "reward": {
-                        "id": 229,
-                        "template": "HOUNDOOM_NORMAL",
-                        "form": 232
-                    },
-                    "amount": 20
-                }
-            ]
         }
     ],
     "ar": [
