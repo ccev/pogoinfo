@@ -1,5 +1,151 @@
 [
     {
+        "name": "Eevee Community Day -  Day 1",
+        "type": "community-day",
+        "start": "2021-08-14 11:00",
+        "end": "2021-08-14 17:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [
+            {
+                "id": 133,
+                "template": "EEVEE"
+            },
+            {
+                "id": 134,
+                "template": "VAPOREON"
+            },
+            {
+                "id": 135,
+                "template": "JOLTEON"
+            },
+            {
+                "id": 136,
+                "template": "FLAREON"
+            },
+            {
+                "id": 196,
+                "template": "ESPEON"
+            },
+            {
+                "id": 197,
+                "template": "UMBREON"
+            },
+            {
+                "id": 470,
+                "template": "LEAFEON"
+            },
+            {
+                "id": 471,
+                "template": "GLACEON"
+            },
+            {
+                "id": 700,
+                "template": "SYLVEON"
+            }
+        ],
+        "bonuses": [
+            {
+                "text": "Increased Spawns"
+            },
+            {
+                "text": "1/4 Egg Hatch Distance",
+                "template": "reduced-hatch-distance",
+                "value": 14
+            },
+            {
+                "text": "3-hour Incense",
+                "template": "longer-incense",
+                "value": 3
+            },
+            {
+                "text": "3-hour Lures",
+                "template": "longer-lure",
+                "value": 3
+            }
+        ],
+        "features": [
+            "\nExclusive Special Research Story - For US$1 (or the equivalent pricing tier in your local currency), you’ll be able to access the Eevee Community Day-exclusive Special Research story, What You Choose to Be.\n",
+            "\nPhotobomb - During the event you can snap an AR Photo and get photobombed by Eevee.\n"
+        ],
+        "has_quests": true,
+        "has_spawnpoints": true
+    },
+    {
+        "name": "Eevee Community Day -  Day 2",
+        "type": "community-day",
+        "start": "2021-08-15 11:00",
+        "end": "2021-08-15 17:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [
+            {
+                "id": 133,
+                "template": "EEVEE"
+            },
+            {
+                "id": 134,
+                "template": "VAPOREON"
+            },
+            {
+                "id": 135,
+                "template": "JOLTEON"
+            },
+            {
+                "id": 136,
+                "template": "FLAREON"
+            },
+            {
+                "id": 196,
+                "template": "ESPEON"
+            },
+            {
+                "id": 197,
+                "template": "UMBREON"
+            },
+            {
+                "id": 470,
+                "template": "LEAFEON"
+            },
+            {
+                "id": 471,
+                "template": "GLACEON"
+            },
+            {
+                "id": 700,
+                "template": "SYLVEON"
+            }
+        ],
+        "bonuses": [
+            {
+                "text": "Increased Spawns"
+            },
+            {
+                "text": "1/4 Egg Hatch Distance",
+                "template": "reduced-hatch-distance",
+                "value": 14
+            },
+            {
+                "text": "3-hour Incense",
+                "template": "longer-incense",
+                "value": 3
+            },
+            {
+                "text": "3-hour Lures",
+                "template": "longer-lure",
+                "value": 3
+            }
+        ],
+        "features": [
+            "\nExclusive Special Research Story - For US$1 (or the equivalent pricing tier in your local currency), you’ll be able to access the Eevee Community Day-exclusive Special Research story, What You Choose to Be.\n",
+            "\nPhotobomb - During the event you can snap an AR Photo and get photobombed by Eevee.\n"
+        ],
+        "has_quests": true,
+        "has_spawnpoints": true
+    },
+    {
         "name": "Eevee Community Day",
         "type": "community-day",
         "start": "2021-08-13 19:00",
