@@ -248,6 +248,26 @@
             {
                 "id": 568,
                 "template": "TRUBBISH"
+            },
+            {
+                "id": 819,
+                "template": "SKWOVET"
+            },
+            {
+                "id": 831,
+                "template": "WOOLOO"
+            },
+            {
+                "id": 870,
+                "template": "FALINKS"
+            },
+            {
+                "id": 820,
+                "template": "GREEDENT"
+            },
+            {
+                "id": 832,
+                "template": "DUBWOOL"
             }
         ],
         "eggs": [
@@ -316,6 +336,14 @@
             {
                 "id": 131,
                 "template": "LAPRAS"
+            },
+            {
+                "id": 870,
+                "template": "FALINKS"
+            },
+            {
+                "id": 888,
+                "template": "ZACIAN"
             },
             {
                 "id": 15,
