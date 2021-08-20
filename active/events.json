@@ -1069,6 +1069,52 @@
         "has_spawnpoints": false
     },
     {
+        "name": "Oshawott Community Day",
+        "type": "community-day",
+        "start": "2021-09-19 11:00",
+        "end": "2021-09-19 17:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [
+            {
+                "id": 501,
+                "template": "OSHAWOTT"
+            },
+            {
+                "id": 502,
+                "template": "DEWOTT"
+            },
+            {
+                "id": 503,
+                "template": "SAMUROTT"
+            }
+        ],
+        "bonuses": [
+            {
+                "text": "Increased Spawns"
+            },
+            {
+                "text": "3x Catch XP",
+                "template": "increased-xp",
+                "value": 3
+            },
+            {
+                "text": "3-hour Incense",
+                "template": "longer-incense",
+                "value": 3
+            },
+            {
+                "text": "3-hour Lures",
+                "template": "longer-lure",
+                "value": 3
+            }
+        ],
+        "features": [],
+        "has_quests": true,
+        "has_spawnpoints": true
+    },
+    {
         "name": "[Postponed] Pikachu wearing an Okinawan kariyushi shirt and Shiny Corsola",
         "type": "event",
         "start": null,
