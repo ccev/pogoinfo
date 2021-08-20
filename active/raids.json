@@ -1,56 +1,55 @@
 {
     "1": [
         {
+            "id": 79,
+            "template": "SLOWPOKE_GALARIAN",
+            "form": 2582
+        },
+        {
+            "id": 83,
+            "template": "FARFETCHD_GALARIAN",
+            "form": 2338
+        },
+        {
             "id": 201,
             "template": "UNOWN_U",
             "form": 21
         },
         {
-            "id": 422,
-            "template": "SHELLOS_EAST_SEA",
-            "form": 97
-        },
-        {
-            "id": 422,
-            "template": "SHELLOS_WEST_SEA",
-            "form": 96
-        },
-        {
-            "id": 605,
-            "template": "ELGYEM"
-        },
-        {
-            "id": 677,
-            "template": "ESPURR"
+            "id": 263,
+            "template": "ZIGZAGOON_GALARIAN",
+            "form": 946
         }
     ],
     "3": [
         {
-            "id": 65,
-            "template": "ALAKAZAM_NORMAL",
-            "form": 310
+            "id": 68,
+            "template": "MACHAMP_NORMAL",
+            "form": 815
         },
         {
-            "id": 115,
-            "template": "KANGASKHAN_NORMAL",
-            "form": 839
+            "id": 110,
+            "template": "WEEZING_GALARIAN",
+            "form": 944
         },
         {
-            "id": 214,
-            "template": "HERACROSS"
+            "id": 131,
+            "template": "LAPRAS_NORMAL",
+            "form": 322
         }
     ],
     "5": [
         {
-            "id": 484,
-            "template": "PALKIA"
+            "id": 888,
+            "template": "ZACIAN_HERO",
+            "form": 2577
         }
     ],
     "6": [
         {
-            "id": 181,
-            "template": "AMPHAROS_NORMAL",
-            "form": 652,
+            "id": 15,
+            "template": "BEEDRILL_NORMAL",
+            "form": 622,
             "temp_evolution_id": 1
         }
     ]
