@@ -4,7 +4,12 @@
         "type": "spotlight-hour",
         "start": "2021-08-24 18:00",
         "end": "2021-08-24 19:00",
-        "spawns": [],
+        "spawns": [
+            {
+                "id": 819,
+                "template": "SKWOVET"
+            }
+        ],
         "eggs": [],
         "raids": [],
         "shinies": [],
@@ -222,7 +227,12 @@
         "type": "spotlight-hour",
         "start": "2021-08-31 18:00",
         "end": "2021-08-31 19:00",
-        "spawns": [],
+        "spawns": [
+            {
+                "id": 831,
+                "template": "WOOLOO"
+            }
+        ],
         "eggs": [],
         "raids": [],
         "shinies": [],
