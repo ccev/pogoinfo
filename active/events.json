@@ -1079,6 +1079,20 @@
         "has_spawnpoints": false
     },
     {
+        "name": "Pokémon Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": null,
+        "end": "2021-09-28 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": true
+    },
+    {
         "name": "Oshawott Community Day",
         "type": "community-day",
         "start": "2021-09-19 11:00",
