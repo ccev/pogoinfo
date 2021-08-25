@@ -1,24 +1,5 @@
 [
     {
-        "name": "Skwovet Spotlight Hour",
-        "type": "spotlight-hour",
-        "start": "2021-08-24 18:00",
-        "end": "2021-08-24 19:00",
-        "spawns": [
-            {
-                "id": 819,
-                "template": "SKWOVET"
-            }
-        ],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": true
-    },
-    {
         "name": "Zacian Raid Hour",
         "type": "raid-hour",
         "start": "2021-08-25 18:00",
