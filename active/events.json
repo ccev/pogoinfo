@@ -1,19 +1,5 @@
 [
     {
-        "name": "Zacian Raid Hour",
-        "type": "raid-hour",
-        "start": "2021-08-25 18:00",
-        "end": "2021-08-25 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
         "name": "GO Battle Night",
         "type": "event",
         "start": "2021-08-26 18:00",
