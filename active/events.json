@@ -1046,34 +1046,6 @@
         "has_spawnpoints": false
     },
     {
-        "name": "Spoink Spotlight Hour",
-        "type": "spotlight-hour",
-        "start": null,
-        "end": "2021-09-07 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": true
-    },
-    {
-        "name": "Baltoy Spotlight Hour",
-        "type": "spotlight-hour",
-        "start": null,
-        "end": "2021-09-14 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": true
-    },
-    {
         "name": "GO Battle Day",
         "type": "event",
         "start": "2021-11-20 00:00",
@@ -1134,20 +1106,6 @@
         "has_spawnpoints": true
     },
     {
-        "name": "Skitty Spotlight Hour",
-        "type": "spotlight-hour",
-        "start": null,
-        "end": "2021-09-21 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": true
-    },
-    {
         "name": "[Postponed] Pikachu wearing an Okinawan kariyushi shirt and Shiny Corsola",
         "type": "event",
         "start": null,
@@ -1165,19 +1123,5 @@
         "features": [],
         "has_quests": false,
         "has_spawnpoints": false
-    },
-    {
-        "name": "lolan Meowth Spotlight Hour",
-        "type": "spotlight-hour",
-        "start": null,
-        "end": "2021-09-28 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": true
     }
 ]
