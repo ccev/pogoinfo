@@ -1,19 +1,5 @@
 [
     {
-        "name": "GO Battle Night",
-        "type": "event",
-        "start": "2021-08-26 18:00",
-        "end": "2021-08-26 23:59",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Zamazenta Raid Hour",
         "type": "raid-hour",
         "start": "2021-08-30 18:00",
@@ -1046,6 +1032,88 @@
         "has_spawnpoints": false
     },
     {
+        "name": "Hoopa's Arrival",
+        "type": "event",
+        "start": "2021-09-05 11:00",
+        "end": "2021-09-05 17:00",
+        "spawns": [
+            {
+                "id": 102,
+                "template": "EXEGGCUTE"
+            },
+            {
+                "id": 124,
+                "template": "JYNX"
+            },
+            {
+                "id": 177,
+                "template": "NATU"
+            },
+            {
+                "id": 203,
+                "template": "GIRAFARIG"
+            },
+            {
+                "id": 325,
+                "template": "SPOINK"
+            },
+            {
+                "id": 374,
+                "template": "BELDUM"
+            },
+            {
+                "id": 517,
+                "template": "MUNNA"
+            },
+            {
+                "id": 19,
+                "template": "RATTATA_ALOLA",
+                "form": 46
+            },
+            {
+                "id": 261,
+                "template": "POOCHYENA"
+            },
+            {
+                "id": 302,
+                "template": "SABLEYE"
+            },
+            {
+                "id": 318,
+                "template": "CARVANHA"
+            },
+            {
+                "id": 355,
+                "template": "DUSKULL"
+            },
+            {
+                "id": 425,
+                "template": "DRIFLOON"
+            },
+            {
+                "id": 509,
+                "template": "PURRLOIN"
+            }
+        ],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [
+            {
+                "text": "2x Transfer Candy",
+                "template": "increased-candy",
+                "value": 2
+            }
+        ],
+        "features": [
+            "There will be a Collection Challenge available featuring Pokémon attracted to Incense during the event hours. The Collection Challenge will reward Hoopa Candy and the Poké Ball Lift avatar pose!",
+            "A free bundle containing an Incense will be available in the shop.",
+            "Complete event-exclusive Field Research tasks to earn Rare Candies and a variety of Poké Ball types!"
+        ],
+        "has_quests": true,
+        "has_spawnpoints": false
+    },
+    {
         "name": "GO Battle Day",
         "type": "event",
         "start": "2021-11-20 00:00",
@@ -1119,6 +1187,130 @@
                 "template": "CORSOLA"
             }
         ],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Season of Mischief",
+        "type": "event",
+        "start": "2021-09-01 10:00",
+        "end": "2021-12-01 10:00",
+        "spawns": [
+            {
+                "id": 74,
+                "template": "GEODUDE"
+            },
+            {
+                "id": 98,
+                "template": "KRABBY"
+            },
+            {
+                "id": 111,
+                "template": "RHYHORN"
+            },
+            {
+                "id": 116,
+                "template": "HORSEA"
+            },
+            {
+                "id": 216,
+                "template": "TEDDIURSA"
+            },
+            {
+                "id": 218,
+                "template": "SLUGMA"
+            },
+            {
+                "id": 226,
+                "template": "MANTINE"
+            },
+            {
+                "id": 353,
+                "template": "SHUPPET"
+            },
+            {
+                "id": 568,
+                "template": "TRUBBISH"
+            },
+            {
+                "id": 574,
+                "template": "GOTHITA"
+            },
+            {
+                "id": 588,
+                "template": "KARRABLAST"
+            },
+            {
+                "id": 616,
+                "template": "SHELMET"
+            }
+        ],
+        "eggs": [
+            {
+                "id": 29,
+                "template": "NIDORAN_FEMALE"
+            },
+            {
+                "id": 32,
+                "template": "NIDORAN_MALE"
+            },
+            {
+                "id": 339,
+                "template": "BARBOACH"
+            },
+            {
+                "id": 425,
+                "template": "DRIFLOON"
+            },
+            {
+                "id": 86,
+                "template": "SEEL"
+            },
+            {
+                "id": 204,
+                "template": "PINECO"
+            },
+            {
+                "id": 302,
+                "template": "SABLEYE"
+            },
+            {
+                "id": 433,
+                "template": "CHINGLING"
+            },
+            {
+                "id": 531,
+                "template": "AUDINO"
+            },
+            {
+                "id": 619,
+                "template": "MIENFOO"
+            },
+            {
+                "id": 408,
+                "template": "CRANIDOS"
+            },
+            {
+                "id": 410,
+                "template": "SHIELDON"
+            },
+            {
+                "id": 447,
+                "template": "RIOLU"
+            },
+            {
+                "id": 633,
+                "template": "DEINO"
+            },
+            {
+                "id": 714,
+                "template": "NOIBAT"
+            }
+        ],
+        "raids": [],
+        "shinies": [],
         "bonuses": [],
         "features": [],
         "has_quests": false,
