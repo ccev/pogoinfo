@@ -558,10 +558,6 @@
                 "template": "DUCKLETT"
             },
             {
-                "id": 592,
-                "template": "FRILLISH"
-            },
-            {
                 "id": 594,
                 "template": "ALOMOMOLA"
             },
@@ -1114,6 +1110,48 @@
         "has_spawnpoints": false
     },
     {
+        "name": "Spoink Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2021-09-07 18:00",
+        "end": "2021-09-07 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": true
+    },
+    {
+        "name": "Psychic Spectacular 2021",
+        "type": "event",
+        "start": "2021-09-08 10:00",
+        "end": "2021-09-13 20:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Baltoy Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2021-09-14 18:00",
+        "end": "2021-09-14 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": true
+    },
+    {
         "name": "GO Battle Day",
         "type": "event",
         "start": "2021-11-20 00:00",
@@ -1174,6 +1212,20 @@
         "has_spawnpoints": true
     },
     {
+        "name": "Skitty Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2021-09-21 18:00",
+        "end": "2021-09-21 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": true
+    },
+    {
         "name": "[Postponed] Pikachu wearing an Okinawan kariyushi shirt and Shiny Corsola",
         "type": "event",
         "start": null,
@@ -1187,6 +1239,34 @@
                 "template": "CORSOLA"
             }
         ],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Alolan Meowth Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2021-09-28 18:00",
+        "end": "2021-09-28 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": true
+    },
+    {
+        "name": "Fashion Week 2021",
+        "type": "event",
+        "start": "2021-09-21 10:00",
+        "end": "2021-09-28 20:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
         "bonuses": [],
         "features": [],
         "has_quests": false,
