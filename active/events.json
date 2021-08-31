@@ -1351,6 +1351,18 @@
                 "template": "NIDORAN_MALE"
             },
             {
+                "id": 307,
+                "template": "MEDITITE"
+            },
+            {
+                "id": 320,
+                "template": "WAILMER"
+            },
+            {
+                "id": 333,
+                "template": "SWABLU"
+            },
+            {
                 "id": 339,
                 "template": "BARBOACH"
             },
@@ -1359,12 +1371,44 @@
                 "template": "DRIFLOON"
             },
             {
+                "id": 659,
+                "template": "BUNNELBY"
+            },
+            {
+                "id": 661,
+                "template": "FLETCHLING"
+            },
+            {
+                "id": 667,
+                "template": "LITLEO"
+            },
+            {
+                "id": 682,
+                "template": "SPRITZEE"
+            },
+            {
+                "id": 684,
+                "template": "SWIRLIX"
+            },
+            {
                 "id": 86,
                 "template": "SEEL"
             },
             {
+                "id": 175,
+                "template": "TOGEPI"
+            },
+            {
                 "id": 204,
                 "template": "PINECO"
+            },
+            {
+                "id": 227,
+                "template": "SKARMORY"
+            },
+            {
+                "id": 298,
+                "template": "AZURILL"
             },
             {
                 "id": 302,
@@ -1375,12 +1419,64 @@
                 "template": "CHINGLING"
             },
             {
+                "id": 650,
+                "template": "CHESPIN"
+            },
+            {
+                "id": 653,
+                "template": "FENNEKIN"
+            },
+            {
+                "id": 656,
+                "template": "FROAKIE"
+            },
+            {
+                "id": 447,
+                "template": "RIOLU"
+            },
+            {
                 "id": 531,
                 "template": "AUDINO"
             },
             {
+                "id": 532,
+                "template": "TIMBURR"
+            },
+            {
+                "id": 554,
+                "template": "DARUMAKA"
+            },
+            {
+                "id": 587,
+                "template": "EMOLGA"
+            },
+            {
+                "id": 599,
+                "template": "KLINK"
+            },
+            {
+                "id": 610,
+                "template": "AXEW"
+            },
+            {
                 "id": 619,
                 "template": "MIENFOO"
+            },
+            {
+                "id": 627,
+                "template": "RUFFLET"
+            },
+            {
+                "id": 677,
+                "template": "ESPURR"
+            },
+            {
+                "id": 704,
+                "template": "GOOMY"
+            },
+            {
+                "id": 714,
+                "template": "NOIBAT"
             },
             {
                 "id": 408,
@@ -1391,16 +1487,8 @@
                 "template": "SHIELDON"
             },
             {
-                "id": 447,
-                "template": "RIOLU"
-            },
-            {
                 "id": 633,
                 "template": "DEINO"
-            },
-            {
-                "id": 714,
-                "template": "NOIBAT"
             }
         ],
         "raids": [],
