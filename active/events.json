@@ -1,19 +1,5 @@
 [
     {
-        "name": "Zamazenta Raid Hour",
-        "type": "raid-hour",
-        "start": "2021-08-30 18:00",
-        "end": "2021-08-30 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Sword and Shield - Ultra Unlock Part 3",
         "type": "event",
         "start": "2021-08-20 10:00",
