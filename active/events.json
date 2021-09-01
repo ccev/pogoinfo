@@ -1493,7 +1493,31 @@
         ],
         "raids": [],
         "shinies": [],
-        "bonuses": [],
+        "bonuses": [
+            {
+                "text": "3× bonus XP for spinning PokéStops for the first time",
+                "template": "increased-xp",
+                "value": 3
+            },
+            {
+                "text": "2× Lure duration",
+                "template": "longer-lure",
+                "value": 2
+            },
+            {
+                "text": "Increased Incense effectiveness",
+                "template": "longer-incense"
+            },
+            {
+                "text": "Boosted damage for Trainers battling remotely in raids"
+            },
+            {
+                "text": "Guaranteed Gifts from PokéStop spins"
+            },
+            {
+                "text": "Buddy Pokémon will bring you Gifts more often"
+            }
+        ],
         "features": [],
         "has_quests": false,
         "has_spawnpoints": false
