@@ -1,54 +1,58 @@
 {
     "1": [
         {
-            "id": 52,
-            "template": "MEOWTH_GALARIAN",
-            "form": 2335
+            "id": 84,
+            "template": "DODUO"
         },
         {
-            "id": 77,
-            "template": "PONYTA_GALARIAN",
-            "form": 2336
+            "id": 255,
+            "template": "TORCHIC_NORMAL",
+            "form": 1358
         },
         {
-            "id": 201,
-            "template": "UNOWN_U",
-            "form": 21
+            "id": 361,
+            "template": "SNORUNT"
         },
         {
-            "id": 554,
-            "template": "DARUMAKA_GALARIAN",
-            "form": 2341
+            "id": 403,
+            "template": "SHINX"
+        },
+        {
+            "id": 527,
+            "template": "WOOBAT"
         }
     ],
     "3": [
         {
-            "id": 94,
-            "template": "GENGAR_NORMAL",
-            "form": 1044
+            "id": 26,
+            "template": "RAICHU_ALOLA",
+            "form": 50
         },
         {
-            "id": 143,
-            "template": "SNORLAX_NORMAL",
-            "form": 199
+            "id": 178,
+            "template": "XATU"
         },
         {
-            "id": 618,
-            "template": "STUNFISK_GALARIAN",
-            "form": 2345
+            "id": 279,
+            "template": "PELIPPER"
+        },
+        {
+            "id": 375,
+            "template": "METANG_NORMAL",
+            "form": 767
         }
     ],
     "5": [
         {
-            "id": 889,
-            "template": "ZAMAZENTA_HERO",
-            "form": 2579
+            "id": 249,
+            "template": "LUGIA"
         }
     ],
     "6": [
         {
-            "id": 18,
-            "template": "PIDGEOT",
+            "id": 80,
+            "template": "SLOWBRO_NORMAL",
+            "form": 1020,
             "temp_evolution_id": 1
         }
     ]
