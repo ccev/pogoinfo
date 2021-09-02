@@ -105,6 +105,18 @@
             ]
         },
         {
+            "task": "Take 2 snapshots of wild Psychic-type Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 177,
+                        "template": "NATU"
+                    }
+                }
+            ]
+        },
+        {
             "task": "Catch 1 Shadow Pokémon",
             "rewards": [
                 {
@@ -257,6 +269,15 @@
             "task": "Catch 10 Grass-type Pokémon",
             "rewards": [
                 {
+                    "type": "energy",
+                    "reward": {
+                        "id": 3,
+                        "template": "VENUSAUR_NORMAL",
+                        "form": 169
+                    },
+                    "amount": 10
+                },
+                {
                     "type": "stardust",
                     "amount": 500
                 },
@@ -372,18 +393,6 @@
                     "type": "item",
                     "amount": 5,
                     "id": 2
-                }
-            ]
-        },
-        {
-            "task": "Take 2 snapshots of wild Psychic-type Pokémon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 177,
-                        "template": "NATU"
-                    }
                 }
             ]
         },
@@ -713,6 +722,27 @@
             ]
         },
         {
+            "task": "Win a level 3 or higher raid",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 138,
+                        "template": "OMANYTE_NORMAL",
+                        "form": 740
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 140,
+                        "template": "KABUTO_NORMAL",
+                        "form": 1104
+                    }
+                }
+            ]
+        },
+        {
             "task": "Win 5 raids",
             "rewards": [
                 {
@@ -733,27 +763,6 @@
                     "reward": {
                         "id": 183,
                         "template": "MARILL"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Win a level 3 or higher raid",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 138,
-                        "template": "OMANYTE_NORMAL",
-                        "form": 740
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 140,
-                        "template": "KABUTO_NORMAL",
-                        "form": 1104
                     }
                 }
             ]
@@ -997,6 +1006,71 @@
             ]
         },
         {
+            "task": "Spin 3 PokéStops or Gyms",
+            "rewards": [
+                {
+                    "type": "stardust",
+                    "amount": 500
+                },
+                {
+                    "type": "item",
+                    "amount": 6,
+                    "id": 701
+                },
+                {
+                    "type": "item",
+                    "amount": 2,
+                    "id": 705
+                },
+                {
+                    "type": "item",
+                    "amount": 5,
+                    "id": 2
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 185,
+                        "template": "SUDOWOODO"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Hatch 2 Eggs",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 374,
+                        "template": "BELDUM_NORMAL",
+                        "form": 764
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Spin 5 PokéStops or Gyms",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 111,
+                        "template": "RHYHORN_NORMAL",
+                        "form": 846
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 280,
+                        "template": "RALTS_NORMAL",
+                        "form": 292
+                    }
+                }
+            ]
+        },
+        {
             "task": "Purify 3 Shadow Pokémon",
             "rewards": [
                 {
@@ -1121,37 +1195,15 @@
                         "template": "PIDGEOT"
                     },
                     "amount": 10
-                }
-            ]
-        },
-        {
-            "task": "Spin 3 PokéStops or Gyms",
-            "rewards": [
-                {
-                    "type": "stardust",
-                    "amount": 500
                 },
                 {
-                    "type": "item",
-                    "amount": 6,
-                    "id": 701
-                },
-                {
-                    "type": "item",
-                    "amount": 2,
-                    "id": 705
-                },
-                {
-                    "type": "item",
-                    "amount": 5,
-                    "id": 2
-                },
-                {
-                    "type": "pokemon",
+                    "type": "energy",
                     "reward": {
-                        "id": 185,
-                        "template": "SUDOWOODO"
-                    }
+                        "id": 15,
+                        "template": "BEEDRILL_NORMAL",
+                        "form": 622
+                    },
+                    "amount": 10
                 }
             ]
         },
@@ -1163,40 +1215,6 @@
                     "reward": {
                         "id": 226,
                         "template": "MANTINE"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Hatch 2 Eggs",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 374,
-                        "template": "BELDUM_NORMAL",
-                        "form": 764
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Spin 5 PokéStops or Gyms",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 111,
-                        "template": "RHYHORN_NORMAL",
-                        "form": 846
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 280,
-                        "template": "RALTS_NORMAL",
-                        "form": 292
                     }
                 }
             ]
