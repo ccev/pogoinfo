@@ -726,6 +726,18 @@
             ]
         },
         {
+            "task": "Battle in GO Battle League",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 183,
+                        "template": "MARILL"
+                    }
+                }
+            ]
+        },
+        {
             "task": "Win a level 3 or higher raid",
             "rewards": [
                 {
@@ -742,18 +754,6 @@
                         "id": 140,
                         "template": "KABUTO_NORMAL",
                         "form": 1104
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Battle in GO Battle League",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 183,
-                        "template": "MARILL"
                     }
                 }
             ]
@@ -1000,6 +1000,34 @@
             ]
         },
         {
+            "task": "Walk 2 km",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 252,
+                        "template": "TREECKO"
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 255,
+                        "template": "TORCHIC_NORMAL",
+                        "form": 1358
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 258,
+                        "template": "MUDKIP_NORMAL",
+                        "form": 205
+                    }
+                }
+            ]
+        },
+        {
             "task": "Spin 10 PokéStops or Gyms",
             "rewards": [
                 {
@@ -1169,34 +1197,6 @@
                         "id": 280,
                         "template": "RALTS_NORMAL",
                         "form": 292
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Walk 2 km",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 252,
-                        "template": "TREECKO"
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 255,
-                        "template": "TORCHIC_NORMAL",
-                        "form": 1358
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 258,
-                        "template": "MUDKIP_NORMAL",
-                        "form": 205
                     }
                 }
             ]
