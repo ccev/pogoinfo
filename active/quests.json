@@ -768,19 +768,6 @@
             ]
         },
         {
-            "task": "Defeat 3 Team GO Rocket members",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 451,
-                        "template": "SKORUPI_NORMAL",
-                        "form": 1796
-                    }
-                }
-            ]
-        },
-        {
             "task": "Win a raid",
             "rewards": [
                 {
@@ -789,6 +776,19 @@
                         "id": 303,
                         "template": "MAWILE_NORMAL",
                         "form": 833
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Defeat 3 Team GO Rocket members",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 451,
+                        "template": "SKORUPI_NORMAL",
+                        "form": 1796
                     }
                 }
             ]
@@ -861,10 +861,6 @@
             ]
         },
         {
-            "task": "Earn 5 hearts with your buddy",
-            "rewards": []
-        },
-        {
             "task": "Earn 3 Candies walking with your buddy",
             "rewards": [
                 {
@@ -876,6 +872,10 @@
                     }
                 }
             ]
+        },
+        {
+            "task": "Earn 5 hearts with your buddy",
+            "rewards": []
         },
         {
             "task": "Evolve a Pokémon",
@@ -1032,6 +1032,18 @@
                     "reward": {
                         "id": 185,
                         "template": "SUDOWOODO"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Hatch an Egg",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 226,
+                        "template": "MANTINE"
                     }
                 }
             ]
@@ -1204,18 +1216,6 @@
                         "form": 622
                     },
                     "amount": 10
-                }
-            ]
-        },
-        {
-            "task": "Hatch an Egg",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 226,
-                        "template": "MANTINE"
-                    }
                 }
             ]
         }
