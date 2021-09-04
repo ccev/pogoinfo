@@ -1,5 +1,19 @@
 {
-    "event": [],
+    "event": [
+        {
+            "task": "Catch 1 Shadow Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 304,
+                        "template": "ARON_NORMAL",
+                        "form": 1469
+                    }
+                }
+            ]
+        }
+    ],
     "quests": [
         {
             "task": "Catch 7 Pokémon",
@@ -100,31 +114,6 @@
                         "id": 198,
                         "template": "MURKROW_NORMAL",
                         "form": 855
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Take 2 snapshots of wild Psychic-type Pokémon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 177,
-                        "template": "NATU"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Catch 1 Shadow Pokémon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 304,
-                        "template": "ARON_NORMAL",
-                        "form": 1469
                     }
                 }
             ]
@@ -808,26 +797,6 @@
             ]
         },
         {
-            "task": "Send a Gift to a friend",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 270,
-                        "template": "LOTAD"
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 273,
-                        "template": "SEEDOT_NORMAL",
-                        "form": 625
-                    }
-                }
-            ]
-        },
-        {
             "task": "Trade a Pokémon",
             "rewards": [
                 {
@@ -844,6 +813,26 @@
                         "id": 23,
                         "template": "EKANS_NORMAL",
                         "form": 697
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Send a Gift to a friend",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 270,
+                        "template": "LOTAD"
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 273,
+                        "template": "SEEDOT_NORMAL",
+                        "form": 625
                     }
                 }
             ]
@@ -869,6 +858,19 @@
                         "id": 618,
                         "template": "STUNFISK_NORMAL",
                         "form": 2246
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Earn 3 hearts with your buddy",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 52,
+                        "template": "MEOWTH_NORMAL",
+                        "form": 63
                     }
                 }
             ]
@@ -1101,14 +1103,13 @@
             ]
         },
         {
-            "task": "Earn 3 hearts with your buddy",
+            "task": "Take 2 snapshots of wild Psychic-type Pokémon",
             "rewards": [
                 {
                     "type": "pokemon",
                     "reward": {
-                        "id": 52,
-                        "template": "MEOWTH_NORMAL",
-                        "form": 63
+                        "id": 177,
+                        "template": "NATU"
                     }
                 }
             ]

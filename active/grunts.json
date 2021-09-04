@@ -1400,50 +1400,12 @@
         }
     },
     "44": {
-        "active": true,
+        "active": false,
         "character": {
             "template": "CHARACTER_GIOVANNI",
             "gender": 1,
             "boss": true,
             "type": {}
-        },
-        "lineup": {
-            "rewards": [
-                2
-            ],
-            "team": [
-                [
-                    {
-                        "id": 53,
-                        "template": "PERSIAN_SHADOW",
-                        "form": 711
-                    }
-                ],
-                [
-                    {
-                        "id": 68,
-                        "template": "MACHAMP_SHADOW",
-                        "form": 816
-                    },
-                    {
-                        "id": 76,
-                        "template": "GOLEM_SHADOW",
-                        "form": 886
-                    },
-                    {
-                        "id": 91,
-                        "template": "CLOYSTER_SHADOW",
-                        "form": 880
-                    }
-                ],
-                [
-                    {
-                        "id": 250,
-                        "template": "HO_OH_SHADOW",
-                        "form": 1344
-                    }
-                ]
-            ]
         }
     },
     "45": {
@@ -1456,51 +1418,12 @@
         }
     },
     "46": {
-        "active": true,
+        "active": false,
         "character": {
             "template": "CHARACTER_DECOY_GRUNT_FEMALE",
             "gender": 0,
             "boss": false,
             "type": {}
-        },
-        "lineup": {
-            "rewards": [
-                0,
-                1
-            ],
-            "team": [
-                [
-                    {
-                        "id": 69,
-                        "template": "BELLSPROUT_SHADOW",
-                        "form": 665
-                    }
-                ],
-                [
-                    {
-                        "id": 70,
-                        "template": "WEEPINBELL_SHADOW",
-                        "form": 668
-                    },
-                    {
-                        "id": 20,
-                        "template": "RATICATE_SHADOW",
-                        "form": 155
-                    }
-                ],
-                [
-                    {
-                        "id": 20,
-                        "template": "RATICATE_SHADOW",
-                        "form": 155
-                    },
-                    {
-                        "id": 143,
-                        "template": "SNORLAX_SHADOW",
-                        "form": 200
-                    }
-                ]
-            ]
         }
     },
     "47": {
