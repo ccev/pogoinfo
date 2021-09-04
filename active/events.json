@@ -18,49 +18,29 @@
                 "template": "NATU"
             },
             {
-                "id": 203,
-                "template": "GIRAFARIG"
-            },
-            {
                 "id": 325,
                 "template": "SPOINK"
             },
             {
-                "id": 374,
-                "template": "BELDUM"
+                "id": 203,
+                "template": "GIRAFARIG"
             },
             {
                 "id": 517,
                 "template": "MUNNA"
             },
             {
-                "id": 19,
-                "template": "RATTATA_ALOLA",
-                "form": 46
+                "id": 374,
+                "template": "BELDUM"
             },
             {
-                "id": 261,
-                "template": "POOCHYENA"
+                "id": 77,
+                "template": "PONYTA_GALARIAN",
+                "form": 2336
             },
             {
-                "id": 302,
-                "template": "SABLEYE"
-            },
-            {
-                "id": 318,
-                "template": "CARVANHA"
-            },
-            {
-                "id": 355,
-                "template": "DUSKULL"
-            },
-            {
-                "id": 425,
-                "template": "DRIFLOON"
-            },
-            {
-                "id": 509,
-                "template": "PURRLOIN"
+                "id": 196,
+                "template": "ESPEON"
             }
         ],
         "eggs": [],
