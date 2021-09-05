@@ -1,33 +1,6 @@
 {
-    "event": [
-        {
-            "task": "Catch 1 Shadow Pokémon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 304,
-                        "template": "ARON_NORMAL",
-                        "form": 1469
-                    }
-                }
-            ]
-        }
-    ],
+    "event": [],
     "quests": [
-        {
-            "task": "Catch 7 Pokémon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 129,
-                        "template": "MAGIKARP_NORMAL",
-                        "form": 253
-                    }
-                }
-            ]
-        },
         {
             "task": "Catch 5 Pokémon with Weather Boost",
             "rewards": [
@@ -80,6 +53,59 @@
                         "id": 459,
                         "template": "SNOVER_NORMAL",
                         "form": 932
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Catch a Dragon-type Pokémon",
+            "rewards": [
+                {
+                    "type": "stardust",
+                    "amount": 1500
+                },
+                {
+                    "type": "item",
+                    "amount": 3,
+                    "id": 1301
+                },
+                {
+                    "type": "item",
+                    "amount": 2,
+                    "id": 0
+                },
+                {
+                    "type": "item",
+                    "amount": 10,
+                    "id": 3
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 147,
+                        "template": "DRATINI_NORMAL",
+                        "form": 190
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 371,
+                        "template": "BAGON_NORMAL",
+                        "form": 755
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Catch 7 Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 129,
+                        "template": "MAGIKARP_NORMAL",
+                        "form": 253
                     }
                 }
             ]
@@ -139,46 +165,6 @@
                     "type": "item",
                     "amount": 5,
                     "id": 1
-                }
-            ]
-        },
-        {
-            "task": "Catch a Dragon-type Pokémon",
-            "rewards": [
-                {
-                    "type": "stardust",
-                    "amount": 1500
-                },
-                {
-                    "type": "item",
-                    "amount": 3,
-                    "id": 1301
-                },
-                {
-                    "type": "item",
-                    "amount": 2,
-                    "id": 0
-                },
-                {
-                    "type": "item",
-                    "amount": 10,
-                    "id": 3
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 147,
-                        "template": "DRATINI_NORMAL",
-                        "form": 190
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 371,
-                        "template": "BAGON_NORMAL",
-                        "form": 755
-                    }
                 }
             ]
         },
@@ -519,6 +505,19 @@
             ]
         },
         {
+            "task": "Make 3 Excellent Throws in a row",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 443,
+                        "template": "GIBLE_NORMAL",
+                        "form": 861
+                    }
+                }
+            ]
+        },
+        {
             "task": "Make 2 Excellent Throws",
             "rewards": [
                 {
@@ -539,19 +538,6 @@
                     "reward": {
                         "id": 300,
                         "template": "SKITTY"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Make 3 Excellent Throws in a row",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 443,
-                        "template": "GIBLE_NORMAL",
-                        "form": 861
                     }
                 }
             ]
@@ -876,10 +862,6 @@
             ]
         },
         {
-            "task": "Earn 5 hearts with your buddy",
-            "rewards": []
-        },
-        {
             "task": "Evolve a Pokémon",
             "rewards": [
                 {
@@ -1110,6 +1092,19 @@
                     "reward": {
                         "id": 177,
                         "template": "NATU"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Catch 1 Shadow Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 304,
+                        "template": "ARON_NORMAL",
+                        "form": 1469
                     }
                 }
             ]
