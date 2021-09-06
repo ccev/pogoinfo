@@ -756,19 +756,6 @@
             ]
         },
         {
-            "task": "Defeat 3 Team GO Rocket members",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 451,
-                        "template": "SKORUPI_NORMAL",
-                        "form": 1796
-                    }
-                }
-            ]
-        },
-        {
             "task": "Use 10 supereffective Charged Attacks",
             "rewards": [
                 {
@@ -1051,14 +1038,6 @@
                 {
                     "type": "pokemon",
                     "reward": {
-                        "id": 111,
-                        "template": "RHYHORN_NORMAL",
-                        "form": 846
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
                         "id": 280,
                         "template": "RALTS_NORMAL",
                         "form": 292
@@ -1199,17 +1178,17 @@
                 {
                     "type": "energy",
                     "reward": {
-                        "id": 18,
-                        "template": "PIDGEOT"
+                        "id": 15,
+                        "template": "BEEDRILL_NORMAL",
+                        "form": 622
                     },
                     "amount": 10
                 },
                 {
                     "type": "energy",
                     "reward": {
-                        "id": 15,
-                        "template": "BEEDRILL_NORMAL",
-                        "form": 622
+                        "id": 18,
+                        "template": "PIDGEOT"
                     },
                     "amount": 10
                 }
