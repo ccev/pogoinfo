@@ -1,5 +1,36 @@
 {
-    "event": [],
+    "event": [
+        {
+            "task": "Evolve one Inkay. ",
+            "rewards": []
+        },
+        {
+            "task": "Earn 3 Candies walking with your buddy",
+            "rewards": []
+        },
+        {
+            "task": "Catch 10 Psychic-type Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 63,
+                        "template": "ABRA_NORMAL",
+                        "form": 304
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Make 3 Nice Curveball Throws in a row",
+            "rewards": [
+                {
+                    "type": "stardust",
+                    "amount": 500
+                }
+            ]
+        }
+    ],
     "quests": [
         {
             "task": "Catch 5 Pokémon with Weather Boost",

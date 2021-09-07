@@ -46,8 +46,24 @@
                 "template": "ABRA"
             },
             {
+                "id": 79,
+                "template": "SLOWPOKE"
+            },
+            {
                 "id": 96,
                 "template": "DROWZEE"
+            },
+            {
+                "id": 177,
+                "template": "NATU"
+            },
+            {
+                "id": 343,
+                "template": "BALTOY"
+            },
+            {
+                "id": 527,
+                "template": "WOOBAT"
             },
             {
                 "id": 574,
