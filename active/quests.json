@@ -2,7 +2,15 @@
     "event": [
         {
             "task": "Evolve one Inkay. ",
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 686,
+                        "template": "INKAY"
+                    }
+                }
+            ]
         },
         {
             "task": "Earn 3 Candies walking with your buddy",
@@ -33,6 +41,14 @@
                         "id": 280,
                         "template": "RALTS_NORMAL",
                         "form": 292
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 96,
+                        "template": "DROWZEE_NORMAL",
+                        "form": 214
                     }
                 }
             ]
