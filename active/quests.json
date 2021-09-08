@@ -6,7 +6,15 @@
         },
         {
             "task": "Earn 3 Candies walking with your buddy",
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 527,
+                        "template": "WOOBAT"
+                    }
+                }
+            ]
         },
         {
             "task": "Catch 10 Psychic-type Pokémon",
@@ -18,6 +26,14 @@
                         "template": "ABRA_NORMAL",
                         "form": 304
                     }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 280,
+                        "template": "RALTS_NORMAL",
+                        "form": 292
+                    }
                 }
             ]
         },
@@ -27,6 +43,15 @@
                 {
                     "type": "stardust",
                     "amount": 500
+                }
+            ]
+        },
+        {
+            "task": "Make 7 Nice Curveball Throws in a row",
+            "rewards": [
+                {
+                    "type": "stardust",
+                    "amount": 1000
                 }
             ]
         }

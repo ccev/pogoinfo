@@ -1,25 +1,24 @@
 {
     "1": [
         {
-            "id": 84,
-            "template": "DODUO"
+            "id": 120,
+            "template": "STARYU"
         },
         {
-            "id": 255,
-            "template": "TORCHIC_NORMAL",
-            "form": 1358
+            "id": 358,
+            "template": "CHIMECHO"
         },
         {
-            "id": 361,
-            "template": "SNORUNT"
+            "id": 436,
+            "template": "BRONZOR"
         },
         {
-            "id": 403,
-            "template": "SHINX"
+            "id": 677,
+            "template": "ESPURR"
         },
         {
-            "id": 527,
-            "template": "WOOBAT"
+            "id": 686,
+            "template": "INKAY"
         }
     ],
     "3": [
@@ -29,17 +28,18 @@
             "form": 50
         },
         {
-            "id": 178,
-            "template": "XATU"
+            "id": 202,
+            "template": "WOBBUFFET_NORMAL",
+            "form": 602
         },
         {
-            "id": 279,
-            "template": "PELIPPER"
+            "id": 308,
+            "template": "MEDICHAM"
         },
         {
-            "id": 375,
-            "template": "METANG_NORMAL",
-            "form": 767
+            "id": 376,
+            "template": "METAGROSS_NORMAL",
+            "form": 770
         }
     ],
     "5": [
