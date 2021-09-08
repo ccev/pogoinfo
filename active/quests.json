@@ -1,30 +1,6 @@
 {
     "event": [
         {
-            "task": "Evolve one Inkay",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 686,
-                        "template": "INKAY"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Earn 3 Candies walking with your buddy",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 527,
-                        "template": "WOOBAT"
-                    }
-                }
-            ]
-        },
-        {
             "task": "Catch 10 Psychic-type Pokémon",
             "rewards": [
                 {
@@ -49,6 +25,30 @@
                         "id": 96,
                         "template": "DROWZEE_NORMAL",
                         "form": 214
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Evolve one Inkay",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 686,
+                        "template": "INKAY"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Earn 3 Candies walking with your buddy",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 527,
+                        "template": "WOOBAT"
                     }
                 }
             ]

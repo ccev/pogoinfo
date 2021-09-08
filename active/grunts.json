@@ -403,14 +403,14 @@
                 ],
                 [
                     {
-                        "id": 107,
-                        "template": "HITMONCHAN_SHADOW",
-                        "form": 278
-                    },
-                    {
                         "id": 106,
                         "template": "HITMONLEE_SHADOW",
                         "form": 714
+                    },
+                    {
+                        "id": 107,
+                        "template": "HITMONCHAN_SHADOW",
+                        "form": 278
                     },
                     {
                         "id": 297,
