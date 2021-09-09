@@ -30,18 +30,6 @@
             ]
         },
         {
-            "task": "Evolve one Inkay",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 686,
-                        "template": "INKAY"
-                    }
-                }
-            ]
-        },
-        {
             "task": "Earn 3 Candies walking with your buddy",
             "rewards": [
                 {
@@ -49,6 +37,18 @@
                     "reward": {
                         "id": 527,
                         "template": "WOOBAT"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Evolve one Inkay",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 686,
+                        "template": "INKAY"
                     }
                 }
             ]
