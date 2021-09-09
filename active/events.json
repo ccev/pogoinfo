@@ -1,19 +1,5 @@
 [
     {
-        "name": "Lugia Raid Hour",
-        "type": "raid-hour",
-        "start": "2021-09-08 18:00",
-        "end": "2021-09-08 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Psychic Spectacular 2021",
         "type": "event",
         "start": "2021-09-08 10:00",
@@ -275,6 +261,52 @@
         "features": [],
         "has_quests": false,
         "has_spawnpoints": false
+    },
+    {
+        "name": "Duskull Community Day",
+        "type": "community-day",
+        "start": "2021-10-09 11:00",
+        "end": "2021-10-09 17:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [
+            {
+                "id": 355,
+                "template": "DUSKULL"
+            },
+            {
+                "id": 356,
+                "template": "DUSCLOPS"
+            },
+            {
+                "id": 477,
+                "template": "DUSKNOIR"
+            }
+        ],
+        "bonuses": [
+            {
+                "text": "Increased Spawns"
+            },
+            {
+                "text": "3x Catch Stardust",
+                "template": "increased-stardust",
+                "value": 3
+            },
+            {
+                "text": "3-hour Incense",
+                "template": "longer-incense",
+                "value": 3
+            },
+            {
+                "text": "3-hour Lures",
+                "template": "longer-lure",
+                "value": 3
+            }
+        ],
+        "features": [],
+        "has_quests": true,
+        "has_spawnpoints": true
     },
     {
         "name": "Season of Mischief",
