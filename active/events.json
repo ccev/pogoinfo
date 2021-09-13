@@ -253,10 +253,98 @@
         "type": "event",
         "start": "2021-09-21 10:00",
         "end": "2021-09-28 20:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
+        "spawns": [
+            {
+                "id": 676,
+                "template": "FURFROU"
+            },
+            {
+                "id": 281,
+                "template": "KIRLIA",
+                "costume": 16
+            },
+            {
+                "id": 522,
+                "template": "BLITZLE"
+            }
+        ],
+        "eggs": [
+            {
+                "id": 52,
+                "template": "MEOWTH_ALOLA",
+                "form": 64
+            },
+            {
+                "id": 52,
+                "template": "MEOWTH_GALARIAN",
+                "form": 2335
+            },
+            {
+                "id": 238,
+                "template": "SMOOCHUM",
+                "costume": 16
+            }
+        ],
+        "raids": [
+            {
+                "id": 215,
+                "template": "SNEASEL"
+            },
+            {
+                "id": 12,
+                "template": "BUTTERFREE"
+            },
+            {
+                "id": 281,
+                "template": "KIRLIA",
+                "costume": 16
+            },
+            {
+                "id": 480,
+                "template": "UXIE"
+            },
+            {
+                "id": 481,
+                "template": "MESPRIT"
+            },
+            {
+                "id": 482,
+                "template": "AZELF"
+            },
+            {
+                "id": 229,
+                "template": "HOUNDOOM",
+                "temp_evolution_id": 1
+            }
+        ],
+        "shinies": [
+            {
+                "id": 12,
+                "template": "BUTTERFREE"
+            },
+            {
+                "id": 215,
+                "template": "SNEASEL"
+            },
+            {
+                "id": 238,
+                "template": "SMOOCHUM",
+                "costume": 16
+            },
+            {
+                "id": 281,
+                "template": "KIRLIA",
+                "costume": 16
+            },
+            {
+                "id": 522,
+                "template": "BLITZLE"
+            },
+            {
+                "id": 523,
+                "template": "ZEBSTRIKA"
+            }
+        ],
         "bonuses": [],
         "features": [],
         "has_quests": false,
