@@ -27,6 +27,21 @@
     ],
     "3": [
         {
+            "id": 97,
+            "template": "HYPNO_NORMAL",
+            "form": 217
+        },
+        {
+            "id": 127,
+            "template": "PINSIR_NORMAL",
+            "form": 898
+        },
+        {
+            "id": 282,
+            "template": "GARDEVOIR_NORMAL",
+            "form": 298
+        },
+        {
             "id": 435,
             "template": "SKUNTANK_NORMAL",
             "form": 794
