@@ -6,6 +6,11 @@
             "form": 286
         },
         {
+            "id": 129,
+            "template": "MAGIKARP_NORMAL",
+            "form": 253
+        },
+        {
             "id": 318,
             "template": "CARVANHA_NORMAL",
             "form": 734
