@@ -1,58 +1,56 @@
 {
     "1": [
         {
-            "id": 120,
-            "template": "STARYU"
+            "id": 54,
+            "template": "PSYDUCK_NORMAL",
+            "form": 286
         },
         {
-            "id": 358,
-            "template": "CHIMECHO"
+            "id": 318,
+            "template": "CARVANHA_NORMAL",
+            "form": 734
         },
         {
-            "id": 436,
-            "template": "BRONZOR"
+            "id": 451,
+            "template": "SKORUPI_NORMAL",
+            "form": 1796
+        },
+        {
+            "id": 459,
+            "template": "SNOVER_NORMAL",
+            "form": 932
         },
         {
             "id": 677,
             "template": "ESPURR"
-        },
-        {
-            "id": 686,
-            "template": "INKAY"
         }
     ],
     "3": [
         {
-            "id": 26,
-            "template": "RAICHU_ALOLA",
-            "form": 50
-        },
-        {
-            "id": 202,
-            "template": "WOBBUFFET_NORMAL",
-            "form": 602
-        },
-        {
-            "id": 308,
-            "template": "MEDICHAM"
-        },
-        {
-            "id": 376,
-            "template": "METAGROSS_NORMAL",
-            "form": 770
+            "id": 435,
+            "template": "SKUNTANK_NORMAL",
+            "form": 794
         }
     ],
     "5": [
         {
-            "id": 249,
-            "template": "LUGIA"
+            "id": 480,
+            "template": "UXIE"
+        },
+        {
+            "id": 481,
+            "template": "MESPRIT"
+        },
+        {
+            "id": 482,
+            "template": "AZELF"
         }
     ],
     "6": [
         {
-            "id": 80,
-            "template": "SLOWBRO_NORMAL",
-            "form": 1020,
+            "id": 229,
+            "template": "HOUNDOOM_NORMAL",
+            "form": 232,
             "temp_evolution_id": 1
         }
     ]
