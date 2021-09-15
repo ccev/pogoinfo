@@ -145,6 +145,19 @@
             ]
         },
         {
+            "task": "Catch 1 Shadow Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 304,
+                        "template": "ARON_NORMAL",
+                        "form": 1469
+                    }
+                }
+            ]
+        },
+        {
             "task": "Catch 10 Pokémon",
             "rewards": [
                 {
@@ -1071,19 +1084,6 @@
                     "reward": {
                         "id": 177,
                         "template": "NATU"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Catch 1 Shadow Pokémon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 304,
-                        "template": "ARON_NORMAL",
-                        "form": 1469
                     }
                 }
             ]
