@@ -76,8 +76,20 @@
                 "costume": 16
             },
             {
+                "id": 300,
+                "template": "SKITTY"
+            },
+            {
+                "id": 431,
+                "template": "GLAMEOW"
+            },
+            {
                 "id": 522,
                 "template": "BLITZLE"
+            },
+            {
+                "id": 574,
+                "template": "GOTHITA"
             }
         ],
         "eggs": [
@@ -103,10 +115,6 @@
                 "template": "SNEASEL"
             },
             {
-                "id": 12,
-                "template": "BUTTERFREE"
-            },
-            {
                 "id": 281,
                 "template": "KIRLIA",
                 "costume": 16
@@ -130,10 +138,6 @@
             }
         ],
         "shinies": [
-            {
-                "id": 12,
-                "template": "BUTTERFREE"
-            },
             {
                 "id": 215,
                 "template": "SNEASEL"
