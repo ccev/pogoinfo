@@ -229,6 +229,102 @@
         "has_spawnpoints": true
     },
     {
+        "name": "Secrets of the Jungle Event 2021",
+        "type": "event",
+        "start": "2021-10-01 10:00",
+        "end": "2021-10-10 20:00",
+        "spawns": [
+            {
+                "id": 25,
+                "template": "PIKACHU_ADVENTURE_HAT_2020",
+                "form": 2669
+            },
+            {
+                "id": 163,
+                "template": "HOOTHOOT"
+            },
+            {
+                "id": 246,
+                "template": "LARVITAR"
+            },
+            {
+                "id": 415,
+                "template": "COMBEE"
+            },
+            {
+                "id": 529,
+                "template": "DRILBUR"
+            },
+            {
+                "id": 546,
+                "template": "COTTONEE"
+            },
+            {
+                "id": 557,
+                "template": "DWEBBLE"
+            }
+        ],
+        "eggs": [],
+        "raids": [
+            {
+                "id": 25,
+                "template": "PIKACHU_ADVENTURE_HAT_2020",
+                "form": 2669
+            },
+            {
+                "id": 246,
+                "template": "LARVITAR"
+            },
+            {
+                "id": 524,
+                "template": "ROGGENROLA"
+            },
+            {
+                "id": 590,
+                "template": "FOONGUS"
+            },
+            {
+                "id": 627,
+                "template": "RUFFLET"
+            },
+            {
+                "id": 108,
+                "template": "LICKITUNG"
+            },
+            {
+                "id": 113,
+                "template": "CHANSEY"
+            },
+            {
+                "id": 127,
+                "template": "PINSIR"
+            },
+            {
+                "id": 272,
+                "template": "LUDICOLO"
+            },
+            {
+                "id": 330,
+                "template": "FLYGON"
+            }
+        ],
+        "shinies": [
+            {
+                "id": 25,
+                "template": "PIKACHU_ADVENTURE_HAT_2020",
+                "form": 2669
+            },
+            {
+                "id": 627,
+                "template": "RUFFLET"
+            }
+        ],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
         "name": "GO Battle Day",
         "type": "event",
         "start": "2021-11-20 00:00",
@@ -902,6 +998,20 @@
                 "text": "Buddy Pokémon will bring you Gifts more often"
             }
         ],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Jessie and James Meowth Balloons",
+        "type": "event",
+        "start": "2021-10-01 10:00",
+        "end": null,
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
         "features": [],
         "has_quests": false,
         "has_spawnpoints": false
