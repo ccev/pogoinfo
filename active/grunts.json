@@ -1606,7 +1606,7 @@
         "active": false,
         "character": {
             "template": "CHARACTER_EVENT_NPC_1",
-            "gender": 1,
+            "gender": 0,
             "boss": false,
             "type": {}
         }
@@ -1615,7 +1615,7 @@
         "active": false,
         "character": {
             "template": "CHARACTER_EVENT_NPC_2",
-            "gender": 1,
+            "gender": 0,
             "boss": false,
             "type": {}
         }
@@ -1624,7 +1624,7 @@
         "active": false,
         "character": {
             "template": "CHARACTER_EVENT_NPC_4",
-            "gender": 1,
+            "gender": 0,
             "boss": false,
             "type": {}
         }
@@ -1633,7 +1633,7 @@
         "active": false,
         "character": {
             "template": "CHARACTER_EVENT_NPC_6",
-            "gender": 0,
+            "gender": 1,
             "boss": false,
             "type": {}
         }

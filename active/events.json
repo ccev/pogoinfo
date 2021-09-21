@@ -115,9 +115,21 @@
                 "template": "SNEASEL"
             },
             {
+                "id": 559,
+                "template": "SCRAGGY"
+            },
+            {
                 "id": 281,
                 "template": "KIRLIA",
                 "costume": 16
+            },
+            {
+                "id": 301,
+                "template": "DELCATTY"
+            },
+            {
+                "id": 575,
+                "template": "GOTHORITA"
             },
             {
                 "id": 480,
