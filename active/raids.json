@@ -1,55 +1,44 @@
 {
     "1": [
         {
-            "id": 54,
-            "template": "PSYDUCK_NORMAL",
-            "form": 286
+            "id": 215,
+            "template": "SNEASEL_NORMAL",
+            "form": 797
         },
         {
-            "id": 129,
-            "template": "MAGIKARP_NORMAL",
-            "form": 253
+            "id": 403,
+            "template": "SHINX"
         },
         {
-            "id": 318,
-            "template": "CARVANHA_NORMAL",
-            "form": 734
+            "id": 453,
+            "template": "CROAGUNK"
         },
         {
-            "id": 451,
-            "template": "SKORUPI_NORMAL",
-            "form": 1796
+            "id": 559,
+            "template": "SCRAGGY"
         },
         {
-            "id": 459,
-            "template": "SNOVER_NORMAL",
-            "form": 932
-        },
-        {
-            "id": 677,
-            "template": "ESPURR"
+            "id": 676,
+            "template": "FURFROU"
         }
     ],
     "3": [
         {
-            "id": 97,
-            "template": "HYPNO_NORMAL",
-            "form": 217
+            "id": 12,
+            "template": "BUTTERFREE"
         },
         {
-            "id": 127,
-            "template": "PINSIR_NORMAL",
-            "form": 898
+            "id": 281,
+            "template": "KIRLIA_NORMAL",
+            "form": 295
         },
         {
-            "id": 282,
-            "template": "GARDEVOIR_NORMAL",
-            "form": 298
+            "id": 301,
+            "template": "DELCATTY"
         },
         {
-            "id": 435,
-            "template": "SKUNTANK_NORMAL",
-            "form": 794
+            "id": 575,
+            "template": "GOTHORITA"
         }
     ],
     "5": [

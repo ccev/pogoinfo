@@ -1,5 +1,56 @@
 {
-    "event": [],
+    "event": [
+        {
+            "task": "Take a snapshot of Butterfree, Shinx or Blitzle in the wild",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 215,
+                        "template": "SNEASEL_NORMAL",
+                        "form": 797
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Make 3 Nice Throws in a row",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 676,
+                        "template": "FURFROU"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Make 3 Curveball Throws in a row",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 522,
+                        "template": "BLITZLE"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Make 2 Great Curveball Throws in a row",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 592,
+                        "template": "FRILLISH_NORMAL",
+                        "form": 2168
+                    }
+                }
+            ]
+        }
+    ],
     "quests": [
         {
             "task": "Catch 5 Pokémon with Weather Boost",
