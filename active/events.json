@@ -1,19 +1,5 @@
 [
     {
-        "name": "Lake Guardian Raid Hour",
-        "type": "raid-hour",
-        "start": "2021-09-29 18:00",
-        "end": "2021-09-29 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Alolan Meowth Spotlight Hour",
         "type": "spotlight-hour",
         "start": "2021-09-28 18:00",
@@ -148,6 +134,34 @@
         "features": [],
         "has_quests": false,
         "has_spawnpoints": false
+    },
+    {
+        "name": "Lake Guardian Raid Hour",
+        "type": "raid-hour",
+        "start": "2021-09-29 18:00",
+        "end": "2021-09-29 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Drifloon Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2021-10-05 18:00",
+        "end": "2021-10-05 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": true
     },
     {
         "name": "Duskull Community Day",
@@ -290,6 +304,62 @@
         "features": [],
         "has_quests": false,
         "has_spawnpoints": false
+    },
+    {
+        "name": "Gastly Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2021-10-12 18:00",
+        "end": "2021-10-12 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": true
+    },
+    {
+        "name": "Jessie and James Meowth Balloons",
+        "type": "event",
+        "start": "2021-10-01 10:00",
+        "end": "2021-10-15 10:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Gothita Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2021-10-19 18:00",
+        "end": "2021-10-19 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": true
+    },
+    {
+        "name": "Murkrow Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2021-10-19 18:00",
+        "end": "2021-10-19 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": true
     },
     {
         "name": "GO Battle Day",
@@ -983,20 +1053,6 @@
                 "template": "CORSOLA"
             }
         ],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
-        "name": "Jessie and James Meowth Balloons",
-        "type": "event",
-        "start": "2021-10-01 10:00",
-        "end": null,
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
         "bonuses": [],
         "features": [],
         "has_quests": false,
