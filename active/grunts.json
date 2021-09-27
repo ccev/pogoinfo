@@ -156,14 +156,14 @@
                 ],
                 [
                     {
-                        "id": 212,
-                        "template": "SCIZOR_SHADOW",
-                        "form": 251
-                    },
-                    {
                         "id": 15,
                         "template": "BEEDRILL_SHADOW",
                         "form": 623
+                    },
+                    {
+                        "id": 212,
+                        "template": "SCIZOR_SHADOW",
+                        "form": 251
                     },
                     {
                         "id": 123,
@@ -464,14 +464,14 @@
                 ],
                 [
                     {
-                        "id": 38,
-                        "template": "NINETALES_SHADOW",
-                        "form": 727
-                    },
-                    {
                         "id": 229,
                         "template": "HOUNDOOM_SHADOW",
                         "form": 233
+                    },
+                    {
+                        "id": 38,
+                        "template": "NINETALES_SHADOW",
+                        "form": 727
                     },
                     {
                         "id": 126,
@@ -553,14 +553,14 @@
                 ],
                 [
                     {
-                        "id": 130,
-                        "template": "GYARADOS_SHADOW",
-                        "form": 257
-                    },
-                    {
                         "id": 169,
                         "template": "CROBAT_SHADOW",
                         "form": 203
+                    },
+                    {
+                        "id": 130,
+                        "template": "GYARADOS_SHADOW",
+                        "form": 257
                     },
                     {
                         "id": 149,
