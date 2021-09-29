@@ -553,14 +553,14 @@
                 ],
                 [
                     {
-                        "id": 169,
-                        "template": "CROBAT_SHADOW",
-                        "form": 203
-                    },
-                    {
                         "id": 130,
                         "template": "GYARADOS_SHADOW",
                         "form": 257
+                    },
+                    {
+                        "id": 169,
+                        "template": "CROBAT_SHADOW",
+                        "form": 203
                     },
                     {
                         "id": 149,
@@ -713,14 +713,14 @@
                         "form": 227
                     },
                     {
-                        "id": 329,
-                        "template": "VIBRAVA_SHADOW",
-                        "form": 750
-                    },
-                    {
                         "id": 247,
                         "template": "PUPITAR_SHADOW",
                         "form": 317
+                    },
+                    {
+                        "id": 329,
+                        "template": "VIBRAVA_SHADOW",
+                        "form": 750
                     }
                 ],
                 [
