@@ -42,6 +42,20 @@
         "has_spawnpoints": false
     },
     {
+        "name": "Genesect (Douse) Raid Hour",
+        "type": "raid-hour",
+        "start": "2021-10-06 18:00",
+        "end": "2021-10-06 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
         "name": "Duskull Community Day",
         "type": "community-day",
         "start": "2021-10-09 11:00",
@@ -165,6 +179,16 @@
             {
                 "id": 330,
                 "template": "FLYGON"
+            },
+            {
+                "id": 649,
+                "template": "GENESECT_DOUSE",
+                "form": 597
+            },
+            {
+                "id": 94,
+                "template": "GENGAR",
+                "temp_evolution_id": 1
             }
         ],
         "shinies": [
@@ -196,6 +220,20 @@
         "features": [],
         "has_quests": false,
         "has_spawnpoints": true
+    },
+    {
+        "name": "Altered Forme Giratina Raid Hour",
+        "type": "raid-hour",
+        "start": "2021-10-20 18:00",
+        "end": "2021-10-20 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
     },
     {
         "name": "Jessie and James Meowth Balloons",
@@ -238,6 +276,20 @@
         "features": [],
         "has_quests": false,
         "has_spawnpoints": true
+    },
+    {
+        "name": "Darkrai Raid Hour",
+        "type": "raid-hour",
+        "start": "2021-10-27 18:00",
+        "end": "2021-10-27 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
     },
     {
         "name": "Pokémon GO Halloween 2021",
