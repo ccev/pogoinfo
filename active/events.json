@@ -141,6 +141,14 @@
             {
                 "id": 557,
                 "template": "DWEBBLE"
+            },
+            {
+                "id": 52,
+                "template": "MEOWTH"
+            },
+            {
+                "id": 202,
+                "template": "WOBBUFFET"
             }
         ],
         "eggs": [],
