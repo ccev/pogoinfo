@@ -1,5 +1,34 @@
 {
-    "event": [],
+    "event": [
+        {
+            "task": "Hatch 2 Eggs",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 531,
+                        "template": "AUDINO"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Catch 10 different species of Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 627,
+                        "template": "RUFFLET"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Defeat 5 Team GO Rocket Grunts",
+            "rewards": []
+        }
+    ],
     "quests": [
         {
             "task": "Catch 5 Pokémon with Weather Boost",
