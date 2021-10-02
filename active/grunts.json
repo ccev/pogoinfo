@@ -553,14 +553,14 @@
                 ],
                 [
                     {
-                        "id": 130,
-                        "template": "GYARADOS_SHADOW",
-                        "form": 257
-                    },
-                    {
                         "id": 169,
                         "template": "CROBAT_SHADOW",
                         "form": 203
+                    },
+                    {
+                        "id": 130,
+                        "template": "GYARADOS_SHADOW",
+                        "form": 257
                     },
                     {
                         "id": 149,
