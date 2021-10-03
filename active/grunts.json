@@ -1576,21 +1576,77 @@
         }
     },
     "53": {
-        "active": false,
+        "active": true,
         "character": {
             "template": "CHARACTER_GRUNTB_FEMALE",
             "gender": 0,
             "boss": false,
             "type": {}
+        },
+        "lineup": {
+            "rewards": [
+                0
+            ],
+            "team": [
+                [
+                    {
+                        "id": 123,
+                        "template": "SCYTHER_SHADOW",
+                        "form": 248
+                    }
+                ],
+                [
+                    {
+                        "id": 23,
+                        "template": "EKANS_SHADOW",
+                        "form": 698
+                    }
+                ],
+                [
+                    {
+                        "id": 234,
+                        "template": "STANTLER_SHADOW",
+                        "form": 942
+                    }
+                ]
+            ]
         }
     },
     "54": {
-        "active": false,
+        "active": true,
         "character": {
             "template": "CHARACTER_GRUNTB_MALE",
             "gender": 1,
             "boss": false,
             "type": {}
+        },
+        "lineup": {
+            "rewards": [
+                0
+            ],
+            "team": [
+                [
+                    {
+                        "id": 127,
+                        "template": "PINSIR_SHADOW",
+                        "form": 899
+                    }
+                ],
+                [
+                    {
+                        "id": 109,
+                        "template": "KOFFING_SHADOW",
+                        "form": 704
+                    }
+                ],
+                [
+                    {
+                        "id": 88,
+                        "template": "GRIMER_SHADOW",
+                        "form": 220
+                    }
+                ]
+            ]
         }
     },
     "500": {
