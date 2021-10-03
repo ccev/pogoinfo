@@ -94,7 +94,7 @@
     ],
     "quests": [
         {
-            "task": "Catch 18 Ghost-type Pokémon",
+            "task": "Catch 18 Dark-type Pokémon",
             "rewards": [
                 {
                     "type": "pokemon",
@@ -106,7 +106,7 @@
             ]
         },
         {
-            "task": "Catch 18 Dark-type Pokémon",
+            "task": "Catch 18 Ghost-type Pokémon",
             "rewards": [
                 {
                     "type": "pokemon",
@@ -584,6 +584,19 @@
             ]
         },
         {
+            "task": "Make 3 Excellent Throws in a row",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 443,
+                        "template": "GIBLE_NORMAL",
+                        "form": 861
+                    }
+                }
+            ]
+        },
+        {
             "task": "Make 3 Nice Throws in a row",
             "rewards": [
                 {
@@ -605,19 +618,6 @@
                         "id": 88,
                         "template": "GRIMER_ALOLA",
                         "form": 74
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Make 3 Excellent Throws in a row",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 443,
-                        "template": "GIBLE_NORMAL",
-                        "form": 861
                     }
                 }
             ]
@@ -777,6 +777,19 @@
             ]
         },
         {
+            "task": "Win 5 raids",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 142,
+                        "template": "AERODACTYL_NORMAL",
+                        "form": 1110
+                    }
+                }
+            ]
+        },
+        {
             "task": "Win a raid",
             "rewards": [
                 {
@@ -823,19 +836,6 @@
             ]
         },
         {
-            "task": "Win 5 raids",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 142,
-                        "template": "AERODACTYL_NORMAL",
-                        "form": 1110
-                    }
-                }
-            ]
-        },
-        {
             "task": "Battle in GO Battle League",
             "rewards": [
                 {
@@ -858,6 +858,30 @@
                         "form": 1044
                     },
                     "amount": 20
+                }
+            ]
+        },
+        {
+            "task": "Trade a Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 557,
+                        "template": "DWEBBLE"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Send a Gift to a friend",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 167,
+                        "template": "SPINARAK"
+                    }
                 }
             ]
         },
@@ -911,30 +935,6 @@
                         "id": 261,
                         "template": "POOCHYENA_NORMAL",
                         "form": 1367
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Trade a Pokémon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 557,
-                        "template": "DWEBBLE"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Send a Gift to a friend",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 167,
-                        "template": "SPINARAK"
                     }
                 }
             ]
@@ -1099,6 +1099,39 @@
             ]
         },
         {
+            "task": "Hatch an Egg",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 226,
+                        "template": "MANTINE"
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 127,
+                        "template": "PINSIR_NORMAL",
+                        "form": 898
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Spin 5 PokéStops or Gyms",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 280,
+                        "template": "RALTS_NORMAL",
+                        "form": 292
+                    }
+                }
+            ]
+        },
+        {
             "task": "Spin 10 PokéStops or Gyms",
             "rewards": [
                 {
@@ -1147,25 +1180,14 @@
         },
         {
             "task": "Power up Pokémon 5 times",
-            "rewards": []
-        },
-        {
-            "task": "Hatch an Egg",
             "rewards": [
                 {
-                    "type": "pokemon",
+                    "type": "energy",
                     "reward": {
-                        "id": 226,
-                        "template": "MANTINE"
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 127,
-                        "template": "PINSIR_NORMAL",
-                        "form": 898
-                    }
+                        "id": 18,
+                        "template": "PIDGEOT"
+                    },
+                    "amount": 10
                 }
             ]
         },
@@ -1178,19 +1200,6 @@
                         "id": 374,
                         "template": "BELDUM_NORMAL",
                         "form": 764
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Spin 5 PokéStops or Gyms",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 280,
-                        "template": "RALTS_NORMAL",
-                        "form": 292
                     }
                 }
             ]
