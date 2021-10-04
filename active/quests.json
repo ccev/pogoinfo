@@ -94,7 +94,7 @@
     ],
     "quests": [
         {
-            "task": "Catch 18 Dark-type Pokémon",
+            "task": "Catch 18 Ghost-type Pokémon",
             "rewards": [
                 {
                     "type": "pokemon",
@@ -106,7 +106,7 @@
             ]
         },
         {
-            "task": "Catch 18 Ghost-type Pokémon",
+            "task": "Catch 18 Dark-type Pokémon",
             "rewards": [
                 {
                     "type": "pokemon",
@@ -373,6 +373,15 @@
         {
             "task": "Catch 10 Fire-type Pokémon",
             "rewards": [
+                {
+                    "type": "energy",
+                    "reward": {
+                        "id": 6,
+                        "template": "CHARIZARD_NORMAL",
+                        "form": 178
+                    },
+                    "amount": 10
+                },
                 {
                     "type": "stardust",
                     "amount": 500
@@ -790,6 +799,18 @@
             ]
         },
         {
+            "task": "Win a Trainer Battle in the GO Battle League",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 588,
+                        "template": "KARRABLAST"
+                    }
+                }
+            ]
+        },
+        {
             "task": "Win a raid",
             "rewards": [
                 {
@@ -831,18 +852,6 @@
                         "id": 140,
                         "template": "KABUTO_NORMAL",
                         "form": 1104
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Battle in GO Battle League",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 588,
-                        "template": "KARRABLAST"
                     }
                 }
             ]
@@ -1132,6 +1141,24 @@
             ]
         },
         {
+            "task": "Take 2 snapshots of wild Ghost-type Pokémon",
+            "rewards": [
+                {
+                    "type": "item",
+                    "amount": 5,
+                    "id": 1
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 353,
+                        "template": "SHUPPET_NORMAL",
+                        "form": 908
+                    }
+                }
+            ]
+        },
+        {
             "task": "Spin 10 PokéStops or Gyms",
             "rewards": [
                 {
@@ -1200,24 +1227,6 @@
                         "id": 374,
                         "template": "BELDUM_NORMAL",
                         "form": 764
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Take 2 snapshots of a wild Ghost-type Pokémon",
-            "rewards": [
-                {
-                    "type": "item",
-                    "amount": 5,
-                    "id": 1
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 353,
-                        "template": "SHUPPET_NORMAL",
-                        "form": 908
                     }
                 }
             ]
