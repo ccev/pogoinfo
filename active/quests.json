@@ -1188,6 +1188,15 @@
                 {
                     "type": "energy",
                     "reward": {
+                        "id": 3,
+                        "template": "VENUSAUR_NORMAL",
+                        "form": 169
+                    },
+                    "amount": 10
+                },
+                {
+                    "type": "energy",
+                    "reward": {
                         "id": 6,
                         "template": "CHARIZARD_NORMAL",
                         "form": 178
