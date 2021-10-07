@@ -1,19 +1,5 @@
 [
     {
-        "name": "Drifloon Spotlight Hour",
-        "type": "spotlight-hour",
-        "start": "2021-10-05 18:00",
-        "end": "2021-10-05 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": true
-    },
-    {
         "name": "Niantic's Birthday 2021",
         "type": "event",
         "start": "2021-10-06 11:00",
