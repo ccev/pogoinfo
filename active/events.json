@@ -1,33 +1,5 @@
 [
     {
-        "name": "Niantic's Birthday 2021",
-        "type": "event",
-        "start": "2021-10-06 11:00",
-        "end": "2021-10-06 17:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
-        "name": "Genesect (Douse) Raid Hour",
-        "type": "raid-hour",
-        "start": "2021-10-06 18:00",
-        "end": "2021-10-06 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Duskull Community Day",
         "type": "community-day",
         "start": "2021-10-09 11:00",
