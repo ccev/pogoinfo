@@ -5,6 +5,11 @@
             "template": "PARAS"
         },
         {
+            "id": 81,
+            "template": "MAGNEMITE_NORMAL",
+            "form": 655
+        },
+        {
             "id": 390,
             "template": "CHIMCHAR_NORMAL",
             "form": 818

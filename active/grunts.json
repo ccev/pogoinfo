@@ -786,14 +786,14 @@
                 ],
                 [
                     {
-                        "id": 131,
-                        "template": "LAPRAS_SHADOW",
-                        "form": 323
-                    },
-                    {
                         "id": 460,
                         "template": "ABOMASNOW_SHADOW",
                         "form": 936
+                    },
+                    {
+                        "id": 131,
+                        "template": "LAPRAS_SHADOW",
+                        "form": 323
                     },
                     {
                         "id": 91,
@@ -1081,14 +1081,14 @@
             "team": [
                 [
                     {
-                        "id": 299,
-                        "template": "NOSEPASS_SHADOW",
-                        "form": 1461
-                    },
-                    {
                         "id": 304,
                         "template": "ARON_SHADOW",
                         "form": 1470
+                    },
+                    {
+                        "id": 299,
+                        "template": "NOSEPASS_SHADOW",
+                        "form": 1461
                     }
                 ],
                 [
@@ -1490,14 +1490,14 @@
                         "form": 912
                     },
                     {
-                        "id": 477,
-                        "template": "DUSKNOIR_SHADOW",
-                        "form": 921
-                    },
-                    {
                         "id": 302,
                         "template": "SABLEYE_SHADOW",
                         "form": 924
+                    },
+                    {
+                        "id": 477,
+                        "template": "DUSKNOIR_SHADOW",
+                        "form": 921
                     }
                 ]
             ]
