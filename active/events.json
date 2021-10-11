@@ -1,139 +1,5 @@
 [
     {
-        "name": "Secrets of the Jungle Event 2021",
-        "type": "event",
-        "start": "2021-10-01 10:00",
-        "end": "2021-10-10 20:00",
-        "spawns": [
-            {
-                "id": 10,
-                "template": "CATERPIE"
-            },
-            {
-                "id": 25,
-                "template": "PIKACHU_ADVENTURE_HAT_2020",
-                "form": 2669
-            },
-            {
-                "id": 43,
-                "template": "ODDISH"
-            },
-            {
-                "id": 50,
-                "template": "DIGLETT"
-            },
-            {
-                "id": 163,
-                "template": "HOOTHOOT"
-            },
-            {
-                "id": 246,
-                "template": "LARVITAR"
-            },
-            {
-                "id": 415,
-                "template": "COMBEE"
-            },
-            {
-                "id": 519,
-                "template": "PIDOVE"
-            },
-            {
-                "id": 524,
-                "template": "ROGGENROLA"
-            },
-            {
-                "id": 529,
-                "template": "DRILBUR"
-            },
-            {
-                "id": 546,
-                "template": "COTTONEE"
-            },
-            {
-                "id": 557,
-                "template": "DWEBBLE"
-            },
-            {
-                "id": 52,
-                "template": "MEOWTH"
-            },
-            {
-                "id": 202,
-                "template": "WOBBUFFET"
-            }
-        ],
-        "eggs": [],
-        "raids": [
-            {
-                "id": 25,
-                "template": "PIKACHU_ADVENTURE_HAT_2020",
-                "form": 2669
-            },
-            {
-                "id": 246,
-                "template": "LARVITAR"
-            },
-            {
-                "id": 524,
-                "template": "ROGGENROLA"
-            },
-            {
-                "id": 590,
-                "template": "FOONGUS"
-            },
-            {
-                "id": 627,
-                "template": "RUFFLET"
-            },
-            {
-                "id": 108,
-                "template": "LICKITUNG"
-            },
-            {
-                "id": 113,
-                "template": "CHANSEY"
-            },
-            {
-                "id": 127,
-                "template": "PINSIR"
-            },
-            {
-                "id": 272,
-                "template": "LUDICOLO"
-            },
-            {
-                "id": 330,
-                "template": "FLYGON"
-            },
-            {
-                "id": 649,
-                "template": "GENESECT_DOUSE",
-                "form": 597
-            },
-            {
-                "id": 94,
-                "template": "GENGAR",
-                "temp_evolution_id": 1
-            }
-        ],
-        "shinies": [
-            {
-                "id": 25,
-                "template": "PIKACHU_ADVENTURE_HAT_2020",
-                "form": 2669
-            },
-            {
-                "id": 627,
-                "template": "RUFFLET"
-            }
-        ],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Gastly Spotlight Hour",
         "type": "spotlight-hour",
         "start": "2021-10-12 18:00",
@@ -222,13 +88,111 @@
         "type": "event",
         "start": "2021-10-15 10:00",
         "end": "2021-10-31 20:00",
-        "spawns": [],
+        "spawns": [
+            {
+                "id": 79,
+                "template": "SLOWPOKE_GALARIAN",
+                "form": 2582
+            },
+            {
+                "id": 199,
+                "template": "SLOWKING_GALARIAN",
+                "form": 2584
+            }
+        ],
         "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
+        "raids": [
+            {
+                "id": 79,
+                "template": "SLOWPOKE_GALARIAN",
+                "form": 2582
+            },
+            {
+                "id": 198,
+                "template": "MURKROW"
+            },
+            {
+                "id": 559,
+                "template": "SCRAGGY"
+            },
+            {
+                "id": 562,
+                "template": "YAMASK"
+            },
+            {
+                "id": 677,
+                "template": "ESPURR"
+            },
+            {
+                "id": 26,
+                "template": "RAICHU_ALOLA",
+                "form": 50
+            },
+            {
+                "id": 302,
+                "template": "SABLEYE"
+            },
+            {
+                "id": 354,
+                "template": "BANETTE"
+            },
+            {
+                "id": 426,
+                "template": "DRIFBLIM"
+            },
+            {
+                "id": 487,
+                "template": "GIRATINA_ALTERED",
+                "form": 90
+            },
+            {
+                "id": 94,
+                "template": "GENGAR",
+                "temp_evolution_id": 1
+            }
+        ],
+        "shinies": [
+            {
+                "id": 167,
+                "template": "SPINARAK"
+            },
+            {
+                "id": 168,
+                "template": "ARIADOS"
+            },
+            {
+                "id": 25,
+                "template": "PIKACHU"
+            },
+            {
+                "id": 393,
+                "template": "PIPLUP"
+            },
+            {
+                "id": 426,
+                "template": "DRIFBLIM"
+            }
+        ],
+        "bonuses": [
+            {
+                "text": "2x Hatch Candy",
+                "template": "increased-candy",
+                "value": 2
+            },
+            {
+                "text": "2x Catch Candy",
+                "value": 2
+            },
+            {
+                "text": "2x Transfer Candy",
+                "value": 2
+            },
+            {
+                "text": "Guaranteed Candy XL when walking with your buddy"
+            }
+        ],
         "features": [],
-        "has_quests": false,
+        "has_quests": true,
         "has_spawnpoints": false
     },
     {
