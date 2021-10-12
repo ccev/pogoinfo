@@ -90,17 +90,85 @@
         "end": "2021-10-31 20:00",
         "spawns": [
             {
-                "id": 79,
-                "template": "SLOWPOKE_GALARIAN",
-                "form": 2582
+                "id": 25,
+                "template": "PIKACHU"
             },
             {
-                "id": 199,
-                "template": "SLOWKING_GALARIAN",
-                "form": 2584
+                "id": 41,
+                "template": "ZUBAT"
+            },
+            {
+                "id": 92,
+                "template": "GASTLY"
+            },
+            {
+                "id": 96,
+                "template": "DROWZEE"
+            },
+            {
+                "id": 167,
+                "template": "SPINARAK"
+            },
+            {
+                "id": 200,
+                "template": "MISDREAVUS"
+            },
+            {
+                "id": 353,
+                "template": "SHUPPET"
+            },
+            {
+                "id": 393,
+                "template": "PIPLUP"
+            },
+            {
+                "id": 434,
+                "template": "STUNKY"
+            },
+            {
+                "id": 527,
+                "template": "WOOBAT"
+            },
+            {
+                "id": 562,
+                "template": "YAMASK"
+            },
+            {
+                "id": 574,
+                "template": "GOTHITA"
             }
         ],
-        "eggs": [],
+        "eggs": [
+            {
+                "id": 167,
+                "template": "SPINARAK"
+            },
+            {
+                "id": 200,
+                "template": "MISDREAVUS"
+            },
+            {
+                "id": 353,
+                "template": "SHUPPET"
+            },
+            {
+                "id": 433,
+                "template": "CHINGLING"
+            },
+            {
+                "id": 562,
+                "template": "YAMASK_GALARIAN",
+                "form": 2344
+            },
+            {
+                "id": 607,
+                "template": "LITWICK"
+            },
+            {
+                "id": 622,
+                "template": "GOLETT"
+            }
+        ],
         "raids": [
             {
                 "id": 79,
