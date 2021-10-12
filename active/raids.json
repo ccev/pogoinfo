@@ -1,53 +1,54 @@
 {
     "1": [
         {
-            "id": 46,
-            "template": "PARAS"
+            "id": 147,
+            "template": "DRATINI_NORMAL",
+            "form": 190
         },
         {
-            "id": 81,
-            "template": "MAGNEMITE_NORMAL",
-            "form": 655
+            "id": 200,
+            "template": "MISDREAVUS_NORMAL",
+            "form": 719
         },
         {
-            "id": 390,
-            "template": "CHIMCHAR_NORMAL",
-            "form": 818
+            "id": 353,
+            "template": "SHUPPET_NORMAL",
+            "form": 908
         },
         {
-            "id": 599,
-            "template": "KLINK"
+            "id": 361,
+            "template": "SNORUNT"
         },
         {
-            "id": 607,
-            "template": "LITWICK"
+            "id": 425,
+            "template": "DRIFLOON"
         }
     ],
     "3": [
         {
-            "id": 93,
-            "template": "HAUNTER"
+            "id": 40,
+            "template": "WIGGLYTUFF"
         },
         {
-            "id": 123,
-            "template": "SCYTHER_NORMAL",
-            "form": 247
+            "id": 103,
+            "template": "EXEGGUTOR_ALOLA",
+            "form": 78
         },
         {
-            "id": 157,
-            "template": "TYPHLOSION"
+            "id": 302,
+            "template": "SABLEYE_NORMAL",
+            "form": 923
         },
         {
-            "id": 303,
-            "template": "MAWILE_NORMAL",
-            "form": 833
+            "id": 608,
+            "template": "LAMPENT"
         }
     ],
     "5": [
         {
-            "id": 649,
-            "template": "GENESECT_DOUSE",
-            "form": 597
+            "id": 487,
+            "template": "GIRATINA_ALTERED",
+            "form": 90
         }
     ],
     "6": [
