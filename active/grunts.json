@@ -50,29 +50,36 @@
             "team": [
                 [
                     {
-                        "template": "UNSET"
+                        "id": 143,
+                        "template": "SNORLAX"
                     }
                 ],
                 [
                     {
-                        "template": "UNSET"
+                        "id": 62,
+                        "template": "POLIWRATH"
                     },
                     {
-                        "template": "UNSET"
+                        "id": 143,
+                        "template": "SNORLAX"
                     },
                     {
-                        "template": "UNSET"
+                        "id": 282,
+                        "template": "GARDEVOIR"
                     }
                 ],
                 [
                     {
-                        "template": "UNSET"
+                        "id": 149,
+                        "template": "DRAGONITE"
                     },
                     {
-                        "template": "UNSET"
+                        "id": 130,
+                        "template": "GYARADOS"
                     },
                     {
-                        "template": "UNSET"
+                        "id": 143,
+                        "template": "SNORLAX"
                     }
                 ]
             ]
@@ -108,35 +115,44 @@
             "team": [
                 [
                     {
-                        "template": "UNSET"
+                        "id": 451,
+                        "template": "SKORUPI"
                     },
                     {
-                        "template": "UNSET"
+                        "id": 347,
+                        "template": "ANORITH"
                     },
                     {
-                        "template": "UNSET"
+                        "id": 213,
+                        "template": "SHUCKLE"
                     }
                 ],
                 [
                     {
-                        "template": "UNSET"
+                        "id": 127,
+                        "template": "PINSIR"
                     },
                     {
-                        "template": "UNSET"
+                        "id": 49,
+                        "template": "VENOMOTH"
                     },
                     {
-                        "template": "UNSET"
+                        "id": 212,
+                        "template": "SCIZOR"
                     }
                 ],
                 [
                     {
-                        "template": "UNSET"
+                        "id": 15,
+                        "template": "BEEDRILL"
                     },
                     {
-                        "template": "UNSET"
+                        "id": 123,
+                        "template": "SCYTHER"
                     },
                     {
-                        "template": "UNSET"
+                        "id": 212,
+                        "template": "SCIZOR"
                     }
                 ]
             ]
@@ -161,26 +177,32 @@
             "team": [
                 [
                     {
-                        "template": "UNSET"
+                        "id": 261,
+                        "template": "POOCHYENA"
                     },
                     {
-                        "template": "UNSET"
+                        "id": 198,
+                        "template": "MURKROW"
                     }
                 ],
                 [
                     {
-                        "template": "UNSET"
+                        "id": 262,
+                        "template": "MIGHTYENA"
                     },
                     {
-                        "template": "UNSET"
+                        "id": 302,
+                        "template": "SABLEYE"
                     }
                 ],
                 [
                     {
-                        "template": "UNSET"
+                        "id": 332,
+                        "template": "CACTURNE"
                     },
                     {
-                        "template": "UNSET"
+                        "id": 275,
+                        "template": "SHIFTRY"
                     }
                 ]
             ]
@@ -216,26 +238,32 @@
             "team": [
                 [
                     {
-                        "template": "UNSET"
+                        "id": 147,
+                        "template": "DRATINI"
                     }
                 ],
                 [
                     {
-                        "template": "UNSET"
+                        "id": 148,
+                        "template": "DRAGONAIR"
                     },
                     {
-                        "template": "UNSET"
+                        "id": 330,
+                        "template": "FLYGON"
                     }
                 ],
                 [
                     {
-                        "template": "UNSET"
+                        "id": 149,
+                        "template": "DRAGONITE"
                     },
                     {
-                        "template": "UNSET"
+                        "id": 330,
+                        "template": "FLYGON"
                     },
                     {
-                        "template": "UNSET"
+                        "id": 148,
+                        "template": "DRAGONAIR"
                     }
                 ]
             ]
@@ -271,20 +299,24 @@
             "team": [
                 [
                     {
-                        "template": "UNSET"
+                        "id": 209,
+                        "template": "SNUBBULL"
                     }
                 ],
                 [
                     {
-                        "template": "UNSET"
+                        "id": 209,
+                        "template": "SNUBBULL"
                     },
                     {
-                        "template": "UNSET"
+                        "id": 210,
+                        "template": "GRANBULL"
                     }
                 ],
                 [
                     {
-                        "template": "UNSET"
+                        "id": 210,
+                        "template": "GRANBULL"
                     }
                 ]
             ]
@@ -320,26 +352,32 @@
             "team": [
                 [
                     {
-                        "template": "UNSET"
+                        "id": 66,
+                        "template": "MACHOP"
                     },
                     {
-                        "template": "UNSET"
+                        "id": 296,
+                        "template": "MAKUHITA"
                     }
                 ],
                 [
                     {
-                        "template": "UNSET"
+                        "id": 67,
+                        "template": "MACHOKE"
                     }
                 ],
                 [
                     {
-                        "template": "UNSET"
+                        "id": 106,
+                        "template": "HITMONLEE"
                     },
                     {
-                        "template": "UNSET"
+                        "id": 107,
+                        "template": "HITMONCHAN"
                     },
                     {
-                        "template": "UNSET"
+                        "id": 297,
+                        "template": "HARIYAMA"
                     }
                 ]
             ]
@@ -376,32 +414,40 @@
             "team": [
                 [
                     {
-                        "template": "UNSET"
+                        "id": 37,
+                        "template": "VULPIX"
                     },
                     {
-                        "template": "UNSET"
+                        "id": 228,
+                        "template": "HOUNDOUR"
                     }
                 ],
                 [
                     {
-                        "template": "UNSET"
+                        "id": 229,
+                        "template": "HOUNDOOM"
                     },
                     {
-                        "template": "UNSET"
+                        "id": 126,
+                        "template": "MAGMAR"
                     },
                     {
-                        "template": "UNSET"
+                        "id": 38,
+                        "template": "NINETALES"
                     }
                 ],
                 [
                     {
-                        "template": "UNSET"
+                        "id": 5,
+                        "template": "CHARMELEON"
                     },
                     {
-                        "template": "UNSET"
+                        "id": 59,
+                        "template": "ARCANINE"
                     },
                     {
-                        "template": "UNSET"
+                        "id": 38,
+                        "template": "NINETALES"
                     }
                 ]
             ]
@@ -437,29 +483,36 @@
             "team": [
                 [
                     {
-                        "template": "UNSET"
+                        "id": 396,
+                        "template": "STARLY"
                     },
                     {
-                        "template": "UNSET"
+                        "id": 41,
+                        "template": "ZUBAT"
                     }
                 ],
                 [
                     {
-                        "template": "UNSET"
+                        "id": 42,
+                        "template": "GOLBAT"
                     },
                     {
-                        "template": "UNSET"
+                        "id": 397,
+                        "template": "STARAVIA"
                     }
                 ],
                 [
                     {
-                        "template": "UNSET"
+                        "id": 169,
+                        "template": "CROBAT"
                     },
                     {
-                        "template": "UNSET"
+                        "id": 149,
+                        "template": "DRAGONITE"
                     },
                     {
-                        "template": "UNSET"
+                        "id": 130,
+                        "template": "GYARADOS"
                     }
                 ]
             ]
@@ -508,35 +561,44 @@
             "team": [
                 [
                     {
-                        "template": "UNSET"
+                        "id": 187,
+                        "template": "HOPPIP"
                     },
                     {
-                        "template": "UNSET"
+                        "id": 43,
+                        "template": "ODDISH"
                     },
                     {
-                        "template": "UNSET"
+                        "id": 114,
+                        "template": "TANGELA"
                     }
                 ],
                 [
                     {
-                        "template": "UNSET"
+                        "id": 114,
+                        "template": "TANGELA"
                     },
                     {
-                        "template": "UNSET"
+                        "id": 44,
+                        "template": "GLOOM"
                     },
                     {
-                        "template": "UNSET"
+                        "id": 188,
+                        "template": "SKIPLOOM"
                     }
                 ],
                 [
                     {
-                        "template": "UNSET"
+                        "id": 71,
+                        "template": "VICTREEBEL"
                     },
                     {
-                        "template": "UNSET"
+                        "id": 45,
+                        "template": "VILEPLUME"
                     },
                     {
-                        "template": "UNSET"
+                        "id": 275,
+                        "template": "SHIFTRY"
                     }
                 ]
             ]
@@ -572,29 +634,36 @@
             "team": [
                 [
                     {
-                        "template": "UNSET"
+                        "id": 220,
+                        "template": "SWINUB"
                     },
                     {
-                        "template": "UNSET"
+                        "id": 50,
+                        "template": "DIGLETT"
                     }
                 ],
                 [
                     {
-                        "template": "UNSET"
+                        "id": 329,
+                        "template": "VIBRAVA"
                     },
                     {
-                        "template": "UNSET"
+                        "id": 105,
+                        "template": "MAROWAK"
                     },
                     {
-                        "template": "UNSET"
+                        "id": 247,
+                        "template": "PUPITAR"
                     }
                 ],
                 [
                     {
-                        "template": "UNSET"
+                        "id": 330,
+                        "template": "FLYGON"
                     },
                     {
-                        "template": "UNSET"
+                        "id": 472,
+                        "template": "GLISCOR"
                     }
                 ]
             ]
@@ -619,32 +688,40 @@
             "team": [
                 [
                     {
-                        "template": "UNSET"
+                        "id": 363,
+                        "template": "SPHEAL"
                     },
                     {
-                        "template": "UNSET"
+                        "id": 459,
+                        "template": "SNOVER"
                     }
                 ],
                 [
                     {
-                        "template": "UNSET"
+                        "id": 91,
+                        "template": "CLOYSTER"
                     },
                     {
-                        "template": "UNSET"
+                        "id": 364,
+                        "template": "SEALEO"
                     },
                     {
-                        "template": "UNSET"
+                        "id": 220,
+                        "template": "SWINUB"
                     }
                 ],
                 [
                     {
-                        "template": "UNSET"
+                        "id": 131,
+                        "template": "LAPRAS"
                     },
                     {
-                        "template": "UNSET"
+                        "id": 460,
+                        "template": "ABOMASNOW"
                     },
                     {
-                        "template": "UNSET"
+                        "id": 91,
+                        "template": "CLOYSTER"
                     }
                 ]
             ]
@@ -710,23 +787,28 @@
             "team": [
                 [
                     {
-                        "template": "UNSET"
+                        "id": 216,
+                        "template": "TEDDIURSA"
                     }
                 ],
                 [
                     {
-                        "template": "UNSET"
+                        "id": 233,
+                        "template": "PORYGON2"
                     },
                     {
-                        "template": "UNSET"
+                        "id": 20,
+                        "template": "RATICATE"
                     }
                 ],
                 [
                     {
-                        "template": "UNSET"
+                        "id": 143,
+                        "template": "SNORLAX"
                     },
                     {
-                        "template": "UNSET"
+                        "id": 474,
+                        "template": "PORYGON_Z"
                     }
                 ]
             ]
@@ -750,7 +832,8 @@
             "team": [
                 [
                     {
-                        "template": "UNSET"
+                        "id": 451,
+                        "template": "SKORUPI"
                     },
                     {
                         "template": "UNSET"
@@ -761,21 +844,26 @@
                 ],
                 [
                     {
-                        "template": "UNSET"
+                        "id": 33,
+                        "template": "NIDORINO"
                     },
                     {
-                        "template": "UNSET"
+                        "id": 30,
+                        "template": "NIDORINA"
                     }
                 ],
                 [
                     {
-                        "template": "UNSET"
+                        "id": 30,
+                        "template": "NIDORINA"
                     },
                     {
-                        "template": "UNSET"
+                        "id": 110,
+                        "template": "WEEZING"
                     },
                     {
-                        "template": "UNSET"
+                        "id": 89,
+                        "template": "MUK"
                     }
                 ]
             ]
@@ -823,32 +911,40 @@
             "team": [
                 [
                     {
-                        "template": "UNSET"
+                        "id": 202,
+                        "template": "WOBBUFFET"
                     },
                     {
-                        "template": "UNSET"
+                        "id": 102,
+                        "template": "EXEGGCUTE"
                     },
                     {
-                        "template": "UNSET"
+                        "id": 79,
+                        "template": "SLOWPOKE"
                     }
                 ],
                 [
                     {
-                        "template": "UNSET"
+                        "id": 64,
+                        "template": "KADABRA"
                     },
                     {
-                        "template": "UNSET"
+                        "id": 96,
+                        "template": "DROWZEE"
                     }
                 ],
                 [
                     {
-                        "template": "UNSET"
+                        "id": 103,
+                        "template": "EXEGGUTOR"
                     },
                     {
-                        "template": "UNSET"
+                        "id": 97,
+                        "template": "HYPNO"
                     },
                     {
-                        "template": "UNSET"
+                        "id": 281,
+                        "template": "KIRLIA"
                     }
                 ]
             ]
@@ -885,29 +981,36 @@
             "team": [
                 [
                     {
-                        "template": "UNSET"
+                        "id": 304,
+                        "template": "ARON"
                     },
                     {
-                        "template": "UNSET"
+                        "id": 299,
+                        "template": "NOSEPASS"
                     }
                 ],
                 [
                     {
-                        "template": "UNSET"
+                        "id": 305,
+                        "template": "LAIRON"
                     },
                     {
-                        "template": "UNSET"
+                        "id": 246,
+                        "template": "LARVITAR"
                     },
                     {
-                        "template": "UNSET"
+                        "id": 247,
+                        "template": "PUPITAR"
                     }
                 ],
                 [
                     {
-                        "template": "UNSET"
+                        "id": 247,
+                        "template": "PUPITAR"
                     },
                     {
-                        "template": "UNSET"
+                        "id": 248,
+                        "template": "TYRANITAR"
                     }
                 ]
             ]
@@ -931,29 +1034,36 @@
             "team": [
                 [
                     {
-                        "template": "UNSET"
+                        "id": 60,
+                        "template": "POLIWAG"
                     },
                     {
-                        "template": "UNSET"
+                        "id": 116,
+                        "template": "HORSEA"
                     },
                     {
-                        "template": "UNSET"
+                        "id": 363,
+                        "template": "SPHEAL"
                     }
                 ],
                 [
                     {
-                        "template": "UNSET"
+                        "id": 259,
+                        "template": "MARSHTOMP"
                     },
                     {
-                        "template": "UNSET"
+                        "id": 195,
+                        "template": "QUAGSIRE"
                     }
                 ],
                 [
                     {
-                        "template": "UNSET"
+                        "id": 186,
+                        "template": "POLITOED"
                     },
                     {
-                        "template": "UNSET"
+                        "id": 62,
+                        "template": "POLIWRATH"
                     }
                 ]
             ]
@@ -977,20 +1087,24 @@
             "team": [
                 [
                     {
-                        "template": "UNSET"
+                        "id": 129,
+                        "template": "MAGIKARP"
                     }
                 ],
                 [
                     {
-                        "template": "UNSET"
+                        "id": 129,
+                        "template": "MAGIKARP"
                     }
                 ],
                 [
                     {
-                        "template": "UNSET"
+                        "id": 129,
+                        "template": "MAGIKARP"
                     },
                     {
-                        "template": "UNSET"
+                        "id": 130,
+                        "template": "GYARADOS"
                     }
                 ]
             ]
@@ -1011,29 +1125,36 @@
             "team": [
                 [
                     {
-                        "template": "UNSET"
+                        "id": 273,
+                        "template": "SEEDOT"
                     }
                 ],
                 [
                     {
-                        "template": "UNSET"
+                        "id": 62,
+                        "template": "POLIWRATH"
                     },
                     {
-                        "template": "UNSET"
+                        "id": 297,
+                        "template": "HARIYAMA"
                     },
                     {
-                        "template": "UNSET"
+                        "id": 99,
+                        "template": "KINGLER"
                     }
                 ],
                 [
                     {
-                        "template": "UNSET"
+                        "id": 248,
+                        "template": "TYRANITAR"
                     },
                     {
-                        "template": "UNSET"
+                        "id": 389,
+                        "template": "TORTERRA"
                     },
                     {
-                        "template": "UNSET"
+                        "id": 319,
+                        "template": "SHARPEDO"
                     }
                 ]
             ]
@@ -1054,29 +1175,36 @@
             "team": [
                 [
                     {
-                        "template": "UNSET"
+                        "id": 48,
+                        "template": "VENONAT"
                     }
                 ],
                 [
                     {
-                        "template": "UNSET"
+                        "id": 217,
+                        "template": "URSARING"
                     },
                     {
-                        "template": "UNSET"
+                        "id": 310,
+                        "template": "MANECTRIC"
                     },
                     {
-                        "template": "UNSET"
+                        "id": 169,
+                        "template": "CROBAT"
                     }
                 ],
                 [
                     {
-                        "template": "UNSET"
+                        "id": 212,
+                        "template": "SCIZOR"
                     },
                     {
-                        "template": "UNSET"
+                        "id": 462,
+                        "template": "MAGNEZONE"
                     },
                     {
-                        "template": "UNSET"
+                        "id": 45,
+                        "template": "VILEPLUME"
                     }
                 ]
             ]
@@ -1097,29 +1225,36 @@
             "team": [
                 [
                     {
-                        "template": "UNSET"
+                        "id": 215,
+                        "template": "SNEASEL"
                     }
                 ],
                 [
                     {
-                        "template": "UNSET"
+                        "id": 181,
+                        "template": "AMPHAROS"
                     },
                     {
-                        "template": "UNSET"
+                        "id": 210,
+                        "template": "GRANBULL"
                     },
                     {
-                        "template": "UNSET"
+                        "id": 472,
+                        "template": "GLISCOR"
                     }
                 ],
                 [
                     {
-                        "template": "UNSET"
+                        "id": 229,
+                        "template": "HOUNDOOM"
                     },
                     {
-                        "template": "UNSET"
+                        "id": 230,
+                        "template": "KINGDRA"
                     },
                     {
-                        "template": "UNSET"
+                        "id": 452,
+                        "template": "DRAPION"
                     }
                 ]
             ]
@@ -1182,32 +1317,40 @@
             "team": [
                 [
                     {
-                        "template": "UNSET"
+                        "id": 200,
+                        "template": "MISDREAVUS"
                     },
                     {
-                        "template": "UNSET"
+                        "id": 353,
+                        "template": "SHUPPET"
                     },
                     {
-                        "template": "UNSET"
+                        "id": 355,
+                        "template": "DUSKULL"
                     }
                 ],
                 [
                     {
-                        "template": "UNSET"
+                        "id": 354,
+                        "template": "BANETTE"
                     },
                     {
-                        "template": "UNSET"
+                        "id": 356,
+                        "template": "DUSCLOPS"
                     }
                 ],
                 [
                     {
-                        "template": "UNSET"
+                        "id": 354,
+                        "template": "BANETTE"
                     },
                     {
-                        "template": "UNSET"
+                        "id": 302,
+                        "template": "SABLEYE"
                     },
                     {
-                        "template": "UNSET"
+                        "id": 477,
+                        "template": "DUSKNOIR"
                     }
                 ]
             ]
@@ -1231,29 +1374,36 @@
             "team": [
                 [
                     {
-                        "template": "UNSET"
+                        "id": 309,
+                        "template": "ELECTRIKE"
                     },
                     {
-                        "template": "UNSET"
+                        "id": 125,
+                        "template": "ELECTABUZZ"
                     },
                     {
-                        "template": "UNSET"
+                        "id": 179,
+                        "template": "MAREEP"
                     }
                 ],
                 [
                     {
-                        "template": "UNSET"
+                        "id": 180,
+                        "template": "FLAAFFY"
                     },
                     {
-                        "template": "UNSET"
+                        "id": 125,
+                        "template": "ELECTABUZZ"
                     }
                 ],
                 [
                     {
-                        "template": "UNSET"
+                        "id": 125,
+                        "template": "ELECTABUZZ"
                     },
                     {
-                        "template": "UNSET"
+                        "id": 181,
+                        "template": "AMPHAROS"
                     }
                 ]
             ]
@@ -1286,17 +1436,20 @@
             "team": [
                 [
                     {
-                        "template": "UNSET"
+                        "id": 123,
+                        "template": "SCYTHER"
                     }
                 ],
                 [
                     {
-                        "template": "UNSET"
+                        "id": 23,
+                        "template": "EKANS"
                     }
                 ],
                 [
                     {
-                        "template": "UNSET"
+                        "id": 234,
+                        "template": "STANTLER"
                     }
                 ]
             ]
@@ -1317,17 +1470,20 @@
             "team": [
                 [
                     {
-                        "template": "UNSET"
+                        "id": 127,
+                        "template": "PINSIR"
                     }
                 ],
                 [
                     {
-                        "template": "UNSET"
+                        "id": 109,
+                        "template": "KOFFING"
                     }
                 ],
                 [
                     {
-                        "template": "UNSET"
+                        "id": 88,
+                        "template": "GRIMER"
                     }
                 ]
             ]
