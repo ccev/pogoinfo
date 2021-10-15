@@ -1,5 +1,30 @@
 {
-    "event": [],
+    "event": [
+        {
+            "task": "Spin 3 PokéStops or Gyms",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 167,
+                        "template": "SPINARAK"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Catch 9 Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 574,
+                        "template": "GOTHITA"
+                    }
+                }
+            ]
+        }
+    ],
     "quests": [
         {
             "task": "Catch 18 Ghost-type Pokémon",

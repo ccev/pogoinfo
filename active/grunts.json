@@ -57,9 +57,9 @@
                 ],
                 [
                     {
-                        "id": 62,
-                        "template": "POLIWRATH_NORMAL",
-                        "form": 241
+                        "id": 282,
+                        "template": "GARDEVOIR_NORMAL",
+                        "form": 298
                     },
                     {
                         "id": 143,
@@ -67,9 +67,9 @@
                         "form": 199
                     },
                     {
-                        "id": 282,
-                        "template": "GARDEVOIR_NORMAL",
-                        "form": 298
+                        "id": 62,
+                        "template": "POLIWRATH_NORMAL",
+                        "form": 241
                     }
                 ],
                 [
@@ -1037,14 +1037,14 @@
                         "form": 77
                     },
                     {
-                        "id": 97,
-                        "template": "HYPNO_NORMAL",
-                        "form": 217
-                    },
-                    {
                         "id": 281,
                         "template": "KIRLIA_NORMAL",
                         "form": 295
+                    },
+                    {
+                        "id": 97,
+                        "template": "HYPNO_NORMAL",
+                        "form": 217
                     }
                 ]
             ]

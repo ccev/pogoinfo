@@ -1,38 +1,34 @@
 {
     "1": [
         {
-            "id": 147,
-            "template": "DRATINI_NORMAL",
-            "form": 190
+            "id": 79,
+            "template": "SLOWPOKE_GALARIAN",
+            "form": 2582
         },
         {
-            "id": 200,
-            "template": "MISDREAVUS_NORMAL",
-            "form": 719
+            "id": 198,
+            "template": "MURKROW_NORMAL",
+            "form": 855
         },
         {
-            "id": 353,
-            "template": "SHUPPET_NORMAL",
-            "form": 908
+            "id": 559,
+            "template": "SCRAGGY"
         },
         {
-            "id": 361,
-            "template": "SNORUNT"
+            "id": 562,
+            "template": "YAMASK_NORMAL",
+            "form": 2084
         },
         {
-            "id": 425,
-            "template": "DRIFLOON"
+            "id": 677,
+            "template": "ESPURR"
         }
     ],
     "3": [
         {
-            "id": 40,
-            "template": "WIGGLYTUFF"
-        },
-        {
-            "id": 103,
-            "template": "EXEGGUTOR_ALOLA",
-            "form": 78
+            "id": 26,
+            "template": "RAICHU_ALOLA",
+            "form": 50
         },
         {
             "id": 302,
@@ -40,8 +36,13 @@
             "form": 923
         },
         {
-            "id": 608,
-            "template": "LAMPENT"
+            "id": 354,
+            "template": "BANETTE_NORMAL",
+            "form": 911
+        },
+        {
+            "id": 426,
+            "template": "DRIFBLIM"
         }
     ],
     "5": [
