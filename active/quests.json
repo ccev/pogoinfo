@@ -33,6 +33,38 @@
             ]
         },
         {
+            "task": "Catch 5 Ghost-type Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 25,
+                        "template": "PIKACHU_NORMAL",
+                        "form": 598
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 393,
+                        "template": "PIPLUP"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Catch 15 Ghost-type Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 426,
+                        "template": "DRIFBLIM"
+                    }
+                }
+            ]
+        },
+        {
             "task": "Make 3 Curveball Throws",
             "rewards": [
                 {
@@ -73,38 +105,6 @@
                         "id": 562,
                         "template": "YAMASK_GALARIAN",
                         "form": 2344
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Catch 5 Ghost-type Pokémon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 25,
-                        "template": "PIKACHU_NORMAL",
-                        "form": 598
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 393,
-                        "template": "PIPLUP"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Catch 15 Ghost-type Pokémon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 426,
-                        "template": "DRIFBLIM"
                     }
                 }
             ]

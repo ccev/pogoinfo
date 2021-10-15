@@ -1307,14 +1307,14 @@
                 ],
                 [
                     {
-                        "id": 310,
-                        "template": "MANECTRIC_NORMAL",
-                        "form": 1487
-                    },
-                    {
                         "id": 217,
                         "template": "URSARING_NORMAL",
                         "form": 1268
+                    },
+                    {
+                        "id": 310,
+                        "template": "MANECTRIC_NORMAL",
+                        "form": 1487
                     },
                     {
                         "id": 169,
