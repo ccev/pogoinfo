@@ -614,14 +614,14 @@
             "team": [
                 [
                     {
-                        "id": 187,
-                        "template": "HOPPIP_NORMAL",
-                        "form": 1205
-                    },
-                    {
                         "id": 43,
                         "template": "ODDISH_NORMAL",
                         "form": 265
+                    },
+                    {
+                        "id": 187,
+                        "template": "HOPPIP_NORMAL",
+                        "form": 1205
                     },
                     {
                         "id": 114,

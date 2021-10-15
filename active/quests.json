@@ -1,6 +1,18 @@
 {
     "event": [
         {
+            "task": "Spin 3 PokéStops or Gyms",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 167,
+                        "template": "SPINARAK"
+                    }
+                }
+            ]
+        },
+        {
             "task": "Catch 9 Pokémon",
             "rewards": [
                 {
@@ -16,6 +28,18 @@
                         "id": 96,
                         "template": "DROWZEE_NORMAL",
                         "form": 214
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Make 3 Curveball Throws",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 167,
+                        "template": "SPINARAK"
                     }
                 }
             ]
@@ -54,18 +78,6 @@
             ]
         },
         {
-            "task": "Spin 3 PokéStops or Gyms",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 167,
-                        "template": "SPINARAK"
-                    }
-                }
-            ]
-        },
-        {
             "task": "Catch 5 Ghost-type Pokémon",
             "rewards": [
                 {
@@ -93,18 +105,6 @@
                     "reward": {
                         "id": 426,
                         "template": "DRIFBLIM"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Make 3 Curveball Throws",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 167,
-                        "template": "SPINARAK"
                     }
                 }
             ]
