@@ -57,14 +57,14 @@
                 ],
                 [
                     {
-                        "id": 282,
-                        "template": "GARDEVOIR_NORMAL",
-                        "form": 298
-                    },
-                    {
                         "id": 143,
                         "template": "SNORLAX_NORMAL",
                         "form": 199
+                    },
+                    {
+                        "id": 282,
+                        "template": "GARDEVOIR_NORMAL",
+                        "form": 298
                     },
                     {
                         "id": 62,
@@ -403,14 +403,14 @@
                 ],
                 [
                     {
-                        "id": 106,
-                        "template": "HITMONLEE_NORMAL",
-                        "form": 713
-                    },
-                    {
                         "id": 107,
                         "template": "HITMONCHAN_NORMAL",
                         "form": 277
+                    },
+                    {
+                        "id": 106,
+                        "template": "HITMONLEE_NORMAL",
+                        "form": 713
                     },
                     {
                         "id": 297,
@@ -486,14 +486,14 @@
                         "form": 175
                     },
                     {
-                        "id": 59,
-                        "template": "ARCANINE_NORMAL",
-                        "form": 283
-                    },
-                    {
                         "id": 38,
                         "template": "NINETALES_NORMAL",
                         "form": 57
+                    },
+                    {
+                        "id": 59,
+                        "template": "ARCANINE_NORMAL",
+                        "form": 283
                     }
                 ]
             ]
@@ -1081,14 +1081,14 @@
             "team": [
                 [
                     {
-                        "id": 299,
-                        "template": "NOSEPASS_NORMAL",
-                        "form": 1460
-                    },
-                    {
                         "id": 304,
                         "template": "ARON_NORMAL",
                         "form": 1469
+                    },
+                    {
+                        "id": 299,
+                        "template": "NOSEPASS_NORMAL",
+                        "form": 1460
                     }
                 ],
                 [
@@ -1146,14 +1146,14 @@
                         "form": 235
                     },
                     {
-                        "id": 363,
-                        "template": "SPHEAL_NORMAL",
-                        "form": 1598
-                    },
-                    {
                         "id": 116,
                         "template": "HORSEA_NORMAL",
                         "form": 1062
+                    },
+                    {
+                        "id": 363,
+                        "template": "SPHEAL_NORMAL",
+                        "form": 1598
                     }
                 ],
                 [
