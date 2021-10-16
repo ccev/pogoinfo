@@ -614,14 +614,14 @@
             "team": [
                 [
                     {
-                        "id": 43,
-                        "template": "ODDISH_NORMAL",
-                        "form": 265
-                    },
-                    {
                         "id": 187,
                         "template": "HOPPIP_NORMAL",
                         "form": 1205
+                    },
+                    {
+                        "id": 43,
+                        "template": "ODDISH_NORMAL",
+                        "form": 265
                     },
                     {
                         "id": 114,
@@ -1081,14 +1081,14 @@
             "team": [
                 [
                     {
-                        "id": 304,
-                        "template": "ARON_NORMAL",
-                        "form": 1469
-                    },
-                    {
                         "id": 299,
                         "template": "NOSEPASS_NORMAL",
                         "form": 1460
+                    },
+                    {
+                        "id": 304,
+                        "template": "ARON_NORMAL",
+                        "form": 1469
                     }
                 ],
                 [
