@@ -1170,14 +1170,14 @@
                 ],
                 [
                     {
-                        "id": 186,
-                        "template": "POLITOED_NORMAL",
-                        "form": 244
-                    },
-                    {
                         "id": 62,
                         "template": "POLIWRATH_NORMAL",
                         "form": 241
+                    },
+                    {
+                        "id": 186,
+                        "template": "POLITOED_NORMAL",
+                        "form": 244
                     }
                 ]
             ]
