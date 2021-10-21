@@ -1,19 +1,5 @@
 [
     {
-        "name": "Altered Forme Giratina Raid Hour",
-        "type": "raid-hour",
-        "start": "2021-10-20 18:00",
-        "end": "2021-10-20 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Murkrow Spotlight Hour",
         "type": "spotlight-hour",
         "start": "2021-10-26 18:00",
@@ -226,6 +212,20 @@
         "features": [],
         "has_quests": false,
         "has_spawnpoints": false
+    },
+    {
+        "name": "November Community Day",
+        "type": "community-day",
+        "start": "2021-11-21 11:00",
+        "end": "2021-11-21 17:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": true,
+        "has_spawnpoints": true
     },
     {
         "name": "Season of Mischief",
@@ -890,6 +890,34 @@
         "features": [],
         "has_quests": false,
         "has_spawnpoints": false
+    },
+    {
+        "name": "December Community Day - Day 1",
+        "type": "community-day",
+        "start": "2021-12-18 11:00",
+        "end": "2021-12-18 17:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": true,
+        "has_spawnpoints": true
+    },
+    {
+        "name": "December Community Day - Day 2",
+        "type": "community-day",
+        "start": "2021-12-19 11:00",
+        "end": "2021-12-19 17:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": true,
+        "has_spawnpoints": true
     },
     {
         "name": "[Postponed] Pikachu wearing an Okinawan kariyushi shirt and Shiny Corsola",
