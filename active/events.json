@@ -214,6 +214,63 @@
         "has_spawnpoints": false
     },
     {
+        "name": "Cacnea Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2021-11-02 18:00",
+        "end": "2021-11-02 19:00",
+        "spawns": [
+            {
+                "id": 331,
+                "template": "CACNEA"
+            }
+        ],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": true
+    },
+    {
+        "name": "Chinchou Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2021-11-09 18:00",
+        "end": "2021-11-09 19:00",
+        "spawns": [
+            {
+                "id": 170,
+                "template": "CHINCHOU"
+            }
+        ],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": true
+    },
+    {
+        "name": "Turtwig Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2021-11-16 18:00",
+        "end": "2021-11-16 19:00",
+        "spawns": [
+            {
+                "id": 387,
+                "template": "TURTWIG"
+            }
+        ],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": true
+    },
+    {
         "name": "Shinx Community Day",
         "type": "community-day",
         "start": "2021-11-21 11:00",
@@ -269,6 +326,44 @@
             "Gyms and raids: 30 Power"
         ],
         "has_quests": true,
+        "has_spawnpoints": true
+    },
+    {
+        "name": "Chimchar Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2021-11-23 18:00",
+        "end": "2021-11-23 19:00",
+        "spawns": [
+            {
+                "id": 390,
+                "template": "CHIMCHAR"
+            }
+        ],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": true
+    },
+    {
+        "name": "Piplup Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2021-11-30 18:00",
+        "end": "2021-11-30 19:00",
+        "spawns": [
+            {
+                "id": 393,
+                "template": "PIPLUP"
+            }
+        ],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
         "has_spawnpoints": true
     },
     {

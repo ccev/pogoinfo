@@ -73,20 +73,16 @@
             ]
         },
         {
-            "task": "Catch 15 Ghost-type Pokémon",
+            "task": "Win 1 raids",
             "rewards": [
                 {
                     "type": "pokemon",
                     "reward": {
-                        "id": 426,
-                        "template": "DRIFBLIM"
+                        "id": 562,
+                        "template": "YAMASK_NORMAL",
+                        "form": 2084
                     }
-                }
-            ]
-        },
-        {
-            "task": "Catch 25 Ghost-type Pokémon",
-            "rewards": [
+                },
                 {
                     "type": "pokemon",
                     "reward": {
@@ -98,16 +94,8 @@
             ]
         },
         {
-            "task": "Win 1 raids",
+            "task": "Catch 25 Ghost-type Pokémon",
             "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 562,
-                        "template": "YAMASK_NORMAL",
-                        "form": 2084
-                    }
-                },
                 {
                     "type": "pokemon",
                     "reward": {
