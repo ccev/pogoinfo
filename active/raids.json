@@ -1,62 +1,9 @@
 {
-    "1": [
+    "0": [
         {
-            "id": 198,
-            "template": "MURKROW_NORMAL",
-            "form": 855
-        },
-        {
-            "id": 562,
-            "template": "YAMASK_NORMAL",
-            "form": 2084
-        },
-        {
-            "id": 562,
-            "template": "YAMASK_GALARIAN",
-            "form": 2344
-        },
-        {
-            "id": 708,
-            "template": "PHANTUMP"
-        },
-        {
-            "id": 710,
-            "template": "PUMPKABOO_AVERAGE",
-            "form": 2642
-        }
-    ],
-    "3": [
-        {
-            "id": 105,
-            "template": "MAROWAK_ALOLA",
-            "form": 80
-        },
-        {
-            "id": 354,
-            "template": "BANETTE_NORMAL",
-            "form": 911
-        },
-        {
-            "id": 426,
-            "template": "DRIFBLIM"
-        },
-        {
-            "id": 608,
-            "template": "LAMPENT"
-        }
-    ],
-    "5": [
-        {
-            "id": 491,
-            "template": "DARKRAI"
-        }
-    ],
-    "6": [
-        {
-            "id": 359,
-            "template": "ABSOL_NORMAL",
-            "form": 830,
-            "temp_evolution_id": 1
+            "id": 1,
+            "template": "BULBASAUR_NORMAL",
+            "form": 163
         }
     ]
 }
