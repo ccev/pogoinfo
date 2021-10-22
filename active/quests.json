@@ -58,7 +58,7 @@
             ]
         },
         {
-            "task": "Make 3 Curveball Throws. ",
+            "task": "Make 3 Curveball Throws",
             "rewards": [
                 {
                     "type": "pokemon",
@@ -70,7 +70,7 @@
             ]
         },
         {
-            "task": "Transfer 5 Pokémon. ",
+            "task": "Transfer 5 Pokémon",
             "rewards": [
                 {
                     "type": "pokemon",
@@ -98,7 +98,7 @@
             ]
         },
         {
-            "task": "Win a raid",
+            "task": "Win 1 raids",
             "rewards": [
                 {
                     "type": "pokemon",
