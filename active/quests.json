@@ -1,33 +1,13 @@
 {
     "event": [
         {
-            "task": "Spin 3 PokéStops or Gyms",
+            "task": "Spin 3 Pokéstops or Gyms",
             "rewards": [
                 {
                     "type": "pokemon",
                     "reward": {
                         "id": 167,
                         "template": "SPINARAK"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Catch 9 Pokémon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 574,
-                        "template": "GOTHITA"
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 96,
-                        "template": "DROWZEE_NORMAL",
-                        "form": 214
                     }
                 }
             ]
@@ -65,38 +45,6 @@
             ]
         },
         {
-            "task": "Make 3 Curveball Throws",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 167,
-                        "template": "SPINARAK"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Send 3 Gifts to friends",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 41,
-                        "template": "ZUBAT_NORMAL",
-                        "form": 157
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 527,
-                        "template": "WOOBAT"
-                    }
-                }
-            ]
-        },
-        {
             "task": "Catch 25 Ghost-type Pokémon",
             "rewards": [
                 {
@@ -110,7 +58,68 @@
             ]
         },
         {
-            "task": "Spin 7 PokéStops or Gyms",
+            "task": "Make 3 Curveball Throws. ",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 167,
+                        "template": "SPINARAK"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Transfer 5 Pokémon. ",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 353,
+                        "template": "SHUPPET_NORMAL",
+                        "form": 908
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 355,
+                        "template": "DUSKULL_NORMAL",
+                        "form": 914
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 92,
+                        "template": "GASTLY"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Win a raid",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 562,
+                        "template": "YAMASK_NORMAL",
+                        "form": 2084
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 562,
+                        "template": "YAMASK_GALARIAN",
+                        "form": 2344
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Spin 7 Pokéstops or Gyms",
             "rewards": [
                 {
                     "type": "item",
@@ -866,18 +875,6 @@
             ]
         },
         {
-            "task": "Win a Trainer Battle in the GO Battle League",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 588,
-                        "template": "KARRABLAST"
-                    }
-                }
-            ]
-        },
-        {
             "task": "Win a raid",
             "rewards": [
                 {
@@ -885,6 +882,18 @@
                     "reward": {
                         "id": 607,
                         "template": "LITWICK"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Win a Trainer Battle in the GO Battle League",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 588,
+                        "template": "KARRABLAST"
                     }
                 }
             ]
@@ -994,39 +1003,6 @@
                     "reward": {
                         "id": 133,
                         "template": "EEVEE"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Take a snapshot of a wild Pokémon",
-            "rewards": [
-                {
-                    "type": "item",
-                    "amount": 1,
-                    "id": 1102
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 198,
-                        "template": "MURKROW_NORMAL",
-                        "form": 855
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 187,
-                        "template": "HOPPIP_NORMAL",
-                        "form": 1205
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 193,
-                        "template": "YANMA"
                     }
                 }
             ]
@@ -1146,6 +1122,19 @@
             ]
         },
         {
+            "task": "Spin 5 PokéStops or Gyms",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 280,
+                        "template": "RALTS_NORMAL",
+                        "form": 292
+                    }
+                }
+            ]
+        },
+        {
             "task": "Hatch an Egg",
             "rewards": [
                 {
@@ -1179,14 +1168,34 @@
             ]
         },
         {
-            "task": "Spin 5 PokéStops or Gyms",
+            "task": "Take a snapshot of a wild Pokémon",
             "rewards": [
+                {
+                    "type": "item",
+                    "amount": 1,
+                    "id": 1102
+                },
                 {
                     "type": "pokemon",
                     "reward": {
-                        "id": 280,
-                        "template": "RALTS_NORMAL",
-                        "form": 292
+                        "id": 198,
+                        "template": "MURKROW_NORMAL",
+                        "form": 855
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 187,
+                        "template": "HOPPIP_NORMAL",
+                        "form": 1205
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 193,
+                        "template": "YANMA"
                     }
                 }
             ]

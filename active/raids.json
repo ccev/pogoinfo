@@ -1,18 +1,9 @@
 {
     "1": [
         {
-            "id": 79,
-            "template": "SLOWPOKE_GALARIAN",
-            "form": 2582
-        },
-        {
             "id": 198,
             "template": "MURKROW_NORMAL",
             "form": 855
-        },
-        {
-            "id": 559,
-            "template": "SCRAGGY"
         },
         {
             "id": 562,
@@ -20,20 +11,25 @@
             "form": 2084
         },
         {
-            "id": 677,
-            "template": "ESPURR"
+            "id": 562,
+            "template": "YAMASK_GALARIAN",
+            "form": 2344
+        },
+        {
+            "id": 708,
+            "template": "PHANTUMP"
+        },
+        {
+            "id": 710,
+            "template": "PUMPKABOO_AVERAGE",
+            "form": 2642
         }
     ],
     "3": [
         {
-            "id": 26,
-            "template": "RAICHU_ALOLA",
-            "form": 50
-        },
-        {
-            "id": 302,
-            "template": "SABLEYE_NORMAL",
-            "form": 923
+            "id": 105,
+            "template": "MAROWAK_ALOLA",
+            "form": 80
         },
         {
             "id": 354,
@@ -43,20 +39,23 @@
         {
             "id": 426,
             "template": "DRIFBLIM"
+        },
+        {
+            "id": 608,
+            "template": "LAMPENT"
         }
     ],
     "5": [
         {
-            "id": 487,
-            "template": "GIRATINA_ALTERED",
-            "form": 90
+            "id": 491,
+            "template": "DARKRAI"
         }
     ],
     "6": [
         {
-            "id": 94,
-            "template": "GENGAR_NORMAL",
-            "form": 1044,
+            "id": 359,
+            "template": "ABSOL_NORMAL",
+            "form": 830,
             "temp_evolution_id": 1
         }
     ]
