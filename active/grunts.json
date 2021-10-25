@@ -1329,14 +1329,14 @@
                         "form": 250
                     },
                     {
-                        "id": 462,
-                        "template": "MAGNEZONE_NORMAL",
-                        "form": 661
-                    },
-                    {
                         "id": 45,
                         "template": "VILEPLUME_NORMAL",
                         "form": 271
+                    },
+                    {
+                        "id": 462,
+                        "template": "MAGNEZONE_NORMAL",
+                        "form": 661
                     }
                 ]
             ]
@@ -1490,14 +1490,14 @@
                         "form": 920
                     },
                     {
-                        "id": 354,
-                        "template": "BANETTE_NORMAL",
-                        "form": 911
-                    },
-                    {
                         "id": 302,
                         "template": "SABLEYE_NORMAL",
                         "form": 923
+                    },
+                    {
+                        "id": 354,
+                        "template": "BANETTE_NORMAL",
+                        "form": 911
                     }
                 ]
             ]
