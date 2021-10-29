@@ -1,33 +1,5 @@
 [
     {
-        "name": "Murkrow Spotlight Hour",
-        "type": "spotlight-hour",
-        "start": "2021-10-26 18:00",
-        "end": "2021-10-26 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": true
-    },
-    {
-        "name": "Darkrai Raid Hour",
-        "type": "raid-hour",
-        "start": "2021-11-03 18:00",
-        "end": "2021-11-03 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Pokémon GO Halloween 2021",
         "type": "event",
         "start": "2021-10-15 10:00",
@@ -319,6 +291,20 @@
             "A free Día de Muertos T-shirt avatar item"
         ],
         "has_quests": true,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Darkrai Raid Hour",
+        "type": "raid-hour",
+        "start": "2021-11-03 18:00",
+        "end": "2021-11-03 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
         "has_spawnpoints": false
     },
     {
