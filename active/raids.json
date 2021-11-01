@@ -1,48 +1,48 @@
 {
     "1": [
         {
-            "id": 198,
-            "template": "MURKROW_NORMAL",
-            "form": 855
+            "id": 209,
+            "template": "SNUBBULL_NORMAL",
+            "form": 1253
         },
         {
-            "id": 562,
-            "template": "YAMASK_NORMAL",
-            "form": 2084
+            "id": 434,
+            "template": "STUNKY_NORMAL",
+            "form": 791
         },
         {
-            "id": 562,
-            "template": "YAMASK_GALARIAN",
-            "form": 2344
+            "id": 559,
+            "template": "SCRAGGY"
         },
         {
-            "id": 708,
-            "template": "PHANTUMP"
+            "id": 595,
+            "template": "JOLTIK"
         },
         {
-            "id": 710,
-            "template": "PUMPKABOO_AVERAGE",
-            "form": 2642
+            "id": 607,
+            "template": "LITWICK"
         }
     ],
     "3": [
+        {
+            "id": 68,
+            "template": "MACHAMP_NORMAL",
+            "form": 815
+        },
         {
             "id": 105,
             "template": "MAROWAK_ALOLA",
             "form": 80
         },
         {
-            "id": 354,
-            "template": "BANETTE_NORMAL",
-            "form": 911
+            "id": 303,
+            "template": "MAWILE_NORMAL",
+            "form": 833
         },
         {
-            "id": 426,
-            "template": "DRIFBLIM"
-        },
-        {
-            "id": 608,
-            "template": "LAMPENT"
+            "id": 332,
+            "template": "CACTURNE_NORMAL",
+            "form": 613
         }
     ],
     "5": [
