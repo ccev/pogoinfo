@@ -1,177 +1,5 @@
 [
     {
-        "name": "Pokémon GO Halloween 2021",
-        "type": "event",
-        "start": "2021-10-15 10:00",
-        "end": "2021-10-31 20:00",
-        "spawns": [
-            {
-                "id": 41,
-                "template": "ZUBAT"
-            },
-            {
-                "id": 92,
-                "template": "GASTLY"
-            },
-            {
-                "id": 96,
-                "template": "DROWZEE"
-            },
-            {
-                "id": 167,
-                "template": "SPINARAK"
-            },
-            {
-                "id": 200,
-                "template": "MISDREAVUS"
-            },
-            {
-                "id": 353,
-                "template": "SHUPPET"
-            },
-            {
-                "id": 393,
-                "template": "PIPLUP"
-            },
-            {
-                "id": 434,
-                "template": "STUNKY"
-            },
-            {
-                "id": 527,
-                "template": "WOOBAT"
-            },
-            {
-                "id": 562,
-                "template": "YAMASK"
-            },
-            {
-                "id": 574,
-                "template": "GOTHITA"
-            }
-        ],
-        "eggs": [
-            {
-                "id": 167,
-                "template": "SPINARAK"
-            },
-            {
-                "id": 200,
-                "template": "MISDREAVUS"
-            },
-            {
-                "id": 353,
-                "template": "SHUPPET"
-            },
-            {
-                "id": 433,
-                "template": "CHINGLING"
-            },
-            {
-                "id": 562,
-                "template": "YAMASK_GALARIAN",
-                "form": 2344
-            },
-            {
-                "id": 607,
-                "template": "LITWICK"
-            },
-            {
-                "id": 622,
-                "template": "GOLETT"
-            }
-        ],
-        "raids": [
-            {
-                "id": 79,
-                "template": "SLOWPOKE_GALARIAN",
-                "form": 2582
-            },
-            {
-                "id": 198,
-                "template": "MURKROW"
-            },
-            {
-                "id": 559,
-                "template": "SCRAGGY"
-            },
-            {
-                "id": 562,
-                "template": "YAMASK"
-            },
-            {
-                "id": 677,
-                "template": "ESPURR"
-            },
-            {
-                "id": 26,
-                "template": "RAICHU_ALOLA",
-                "form": 50
-            },
-            {
-                "id": 302,
-                "template": "SABLEYE"
-            },
-            {
-                "id": 354,
-                "template": "BANETTE"
-            },
-            {
-                "id": 426,
-                "template": "DRIFBLIM"
-            },
-            {
-                "id": 487,
-                "template": "GIRATINA_ALTERED",
-                "form": 90
-            },
-            {
-                "id": 94,
-                "template": "GENGAR",
-                "temp_evolution_id": 1
-            }
-        ],
-        "shinies": [
-            {
-                "id": 167,
-                "template": "SPINARAK"
-            },
-            {
-                "id": 168,
-                "template": "ARIADOS"
-            },
-            {
-                "id": 393,
-                "template": "PIPLUP"
-            },
-            {
-                "id": 426,
-                "template": "DRIFBLIM"
-            }
-        ],
-        "bonuses": [
-            {
-                "text": "2x Hatch Candy",
-                "template": "increased-candy",
-                "value": 2
-            },
-            {
-                "text": "2x Catch Candy",
-                "value": 2
-            },
-            {
-                "text": "2x Transfer Candy",
-                "value": 2
-            },
-            {
-                "text": "Guaranteed Candy XL when walking with your buddy"
-            }
-        ],
-        "features": [],
-        "has_quests": true,
-        "has_spawnpoints": false
-    },
-    {
         "name": "GO Battle Day",
         "type": "event",
         "start": "2021-11-20 00:00",
@@ -345,13 +173,164 @@
         "type": "event",
         "start": "2021-11-05 10:00",
         "end": "2021-11-14 20:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
+        "spawns": [
+            {
+                "id": 25,
+                "template": "PIKACHU"
+            },
+            {
+                "id": 81,
+                "template": "MAGNEMITE"
+            },
+            {
+                "id": 218,
+                "template": "SLUGMA"
+            },
+            {
+                "id": 293,
+                "template": "WHISMUR"
+            },
+            {
+                "id": 309,
+                "template": "ELECTRIKE"
+            },
+            {
+                "id": 522,
+                "template": "BLITZLE"
+            },
+            {
+                "id": 546,
+                "template": "COTTONEE"
+            },
+            {
+                "id": 602,
+                "template": "TYNAMO"
+            },
+            {
+                "id": 653,
+                "template": "FENNEKIN"
+            },
+            {
+                "id": 702,
+                "template": "DEDENNE"
+            },
+            {
+                "id": 554,
+                "template": "DARUMAKA"
+            },
+            {
+                "id": 607,
+                "template": "LITWICK"
+            }
+        ],
+        "eggs": [
+            {
+                "id": 37,
+                "template": "VULPIX"
+            },
+            {
+                "id": 74,
+                "template": "GEODUDE_ALOLA",
+                "form": 68
+            },
+            {
+                "id": 170,
+                "template": "CHINCHOU"
+            },
+            {
+                "id": 172,
+                "template": "PICHU"
+            },
+            {
+                "id": 239,
+                "template": "ELEKID"
+            },
+            {
+                "id": 240,
+                "template": "MAGBY"
+            },
+            {
+                "id": 406,
+                "template": "BUDEW"
+            }
+        ],
+        "raids": [
+            {
+                "id": 4,
+                "template": "CHARMANDER"
+            },
+            {
+                "id": 37,
+                "template": "VULPIX"
+            },
+            {
+                "id": 170,
+                "template": "CHINCHOU"
+            },
+            {
+                "id": 607,
+                "template": "LITWICK"
+            },
+            {
+                "id": 702,
+                "template": "DEDENNE"
+            },
+            {
+                "id": 26,
+                "template": "RAICHU_ALOLA",
+                "form": 50
+            },
+            {
+                "id": 125,
+                "template": "ELECTABUZZ"
+            },
+            {
+                "id": 126,
+                "template": "MAGMAR"
+            },
+            {
+                "id": 182,
+                "template": "BELLOSSOM"
+            },
+            {
+                "id": 638,
+                "template": "COBALION"
+            },
+            {
+                "id": 639,
+                "template": "TERRAKION"
+            },
+            {
+                "id": 640,
+                "template": "VIRIZION"
+            },
+            {
+                "id": 310,
+                "template": "MANECTRIC",
+                "temp_evolution_id": 1
+            }
+        ],
         "shinies": [],
-        "bonuses": [],
+        "bonuses": [
+            {
+                "text": "Friendship levels will increase twice as fast"
+            },
+            {
+                "text": "You’ll be able to open up to 45 Gifts per day",
+                "value": 45
+            },
+            {
+                "text": "Gifts will provide increased rewards"
+            },
+            {
+                "text": "You can use a Charged TM to help a Shadow Pokémon forget the Charged Attack Frustration."
+            },
+            {
+                "text": "Team GO Rocket members will be appearing significantly more frequently at PokéStops and in balloons."
+            }
+        ],
         "features": [],
-        "has_quests": false,
+        "has_quests": true,
         "has_spawnpoints": false
     },
     {
