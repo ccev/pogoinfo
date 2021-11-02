@@ -1,19 +1,5 @@
 [
     {
-        "name": "GO Battle Day",
-        "type": "event",
-        "start": "2021-11-20 00:00",
-        "end": "2021-11-20 23:59",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Cacnea Spotlight Hour",
         "type": "spotlight-hour",
         "start": "2021-11-02 18:00",
@@ -357,6 +343,20 @@
         "type": "raid-hour",
         "start": "2021-11-24 18:00",
         "end": "2021-11-24 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "GO Battle Day",
+        "type": "event",
+        "start": "2021-11-20 00:00",
+        "end": "2021-11-20 23:59",
         "spawns": [],
         "eggs": [],
         "raids": [],
