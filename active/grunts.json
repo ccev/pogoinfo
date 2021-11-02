@@ -1329,14 +1329,14 @@
                         "form": 250
                     },
                     {
-                        "id": 45,
-                        "template": "VILEPLUME_NORMAL",
-                        "form": 271
-                    },
-                    {
                         "id": 462,
                         "template": "MAGNEZONE_NORMAL",
                         "form": 661
+                    },
+                    {
+                        "id": 45,
+                        "template": "VILEPLUME_NORMAL",
+                        "form": 271
                     }
                 ]
             ]
