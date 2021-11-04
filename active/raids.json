@@ -1,61 +1,69 @@
 {
     "1": [
         {
-            "id": 209,
-            "template": "SNUBBULL_NORMAL",
-            "form": 1253
+            "id": 4,
+            "template": "CHARMANDER_NORMAL",
+            "form": 172
         },
         {
-            "id": 434,
-            "template": "STUNKY_NORMAL",
-            "form": 791
+            "id": 37,
+            "template": "VULPIX_NORMAL",
+            "form": 55
         },
         {
-            "id": 559,
-            "template": "SCRAGGY"
-        },
-        {
-            "id": 595,
-            "template": "JOLTIK"
+            "id": 170,
+            "template": "CHINCHOU"
         },
         {
             "id": 607,
             "template": "LITWICK"
+        },
+        {
+            "id": 702,
+            "template": "DEDENNE"
         }
     ],
     "3": [
         {
-            "id": 68,
-            "template": "MACHAMP_NORMAL",
-            "form": 815
+            "id": 26,
+            "template": "RAICHU_ALOLA",
+            "form": 50
         },
         {
-            "id": 105,
-            "template": "MAROWAK_ALOLA",
-            "form": 80
+            "id": 125,
+            "template": "ELECTABUZZ_NORMAL",
+            "form": 640
         },
         {
-            "id": 303,
-            "template": "MAWILE_NORMAL",
-            "form": 833
+            "id": 126,
+            "template": "MAGMAR_NORMAL",
+            "form": 634
         },
         {
-            "id": 332,
-            "template": "CACTURNE_NORMAL",
-            "form": 613
+            "id": 182,
+            "template": "BELLOSSOM_NORMAL",
+            "form": 274
         }
     ],
     "5": [
         {
-            "id": 491,
-            "template": "DARKRAI"
+            "id": 638,
+            "template": "COBALION"
+        },
+        {
+            "id": 639,
+            "template": "TERRAKION"
+        },
+        {
+            "id": 640,
+            "template": "VIRIZION"
         }
     ],
     "6": [
         {
-            "id": 359,
-            "template": "ABSOL_NORMAL",
-            "form": 830,
+            "id": 310,
+            "template": "MANECTRIC_NORMAL",
+            "form": 1487,
             "temp_evolution_id": 1
         }
     ]
