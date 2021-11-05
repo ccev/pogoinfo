@@ -1,14 +1,21 @@
 {
     "event": [
         {
-            "task": "Send 5 Gifts to friends",
+            "task": "Catch 5 Fire-type Pokémon",
             "rewards": [
                 {
                     "type": "pokemon",
                     "reward": {
-                        "id": 125,
-                        "template": "ELECTABUZZ_NORMAL",
-                        "form": 640
+                        "id": 667,
+                        "template": "LITLEO"
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 37,
+                        "template": "VULPIX_NORMAL",
+                        "form": 55
                     }
                 }
             ]
@@ -23,18 +30,99 @@
                         "template": "ELECTRIKE_NORMAL",
                         "form": 1484
                     }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 81,
+                        "template": "MAGNEMITE_NORMAL",
+                        "form": 655
+                    }
                 }
             ]
         },
         {
-            "task": "Catch 5 Fire-type Pokémon",
+            "task": "Catch 5 different species of Electric-type Pokémon",
             "rewards": [
                 {
                     "type": "pokemon",
                     "reward": {
-                        "id": 667,
-                        "template": "LITLEO"
+                        "id": 522,
+                        "template": "BLITZLE"
                     }
+                }
+            ]
+        },
+        {
+            "task": "Defeat 2 Team GO Rocket Grunts",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 522,
+                        "template": "BLITZLE"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Send 5 Gifts to friends",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 125,
+                        "template": "ELECTABUZZ_NORMAL",
+                        "form": 640
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 126,
+                        "template": "MAGMAR_NORMAL",
+                        "form": 634
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Send 7 Gifts to friends",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 554,
+                        "template": "DARUMAKA_NORMAL",
+                        "form": 2063
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Power up Pokémon 10 times",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 702,
+                        "template": "DEDENNE"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Walk 1 km",
+            "rewards": [
+                {
+                    "type": "item",
+                    "amount": 10,
+                    "id": 1
+                },
+                {
+                    "type": "item",
+                    "amount": 5,
+                    "id": 2
                 }
             ]
         }
