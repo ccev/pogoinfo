@@ -22,6 +22,19 @@
             ]
         },
         {
+            "task": "Send 7 Gifts to friends",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 554,
+                        "template": "DARUMAKA_NORMAL",
+                        "form": 2063
+                    }
+                }
+            ]
+        },
+        {
             "task": "Catch 5 Fire-type Pokémon",
             "rewards": [
                 {
@@ -94,19 +107,6 @@
                     "reward": {
                         "id": 702,
                         "template": "DEDENNE"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Send 7 Gifts to friends",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 554,
-                        "template": "DARUMAKA_NORMAL",
-                        "form": 2063
                     }
                 }
             ]
