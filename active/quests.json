@@ -1,6 +1,27 @@
 {
     "event": [
         {
+            "task": "Send 5 Gifts to friends",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 125,
+                        "template": "ELECTABUZZ_NORMAL",
+                        "form": 640
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 126,
+                        "template": "MAGMAR_NORMAL",
+                        "form": 634
+                    }
+                }
+            ]
+        },
+        {
             "task": "Catch 5 Fire-type Pokémon",
             "rewards": [
                 {
@@ -66,22 +87,13 @@
             ]
         },
         {
-            "task": "Send 5 Gifts to friends",
+            "task": "Power up Pokémon 10 times",
             "rewards": [
                 {
                     "type": "pokemon",
                     "reward": {
-                        "id": 125,
-                        "template": "ELECTABUZZ_NORMAL",
-                        "form": 640
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 126,
-                        "template": "MAGMAR_NORMAL",
-                        "form": 634
+                        "id": 702,
+                        "template": "DEDENNE"
                     }
                 }
             ]
@@ -95,18 +107,6 @@
                         "id": 554,
                         "template": "DARUMAKA_NORMAL",
                         "form": 2063
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Power up Pokémon 10 times",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 702,
-                        "template": "DEDENNE"
                     }
                 }
             ]
@@ -1097,6 +1097,11 @@
         {
             "task": "Spin 3 Pokestops or Gyms",
             "rewards": [
+                {
+                    "type": "item",
+                    "amount": 5,
+                    "id": 2
+                },
                 {
                     "type": "pokemon",
                     "reward": {
