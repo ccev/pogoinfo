@@ -125,6 +125,15 @@
                     "id": 2
                 }
             ]
+        },
+        {
+            "task": "Hatch an Egg",
+            "rewards": [
+                {
+                    "type": "stardust",
+                    "amount": 1000
+                }
+            ]
         }
     ],
     "quests": [
