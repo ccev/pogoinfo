@@ -112,6 +112,33 @@
             ]
         },
         {
+            "task": "Defeat a Team GO Rocket Leader",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 629,
+                        "template": "VULLABY"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Catch 10 Pokémon",
+            "rewards": [
+                {
+                    "type": "item",
+                    "amount": 2,
+                    "id": 102
+                },
+                {
+                    "type": "item",
+                    "amount": 2,
+                    "id": 201
+                }
+            ]
+        },
+        {
             "task": "Walk 1 km",
             "rewards": [
                 {

@@ -36,12 +36,55 @@
         }
     },
     "5": {
-        "active": false,
+        "active": true,
         "character": {
             "template": "CHARACTER_GRUNT_FEMALE",
             "gender": 0,
             "boss": false,
             "type": {}
+        },
+        "lineup": {
+            "rewards": [
+                0
+            ],
+            "team": [
+                [
+                    {
+                        "id": 143,
+                        "template": "SNORLAX_NORMAL",
+                        "form": 199
+                    }
+                ],
+                [
+                    {
+                        "id": 282,
+                        "template": "GARDEVOIR_NORMAL",
+                        "form": 298
+                    },
+                    {
+                        "id": 143,
+                        "template": "SNORLAX_NORMAL",
+                        "form": 199
+                    },
+                    {
+                        "id": 62,
+                        "template": "POLIWRATH_NORMAL",
+                        "form": 241
+                    }
+                ],
+                [
+                    {
+                        "id": 149,
+                        "template": "DRAGONITE_NORMAL",
+                        "form": 196
+                    },
+                    {
+                        "id": 143,
+                        "template": "SNORLAX_NORMAL",
+                        "form": 199
+                    }
+                ]
+            ]
         }
     },
     "6": {
@@ -75,26 +118,26 @@
             "team": [
                 [
                     {
-                        "id": 49,
-                        "template": "VENOMOTH_NORMAL",
-                        "form": 262
-                    },
-                    {
                         "id": 13,
                         "template": "WEEDLE_NORMAL",
                         "form": 616
+                    },
+                    {
+                        "id": 49,
+                        "template": "VENOMOTH_NORMAL",
+                        "form": 262
                     }
                 ],
                 [
                     {
-                        "id": 15,
-                        "template": "BEEDRILL_NORMAL",
-                        "form": 622
-                    },
-                    {
                         "id": 451,
                         "template": "SKORUPI_NORMAL",
                         "form": 1796
+                    },
+                    {
+                        "id": 15,
+                        "template": "BEEDRILL_NORMAL",
+                        "form": 622
                     }
                 ],
                 [
@@ -136,6 +179,11 @@
             "team": [
                 [
                     {
+                        "id": 228,
+                        "template": "HOUNDOUR_NORMAL",
+                        "form": 229
+                    },
+                    {
                         "id": 261,
                         "template": "POOCHYENA_NORMAL",
                         "form": 1367
@@ -146,6 +194,11 @@
                         "id": 332,
                         "template": "CACTURNE_NORMAL",
                         "form": 613
+                    },
+                    {
+                        "id": 274,
+                        "template": "NUZLEAF_NORMAL",
+                        "form": 628
                     },
                     {
                         "id": 302,
@@ -208,6 +261,11 @@
                         "id": 148,
                         "template": "DRAGONAIR_NORMAL",
                         "form": 193
+                    },
+                    {
+                        "id": 330,
+                        "template": "FLYGON_NORMAL",
+                        "form": 752
                     }
                 ],
                 [
@@ -250,6 +308,11 @@
             "team": [
                 [
                     {
+                        "id": 209,
+                        "template": "SNUBBULL_NORMAL",
+                        "form": 1253
+                    },
+                    {
                         "id": 280,
                         "template": "RALTS_NORMAL",
                         "form": 292
@@ -260,6 +323,11 @@
                         "id": 281,
                         "template": "KIRLIA_NORMAL",
                         "form": 295
+                    },
+                    {
+                        "id": 209,
+                        "template": "SNUBBULL_NORMAL",
+                        "form": 1253
                     }
                 ],
                 [
@@ -267,6 +335,11 @@
                         "id": 281,
                         "template": "KIRLIA_NORMAL",
                         "form": 295
+                    },
+                    {
+                        "id": 210,
+                        "template": "GRANBULL_NORMAL",
+                        "form": 1256
                     }
                 ]
             ]
@@ -390,6 +463,11 @@
                         "id": 126,
                         "template": "MAGMAR_NORMAL",
                         "form": 634
+                    },
+                    {
+                        "id": 5,
+                        "template": "CHARMELEON_NORMAL",
+                        "form": 175
                     }
                 ],
                 [
@@ -397,6 +475,11 @@
                         "id": 38,
                         "template": "NINETALES_NORMAL",
                         "form": 57
+                    },
+                    {
+                        "id": 59,
+                        "template": "ARCANINE_NORMAL",
+                        "form": 283
                     }
                 ]
             ]
@@ -606,6 +689,11 @@
                         "id": 105,
                         "template": "MAROWAK_NORMAL",
                         "form": 79
+                    },
+                    {
+                        "id": 330,
+                        "template": "FLYGON_NORMAL",
+                        "form": 752
                     }
                 ]
             ]
@@ -728,9 +816,31 @@
             "team": [
                 [
                     {
+                        "id": 216,
+                        "template": "TEDDIURSA_NORMAL",
+                        "form": 1265
+                    },
+                    {
+                        "id": 399,
+                        "template": "BIDOOF_NORMAL",
+                        "form": 1667
+                    },
+                    {
                         "id": 19,
                         "template": "RATTATA_NORMAL",
                         "form": 45
+                    }
+                ],
+                [
+                    {
+                        "id": 20,
+                        "template": "RATICATE_NORMAL",
+                        "form": 47
+                    },
+                    {
+                        "id": 400,
+                        "template": "BIBAREL_NORMAL",
+                        "form": 1670
                     }
                 ],
                 [
@@ -740,16 +850,14 @@
                         "form": 1670
                     },
                     {
-                        "id": 20,
-                        "template": "RATICATE_NORMAL",
-                        "form": 47
-                    }
-                ],
-                [
-                    {
                         "id": 217,
                         "template": "URSARING_NORMAL",
                         "form": 1268
+                    },
+                    {
+                        "id": 20,
+                        "template": "RATICATE_NORMAL",
+                        "form": 47
                     }
                 ]
             ]
@@ -794,6 +902,11 @@
                         "id": 33,
                         "template": "NIDORINO_NORMAL",
                         "form": 785
+                    },
+                    {
+                        "id": 110,
+                        "template": "WEEZING_NORMAL",
+                        "form": 706
                     }
                 ],
                 [
@@ -984,14 +1097,14 @@
                 ],
                 [
                     {
-                        "id": 90,
-                        "template": "SHELLDER_NORMAL",
-                        "form": 876
-                    },
-                    {
                         "id": 8,
                         "template": "WARTORTLE_NORMAL",
                         "form": 184
+                    },
+                    {
+                        "id": 90,
+                        "template": "SHELLDER_NORMAL",
+                        "form": 876
                     }
                 ],
                 [
@@ -1074,18 +1187,33 @@
                         "id": 3,
                         "template": "VENUSAUR_NORMAL",
                         "form": 169
+                    },
+                    {
+                        "id": 169,
+                        "template": "CROBAT_NORMAL",
+                        "form": 202
+                    },
+                    {
+                        "id": 68,
+                        "template": "MACHAMP_NORMAL",
+                        "form": 815
                     }
                 ],
                 [
+                    {
+                        "id": 248,
+                        "template": "TYRANITAR_NORMAL",
+                        "form": 319
+                    },
                     {
                         "id": 6,
                         "template": "CHARIZARD_NORMAL",
                         "form": 178
                     },
                     {
-                        "id": 248,
-                        "template": "TYRANITAR_NORMAL",
-                        "form": 319
+                        "id": 59,
+                        "template": "ARCANINE_NORMAL",
+                        "form": 283
                     }
                 ]
             ]
@@ -1130,14 +1258,19 @@
                 ],
                 [
                     {
-                        "id": 143,
-                        "template": "SNORLAX_NORMAL",
-                        "form": 199
-                    },
-                    {
                         "id": 212,
                         "template": "SCIZOR_NORMAL",
                         "form": 250
+                    },
+                    {
+                        "id": 282,
+                        "template": "GARDEVOIR_NORMAL",
+                        "form": 298
+                    },
+                    {
+                        "id": 143,
+                        "template": "SNORLAX_NORMAL",
+                        "form": 199
                     }
                 ]
             ]
@@ -1190,6 +1323,11 @@
                         "id": 105,
                         "template": "MAROWAK_NORMAL",
                         "form": 79
+                    },
+                    {
+                        "id": 31,
+                        "template": "NIDOQUEEN_NORMAL",
+                        "form": 782
                     }
                 ]
             ]
