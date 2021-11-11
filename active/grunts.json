@@ -79,14 +79,14 @@
                         "form": 196
                     },
                     {
-                        "id": 143,
-                        "template": "SNORLAX_NORMAL",
-                        "form": 199
-                    },
-                    {
                         "id": 130,
                         "template": "GYARADOS_NORMAL",
                         "form": 256
+                    },
+                    {
+                        "id": 143,
+                        "template": "SNORLAX_NORMAL",
+                        "form": 199
                     }
                 ]
             ]
@@ -201,14 +201,14 @@
                         "form": 613
                     },
                     {
-                        "id": 274,
-                        "template": "NUZLEAF_NORMAL",
-                        "form": 628
-                    },
-                    {
                         "id": 302,
                         "template": "SABLEYE_NORMAL",
                         "form": 923
+                    },
+                    {
+                        "id": 274,
+                        "template": "NUZLEAF_NORMAL",
+                        "form": 628
                     }
                 ],
                 [
@@ -971,7 +971,8 @@
         },
         "lineup": {
             "rewards": [
-                0
+                0,
+                1
             ],
             "team": [
                 [
@@ -1051,14 +1052,14 @@
                 ],
                 [
                     {
-                        "id": 345,
-                        "template": "LILEEP_NORMAL",
-                        "form": 1568
-                    },
-                    {
                         "id": 347,
                         "template": "ANORITH_NORMAL",
                         "form": 1574
+                    },
+                    {
+                        "id": 345,
+                        "template": "LILEEP_NORMAL",
+                        "form": 1568
                     }
                 ],
                 [
@@ -1103,11 +1104,6 @@
                         "id": 54,
                         "template": "PSYDUCK_NORMAL",
                         "form": 286
-                    },
-                    {
-                        "id": 90,
-                        "template": "SHELLDER_NORMAL",
-                        "form": 876
                     }
                 ],
                 [
@@ -1435,6 +1431,11 @@
                         "id": 70,
                         "template": "WEEPINBELL_NORMAL",
                         "form": 667
+                    },
+                    {
+                        "id": 20,
+                        "template": "RATICATE_NORMAL",
+                        "form": 47
                     }
                 ],
                 [

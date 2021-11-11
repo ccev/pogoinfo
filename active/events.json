@@ -1,19 +1,5 @@
 [
     {
-        "name": "Cobalion, Terrakion, and Virizion Raid Hour",
-        "type": "raid-hour",
-        "start": "2021-11-10 18:00",
-        "end": "2021-11-10 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Festival of Lights",
         "type": "event",
         "start": "2021-11-05 10:00",
