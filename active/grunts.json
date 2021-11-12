@@ -283,6 +283,11 @@
                         "id": 330,
                         "template": "FLYGON_NORMAL",
                         "form": 752
+                    },
+                    {
+                        "id": 148,
+                        "template": "DRAGONAIR_NORMAL",
+                        "form": 193
                     }
                 ]
             ]
@@ -1443,6 +1448,11 @@
                         "id": 20,
                         "template": "RATICATE_NORMAL",
                         "form": 47
+                    },
+                    {
+                        "id": 143,
+                        "template": "SNORLAX_NORMAL",
+                        "form": 199
                     }
                 ]
             ]
