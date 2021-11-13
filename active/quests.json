@@ -161,6 +161,16 @@
                     "amount": 1000
                 }
             ]
+        },
+        {
+            "task": "Catch 30 Pokémon",
+            "rewards": [
+                {
+                    "type": "item",
+                    "amount": 1,
+                    "id": 708
+                }
+            ]
         }
     ],
     "quests": [
