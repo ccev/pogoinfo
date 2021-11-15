@@ -95,6 +95,14 @@
             {
                 "text": "4× chance of earning Candy XL when transferring Pokémon*",
                 "value": 4
+            },
+            {
+                "text": "Get up to three free Raid Passes from Gyms during the event and up to two hours after the event*"
+            },
+            {
+                "text": "Trades made during the event and two hours after the event will require 25% less Stardust",
+                "template": "increased-stardust",
+                "value": 25
             }
         ],
         "features": [
