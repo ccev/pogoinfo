@@ -1,48 +1,43 @@
 {
     "1": [
         {
-            "id": 4,
-            "template": "CHARMANDER_NORMAL",
-            "form": 172
+            "id": 519,
+            "template": "PIDOVE"
         },
         {
-            "id": 37,
-            "template": "VULPIX_NORMAL",
-            "form": 55
+            "id": 524,
+            "template": "ROGGENROLA"
         },
         {
-            "id": 170,
-            "template": "CHINCHOU"
+            "id": 548,
+            "template": "PETILIL"
         },
         {
-            "id": 607,
-            "template": "LITWICK"
+            "id": 577,
+            "template": "SOLOSIS"
         },
         {
-            "id": 702,
-            "template": "DEDENNE"
+            "id": 599,
+            "template": "KLINK"
         }
     ],
     "3": [
         {
-            "id": 26,
-            "template": "RAICHU_ALOLA",
-            "form": 50
+            "id": 57,
+            "template": "PRIMEAPE"
         },
         {
-            "id": 125,
-            "template": "ELECTABUZZ_NORMAL",
-            "form": 640
+            "id": 207,
+            "template": "GLIGAR_NORMAL",
+            "form": 803
         },
         {
-            "id": 126,
-            "template": "MAGMAR_NORMAL",
-            "form": 634
+            "id": 323,
+            "template": "CAMERUPT"
         },
         {
-            "id": 182,
-            "template": "BELLOSSOM_NORMAL",
-            "form": 274
+            "id": 344,
+            "template": "CLAYDOL"
         }
     ],
     "5": [
