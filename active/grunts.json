@@ -694,6 +694,11 @@
                 ],
                 [
                     {
+                        "id": 51,
+                        "template": "DUGTRIO_NORMAL",
+                        "form": 61
+                    },
+                    {
                         "id": 28,
                         "template": "SANDSLASH_NORMAL",
                         "form": 53
@@ -709,6 +714,11 @@
                         "id": 330,
                         "template": "FLYGON_NORMAL",
                         "form": 752
+                    },
+                    {
+                        "id": 472,
+                        "template": "GLISCOR_NORMAL",
+                        "form": 806
                     }
                 ]
             ]
