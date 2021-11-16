@@ -1,19 +1,6 @@
 {
     "event": [
         {
-            "task": "Catch 2 Chimchar",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 390,
-                        "template": "CHIMCHAR_NORMAL",
-                        "form": 818
-                    }
-                }
-            ]
-        },
-        {
             "task": "Catch 2 Turtwig",
             "rewards": [
                 {
@@ -22,6 +9,19 @@
                         "id": 387,
                         "template": "TURTWIG_NORMAL",
                         "form": 688
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Catch 2 Chimchar",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 390,
+                        "template": "CHIMCHAR_NORMAL",
+                        "form": 818
                     }
                 }
             ]
