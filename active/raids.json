@@ -1,64 +1,58 @@
 {
     "1": [
         {
-            "id": 519,
-            "template": "PIDOVE"
+            "id": 408,
+            "template": "CRANIDOS"
         },
         {
-            "id": 524,
-            "template": "ROGGENROLA"
+            "id": 425,
+            "template": "DRIFLOON"
         },
         {
-            "id": 548,
-            "template": "PETILIL"
+            "id": 436,
+            "template": "BRONZOR"
         },
         {
-            "id": 577,
-            "template": "SOLOSIS"
-        },
-        {
-            "id": 599,
-            "template": "KLINK"
+            "id": 443,
+            "template": "GIBLE_NORMAL",
+            "form": 861
         }
     ],
     "3": [
         {
-            "id": 57,
-            "template": "PRIMEAPE"
+            "id": 248,
+            "template": "TYRANITAR_NORMAL",
+            "form": 319
         },
         {
-            "id": 207,
-            "template": "GLIGAR_NORMAL",
-            "form": 803
+            "id": 428,
+            "template": "LOPUNNY"
         },
         {
-            "id": 323,
-            "template": "CAMERUPT"
+            "id": 452,
+            "template": "DRAPION_NORMAL",
+            "form": 1799
         },
         {
-            "id": 344,
-            "template": "CLAYDOL"
+            "id": 454,
+            "template": "TOXICROAK"
+        },
+        {
+            "id": 475,
+            "template": "GALLADE_NORMAL",
+            "form": 301
         }
     ],
     "5": [
         {
-            "id": 638,
-            "template": "COBALION"
-        },
-        {
-            "id": 639,
-            "template": "TERRAKION"
-        },
-        {
-            "id": 640,
-            "template": "VIRIZION"
+            "id": 488,
+            "template": "CRESSELIA"
         }
     ],
     "6": [
         {
-            "id": 310,
-            "template": "MANECTRIC_NORMAL",
-            "form": 1487,
+            "id": 428,
+            "template": "LOPUNNY",
             "temp_evolution_id": 1
         }
     ]
