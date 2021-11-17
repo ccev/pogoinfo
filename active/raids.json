@@ -1,8 +1,8 @@
 {
     "1": [
         {
-            "id": 408,
-            "template": "CRANIDOS"
+            "id": 410,
+            "template": "SHIELDON"
         },
         {
             "id": 425,
@@ -11,18 +11,13 @@
         {
             "id": 436,
             "template": "BRONZOR"
-        },
-        {
-            "id": 443,
-            "template": "GIBLE_NORMAL",
-            "form": 861
         }
     ],
     "3": [
         {
-            "id": 248,
-            "template": "TYRANITAR_NORMAL",
-            "form": 319
+            "id": 373,
+            "template": "SALAMENCE_NORMAL",
+            "form": 761
         },
         {
             "id": 428,
