@@ -1140,14 +1140,14 @@
                 ],
                 [
                     {
-                        "id": 80,
-                        "template": "SLOWBRO_NORMAL",
-                        "form": 1020
-                    },
-                    {
                         "id": 199,
                         "template": "SLOWKING_NORMAL",
                         "form": 1238
+                    },
+                    {
+                        "id": 80,
+                        "template": "SLOWBRO_NORMAL",
+                        "form": 1020
                     }
                 ]
             ]
@@ -1225,14 +1225,14 @@
                         "form": 169
                     },
                     {
-                        "id": 68,
-                        "template": "MACHAMP_NORMAL",
-                        "form": 815
-                    },
-                    {
                         "id": 169,
                         "template": "CROBAT_NORMAL",
                         "form": 202
+                    },
+                    {
+                        "id": 68,
+                        "template": "MACHAMP_NORMAL",
+                        "form": 815
                     }
                 ],
                 [
@@ -1527,14 +1527,14 @@
                 ],
                 [
                     {
-                        "id": 302,
-                        "template": "SABLEYE_NORMAL",
-                        "form": 923
-                    },
-                    {
                         "id": 354,
                         "template": "BANETTE_NORMAL",
                         "form": 911
+                    },
+                    {
+                        "id": 302,
+                        "template": "SABLEYE_NORMAL",
+                        "form": 923
                     }
                 ]
             ]

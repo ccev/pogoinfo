@@ -1020,12 +1020,465 @@
         "type": "community-day",
         "start": "2021-12-18 11:00",
         "end": "2021-12-18 17:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
+        "spawns": [
+            {
+                "id": 66,
+                "template": "MACHOP"
+            },
+            {
+                "id": 315,
+                "template": "ROSELIA"
+            },
+            {
+                "id": 333,
+                "template": "SWABLU"
+            },
+            {
+                "id": 443,
+                "template": "GIBLE"
+            },
+            {
+                "id": 495,
+                "template": "SNIVY"
+            },
+            {
+                "id": 661,
+                "template": "FLETCHLING"
+            },
+            {
+                "id": 133,
+                "template": "EEVEE"
+            },
+            {
+                "id": 355,
+                "template": "DUSKULL"
+            },
+            {
+                "id": 403,
+                "template": "SHINX"
+            },
+            {
+                "id": 498,
+                "template": "TEPIG"
+            },
+            {
+                "id": 501,
+                "template": "OSHAWOTT"
+            }
+        ],
+        "eggs": [
+            {
+                "id": 4,
+                "template": "CHARMANDER"
+            },
+            {
+                "id": 13,
+                "template": "WEEDLE"
+            },
+            {
+                "id": 63,
+                "template": "ABRA"
+            },
+            {
+                "id": 92,
+                "template": "GASTLY"
+            },
+            {
+                "id": 111,
+                "template": "RHYHORN"
+            },
+            {
+                "id": 129,
+                "template": "MAGIKARP"
+            },
+            {
+                "id": 137,
+                "template": "PORYGON"
+            },
+            {
+                "id": 239,
+                "template": "ELEKID"
+            },
+            {
+                "id": 240,
+                "template": "MAGBY"
+            },
+            {
+                "id": 273,
+                "template": "SEEDOT"
+            },
+            {
+                "id": 393,
+                "template": "PIPLUP"
+            },
+            {
+                "id": 406,
+                "template": "BUDEW"
+            }
+        ],
+        "raids": [
+            {
+                "id": 4,
+                "template": "CHARMANDER"
+            },
+            {
+                "id": 13,
+                "template": "WEEDLE"
+            },
+            {
+                "id": 63,
+                "template": "ABRA"
+            },
+            {
+                "id": 92,
+                "template": "GASTLY"
+            },
+            {
+                "id": 111,
+                "template": "RHYHORN"
+            },
+            {
+                "id": 125,
+                "template": "ELECTABUZZ"
+            },
+            {
+                "id": 126,
+                "template": "MAGMAR"
+            },
+            {
+                "id": 129,
+                "template": "MAGIKARP"
+            },
+            {
+                "id": 137,
+                "template": "PORYGON"
+            },
+            {
+                "id": 273,
+                "template": "SEEDOT"
+            },
+            {
+                "id": 393,
+                "template": "PIPLUP"
+            }
+        ],
+        "shinies": [
+            {
+                "id": 4,
+                "template": "CHARMANDER"
+            },
+            {
+                "id": 5,
+                "template": "CHARMELEON"
+            },
+            {
+                "id": 6,
+                "template": "CHARIZARD"
+            },
+            {
+                "id": 13,
+                "template": "WEEDLE"
+            },
+            {
+                "id": 14,
+                "template": "KAKUNA"
+            },
+            {
+                "id": 15,
+                "template": "BEEDRILL"
+            },
+            {
+                "id": 63,
+                "template": "ABRA"
+            },
+            {
+                "id": 64,
+                "template": "KADABRA"
+            },
+            {
+                "id": 65,
+                "template": "ALAKAZAM"
+            },
+            {
+                "id": 66,
+                "template": "MACHOP"
+            },
+            {
+                "id": 67,
+                "template": "MACHOKE"
+            },
+            {
+                "id": 68,
+                "template": "MACHAMP"
+            },
+            {
+                "id": 92,
+                "template": "GASTLY"
+            },
+            {
+                "id": 93,
+                "template": "HAUNTER"
+            },
+            {
+                "id": 94,
+                "template": "GENGAR"
+            },
+            {
+                "id": 111,
+                "template": "RHYHORN"
+            },
+            {
+                "id": 112,
+                "template": "RHYDON"
+            },
+            {
+                "id": 464,
+                "template": "RHYPERIOR"
+            },
+            {
+                "id": 129,
+                "template": "MAGIKARP"
+            },
+            {
+                "id": 130,
+                "template": "GYARADOS"
+            },
+            {
+                "id": 133,
+                "template": "EEVEE"
+            },
+            {
+                "id": 134,
+                "template": "VAPOREON"
+            },
+            {
+                "id": 135,
+                "template": "JOLTEON"
+            },
+            {
+                "id": 136,
+                "template": "FLAREON"
+            },
+            {
+                "id": 196,
+                "template": "ESPEON"
+            },
+            {
+                "id": 197,
+                "template": "UMBREON"
+            },
+            {
+                "id": 470,
+                "template": "LEAFEON"
+            },
+            {
+                "id": 471,
+                "template": "GLACEON"
+            },
+            {
+                "id": 700,
+                "template": "SYLVEON"
+            },
+            {
+                "id": 137,
+                "template": "PORYGON"
+            },
+            {
+                "id": 233,
+                "template": "PORYGON2"
+            },
+            {
+                "id": 474,
+                "template": "PORYGON_Z"
+            },
+            {
+                "id": 239,
+                "template": "ELEKID"
+            },
+            {
+                "id": 125,
+                "template": "ELECTABUZZ"
+            },
+            {
+                "id": 466,
+                "template": "ELECTIVIRE"
+            },
+            {
+                "id": 240,
+                "template": "MAGBY"
+            },
+            {
+                "id": 126,
+                "template": "MAGMAR"
+            },
+            {
+                "id": 467,
+                "template": "MAGMORTAR"
+            },
+            {
+                "id": 273,
+                "template": "SEEDOT"
+            },
+            {
+                "id": 274,
+                "template": "NUZLEAF"
+            },
+            {
+                "id": 275,
+                "template": "SHIFTRY"
+            },
+            {
+                "id": 406,
+                "template": "BUDEW"
+            },
+            {
+                "id": 315,
+                "template": "ROSELIA"
+            },
+            {
+                "id": 407,
+                "template": "ROSERADE"
+            },
+            {
+                "id": 333,
+                "template": "SWABLU"
+            },
+            {
+                "id": 334,
+                "template": "ALTARIA"
+            },
+            {
+                "id": 355,
+                "template": "DUSKULL"
+            },
+            {
+                "id": 356,
+                "template": "DUSCLOPS"
+            },
+            {
+                "id": 477,
+                "template": "DUSKNOIR"
+            },
+            {
+                "id": 393,
+                "template": "PIPLUP"
+            },
+            {
+                "id": 394,
+                "template": "PRINPLUP"
+            },
+            {
+                "id": 395,
+                "template": "EMPOLEON"
+            },
+            {
+                "id": 403,
+                "template": "SHINX"
+            },
+            {
+                "id": 404,
+                "template": "LUXIO"
+            },
+            {
+                "id": 405,
+                "template": "LUXRAY"
+            },
+            {
+                "id": 443,
+                "template": "GIBLE"
+            },
+            {
+                "id": 444,
+                "template": "GABITE"
+            },
+            {
+                "id": 445,
+                "template": "GARCHOMP"
+            },
+            {
+                "id": 495,
+                "template": "SNIVY"
+            },
+            {
+                "id": 496,
+                "template": "SERVINE"
+            },
+            {
+                "id": 497,
+                "template": "SERPERIOR"
+            },
+            {
+                "id": 498,
+                "template": "TEPIG"
+            },
+            {
+                "id": 499,
+                "template": "PIGNITE"
+            },
+            {
+                "id": 500,
+                "template": "EMBOAR"
+            },
+            {
+                "id": 502,
+                "template": "DEWOTT"
+            },
+            {
+                "id": 503,
+                "template": "SAMUROTT"
+            },
+            {
+                "id": 661,
+                "template": "FLETCHLING"
+            },
+            {
+                "id": 662,
+                "template": "FLETCHINDER"
+            },
+            {
+                "id": 663,
+                "template": "TALONFLAME"
+            }
+        ],
+        "bonuses": [
+            {
+                "text": "3-Hour Incense",
+                "template": "longer-incense",
+                "value": 3
+            },
+            {
+                "text": "3-Hour Lure Modules",
+                "template": "longer-lure",
+                "value": 3
+            },
+            {
+                "text": "1/2 Egg Hatch Distance",
+                "template": "reduced-hatch-distance",
+                "value": 12
+            },
+            {
+                "text": "2x Catch XP",
+                "template": "increased-xp",
+                "value": 2
+            },
+            {
+                "text": "2x Catch Stardust",
+                "template": "increased-stardust",
+                "value": 2
+            },
+            {
+                "text": "25% reduced stardust cost for trades",
+                "value": 25
+            },
+            {
+                "text": "1 extra special trade per day",
+                "value": 1
+            }
+        ],
+        "features": [
+            "Pokémon Storage Expansion Cap: 5,000 -> 5,500",
+            "Item Bag Expansion Cap: 4,000 -> 4,500"
+        ],
         "has_quests": true,
         "has_spawnpoints": true
     },
@@ -1034,12 +1487,469 @@
         "type": "community-day",
         "start": "2021-12-19 11:00",
         "end": "2021-12-19 17:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
+        "spawns": [
+            {
+                "id": 66,
+                "template": "MACHOP"
+            },
+            {
+                "id": 315,
+                "template": "ROSELIA"
+            },
+            {
+                "id": 333,
+                "template": "SWABLU"
+            },
+            {
+                "id": 443,
+                "template": "GIBLE"
+            },
+            {
+                "id": 495,
+                "template": "SNIVY"
+            },
+            {
+                "id": 661,
+                "template": "FLETCHLING"
+            },
+            {
+                "id": 133,
+                "template": "EEVEE"
+            },
+            {
+                "id": 355,
+                "template": "DUSKULL"
+            },
+            {
+                "id": 403,
+                "template": "SHINX"
+            },
+            {
+                "id": 498,
+                "template": "TEPIG"
+            },
+            {
+                "id": 501,
+                "template": "OSHAWOTT"
+            }
+        ],
+        "eggs": [
+            {
+                "id": 4,
+                "template": "CHARMANDER"
+            },
+            {
+                "id": 13,
+                "template": "WEEDLE"
+            },
+            {
+                "id": 63,
+                "template": "ABRA"
+            },
+            {
+                "id": 92,
+                "template": "GASTLY"
+            },
+            {
+                "id": 111,
+                "template": "RHYHORN"
+            },
+            {
+                "id": 129,
+                "template": "MAGIKARP"
+            },
+            {
+                "id": 137,
+                "template": "PORYGON"
+            },
+            {
+                "id": 239,
+                "template": "ELEKID"
+            },
+            {
+                "id": 240,
+                "template": "MAGBY"
+            },
+            {
+                "id": 273,
+                "template": "SEEDOT"
+            },
+            {
+                "id": 393,
+                "template": "PIPLUP"
+            },
+            {
+                "id": 406,
+                "template": "BUDEW"
+            }
+        ],
+        "raids": [
+            {
+                "id": 4,
+                "template": "CHARMANDER"
+            },
+            {
+                "id": 13,
+                "template": "WEEDLE"
+            },
+            {
+                "id": 63,
+                "template": "ABRA"
+            },
+            {
+                "id": 92,
+                "template": "GASTLY"
+            },
+            {
+                "id": 111,
+                "template": "RHYHORN"
+            },
+            {
+                "id": 125,
+                "template": "ELECTABUZZ"
+            },
+            {
+                "id": 126,
+                "template": "MAGMAR"
+            },
+            {
+                "id": 129,
+                "template": "MAGIKARP"
+            },
+            {
+                "id": 137,
+                "template": "PORYGON"
+            },
+            {
+                "id": 273,
+                "template": "SEEDOT"
+            },
+            {
+                "id": 393,
+                "template": "PIPLUP"
+            }
+        ],
+        "shinies": [
+            {
+                "id": 4,
+                "template": "CHARMANDER"
+            },
+            {
+                "id": 5,
+                "template": "CHARMELEON"
+            },
+            {
+                "id": 6,
+                "template": "CHARIZARD"
+            },
+            {
+                "id": 13,
+                "template": "WEEDLE"
+            },
+            {
+                "id": 14,
+                "template": "KAKUNA"
+            },
+            {
+                "id": 15,
+                "template": "BEEDRILL"
+            },
+            {
+                "id": 63,
+                "template": "ABRA"
+            },
+            {
+                "id": 64,
+                "template": "KADABRA"
+            },
+            {
+                "id": 65,
+                "template": "ALAKAZAM"
+            },
+            {
+                "id": 66,
+                "template": "MACHOP"
+            },
+            {
+                "id": 67,
+                "template": "MACHOKE"
+            },
+            {
+                "id": 68,
+                "template": "MACHAMP"
+            },
+            {
+                "id": 92,
+                "template": "GASTLY"
+            },
+            {
+                "id": 93,
+                "template": "HAUNTER"
+            },
+            {
+                "id": 94,
+                "template": "GENGAR"
+            },
+            {
+                "id": 111,
+                "template": "RHYHORN"
+            },
+            {
+                "id": 112,
+                "template": "RHYDON"
+            },
+            {
+                "id": 464,
+                "template": "RHYPERIOR"
+            },
+            {
+                "id": 129,
+                "template": "MAGIKARP"
+            },
+            {
+                "id": 130,
+                "template": "GYARADOS"
+            },
+            {
+                "id": 133,
+                "template": "EEVEE"
+            },
+            {
+                "id": 134,
+                "template": "VAPOREON"
+            },
+            {
+                "id": 135,
+                "template": "JOLTEON"
+            },
+            {
+                "id": 136,
+                "template": "FLAREON"
+            },
+            {
+                "id": 196,
+                "template": "ESPEON"
+            },
+            {
+                "id": 197,
+                "template": "UMBREON"
+            },
+            {
+                "id": 470,
+                "template": "LEAFEON"
+            },
+            {
+                "id": 471,
+                "template": "GLACEON"
+            },
+            {
+                "id": 700,
+                "template": "SYLVEON"
+            },
+            {
+                "id": 137,
+                "template": "PORYGON"
+            },
+            {
+                "id": 233,
+                "template": "PORYGON2"
+            },
+            {
+                "id": 474,
+                "template": "PORYGON_Z"
+            },
+            {
+                "id": 239,
+                "template": "ELEKID"
+            },
+            {
+                "id": 125,
+                "template": "ELECTABUZZ"
+            },
+            {
+                "id": 466,
+                "template": "ELECTIVIRE"
+            },
+            {
+                "id": 240,
+                "template": "MAGBY"
+            },
+            {
+                "id": 126,
+                "template": "MAGMAR"
+            },
+            {
+                "id": 467,
+                "template": "MAGMORTAR"
+            },
+            {
+                "id": 273,
+                "template": "SEEDOT"
+            },
+            {
+                "id": 274,
+                "template": "NUZLEAF"
+            },
+            {
+                "id": 275,
+                "template": "SHIFTRY"
+            },
+            {
+                "id": 406,
+                "template": "BUDEW"
+            },
+            {
+                "id": 315,
+                "template": "ROSELIA"
+            },
+            {
+                "id": 407,
+                "template": "ROSERADE"
+            },
+            {
+                "id": 333,
+                "template": "SWABLU"
+            },
+            {
+                "id": 334,
+                "template": "ALTARIA"
+            },
+            {
+                "id": 355,
+                "template": "DUSKULL"
+            },
+            {
+                "id": 356,
+                "template": "DUSCLOPS"
+            },
+            {
+                "id": 477,
+                "template": "DUSKNOIR"
+            },
+            {
+                "id": 393,
+                "template": "PIPLUP"
+            },
+            {
+                "id": 394,
+                "template": "PRINPLUP"
+            },
+            {
+                "id": 395,
+                "template": "EMPOLEON"
+            },
+            {
+                "id": 403,
+                "template": "SHINX"
+            },
+            {
+                "id": 404,
+                "template": "LUXIO"
+            },
+            {
+                "id": 405,
+                "template": "LUXRAY"
+            },
+            {
+                "id": 443,
+                "template": "GIBLE"
+            },
+            {
+                "id": 444,
+                "template": "GABITE"
+            },
+            {
+                "id": 445,
+                "template": "GARCHOMP"
+            },
+            {
+                "id": 495,
+                "template": "SNIVY"
+            },
+            {
+                "id": 496,
+                "template": "SERVINE"
+            },
+            {
+                "id": 497,
+                "template": "SERPERIOR"
+            },
+            {
+                "id": 498,
+                "template": "TEPIG"
+            },
+            {
+                "id": 499,
+                "template": "PIGNITE"
+            },
+            {
+                "id": 500,
+                "template": "EMBOAR"
+            },
+            {
+                "id": 501,
+                "template": "OSHAWOTT"
+            },
+            {
+                "id": 502,
+                "template": "DEWOTT"
+            },
+            {
+                "id": 503,
+                "template": "SAMUROTT"
+            },
+            {
+                "id": 661,
+                "template": "FLETCHLING"
+            },
+            {
+                "id": 662,
+                "template": "FLETCHINDER"
+            },
+            {
+                "id": 663,
+                "template": "TALONFLAME"
+            }
+        ],
+        "bonuses": [
+            {
+                "text": "3-Hour Incense",
+                "template": "longer-incense",
+                "value": 3
+            },
+            {
+                "text": "3-Hour Lure Modules",
+                "template": "longer-lure",
+                "value": 3
+            },
+            {
+                "text": "1/2 Egg Hatch Distance",
+                "template": "reduced-hatch-distance",
+                "value": 12
+            },
+            {
+                "text": "2x Catch XP",
+                "template": "increased-xp",
+                "value": 2
+            },
+            {
+                "text": "2x Catch Stardust",
+                "template": "increased-stardust",
+                "value": 2
+            },
+            {
+                "text": "25% reduced stardust cost for trades",
+                "value": 25
+            },
+            {
+                "text": "1 extra special trade per day",
+                "value": 1
+            }
+        ],
+        "features": [
+            "Pokémon Storage Expansion Cap: 5,000 -> 5,500",
+            "Item Bag Expansion Cap: 4,000 -> 4,500"
+        ],
         "has_quests": true,
         "has_spawnpoints": true
     },

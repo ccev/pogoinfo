@@ -39,19 +39,6 @@
             ]
         },
         {
-            "task": "Win a raid",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 246,
-                        "template": "LARVITAR_NORMAL",
-                        "form": 313
-                    }
-                }
-            ]
-        },
-        {
             "task": "Trade a Pokémon",
             "rewards": [
                 {
@@ -68,6 +55,19 @@
                         "id": 412,
                         "template": "BURMY_TRASH",
                         "form": 120
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Win a raid",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 246,
+                        "template": "LARVITAR_NORMAL",
+                        "form": 313
                     }
                 }
             ]
