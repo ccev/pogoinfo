@@ -11,6 +11,11 @@
         {
             "id": 436,
             "template": "BRONZOR"
+        },
+        {
+            "id": 443,
+            "template": "GIBLE_NORMAL",
+            "form": 861
         }
     ],
     "3": [

@@ -540,14 +540,14 @@
                         "form": 1658
                     },
                     {
-                        "id": 41,
-                        "template": "ZUBAT_NORMAL",
-                        "form": 157
-                    },
-                    {
                         "id": 198,
                         "template": "MURKROW_NORMAL",
                         "form": 855
+                    },
+                    {
+                        "id": 41,
+                        "template": "ZUBAT_NORMAL",
+                        "form": 157
                     }
                 ],
                 [
@@ -1140,14 +1140,14 @@
                 ],
                 [
                     {
-                        "id": 199,
-                        "template": "SLOWKING_NORMAL",
-                        "form": 1238
-                    },
-                    {
                         "id": 80,
                         "template": "SLOWBRO_NORMAL",
                         "form": 1020
+                    },
+                    {
+                        "id": 199,
+                        "template": "SLOWKING_NORMAL",
+                        "form": 1238
                     }
                 ]
             ]
@@ -1339,14 +1339,14 @@
                         "form": 622
                     },
                     {
-                        "id": 80,
-                        "template": "SLOWBRO_NORMAL",
-                        "form": 1020
-                    },
-                    {
                         "id": 45,
                         "template": "VILEPLUME_NORMAL",
                         "form": 271
+                    },
+                    {
+                        "id": 80,
+                        "template": "SLOWBRO_NORMAL",
+                        "form": 1020
                     }
                 ],
                 [

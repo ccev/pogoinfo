@@ -39,14 +39,27 @@
             ]
         },
         {
+            "task": "Win a raid",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 246,
+                        "template": "LARVITAR_NORMAL",
+                        "form": 313
+                    }
+                }
+            ]
+        },
+        {
             "task": "Trade a Pokémon",
             "rewards": [
                 {
                     "type": "pokemon",
                     "reward": {
                         "id": 412,
-                        "template": "BURMY_SANDY",
-                        "form": 119
+                        "template": "BURMY_PLANT",
+                        "form": 118
                     }
                 },
                 {
@@ -60,26 +73,13 @@
             ]
         },
         {
-            "task": "Win a raid",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 371,
-                        "template": "BAGON_NORMAL",
-                        "form": 755
-                    }
-                }
-            ]
-        },
-        {
             "task": "Win a level 3 or higher raid",
             "rewards": [
                 {
                     "type": "pokemon",
                     "reward": {
-                        "id": 410,
-                        "template": "SHIELDON"
+                        "id": 408,
+                        "template": "CRANIDOS"
                     }
                 }
             ]
