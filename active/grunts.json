@@ -1140,14 +1140,14 @@
                 ],
                 [
                     {
-                        "id": 199,
-                        "template": "SLOWKING_NORMAL",
-                        "form": 1238
-                    },
-                    {
                         "id": 80,
                         "template": "SLOWBRO_NORMAL",
                         "form": 1020
+                    },
+                    {
+                        "id": 199,
+                        "template": "SLOWKING_NORMAL",
+                        "form": 1238
                     }
                 ]
             ]
@@ -1225,14 +1225,14 @@
                         "form": 169
                     },
                     {
-                        "id": 169,
-                        "template": "CROBAT_NORMAL",
-                        "form": 202
-                    },
-                    {
                         "id": 68,
                         "template": "MACHAMP_NORMAL",
                         "form": 815
+                    },
+                    {
+                        "id": 169,
+                        "template": "CROBAT_NORMAL",
+                        "form": 202
                     }
                 ],
                 [
@@ -1339,14 +1339,14 @@
                         "form": 622
                     },
                     {
-                        "id": 45,
-                        "template": "VILEPLUME_NORMAL",
-                        "form": 271
-                    },
-                    {
                         "id": 80,
                         "template": "SLOWBRO_NORMAL",
                         "form": 1020
+                    },
+                    {
+                        "id": 45,
+                        "template": "VILEPLUME_NORMAL",
+                        "form": 271
                     }
                 ],
                 [
