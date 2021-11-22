@@ -1,46 +1,45 @@
 {
     "1": [
         {
-            "id": 410,
-            "template": "SHIELDON"
+            "id": 39,
+            "template": "JIGGLYPUFF"
         },
         {
-            "id": 425,
-            "template": "DRIFLOON"
+            "id": 193,
+            "template": "YANMA"
         },
         {
-            "id": 436,
-            "template": "BRONZOR"
+            "id": 198,
+            "template": "MURKROW_NORMAL",
+            "form": 855
         },
         {
-            "id": 443,
-            "template": "GIBLE_NORMAL",
-            "form": 861
+            "id": 307,
+            "template": "MEDITITE"
+        },
+        {
+            "id": 532,
+            "template": "TIMBURR"
         }
     ],
     "3": [
         {
-            "id": 373,
-            "template": "SALAMENCE_NORMAL",
-            "form": 761
+            "id": 65,
+            "template": "ALAKAZAM_NORMAL",
+            "form": 310
         },
         {
-            "id": 428,
-            "template": "LOPUNNY"
+            "id": 94,
+            "template": "GENGAR_NORMAL",
+            "form": 1044
         },
         {
-            "id": 452,
-            "template": "DRAPION_NORMAL",
-            "form": 1799
+            "id": 241,
+            "template": "MILTANK"
         },
         {
-            "id": 454,
-            "template": "TOXICROAK"
-        },
-        {
-            "id": 475,
-            "template": "GALLADE_NORMAL",
-            "form": 301
+            "id": 286,
+            "template": "BRELOOM"
         }
     ],
     "5": [
