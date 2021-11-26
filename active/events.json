@@ -1,5 +1,225 @@
 [
     {
+        "name": "Rattata Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2021-11-26 12:00",
+        "end": "2021-11-26 13:00",
+        "spawns": [
+            {
+                "id": 19,
+                "template": "RATTATA"
+            }
+        ],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": true
+    },
+    {
+        "name": "Articuno, Zapdos, and Moltres Raid Hour",
+        "type": "raid-hour",
+        "start": "2021-11-26 18:00",
+        "end": "2021-11-26 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [
+            {
+                "id": 144,
+                "template": "ARTICUNO"
+            },
+            {
+                "id": 145,
+                "template": "ZAPDOS"
+            },
+            {
+                "id": 146,
+                "template": "MOLTRES"
+            }
+        ],
+        "shinies": [
+            {
+                "id": 144,
+                "template": "ARTICUNO"
+            },
+            {
+                "id": 145,
+                "template": "ZAPDOS"
+            },
+            {
+                "id": 146,
+                "template": "MOLTRES"
+            }
+        ],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Sableye Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2021-11-27 12:00",
+        "end": "2021-11-27 13:00",
+        "spawns": [
+            {
+                "id": 302,
+                "template": "SABLEYE"
+            }
+        ],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": true
+    },
+    {
+        "name": "Heatran Raid Hour",
+        "type": "raid-hour",
+        "start": "2021-11-27 18:00",
+        "end": "2021-11-27 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [
+            {
+                "id": 485,
+                "template": "HEATRAN"
+            }
+        ],
+        "shinies": [
+            {
+                "id": 485,
+                "template": "HEATRAN"
+            }
+        ],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Pikachu Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2021-11-28 12:00",
+        "end": "2021-11-28 13:00",
+        "spawns": [
+            {
+                "id": 25,
+                "template": "PIKACHU"
+            }
+        ],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": true
+    },
+    {
+        "name": "Regirock, Regice, and Registeel Raid Hour",
+        "type": "raid-hour",
+        "start": "2021-11-28 18:00",
+        "end": "2021-11-28 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [
+            {
+                "id": 377,
+                "template": "REGIROCK"
+            },
+            {
+                "id": 378,
+                "template": "REGICE"
+            },
+            {
+                "id": 379,
+                "template": "REGISTEEL"
+            }
+        ],
+        "shinies": [
+            {
+                "id": 377,
+                "template": "REGIROCK"
+            },
+            {
+                "id": 378,
+                "template": "REGICE"
+            },
+            {
+                "id": 379,
+                "template": "REGISTEEL"
+            }
+        ],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Beldum Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2021-11-29 12:00",
+        "end": "2021-11-29 13:00",
+        "spawns": [
+            {
+                "id": 374,
+                "template": "BELDUM"
+            }
+        ],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": true
+    },
+    {
+        "name": "Swords of Justice Raid Hour",
+        "type": "raid-hour",
+        "start": "2021-11-29 18:00",
+        "end": "2021-11-29 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [
+            {
+                "id": 638,
+                "template": "COBALION"
+            },
+            {
+                "id": 639,
+                "template": "TERRAKION"
+            },
+            {
+                "id": 640,
+                "template": "VIRIZION"
+            }
+        ],
+        "shinies": [
+            {
+                "id": 638,
+                "template": "COBALION"
+            },
+            {
+                "id": 639,
+                "template": "TERRAKION"
+            },
+            {
+                "id": 640,
+                "template": "VIRIZION"
+            }
+        ],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
         "name": "Mischief Unbound Event",
         "type": "event",
         "start": "2021-11-26 10:00",
