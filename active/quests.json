@@ -25,6 +25,66 @@
                     }
                 }
             ]
+        },
+        {
+            "task": "Catch 50 Pokémon",
+            "rewards": [
+                {
+                    "type": "item",
+                    "amount": 2,
+                    "id": 1301
+                }
+            ]
+        },
+        {
+            "task": "Catch 20 Pokémon",
+            "rewards": [
+                {
+                    "type": "item",
+                    "amount": 25,
+                    "id": 1
+                }
+            ]
+        },
+        {
+            "task": "Catch 20 Pokémon",
+            "rewards": [
+                {
+                    "type": "item",
+                    "amount": 20,
+                    "id": 2
+                }
+            ]
+        },
+        {
+            "task": "Catch 10 Pokémon",
+            "rewards": [
+                {
+                    "type": "item",
+                    "amount": 7,
+                    "id": 2
+                }
+            ]
+        },
+        {
+            "task": "Catch 5 Pokémon",
+            "rewards": [
+                {
+                    "type": "item",
+                    "amount": 5,
+                    "id": 1
+                }
+            ]
+        },
+        {
+            "task": "Catch 5 Pokémon",
+            "rewards": [
+                {
+                    "type": "item",
+                    "amount": 2,
+                    "id": 3
+                }
+            ]
         }
     ],
     "quests": [
