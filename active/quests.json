@@ -27,32 +27,22 @@
             ]
         },
         {
-            "task": "Catch 50 Pokémon",
+            "task": "Catch 5 Pokémon",
             "rewards": [
+                {
+                    "type": "item",
+                    "amount": 5,
+                    "id": 1
+                },
+                {
+                    "type": "item",
+                    "amount": 3,
+                    "id": 2
+                },
                 {
                     "type": "item",
                     "amount": 2,
-                    "id": 1301
-                }
-            ]
-        },
-        {
-            "task": "Catch 20 Pokémon",
-            "rewards": [
-                {
-                    "type": "item",
-                    "amount": 25,
-                    "id": 1
-                }
-            ]
-        },
-        {
-            "task": "Catch 20 Pokémon",
-            "rewards": [
-                {
-                    "type": "item",
-                    "amount": 20,
-                    "id": 2
+                    "id": 3
                 }
             ]
         },
@@ -63,26 +53,60 @@
                     "type": "item",
                     "amount": 7,
                     "id": 2
-                }
-            ]
-        },
-        {
-            "task": "Catch 5 Pokémon",
-            "rewards": [
+                },
                 {
                     "type": "item",
                     "amount": 5,
-                    "id": 1
+                    "id": 3
                 }
             ]
         },
         {
-            "task": "Catch 5 Pokémon",
+            "task": "Catch 20 Pokémon",
+            "rewards": [
+                {
+                    "type": "item",
+                    "amount": 25,
+                    "id": 1
+                },
+                {
+                    "type": "item",
+                    "amount": 20,
+                    "id": 2
+                }
+            ]
+        },
+        {
+            "task": "Catch 50 Pokémon",
             "rewards": [
                 {
                     "type": "item",
                     "amount": 2,
-                    "id": 3
+                    "id": 1301
+                }
+            ]
+        },
+        {
+            "task": "Spin 10 PokéStops or Gyms",
+            "rewards": [
+                {
+                    "type": "stardust",
+                    "amount": 1000
+                }
+            ]
+        },
+        {
+            "task": "Transfer 10 Pokémon",
+            "rewards": [
+                {
+                    "type": "item",
+                    "amount": 4,
+                    "id": 701
+                },
+                {
+                    "type": "item",
+                    "amount": 2,
+                    "id": 705
                 }
             ]
         }
