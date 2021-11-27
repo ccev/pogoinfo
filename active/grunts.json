@@ -644,14 +644,14 @@
                 ],
                 [
                     {
-                        "id": 45,
-                        "template": "VILEPLUME_NORMAL",
-                        "form": 271
-                    },
-                    {
                         "id": 182,
                         "template": "BELLOSSOM_NORMAL",
                         "form": 274
+                    },
+                    {
+                        "id": 45,
+                        "template": "VILEPLUME_NORMAL",
+                        "form": 271
                     }
                 ]
             ]
@@ -875,14 +875,14 @@
                 ],
                 [
                     {
-                        "id": 20,
-                        "template": "RATICATE_NORMAL",
-                        "form": 47
-                    },
-                    {
                         "id": 400,
                         "template": "BIBAREL_NORMAL",
                         "form": 1670
+                    },
+                    {
+                        "id": 20,
+                        "template": "RATICATE_NORMAL",
+                        "form": 47
                     },
                     {
                         "id": 217,
@@ -1140,14 +1140,14 @@
                 ],
                 [
                     {
-                        "id": 80,
-                        "template": "SLOWBRO_NORMAL",
-                        "form": 1020
-                    },
-                    {
                         "id": 199,
                         "template": "SLOWKING_NORMAL",
                         "form": 1238
+                    },
+                    {
+                        "id": 80,
+                        "template": "SLOWBRO_NORMAL",
+                        "form": 1020
                     }
                 ]
             ]
@@ -1294,14 +1294,14 @@
                 ],
                 [
                     {
-                        "id": 282,
-                        "template": "GARDEVOIR_NORMAL",
-                        "form": 298
-                    },
-                    {
                         "id": 212,
                         "template": "SCIZOR_NORMAL",
                         "form": 250
+                    },
+                    {
+                        "id": 282,
+                        "template": "GARDEVOIR_NORMAL",
+                        "form": 298
                     },
                     {
                         "id": 143,
@@ -1515,14 +1515,14 @@
                 ],
                 [
                     {
-                        "id": 302,
-                        "template": "SABLEYE_NORMAL",
-                        "form": 923
-                    },
-                    {
                         "id": 353,
                         "template": "SHUPPET_NORMAL",
                         "form": 908
+                    },
+                    {
+                        "id": 302,
+                        "template": "SABLEYE_NORMAL",
+                        "form": 923
                     }
                 ],
                 [

@@ -51,6 +51,11 @@
             "rewards": [
                 {
                     "type": "item",
+                    "amount": 10,
+                    "id": 1
+                },
+                {
+                    "type": "item",
                     "amount": 7,
                     "id": 2
                 },
@@ -73,6 +78,11 @@
                     "type": "item",
                     "amount": 20,
                     "id": 2
+                },
+                {
+                    "type": "item",
+                    "amount": 15,
+                    "id": 3
                 }
             ]
         },
@@ -107,6 +117,16 @@
                     "type": "item",
                     "amount": 2,
                     "id": 705
+                }
+            ]
+        },
+        {
+            "task": "Transfer 20 Pokémon",
+            "rewards": [
+                {
+                    "type": "item",
+                    "amount": 1,
+                    "id": 708
                 }
             ]
         }
