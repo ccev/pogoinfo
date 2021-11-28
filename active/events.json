@@ -1,29 +1,5 @@
 [
     {
-        "name": "Heatran Raid Hour",
-        "type": "raid-hour",
-        "start": "2021-11-27 18:00",
-        "end": "2021-11-27 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [
-            {
-                "id": 485,
-                "template": "HEATRAN"
-            }
-        ],
-        "shinies": [
-            {
-                "id": 485,
-                "template": "HEATRAN"
-            }
-        ],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Pikachu Spotlight Hour",
         "type": "spotlight-hour",
         "start": "2021-11-28 12:00",
