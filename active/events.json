@@ -1,24 +1,5 @@
 [
     {
-        "name": "Pikachu Spotlight Hour",
-        "type": "spotlight-hour",
-        "start": "2021-11-28 12:00",
-        "end": "2021-11-28 13:00",
-        "spawns": [
-            {
-                "id": 25,
-                "template": "PIKACHU"
-            }
-        ],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": true
-    },
-    {
         "name": "Regirock, Regice, and Registeel Raid Hour",
         "type": "raid-hour",
         "start": "2021-11-28 18:00",
