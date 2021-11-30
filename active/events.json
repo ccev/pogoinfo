@@ -737,11 +737,80 @@
         "has_spawnpoints": false
     },
     {
-        "name": "Pokémon Spotlight Hour",
-        "type": "spotlight-hour",
-        "start": null,
-        "end": "2021-12-28 19:00",
+        "name": "Reshiram and Zekrom Raid Hour",
+        "type": "raid-hour",
+        "start": "2021-12-15 18:00",
+        "end": "2021-12-15 19:00",
         "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Incense Day - Ground- and Ice-type Pokémon",
+        "type": "event",
+        "start": "2021-12-05 11:00",
+        "end": "2021-12-05 17:00",
+        "spawns": [
+            {
+                "id": 220,
+                "template": "SWINUB"
+            }
+        ],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [
+            {
+                "text": "Event-exclusive Field Research will be available."
+            },
+            {
+                "text": "An item bundle containing two Incense will be available in the shop for 1 PokéCoin.",
+                "template": "longer-incense",
+                "value": 1
+            }
+        ],
+        "features": [
+            "Trainer Battles: 45 Power, with a chance of increasing the user’s Attack and Defense",
+            "Gyms and raids: 70 Power"
+        ],
+        "has_quests": true,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Electabuzz Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2021-12-07 18:00",
+        "end": "2021-12-07 19:00",
+        "spawns": [
+            {
+                "id": 125,
+                "template": "ELECTABUZZ"
+            }
+        ],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": true
+    },
+    {
+        "name": "Magmar Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2021-12-14 18:00",
+        "end": "2021-12-14 19:00",
+        "spawns": [
+            {
+                "id": 126,
+                "template": "MAGMAR"
+            }
+        ],
         "eggs": [],
         "raids": [],
         "shinies": [],
@@ -1686,6 +1755,58 @@
             "Item Bag Expansion Cap: 4,000 -> 4,500"
         ],
         "has_quests": true,
+        "has_spawnpoints": true
+    },
+    {
+        "name": "Snover Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2021-12-21 18:00",
+        "end": "2021-12-21 19:00",
+        "spawns": [
+            {
+                "id": 459,
+                "template": "SNOVER"
+            }
+        ],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": true
+    },
+    {
+        "name": "Kyurem Raid Hour",
+        "type": "raid-hour",
+        "start": "2021-12-29 18:00",
+        "end": "2021-12-29 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Cubchoo Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2021-12-28 18:00",
+        "end": "2021-12-28 19:00",
+        "spawns": [
+            {
+                "id": 613,
+                "template": "CUBCHOO"
+            }
+        ],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
         "has_spawnpoints": true
     },
     {
