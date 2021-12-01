@@ -143,11 +143,6 @@
                         "id": 15,
                         "template": "BEEDRILL_NORMAL",
                         "form": 622
-                    },
-                    {
-                        "id": 14,
-                        "template": "KAKUNA_NORMAL",
-                        "form": 619
                     }
                 ],
                 [
@@ -492,14 +487,14 @@
                 ],
                 [
                     {
-                        "id": 59,
-                        "template": "ARCANINE_NORMAL",
-                        "form": 283
-                    },
-                    {
                         "id": 38,
                         "template": "NINETALES_NORMAL",
                         "form": 57
+                    },
+                    {
+                        "id": 59,
+                        "template": "ARCANINE_NORMAL",
+                        "form": 283
                     }
                 ]
             ]
@@ -1391,9 +1386,9 @@
                 ],
                 [
                     {
-                        "id": 34,
-                        "template": "NIDOKING_NORMAL",
-                        "form": 788
+                        "id": 464,
+                        "template": "RHYPERIOR_NORMAL",
+                        "form": 852
                     },
                     {
                         "id": 99,
@@ -1401,9 +1396,9 @@
                         "form": 873
                     },
                     {
-                        "id": 464,
-                        "template": "RHYPERIOR_NORMAL",
-                        "form": 852
+                        "id": 34,
+                        "template": "NIDOKING_NORMAL",
+                        "form": 788
                     }
                 ],
                 [

@@ -1,57 +1,59 @@
 {
     "1": [
         {
-            "id": 39,
-            "template": "JIGGLYPUFF"
+            "id": 81,
+            "template": "MAGNEMITE_NORMAL",
+            "form": 655
         },
         {
-            "id": 193,
-            "template": "YANMA"
+            "id": 147,
+            "template": "DRATINI_NORMAL",
+            "form": 190
         },
         {
-            "id": 198,
-            "template": "MURKROW_NORMAL",
-            "form": 855
+            "id": 498,
+            "template": "TEPIG"
         },
         {
-            "id": 307,
-            "template": "MEDITITE"
+            "id": 529,
+            "template": "DRILBUR"
         },
         {
-            "id": 532,
-            "template": "TIMBURR"
+            "id": 599,
+            "template": "KLINK"
         }
     ],
     "3": [
         {
-            "id": 65,
-            "template": "ALAKAZAM_NORMAL",
-            "form": 310
+            "id": 75,
+            "template": "GRAVELER_ALOLA",
+            "form": 70
         },
         {
-            "id": 94,
-            "template": "GENGAR_NORMAL",
-            "form": 1044
+            "id": 157,
+            "template": "TYPHLOSION"
         },
         {
-            "id": 241,
-            "template": "MILTANK"
-        },
-        {
-            "id": 286,
-            "template": "BRELOOM"
+            "id": 306,
+            "template": "AGGRON_NORMAL",
+            "form": 1475
         }
     ],
     "5": [
         {
-            "id": 488,
-            "template": "CRESSELIA"
+            "id": 643,
+            "template": "RESHIRAM"
+        },
+        {
+            "id": 644,
+            "template": "ZEKROM"
         }
     ],
     "6": [
         {
-            "id": 428,
-            "template": "LOPUNNY",
+            "id": 208,
+            "template": "STEELIX_NORMAL",
+            "form": 905,
             "temp_evolution_id": 1
         }
     ]
