@@ -1,59 +1,5 @@
 [
     {
-        "name": "Ed Sheeran x Pokémon GO",
-        "type": "event",
-        "start": "2021-11-22 20:00",
-        "end": "2021-11-30 22:00",
-        "spawns": [
-            {
-                "id": 158,
-                "template": "TOTODILE"
-            },
-            {
-                "id": 258,
-                "template": "MUDKIP"
-            },
-            {
-                "id": 393,
-                "template": "PIPLUP"
-            },
-            {
-                "id": 501,
-                "template": "OSHAWOTT"
-            },
-            {
-                "id": 7,
-                "template": "SQUIRTLE",
-                "costume": 5
-            },
-            {
-                "id": 656,
-                "template": "FROAKIE"
-            },
-            {
-                "id": 8,
-                "template": "WARTORTLE",
-                "costume": 5
-            },
-            {
-                "id": 9,
-                "template": "BLASTOISE",
-                "costume": 5
-            }
-        ],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [
-            {
-                "text": "Take a snapshot every day for a surprise!"
-            }
-        ],
-        "features": [],
-        "has_quests": true,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Piplup Spotlight Hour",
         "type": "spotlight-hour",
         "start": "2021-11-30 18:00",
