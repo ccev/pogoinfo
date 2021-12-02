@@ -677,6 +677,27 @@
             ]
         },
         {
+            "task": "Win a level 3 or higher raid",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 138,
+                        "template": "OMANYTE_NORMAL",
+                        "form": 740
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 140,
+                        "template": "KABUTO_NORMAL",
+                        "form": 1104
+                    }
+                }
+            ]
+        },
+        {
             "task": "Battle in GO Battle League",
             "rewards": [
                 {
@@ -697,27 +718,6 @@
                         "id": 95,
                         "template": "ONIX_NORMAL",
                         "form": 902
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Win a level 3 or higher raid",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 138,
-                        "template": "OMANYTE_NORMAL",
-                        "form": 740
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 140,
-                        "template": "KABUTO_NORMAL",
-                        "form": 1104
                     }
                 }
             ]
@@ -776,6 +776,18 @@
             ]
         },
         {
+            "task": "Earn 2 Candies walking with your buddy",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 659,
+                        "template": "BUNNELBY"
+                    }
+                }
+            ]
+        },
+        {
             "task": "Earn 3 Candies walking with your buddy",
             "rewards": [
                 {
@@ -804,18 +816,6 @@
                     "reward": {
                         "id": 39,
                         "template": "JIGGLYPUFF"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Earn 2 Candies walking with your buddy",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 659,
-                        "template": "BUNNELBY"
                     }
                 }
             ]
@@ -932,6 +932,15 @@
                         "form": 187
                     },
                     "amount": 10
+                },
+                {
+                    "type": "energy",
+                    "reward": {
+                        "id": 15,
+                        "template": "BEEDRILL_NORMAL",
+                        "form": 622
+                    },
+                    "amount": 10
                 }
             ]
         },
@@ -989,6 +998,19 @@
                     "reward": {
                         "id": 226,
                         "template": "MANTINE"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Hatch 3 Eggs",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 37,
+                        "template": "VULPIX_ALOLA",
+                        "form": 56
                     }
                 }
             ]
@@ -1061,19 +1083,6 @@
                         "id": 374,
                         "template": "BELDUM_NORMAL",
                         "form": 764
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Hatch 3 Eggs",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 37,
-                        "template": "VULPIX_ALOLA",
-                        "form": 56
                     }
                 }
             ]
