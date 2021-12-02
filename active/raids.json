@@ -25,6 +25,11 @@
     ],
     "3": [
         {
+            "id": 26,
+            "template": "RAICHU_ALOLA",
+            "form": 50
+        },
+        {
             "id": 75,
             "template": "GRAVELER_ALOLA",
             "form": 70
