@@ -152,14 +152,14 @@
                         "form": 898
                     },
                     {
-                        "id": 212,
-                        "template": "SCIZOR_NORMAL",
-                        "form": 250
-                    },
-                    {
                         "id": 205,
                         "template": "FORRETRESS_NORMAL",
                         "form": 1247
+                    },
+                    {
+                        "id": 212,
+                        "template": "SCIZOR_NORMAL",
+                        "form": 250
                     }
                 ]
             ]
@@ -846,14 +846,14 @@
                         "form": 1667
                     },
                     {
-                        "id": 216,
-                        "template": "TEDDIURSA_NORMAL",
-                        "form": 1265
-                    },
-                    {
                         "id": 19,
                         "template": "RATTATA_NORMAL",
                         "form": 45
+                    },
+                    {
+                        "id": 216,
+                        "template": "TEDDIURSA_NORMAL",
+                        "form": 1265
                     }
                 ],
                 [
@@ -873,16 +873,16 @@
                         "id": 400,
                         "template": "BIBAREL_NORMAL",
                         "form": 1670
-                    },
-                    {
-                        "id": 20,
-                        "template": "RATICATE_NORMAL",
-                        "form": 47
                     },
                     {
                         "id": 217,
                         "template": "URSARING_NORMAL",
                         "form": 1268
+                    },
+                    {
+                        "id": 20,
+                        "template": "RATICATE_NORMAL",
+                        "form": 47
                     }
                 ]
             ]

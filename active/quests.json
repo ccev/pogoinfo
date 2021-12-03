@@ -169,6 +169,15 @@
             "task": "Catch 10 Grass-type Pokémon",
             "rewards": [
                 {
+                    "type": "energy",
+                    "reward": {
+                        "id": 3,
+                        "template": "VENUSAUR_NORMAL",
+                        "form": 169
+                    },
+                    "amount": 10
+                },
+                {
                     "type": "stardust",
                     "amount": 500
                 },
@@ -192,6 +201,15 @@
         {
             "task": "Catch 10 Fire-type Pokémon",
             "rewards": [
+                {
+                    "type": "energy",
+                    "reward": {
+                        "id": 6,
+                        "template": "CHARIZARD_NORMAL",
+                        "form": 178
+                    },
+                    "amount": 10
+                },
                 {
                     "type": "stardust",
                     "amount": 500
@@ -430,31 +448,6 @@
             ]
         },
         {
-            "task": "Make 5 Great Curveball Throws in a row",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 327,
-                        "template": "SPINDA"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Make 3 Curveball Throws in a row. ",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 54,
-                        "template": "PSYDUCK_NORMAL",
-                        "form": 286
-                    }
-                }
-            ]
-        },
-        {
             "task": "Make 3 Great Throws in a row",
             "rewards": [
                 {
@@ -492,6 +485,31 @@
                         "id": 95,
                         "template": "ONIX_NORMAL",
                         "form": 902
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Make 5 Great Curveball Throws in a row",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 327,
+                        "template": "SPINDA"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Make 3 Curveball Throws in a row. ",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 54,
+                        "template": "PSYDUCK_NORMAL",
+                        "form": 286
                     }
                 }
             ]
@@ -698,6 +716,19 @@
             ]
         },
         {
+            "task": "Win 5 raids",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 142,
+                        "template": "AERODACTYL_NORMAL",
+                        "form": 1110
+                    }
+                }
+            ]
+        },
+        {
             "task": "Battle in GO Battle League",
             "rewards": [
                 {
@@ -718,19 +749,6 @@
                         "id": 95,
                         "template": "ONIX_NORMAL",
                         "form": 902
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Win 5 raids",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 142,
-                        "template": "AERODACTYL_NORMAL",
-                        "form": 1110
                     }
                 }
             ]
@@ -932,15 +950,6 @@
                         "form": 187
                     },
                     "amount": 10
-                },
-                {
-                    "type": "energy",
-                    "reward": {
-                        "id": 15,
-                        "template": "BEEDRILL_NORMAL",
-                        "form": 622
-                    },
-                    "amount": 10
                 }
             ]
         },
@@ -952,6 +961,15 @@
                     "reward": {
                         "id": 18,
                         "template": "PIDGEOT"
+                    },
+                    "amount": 10
+                },
+                {
+                    "type": "energy",
+                    "reward": {
+                        "id": 15,
+                        "template": "BEEDRILL_NORMAL",
+                        "form": 622
                     },
                     "amount": 10
                 }
@@ -978,6 +996,11 @@
                 },
                 {
                     "type": "item",
+                    "amount": 6,
+                    "id": 701
+                },
+                {
+                    "type": "item",
                     "amount": 5,
                     "id": 2
                 },
@@ -986,6 +1009,19 @@
                     "reward": {
                         "id": 185,
                         "template": "SUDOWOODO"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Spin 5 PokéStops or Gyms",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 280,
+                        "template": "RALTS_NORMAL",
+                        "form": 292
                     }
                 }
             ]
@@ -1057,19 +1093,6 @@
                         "id": 363,
                         "template": "SPHEAL_NORMAL",
                         "form": 1598
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Spin 5 PokéStops or Gyms",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 280,
-                        "template": "RALTS_NORMAL",
-                        "form": 292
                     }
                 }
             ]
