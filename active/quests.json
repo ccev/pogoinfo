@@ -1039,6 +1039,19 @@
             ]
         },
         {
+            "task": "Hatch 2 Eggs",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 374,
+                        "template": "BELDUM_NORMAL",
+                        "form": 764
+                    }
+                }
+            ]
+        },
+        {
             "task": "Hatch 3 Eggs",
             "rewards": [
                 {
@@ -1093,19 +1106,6 @@
                         "id": 363,
                         "template": "SPHEAL_NORMAL",
                         "form": 1598
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Hatch 2 Eggs",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 374,
-                        "template": "BELDUM_NORMAL",
-                        "form": 764
                     }
                 }
             ]
