@@ -12,7 +12,20 @@
         ],
         "eggs": [],
         "raids": [],
-        "shinies": [],
+        "shinies": [
+            {
+                "id": 220,
+                "template": "SWINUB"
+            },
+            {
+                "id": 221,
+                "template": "PILOSWINE"
+            },
+            {
+                "id": 473,
+                "template": "MAMOSWINE"
+            }
+        ],
         "bonuses": [
             {
                 "text": "Event-exclusive Field Research will be available."
