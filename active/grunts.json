@@ -487,14 +487,14 @@
                 ],
                 [
                     {
-                        "id": 38,
-                        "template": "NINETALES_NORMAL",
-                        "form": 57
-                    },
-                    {
                         "id": 59,
                         "template": "ARCANINE_NORMAL",
                         "form": 283
+                    },
+                    {
+                        "id": 38,
+                        "template": "NINETALES_NORMAL",
+                        "form": 57
                     }
                 ]
             ]
@@ -1329,14 +1329,14 @@
                 ],
                 [
                     {
-                        "id": 80,
-                        "template": "SLOWBRO_NORMAL",
-                        "form": 1020
-                    },
-                    {
                         "id": 45,
                         "template": "VILEPLUME_NORMAL",
                         "form": 271
+                    },
+                    {
+                        "id": 80,
+                        "template": "SLOWBRO_NORMAL",
+                        "form": 1020
                     },
                     {
                         "id": 15,
