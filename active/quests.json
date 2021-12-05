@@ -1001,6 +1001,11 @@
                 },
                 {
                     "type": "item",
+                    "amount": 2,
+                    "id": 705
+                },
+                {
+                    "type": "item",
                     "amount": 5,
                     "id": 2
                 },

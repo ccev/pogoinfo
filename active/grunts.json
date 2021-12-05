@@ -487,14 +487,14 @@
                 ],
                 [
                     {
-                        "id": 59,
-                        "template": "ARCANINE_NORMAL",
-                        "form": 283
-                    },
-                    {
                         "id": 38,
                         "template": "NINETALES_NORMAL",
                         "form": 57
+                    },
+                    {
+                        "id": 59,
+                        "template": "ARCANINE_NORMAL",
+                        "form": 283
                     }
                 ]
             ]
@@ -547,14 +547,14 @@
                 ],
                 [
                     {
-                        "id": 42,
-                        "template": "GOLBAT_NORMAL",
-                        "form": 160
-                    },
-                    {
                         "id": 397,
                         "template": "STARAVIA_NORMAL",
                         "form": 1661
+                    },
+                    {
+                        "id": 42,
+                        "template": "GOLBAT_NORMAL",
+                        "form": 160
                     }
                 ],
                 [
@@ -1220,14 +1220,14 @@
                         "form": 169
                     },
                     {
-                        "id": 68,
-                        "template": "MACHAMP_NORMAL",
-                        "form": 815
-                    },
-                    {
                         "id": 169,
                         "template": "CROBAT_NORMAL",
                         "form": 202
+                    },
+                    {
+                        "id": 68,
+                        "template": "MACHAMP_NORMAL",
+                        "form": 815
                     }
                 ],
                 [
@@ -1329,14 +1329,14 @@
                 ],
                 [
                     {
-                        "id": 45,
-                        "template": "VILEPLUME_NORMAL",
-                        "form": 271
-                    },
-                    {
                         "id": 80,
                         "template": "SLOWBRO_NORMAL",
                         "form": 1020
+                    },
+                    {
+                        "id": 45,
+                        "template": "VILEPLUME_NORMAL",
+                        "form": 271
                     },
                     {
                         "id": 15,
