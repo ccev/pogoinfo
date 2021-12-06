@@ -1,49 +1,5 @@
 [
     {
-        "name": "Incense Day - Ground- and Ice-type Pokémon",
-        "type": "event",
-        "start": "2021-12-05 11:00",
-        "end": "2021-12-05 17:00",
-        "spawns": [
-            {
-                "id": 220,
-                "template": "SWINUB"
-            }
-        ],
-        "eggs": [],
-        "raids": [],
-        "shinies": [
-            {
-                "id": 220,
-                "template": "SWINUB"
-            },
-            {
-                "id": 221,
-                "template": "PILOSWINE"
-            },
-            {
-                "id": 473,
-                "template": "MAMOSWINE"
-            }
-        ],
-        "bonuses": [
-            {
-                "text": "Event-exclusive Field Research will be available."
-            },
-            {
-                "text": "An item bundle containing two Incense will be available in the shop for 1 PokéCoin.",
-                "template": "longer-incense",
-                "value": 1
-            }
-        ],
-        "features": [
-            "Trainer Battles: 45 Power, with a chance of increasing the user’s Attack and Defense",
-            "Gyms and raids: 70 Power"
-        ],
-        "has_quests": true,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Electabuzz Spotlight Hour",
         "type": "spotlight-hour",
         "start": "2021-12-07 18:00",
