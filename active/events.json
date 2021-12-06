@@ -39,16 +39,114 @@
         "end": "2021-12-12 20:00",
         "spawns": [
             {
+                "id": 37,
+                "template": "VULPIX"
+            },
+            {
+                "id": 86,
+                "template": "SEEL"
+            },
+            {
+                "id": 147,
+                "template": "DRATINI"
+            },
+            {
+                "id": 179,
+                "template": "MAREEP"
+            },
+            {
+                "id": 215,
+                "template": "SNEASEL"
+            },
+            {
+                "id": 328,
+                "template": "TRAPINCH"
+            },
+            {
+                "id": 522,
+                "template": "BLITZLE"
+            },
+            {
+                "id": 554,
+                "template": "DARUMAKA"
+            },
+            {
+                "id": 148,
+                "template": "DRAGONAIR"
+            },
+            {
+                "id": 329,
+                "template": "VIBRAVA"
+            },
+            {
+                "id": 633,
+                "template": "DEINO"
+            }
+        ],
+        "eggs": [],
+        "raids": [
+            {
+                "id": 602,
+                "template": "TYNAMO"
+            },
+            {
+                "id": 607,
+                "template": "LITWICK"
+            },
+            {
+                "id": 613,
+                "template": "CUBCHOO"
+            },
+            {
+                "id": 622,
+                "template": "GOLETT"
+            },
+            {
+                "id": 633,
+                "template": "DEINO"
+            },
+            {
+                "id": 125,
+                "template": "ELECTABUZZ"
+            },
+            {
+                "id": 126,
+                "template": "MAGMAR"
+            },
+            {
+                "id": 131,
+                "template": "LAPRAS"
+            },
+            {
+                "id": 149,
+                "template": "DRAGONITE"
+            },
+            {
+                "id": 621,
+                "template": "DRUDDIGON"
+            },
+            {
+                "id": 643,
+                "template": "RESHIRAM"
+            },
+            {
+                "id": 644,
+                "template": "ZEKROM"
+            },
+            {
+                "id": 208,
+                "template": "STEELIX"
+            }
+        ],
+        "shinies": [
+            {
                 "id": 621,
                 "template": "DRUDDIGON"
             }
         ],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
         "bonuses": [],
         "features": [],
-        "has_quests": false,
+        "has_quests": true,
         "has_spawnpoints": false
     },
     {
