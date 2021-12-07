@@ -1222,7 +1222,72 @@
         "spawns": [],
         "eggs": [],
         "raids": [],
-        "shinies": [],
+        "shinies": [
+            {
+                "id": 163,
+                "template": "HOOTHOOT"
+            },
+            {
+                "id": 164,
+                "template": "NOCTOWL"
+            },
+            {
+                "id": 187,
+                "template": "HOPPIP"
+            },
+            {
+                "id": 188,
+                "template": "SKIPLOOM"
+            },
+            {
+                "id": 189,
+                "template": "JUMPLUFF"
+            },
+            {
+                "id": 203,
+                "template": "GIRAFARIG"
+            },
+            {
+                "id": 218,
+                "template": "SLUGMA"
+            },
+            {
+                "id": 219,
+                "template": "MAGCARGO"
+            },
+            {
+                "id": 222,
+                "template": "CORSOLA"
+            },
+            {
+                "id": 223,
+                "template": "REMORAID"
+            },
+            {
+                "id": 224,
+                "template": "OCTILLERY"
+            },
+            {
+                "id": 226,
+                "template": "MANTINE"
+            },
+            {
+                "id": 231,
+                "template": "PHANPY"
+            },
+            {
+                "id": 232,
+                "template": "DONPHAN"
+            },
+            {
+                "id": 236,
+                "template": "TYROGUE"
+            },
+            {
+                "id": 237,
+                "template": "HITMONTOP"
+            }
+        ],
         "bonuses": [],
         "features": [],
         "has_quests": false,
