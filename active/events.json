@@ -1217,10 +1217,92 @@
     {
         "name": "Pokémon GO Tour: Johto",
         "type": "event",
-        "start": "2022-02-26 10:00",
-        "end": "2022-02-27 20:00",
-        "spawns": [],
-        "eggs": [],
+        "start": "2022-02-26 09:00",
+        "end": "2022-02-26 21:00",
+        "spawns": [
+            {
+                "id": 167,
+                "template": "SPINARAK"
+            },
+            {
+                "id": 207,
+                "template": "GLIGAR"
+            },
+            {
+                "id": 216,
+                "template": "TEDDIURSA"
+            },
+            {
+                "id": 226,
+                "template": "MANTINE"
+            },
+            {
+                "id": 152,
+                "template": "CHIKORITA"
+            },
+            {
+                "id": 155,
+                "template": "CYNDAQUIL"
+            },
+            {
+                "id": 158,
+                "template": "TOTODILE"
+            },
+            {
+                "id": 174,
+                "template": "IGGLYBUFF"
+            },
+            {
+                "id": 177,
+                "template": "NATU"
+            },
+            {
+                "id": 187,
+                "template": "HOPPIP"
+            },
+            {
+                "id": 191,
+                "template": "SUNKERN"
+            },
+            {
+                "id": 200,
+                "template": "MISDREAVUS"
+            },
+            {
+                "id": 202,
+                "template": "WOBBUFFET"
+            },
+            {
+                "id": 213,
+                "template": "SHUCKLE"
+            },
+            {
+                "id": 220,
+                "template": "SWINUB"
+            },
+            {
+                "id": 250,
+                "template": "HO_OH"
+            }
+        ],
+        "eggs": [
+            {
+                "id": 172,
+                "template": "PICHU"
+            },
+            {
+                "id": 173,
+                "template": "CLEFFA"
+            },
+            {
+                "id": 174,
+                "template": "IGGLYBUFF"
+            },
+            {
+                "id": 175,
+                "template": "TOGEPI"
+            }
+        ],
         "raids": [],
         "shinies": [
             {
@@ -1286,6 +1368,36 @@
             {
                 "id": 237,
                 "template": "HITMONTOP"
+            },
+            {
+                "id": 201,
+                "template": "UNOWN_G",
+                "form": 7
+            },
+            {
+                "id": 201,
+                "template": "UNOWN_O",
+                "form": 15
+            },
+            {
+                "id": 201,
+                "template": "UNOWN_T",
+                "form": 20
+            },
+            {
+                "id": 201,
+                "template": "UNOWN_U",
+                "form": 21
+            },
+            {
+                "id": 201,
+                "template": "UNOWN_R",
+                "form": 18
+            },
+            {
+                "id": 201,
+                "template": "UNOWN_J",
+                "form": 10
             }
         ],
         "bonuses": [],
