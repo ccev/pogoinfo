@@ -1,57 +1,57 @@
 {
     "1": [
         {
-            "id": 81,
-            "template": "MAGNEMITE_NORMAL",
-            "form": 655
+            "id": 25,
+            "template": "PIKACHU_NORMAL",
+            "form": 598
         },
         {
-            "id": 147,
-            "template": "DRATINI_NORMAL",
-            "form": 190
+            "id": 27,
+            "template": "SANDSHREW_ALOLA",
+            "form": 52
         },
         {
-            "id": 498,
-            "template": "TEPIG"
+            "id": 220,
+            "template": "SWINUB_NORMAL",
+            "form": 1277
         },
         {
-            "id": 529,
-            "template": "DRILBUR"
+            "id": 363,
+            "template": "SPHEAL_NORMAL",
+            "form": 1598
         },
         {
-            "id": 599,
-            "template": "KLINK"
+            "id": 613,
+            "template": "CUBCHOO_NORMAL",
+            "form": 2231
         }
     ],
     "3": [
         {
-            "id": 26,
-            "template": "RAICHU_ALOLA",
-            "form": 50
+            "id": 91,
+            "template": "CLOYSTER_NORMAL",
+            "form": 879
         },
         {
-            "id": 75,
-            "template": "GRAVELER_ALOLA",
-            "form": 70
+            "id": 225,
+            "template": "DELIBIRD_NORMAL",
+            "form": 938
         },
         {
-            "id": 157,
-            "template": "TYPHLOSION"
+            "id": 234,
+            "template": "STANTLER_NORMAL",
+            "form": 941
         },
         {
-            "id": 306,
-            "template": "AGGRON_NORMAL",
-            "form": 1475
+            "id": 471,
+            "template": "GLACEON"
         }
     ],
     "5": [
         {
-            "id": 643,
-            "template": "RESHIRAM"
-        },
-        {
-            "id": 644,
-            "template": "ZEKROM"
+            "id": 646,
+            "template": "KYUREM_NORMAL",
+            "form": 146
         }
     ],
     "6": [

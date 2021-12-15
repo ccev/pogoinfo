@@ -323,14 +323,14 @@
             "team": [
                 [
                     {
-                        "id": 280,
-                        "template": "RALTS_NORMAL",
-                        "form": 292
-                    },
-                    {
                         "id": 209,
                         "template": "SNUBBULL_NORMAL",
                         "form": 1253
+                    },
+                    {
+                        "id": 280,
+                        "template": "RALTS_NORMAL",
+                        "form": 292
                     }
                 ],
                 [
@@ -1272,14 +1272,14 @@
                 ],
                 [
                     {
-                        "id": 131,
-                        "template": "LAPRAS_NORMAL",
-                        "form": 322
-                    },
-                    {
                         "id": 346,
                         "template": "CRADILY_NORMAL",
                         "form": 1571
+                    },
+                    {
+                        "id": 131,
+                        "template": "LAPRAS_NORMAL",
+                        "form": 322
                     },
                     {
                         "id": 303,

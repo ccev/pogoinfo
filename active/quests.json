@@ -1,5 +1,50 @@
 {
-    "event": [],
+    "event": [
+        {
+            "task": "Sent 3 Gifts to friends. ",
+            "rewards": [
+                {
+                    "type": "item",
+                    "amount": 3,
+                    "id": 705
+                }
+            ]
+        },
+        {
+            "task": "Catch 5 Ice-type Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 363,
+                        "template": "SPHEAL_NORMAL",
+                        "form": 1598
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Open 5 Gifts",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 234,
+                        "template": "STANTLER_NORMAL",
+                        "form": 941
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 613,
+                        "template": "CUBCHOO_NORMAL",
+                        "form": 2231
+                    }
+                }
+            ]
+        }
+    ],
     "quests": [
         {
             "task": "Catch 5 Pokémon",
