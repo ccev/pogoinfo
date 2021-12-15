@@ -1,56 +1,5 @@
 {
-    "event": [
-        {
-            "task": "Make 3 Nice Curveball Throws in a Row",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 147,
-                        "template": "DRATINI_NORMAL",
-                        "form": 190
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Win a raid",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 633,
-                        "template": "DEINO"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Win a raid in under 60 seconds",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 215,
-                        "template": "SNEASEL_NORMAL",
-                        "form": 797
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Win 3 raids",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 621,
-                        "template": "DRUDDIGON"
-                    }
-                }
-            ]
-        }
-    ],
+    "event": [],
     "quests": [
         {
             "task": "Catch 5 Pokémon",

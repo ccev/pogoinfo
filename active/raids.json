@@ -1,51 +1,47 @@
 {
     "1": [
         {
-            "id": 602,
-            "template": "TYNAMO"
+            "id": 81,
+            "template": "MAGNEMITE_NORMAL",
+            "form": 655
         },
         {
-            "id": 607,
-            "template": "LITWICK"
+            "id": 147,
+            "template": "DRATINI_NORMAL",
+            "form": 190
         },
         {
-            "id": 613,
-            "template": "CUBCHOO_NORMAL",
-            "form": 2231
+            "id": 498,
+            "template": "TEPIG"
         },
         {
-            "id": 622,
-            "template": "GOLETT"
+            "id": 529,
+            "template": "DRILBUR"
         },
         {
-            "id": 633,
-            "template": "DEINO"
+            "id": 599,
+            "template": "KLINK"
         }
     ],
     "3": [
         {
-            "id": 125,
-            "template": "ELECTABUZZ_NORMAL",
-            "form": 640
+            "id": 26,
+            "template": "RAICHU_ALOLA",
+            "form": 50
         },
         {
-            "id": 126,
-            "template": "MAGMAR_NORMAL",
-            "form": 634
+            "id": 75,
+            "template": "GRAVELER_ALOLA",
+            "form": 70
         },
         {
-            "id": 131,
-            "template": "LAPRAS_NORMAL",
-            "form": 322
+            "id": 157,
+            "template": "TYPHLOSION"
         },
         {
-            "id": 149,
-            "template": "DRAGONITE_NORMAL",
-            "form": 196
-        },
-        {
-            "id": 621,
-            "template": "DRUDDIGON"
+            "id": 306,
+            "template": "AGGRON_NORMAL",
+            "form": 1475
         }
     ],
     "5": [
