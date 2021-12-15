@@ -57,6 +57,11 @@
                 ],
                 [
                     {
+                        "id": 62,
+                        "template": "POLIWRATH_NORMAL",
+                        "form": 241
+                    },
+                    {
                         "id": 282,
                         "template": "GARDEVOIR_NORMAL",
                         "form": 298
@@ -65,11 +70,6 @@
                         "id": 143,
                         "template": "SNORLAX_NORMAL",
                         "form": 199
-                    },
-                    {
-                        "id": 62,
-                        "template": "POLIWRATH_NORMAL",
-                        "form": 241
                     }
                 ],
                 [
@@ -858,14 +858,14 @@
                 ],
                 [
                     {
-                        "id": 400,
-                        "template": "BIBAREL_NORMAL",
-                        "form": 1670
-                    },
-                    {
                         "id": 20,
                         "template": "RATICATE_NORMAL",
                         "form": 47
+                    },
+                    {
+                        "id": 400,
+                        "template": "BIBAREL_NORMAL",
+                        "form": 1670
                     }
                 ],
                 [
@@ -875,14 +875,14 @@
                         "form": 1670
                     },
                     {
-                        "id": 217,
-                        "template": "URSARING_NORMAL",
-                        "form": 1268
-                    },
-                    {
                         "id": 20,
                         "template": "RATICATE_NORMAL",
                         "form": 47
+                    },
+                    {
+                        "id": 217,
+                        "template": "URSARING_NORMAL",
+                        "form": 1268
                     }
                 ]
             ]
@@ -1272,14 +1272,14 @@
                 ],
                 [
                     {
-                        "id": 346,
-                        "template": "CRADILY_NORMAL",
-                        "form": 1571
-                    },
-                    {
                         "id": 131,
                         "template": "LAPRAS_NORMAL",
                         "form": 322
+                    },
+                    {
+                        "id": 346,
+                        "template": "CRADILY_NORMAL",
+                        "form": 1571
                     },
                     {
                         "id": 303,
@@ -1334,14 +1334,14 @@
                         "form": 1020
                     },
                     {
-                        "id": 45,
-                        "template": "VILEPLUME_NORMAL",
-                        "form": 271
-                    },
-                    {
                         "id": 15,
                         "template": "BEEDRILL_NORMAL",
                         "form": 622
+                    },
+                    {
+                        "id": 45,
+                        "template": "VILEPLUME_NORMAL",
+                        "form": 271
                     }
                 ],
                 [
