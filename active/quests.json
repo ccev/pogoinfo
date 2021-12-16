@@ -1,16 +1,6 @@
 {
     "event": [
         {
-            "task": "Sent 3 Gifts to friends. ",
-            "rewards": [
-                {
-                    "type": "item",
-                    "amount": 3,
-                    "id": 705
-                }
-            ]
-        },
-        {
             "task": "Catch 5 Ice-type Pokémon",
             "rewards": [
                 {
@@ -40,6 +30,72 @@
                         "id": 613,
                         "template": "CUBCHOO_NORMAL",
                         "form": 2231
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 25,
+                        "template": "PIKACHU_NORMAL",
+                        "form": 598
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Sent 3 Gifts to friends. ",
+            "rewards": [
+                {
+                    "type": "item",
+                    "amount": 3,
+                    "id": 701
+                },
+                {
+                    "type": "item",
+                    "amount": 3,
+                    "id": 705
+                },
+                {
+                    "type": "item",
+                    "amount": 3,
+                    "id": 1
+                }
+            ]
+        },
+        {
+            "task": "Catch 7 different species of Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 37,
+                        "template": "VULPIX_ALOLA",
+                        "form": 56
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Win a level 3 or higher raid",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 615,
+                        "template": "CRYOGONAL"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Spin 3 PokéStops or Gyms",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 220,
+                        "template": "SWINUB_NORMAL",
+                        "form": 1277
                     }
                 }
             ]
