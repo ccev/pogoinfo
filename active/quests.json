@@ -43,6 +43,19 @@
             ]
         },
         {
+            "task": "Catch 7 different species of Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 37,
+                        "template": "VULPIX_ALOLA",
+                        "form": 56
+                    }
+                }
+            ]
+        },
+        {
             "task": "Win a level 3 or higher raid",
             "rewards": [
                 {
@@ -50,6 +63,19 @@
                     "reward": {
                         "id": 615,
                         "template": "CRYOGONAL"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Spin 3 PokéStops or Gyms",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 220,
+                        "template": "SWINUB_NORMAL",
+                        "form": 1277
                     }
                 }
             ]
@@ -71,32 +97,6 @@
                     "type": "item",
                     "amount": 3,
                     "id": 1
-                }
-            ]
-        },
-        {
-            "task": "Catch 7 different species of Pokémon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 37,
-                        "template": "VULPIX_ALOLA",
-                        "form": 56
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Spin 3 PokéStops or Gyms",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 220,
-                        "template": "SWINUB_NORMAL",
-                        "form": 1277
-                    }
                 }
             ]
         },

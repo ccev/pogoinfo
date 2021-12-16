@@ -57,6 +57,11 @@
                 ],
                 [
                     {
+                        "id": 62,
+                        "template": "POLIWRATH_NORMAL",
+                        "form": 241
+                    },
+                    {
                         "id": 282,
                         "template": "GARDEVOIR_NORMAL",
                         "form": 298
@@ -65,11 +70,6 @@
                         "id": 143,
                         "template": "SNORLAX_NORMAL",
                         "form": 199
-                    },
-                    {
-                        "id": 62,
-                        "template": "POLIWRATH_NORMAL",
-                        "form": 241
                     }
                 ],
                 [
@@ -184,14 +184,14 @@
             "team": [
                 [
                     {
-                        "id": 228,
-                        "template": "HOUNDOUR_NORMAL",
-                        "form": 229
-                    },
-                    {
                         "id": 261,
                         "template": "POOCHYENA_NORMAL",
                         "form": 1367
+                    },
+                    {
+                        "id": 228,
+                        "template": "HOUNDOUR_NORMAL",
+                        "form": 229
                     }
                 ],
                 [
@@ -275,14 +275,14 @@
                 ],
                 [
                     {
-                        "id": 148,
-                        "template": "DRAGONAIR_NORMAL",
-                        "form": 193
-                    },
-                    {
                         "id": 149,
                         "template": "DRAGONITE_NORMAL",
                         "form": 196
+                    },
+                    {
+                        "id": 148,
+                        "template": "DRAGONAIR_NORMAL",
+                        "form": 193
                     },
                     {
                         "id": 330,
@@ -323,14 +323,14 @@
             "team": [
                 [
                     {
-                        "id": 280,
-                        "template": "RALTS_NORMAL",
-                        "form": 292
-                    },
-                    {
                         "id": 209,
                         "template": "SNUBBULL_NORMAL",
                         "form": 1253
+                    },
+                    {
+                        "id": 280,
+                        "template": "RALTS_NORMAL",
+                        "form": 292
                     }
                 ],
                 [
@@ -390,14 +390,14 @@
             "team": [
                 [
                     {
-                        "id": 106,
-                        "template": "HITMONLEE_NORMAL",
-                        "form": 713
-                    },
-                    {
                         "id": 107,
                         "template": "HITMONCHAN_NORMAL",
                         "form": 277
+                    },
+                    {
+                        "id": 106,
+                        "template": "HITMONLEE_NORMAL",
+                        "form": 713
                     }
                 ],
                 [
@@ -858,17 +858,22 @@
                 ],
                 [
                     {
+                        "id": 20,
+                        "template": "RATICATE_NORMAL",
+                        "form": 47
+                    },
+                    {
                         "id": 400,
                         "template": "BIBAREL_NORMAL",
                         "form": 1670
-                    },
+                    }
+                ],
+                [
                     {
                         "id": 20,
                         "template": "RATICATE_NORMAL",
                         "form": 47
-                    }
-                ],
-                [
+                    },
                     {
                         "id": 400,
                         "template": "BIBAREL_NORMAL",
@@ -878,11 +883,6 @@
                         "id": 217,
                         "template": "URSARING_NORMAL",
                         "form": 1268
-                    },
-                    {
-                        "id": 20,
-                        "template": "RATICATE_NORMAL",
-                        "form": 47
                     }
                 ]
             ]
@@ -1334,14 +1334,14 @@
                         "form": 1020
                     },
                     {
-                        "id": 45,
-                        "template": "VILEPLUME_NORMAL",
-                        "form": 271
-                    },
-                    {
                         "id": 15,
                         "template": "BEEDRILL_NORMAL",
                         "form": 622
+                    },
+                    {
+                        "id": 45,
+                        "template": "VILEPLUME_NORMAL",
+                        "form": 271
                     }
                 ],
                 [
