@@ -56,9 +56,9 @@
     ],
     "6": [
         {
-            "id": 460,
-            "template": "ABOMASNOW_NORMAL",
-            "form": 935,
+            "id": 208,
+            "template": "STEELIX_NORMAL",
+            "form": 905,
             "temp_evolution_id": 1
         }
     ]

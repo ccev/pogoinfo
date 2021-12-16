@@ -43,6 +43,18 @@
             ]
         },
         {
+            "task": "Win a level 3 or higher raid",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 615,
+                        "template": "CRYOGONAL"
+                    }
+                }
+            ]
+        },
+        {
             "task": "Sent 3 Gifts to friends. ",
             "rewards": [
                 {
@@ -76,18 +88,6 @@
             ]
         },
         {
-            "task": "Win a level 3 or higher raid",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 615,
-                        "template": "CRYOGONAL"
-                    }
-                }
-            ]
-        },
-        {
             "task": "Spin 3 PokéStops or Gyms",
             "rewards": [
                 {
@@ -97,6 +97,20 @@
                         "template": "SWINUB_NORMAL",
                         "form": 1277
                     }
+                }
+            ]
+        },
+        {
+            "task": "Take 3 snapshots of wild Ice-type Pokémon",
+            "rewards": [
+                {
+                    "type": "energy",
+                    "reward": {
+                        "id": 460,
+                        "template": "ABOMASNOW_NORMAL",
+                        "form": 935
+                    },
+                    "amount": 25
                 }
             ]
         }
