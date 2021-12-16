@@ -1334,14 +1334,14 @@
                         "form": 1020
                     },
                     {
-                        "id": 15,
-                        "template": "BEEDRILL_NORMAL",
-                        "form": 622
-                    },
-                    {
                         "id": 45,
                         "template": "VILEPLUME_NORMAL",
                         "form": 271
+                    },
+                    {
+                        "id": 15,
+                        "template": "BEEDRILL_NORMAL",
+                        "form": 622
                     }
                 ],
                 [
