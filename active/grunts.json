@@ -135,26 +135,26 @@
                 ],
                 [
                     {
-                        "id": 451,
-                        "template": "SKORUPI_NORMAL",
-                        "form": 1796
-                    },
-                    {
                         "id": 15,
                         "template": "BEEDRILL_NORMAL",
                         "form": 622
+                    },
+                    {
+                        "id": 451,
+                        "template": "SKORUPI_NORMAL",
+                        "form": 1796
                     }
                 ],
                 [
                     {
-                        "id": 212,
-                        "template": "SCIZOR_NORMAL",
-                        "form": 250
-                    },
-                    {
                         "id": 205,
                         "template": "FORRETRESS_NORMAL",
                         "form": 1247
+                    },
+                    {
+                        "id": 212,
+                        "template": "SCIZOR_NORMAL",
+                        "form": 250
                     },
                     {
                         "id": 127,
@@ -547,26 +547,26 @@
                 ],
                 [
                     {
-                        "id": 397,
-                        "template": "STARAVIA_NORMAL",
-                        "form": 1661
-                    },
-                    {
                         "id": 42,
                         "template": "GOLBAT_NORMAL",
                         "form": 160
+                    },
+                    {
+                        "id": 397,
+                        "template": "STARAVIA_NORMAL",
+                        "form": 1661
                     }
                 ],
                 [
                     {
-                        "id": 398,
-                        "template": "STARAPTOR_NORMAL",
-                        "form": 1664
-                    },
-                    {
                         "id": 169,
                         "template": "CROBAT_NORMAL",
                         "form": 202
+                    },
+                    {
+                        "id": 398,
+                        "template": "STARAPTOR_NORMAL",
+                        "form": 1664
                     }
                 ]
             ]
@@ -627,14 +627,14 @@
                 ],
                 [
                     {
-                        "id": 2,
-                        "template": "IVYSAUR_NORMAL",
-                        "form": 166
-                    },
-                    {
                         "id": 114,
                         "template": "TANGELA_NORMAL",
                         "form": 1059
+                    },
+                    {
+                        "id": 2,
+                        "template": "IVYSAUR_NORMAL",
+                        "form": 166
                     }
                 ],
                 [
@@ -1522,14 +1522,14 @@
                 ],
                 [
                     {
-                        "id": 354,
-                        "template": "BANETTE_NORMAL",
-                        "form": 911
-                    },
-                    {
                         "id": 302,
                         "template": "SABLEYE_NORMAL",
                         "form": 923
+                    },
+                    {
+                        "id": 354,
+                        "template": "BANETTE_NORMAL",
+                        "form": 911
                     }
                 ]
             ]
