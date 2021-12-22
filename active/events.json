@@ -220,11 +220,16 @@
         "has_spawnpoints": false
     },
     {
-        "name": "Pokémon Spotlight Hour",
+        "name": "Solosis Spotlight Hour",
         "type": "spotlight-hour",
-        "start": null,
-        "end": "2022-01-18 19:00",
-        "spawns": [],
+        "start": "2022-01-04 18:00",
+        "end": "2022-01-04 19:00",
+        "spawns": [
+            {
+                "id": 577,
+                "template": "SOLOSIS"
+            }
+        ],
         "eggs": [],
         "raids": [],
         "shinies": [],
@@ -246,6 +251,25 @@
         "features": [],
         "has_quests": false,
         "has_spawnpoints": false
+    },
+    {
+        "name": "Diglett Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2022-01-11 18:00",
+        "end": "2022-01-11 19:00",
+        "spawns": [
+            {
+                "id": 50,
+                "template": "DIGLETT"
+            }
+        ],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": true
     },
     {
         "name": "Spheal Community Day",
@@ -294,6 +318,39 @@
             "Gyms and raids: 60 damage"
         ],
         "has_quests": true,
+        "has_spawnpoints": true
+    },
+    {
+        "name": "Plusle Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2022-01-18 18:00",
+        "end": "2022-01-18 19:00",
+        "spawns": [
+            {
+                "id": 311,
+                "template": "PLUSLE"
+            }
+        ],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": true
+    },
+    {
+        "name": "Minun Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2022-01-18 18:00",
+        "end": "2022-01-18 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
         "has_spawnpoints": true
     },
     {

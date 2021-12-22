@@ -6,19 +6,19 @@
             "form": 598
         },
         {
-            "id": 27,
-            "template": "SANDSHREW_ALOLA",
-            "form": 52
-        },
-        {
-            "id": 220,
-            "template": "SWINUB_NORMAL",
-            "form": 1277
+            "id": 37,
+            "template": "VULPIX_ALOLA",
+            "form": 56
         },
         {
             "id": 363,
             "template": "SPHEAL_NORMAL",
             "form": 1598
+        },
+        {
+            "id": 554,
+            "template": "DARUMAKA_GALARIAN",
+            "form": 2341
         },
         {
             "id": 613,
@@ -28,9 +28,9 @@
     ],
     "3": [
         {
-            "id": 91,
-            "template": "CLOYSTER_NORMAL",
-            "form": 879
+            "id": 131,
+            "template": "LAPRAS_NORMAL",
+            "form": 322
         },
         {
             "id": 225,
@@ -56,9 +56,9 @@
     ],
     "6": [
         {
-            "id": 208,
-            "template": "STEELIX_NORMAL",
-            "form": 905,
+            "id": 460,
+            "template": "ABOMASNOW_NORMAL",
+            "form": 935,
             "temp_evolution_id": 1
         }
     ]
