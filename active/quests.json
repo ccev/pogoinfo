@@ -43,45 +43,20 @@
             ]
         },
         {
-            "task": "Catch 7 different species of Pokémon",
+            "task": "Hatch an Egg",
             "rewards": [
                 {
                     "type": "pokemon",
                     "reward": {
-                        "id": 37,
-                        "template": "VULPIX_ALOLA",
-                        "form": 56
+                        "id": 554,
+                        "template": "DARUMAKA_GALARIAN",
+                        "form": 2341
                     }
                 }
             ]
         },
         {
-            "task": "Win a level 3 or higher raid",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 615,
-                        "template": "CRYOGONAL"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Spin 3 PokéStops or Gyms",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 220,
-                        "template": "SWINUB_NORMAL",
-                        "form": 1277
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Sent 3 Gifts to friends. ",
+            "task": "Send 3 Gifts to friends. ",
             "rewards": [
                 {
                     "type": "item",
@@ -101,6 +76,40 @@
             ]
         },
         {
+            "task": "Catch 7 different species of Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 27,
+                        "template": "SANDSHREW_ALOLA",
+                        "form": 52
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 37,
+                        "template": "VULPIX_ALOLA",
+                        "form": 56
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Spin 3 PokéStops or Gyms",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 220,
+                        "template": "SWINUB_NORMAL",
+                        "form": 1277
+                    }
+                }
+            ]
+        },
+        {
             "task": "Take 3 snapshots of wild Ice-type Pokémon",
             "rewards": [
                 {
@@ -111,6 +120,16 @@
                         "form": 935
                     },
                     "amount": 25
+                }
+            ]
+        },
+        {
+            "task": "Hatch 5 Eggs",
+            "rewards": [
+                {
+                    "type": "item",
+                    "amount": 1,
+                    "id": 502
                 }
             ]
         }
