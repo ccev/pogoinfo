@@ -19,6 +19,20 @@
         "has_spawnpoints": false
     },
     {
+        "name": "Increased Trade Distance for Winter Wonderland Mini-event",
+        "type": "event",
+        "start": "2021-12-24 19:00",
+        "end": "2021-12-27 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
         "name": "Cubchoo Spotlight Hour",
         "type": "spotlight-hour",
         "start": "2021-12-28 18:00",
@@ -241,15 +255,111 @@
     {
         "name": "New Year's Event",
         "type": "event",
-        "start": "2021-12-31 10:00",
+        "start": "2021-12-31 22:00",
         "end": "2022-01-04 20:00",
-        "spawns": [],
-        "eggs": [],
+        "spawns": [
+            {
+                "id": 25,
+                "template": "PIKACHU",
+                "costume": 28
+            },
+            {
+                "id": 79,
+                "template": "SLOWPOKE_2020",
+                "form": 2673
+            },
+            {
+                "id": 86,
+                "template": "SEEL"
+            },
+            {
+                "id": 163,
+                "template": "HOOTHOOT"
+            },
+            {
+                "id": 234,
+                "template": "STANTLER"
+            },
+            {
+                "id": 265,
+                "template": "WURMPLE",
+                "costume": 11
+            },
+            {
+                "id": 294,
+                "template": "LOUDRED"
+            },
+            {
+                "id": 22,
+                "template": "FEAROW"
+            }
+        ],
+        "eggs": [
+            {
+                "id": 1,
+                "template": "BULBASAUR",
+                "costume": 11
+            },
+            {
+                "id": 4,
+                "template": "CHARMANDER",
+                "costume": 11
+            },
+            {
+                "id": 7,
+                "template": "SQUIRTLE",
+                "costume": 11
+            },
+            {
+                "id": 172,
+                "template": "PICHU",
+                "costume": 28
+            },
+            {
+                "id": 79,
+                "template": "SLOWPOKE_2020",
+                "form": 2673
+            },
+            {
+                "id": 163,
+                "template": "HOOTHOOT"
+            },
+            {
+                "id": 265,
+                "template": "WURMPLE",
+                "costume": 11
+            }
+        ],
         "raids": [],
-        "shinies": [],
-        "bonuses": [],
+        "shinies": [
+            {
+                "id": 163,
+                "template": "HOOTHOOT"
+            },
+            {
+                "id": 164,
+                "template": "NOCTOWL"
+            }
+        ],
+        "bonuses": [
+            {
+                "text": "2x Hatch Stardust",
+                "template": "increased-stardust",
+                "value": 2
+            },
+            {
+                "text": "1/2 Hatch Distance",
+                "template": "reduced-hatch-distance",
+                "value": 12
+            },
+            {
+                "text": "2x Hatch Candy",
+                "template": "increased-candy",
+                "value": 2
+            }
+        ],
         "features": [],
-        "has_quests": false,
+        "has_quests": true,
         "has_spawnpoints": false
     },
     {
