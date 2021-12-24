@@ -43,39 +43,6 @@
             ]
         },
         {
-            "task": "Hatch an Egg",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 554,
-                        "template": "DARUMAKA_GALARIAN",
-                        "form": 2341
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Send 3 Gifts to friends. ",
-            "rewards": [
-                {
-                    "type": "item",
-                    "amount": 3,
-                    "id": 701
-                },
-                {
-                    "type": "item",
-                    "amount": 3,
-                    "id": 705
-                },
-                {
-                    "type": "item",
-                    "amount": 3,
-                    "id": 1
-                }
-            ]
-        },
-        {
             "task": "Catch 7 different species of Pokémon",
             "rewards": [
                 {
@@ -106,6 +73,39 @@
                         "template": "SWINUB_NORMAL",
                         "form": 1277
                     }
+                }
+            ]
+        },
+        {
+            "task": "Hatch an Egg",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 554,
+                        "template": "DARUMAKA_GALARIAN",
+                        "form": 2341
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Send 3 Gifts to friends. ",
+            "rewards": [
+                {
+                    "type": "item",
+                    "amount": 3,
+                    "id": 701
+                },
+                {
+                    "type": "item",
+                    "amount": 3,
+                    "id": 705
+                },
+                {
+                    "type": "item",
+                    "amount": 3,
+                    "id": 1
                 }
             ]
         },
