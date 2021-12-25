@@ -201,14 +201,14 @@
                         "form": 613
                     },
                     {
-                        "id": 302,
-                        "template": "SABLEYE_NORMAL",
-                        "form": 923
-                    },
-                    {
                         "id": 274,
                         "template": "NUZLEAF_NORMAL",
                         "form": 628
+                    },
+                    {
+                        "id": 302,
+                        "template": "SABLEYE_NORMAL",
+                        "form": 923
                     }
                 ],
                 [
@@ -936,14 +936,14 @@
                 ],
                 [
                     {
-                        "id": 89,
-                        "template": "MUK_NORMAL",
-                        "form": 75
-                    },
-                    {
                         "id": 110,
                         "template": "WEEZING_NORMAL",
                         "form": 706
+                    },
+                    {
+                        "id": 89,
+                        "template": "MUK_NORMAL",
+                        "form": 75
                     }
                 ]
             ]
@@ -1334,14 +1334,14 @@
                         "form": 622
                     },
                     {
-                        "id": 45,
-                        "template": "VILEPLUME_NORMAL",
-                        "form": 271
-                    },
-                    {
                         "id": 80,
                         "template": "SLOWBRO_NORMAL",
                         "form": 1020
+                    },
+                    {
+                        "id": 45,
+                        "template": "VILEPLUME_NORMAL",
+                        "form": 271
                     }
                 ],
                 [
