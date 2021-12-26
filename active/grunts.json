@@ -402,26 +402,26 @@
                 ],
                 [
                     {
-                        "id": 296,
-                        "template": "MAKUHITA_NORMAL",
-                        "form": 1451
-                    },
-                    {
                         "id": 66,
                         "template": "MACHOP_NORMAL",
                         "form": 809
+                    },
+                    {
+                        "id": 296,
+                        "template": "MAKUHITA_NORMAL",
+                        "form": 1451
                     }
                 ],
                 [
                     {
-                        "id": 106,
-                        "template": "HITMONLEE_NORMAL",
-                        "form": 713
-                    },
-                    {
                         "id": 107,
                         "template": "HITMONCHAN_NORMAL",
                         "form": 277
+                    },
+                    {
+                        "id": 106,
+                        "template": "HITMONLEE_NORMAL",
+                        "form": 713
                     },
                     {
                         "id": 297,
@@ -936,14 +936,14 @@
                 ],
                 [
                     {
-                        "id": 110,
-                        "template": "WEEZING_NORMAL",
-                        "form": 706
-                    },
-                    {
                         "id": 89,
                         "template": "MUK_NORMAL",
                         "form": 75
+                    },
+                    {
+                        "id": 110,
+                        "template": "WEEZING_NORMAL",
+                        "form": 706
                     }
                 ]
             ]
@@ -1067,14 +1067,14 @@
                 ],
                 [
                     {
-                        "id": 347,
-                        "template": "ANORITH_NORMAL",
-                        "form": 1574
-                    },
-                    {
                         "id": 345,
                         "template": "LILEEP_NORMAL",
                         "form": 1568
+                    },
+                    {
+                        "id": 347,
+                        "template": "ANORITH_NORMAL",
+                        "form": 1574
                     }
                 ],
                 [
