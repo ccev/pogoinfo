@@ -330,7 +330,59 @@
                 "costume": 11
             }
         ],
-        "raids": [],
+        "raids": [
+            {
+                "id": 79,
+                "template": "SLOWPOKE_2020",
+                "form": 2673
+            },
+            {
+                "id": 163,
+                "template": "HOOTHOOT"
+            },
+            {
+                "id": 202,
+                "template": "WOBBUFFET",
+                "costume": 11
+            },
+            {
+                "id": 303,
+                "template": "MAWILE"
+            },
+            {
+                "id": 20,
+                "template": "RATICATE",
+                "costume": 11
+            },
+            {
+                "id": 33,
+                "template": "NIDORINO",
+                "costume": 11
+            },
+            {
+                "id": 68,
+                "template": "MACHAMP"
+            },
+            {
+                "id": 94,
+                "template": "GENGAR",
+                "costume": 11
+            },
+            {
+                "id": 199,
+                "template": "SLOWKING"
+            },
+            {
+                "id": 646,
+                "template": "KYUREM_NORMAL",
+                "form": 146
+            },
+            {
+                "id": 460,
+                "template": "ABOMASNOW",
+                "temp_evolution_id": 1
+            }
+        ],
         "shinies": [
             {
                 "id": 163,
