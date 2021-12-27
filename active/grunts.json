@@ -559,14 +559,14 @@
                 ],
                 [
                     {
-                        "id": 169,
-                        "template": "CROBAT_NORMAL",
-                        "form": 202
-                    },
-                    {
                         "id": 398,
                         "template": "STARAPTOR_NORMAL",
                         "form": 1664
+                    },
+                    {
+                        "id": 169,
+                        "template": "CROBAT_NORMAL",
+                        "form": 202
                     }
                 ]
             ]
@@ -1111,14 +1111,14 @@
             "team": [
                 [
                     {
-                        "id": 54,
-                        "template": "PSYDUCK_NORMAL",
-                        "form": 286
-                    },
-                    {
                         "id": 258,
                         "template": "MUDKIP_NORMAL",
                         "form": 205
+                    },
+                    {
+                        "id": 54,
+                        "template": "PSYDUCK_NORMAL",
+                        "form": 286
                     }
                 ],
                 [
@@ -1232,14 +1232,14 @@
                 ],
                 [
                     {
-                        "id": 6,
-                        "template": "CHARIZARD_NORMAL",
-                        "form": 178
-                    },
-                    {
                         "id": 248,
                         "template": "TYRANITAR_NORMAL",
                         "form": 319
+                    },
+                    {
+                        "id": 6,
+                        "template": "CHARIZARD_NORMAL",
+                        "form": 178
                     },
                     {
                         "id": 59,
