@@ -1,38 +1,5 @@
 [
     {
-        "name": "A Winter Wonderland Mini-Event",
-        "type": "event",
-        "start": "2021-12-25 10:00",
-        "end": "2021-12-26 20:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [
-            {
-                "text": "You’ll be able to trade with Trainers up to 40 km away.",
-                "value": 40
-            }
-        ],
-        "features": [],
-        "has_quests": true,
-        "has_spawnpoints": false
-    },
-    {
-        "name": "Increased Trade Distance for Winter Wonderland Mini-event",
-        "type": "event",
-        "start": "2021-12-24 19:00",
-        "end": "2021-12-27 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Cubchoo Spotlight Hour",
         "type": "spotlight-hour",
         "start": "2021-12-28 18:00",
