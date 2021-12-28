@@ -1220,14 +1220,14 @@
                         "form": 202
                     },
                     {
-                        "id": 3,
-                        "template": "VENUSAUR_NORMAL",
-                        "form": 169
-                    },
-                    {
                         "id": 68,
                         "template": "MACHAMP_NORMAL",
                         "form": 815
+                    },
+                    {
+                        "id": 3,
+                        "template": "VENUSAUR_NORMAL",
+                        "form": 169
                     }
                 ],
                 [
