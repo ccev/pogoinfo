@@ -52,14 +52,6 @@
                         "template": "SANDSHREW_ALOLA",
                         "form": 52
                     }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 37,
-                        "template": "VULPIX_ALOLA",
-                        "form": 56
-                    }
                 }
             ]
         },
