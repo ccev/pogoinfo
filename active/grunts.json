@@ -57,14 +57,14 @@
                 ],
                 [
                     {
-                        "id": 62,
-                        "template": "POLIWRATH_NORMAL",
-                        "form": 241
-                    },
-                    {
                         "id": 282,
                         "template": "GARDEVOIR_NORMAL",
                         "form": 298
+                    },
+                    {
+                        "id": 62,
+                        "template": "POLIWRATH_NORMAL",
+                        "form": 241
                     },
                     {
                         "id": 143,
@@ -414,14 +414,14 @@
                 ],
                 [
                     {
-                        "id": 107,
-                        "template": "HITMONCHAN_NORMAL",
-                        "form": 277
-                    },
-                    {
                         "id": 106,
                         "template": "HITMONLEE_NORMAL",
                         "form": 713
+                    },
+                    {
+                        "id": 107,
+                        "template": "HITMONCHAN_NORMAL",
+                        "form": 277
                     },
                     {
                         "id": 297,
@@ -559,14 +559,14 @@
                 ],
                 [
                     {
-                        "id": 398,
-                        "template": "STARAPTOR_NORMAL",
-                        "form": 1664
-                    },
-                    {
                         "id": 169,
                         "template": "CROBAT_NORMAL",
                         "form": 202
+                    },
+                    {
+                        "id": 398,
+                        "template": "STARAPTOR_NORMAL",
+                        "form": 1664
                     }
                 ]
             ]
@@ -615,14 +615,14 @@
             "team": [
                 [
                     {
-                        "id": 387,
-                        "template": "TURTWIG_NORMAL",
-                        "form": 688
-                    },
-                    {
                         "id": 331,
                         "template": "CACNEA_NORMAL",
                         "form": 610
+                    },
+                    {
+                        "id": 387,
+                        "template": "TURTWIG_NORMAL",
+                        "form": 688
                     }
                 ],
                 [
@@ -846,14 +846,26 @@
                         "form": 1667
                     },
                     {
-                        "id": 19,
-                        "template": "RATTATA_NORMAL",
-                        "form": 45
-                    },
-                    {
                         "id": 216,
                         "template": "TEDDIURSA_NORMAL",
                         "form": 1265
+                    },
+                    {
+                        "id": 19,
+                        "template": "RATTATA_NORMAL",
+                        "form": 45
+                    }
+                ],
+                [
+                    {
+                        "id": 400,
+                        "template": "BIBAREL_NORMAL",
+                        "form": 1670
+                    },
+                    {
+                        "id": 20,
+                        "template": "RATICATE_NORMAL",
+                        "form": 47
                     }
                 ],
                 [
@@ -862,13 +874,6 @@
                         "template": "RATICATE_NORMAL",
                         "form": 47
                     },
-                    {
-                        "id": 400,
-                        "template": "BIBAREL_NORMAL",
-                        "form": 1670
-                    }
-                ],
-                [
                     {
                         "id": 217,
                         "template": "URSARING_NORMAL",
@@ -878,11 +883,6 @@
                         "id": 400,
                         "template": "BIBAREL_NORMAL",
                         "form": 1670
-                    },
-                    {
-                        "id": 20,
-                        "template": "RATICATE_NORMAL",
-                        "form": 47
                     }
                 ]
             ]
