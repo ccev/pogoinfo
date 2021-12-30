@@ -1,19 +1,5 @@
 [
     {
-        "name": "Kyurem Raid Hour",
-        "type": "raid-hour",
-        "start": "2022-01-05 18:00",
-        "end": "2022-01-05 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Pokémon GO Holidays 2021",
         "type": "event",
         "start": "2021-12-16 10:00",
@@ -360,6 +346,20 @@
         ],
         "features": [],
         "has_quests": true,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Kyurem Raid Hour",
+        "type": "raid-hour",
+        "start": "2022-01-05 18:00",
+        "end": "2022-01-05 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
         "has_spawnpoints": false
     },
     {
