@@ -224,6 +224,21 @@
                 "template": "LOUDRED"
             },
             {
+                "id": 1,
+                "template": "BULBASAUR",
+                "costume": 11
+            },
+            {
+                "id": 4,
+                "template": "CHARMANDER",
+                "costume": 11
+            },
+            {
+                "id": 7,
+                "template": "SQUIRTLE",
+                "costume": 11
+            },
+            {
                 "id": 22,
                 "template": "FEAROW"
             }
