@@ -1,127 +1,79 @@
 {
     "event": [
         {
-            "task": "Catch 5 Ice-type Pokémon",
+            "task": "Catch 5 Pokémon",
             "rewards": [
                 {
                     "type": "pokemon",
                     "reward": {
-                        "id": 363,
-                        "template": "SPHEAL_NORMAL",
-                        "form": 1598
+                        "id": 163,
+                        "template": "HOOTHOOT"
                     }
                 }
             ]
         },
         {
-            "task": "Open 5 Gifts",
+            "task": "Catch 10 Pokémon",
             "rewards": [
                 {
                     "type": "pokemon",
                     "reward": {
-                        "id": 234,
-                        "template": "STANTLER_NORMAL",
-                        "form": 941
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 613,
-                        "template": "CUBCHOO_NORMAL",
-                        "form": 2231
+                        "id": 1,
+                        "template": "BULBASAUR_NORMAL",
+                        "form": 163
                     }
                 },
                 {
                     "type": "pokemon",
                     "reward": {
-                        "id": 25,
-                        "template": "PIKACHU_NORMAL",
-                        "form": 598
+                        "id": 4,
+                        "template": "CHARMANDER_NORMAL",
+                        "form": 172
                     }
-                }
-            ]
-        },
-        {
-            "task": "Catch 7 different species of Pokémon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 27,
-                        "template": "SANDSHREW_ALOLA",
-                        "form": 52
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Spin 3 PokéStops or Gyms",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 220,
-                        "template": "SWINUB_NORMAL",
-                        "form": 1277
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Hatch an Egg",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 554,
-                        "template": "DARUMAKA_GALARIAN",
-                        "form": 2341
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Send 3 Gifts to friends. ",
-            "rewards": [
-                {
-                    "type": "item",
-                    "amount": 3,
-                    "id": 701
                 },
                 {
-                    "type": "item",
-                    "amount": 3,
-                    "id": 705
-                },
-                {
-                    "type": "item",
-                    "amount": 3,
-                    "id": 1
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 7,
+                        "template": "SQUIRTLE_NORMAL",
+                        "form": 181
+                    }
                 }
             ]
         },
         {
-            "task": "Take 3 snapshots of wild Ice-type Pokémon",
+            "task": "Catch 15 Pokémon",
             "rewards": [
                 {
-                    "type": "energy",
+                    "type": "pokemon",
                     "reward": {
-                        "id": 460,
-                        "template": "ABOMASNOW_NORMAL",
-                        "form": 935
-                    },
-                    "amount": 25
+                        "id": 79,
+                        "template": "SLOWPOKE_NORMAL",
+                        "form": 1017
+                    }
                 }
             ]
         },
         {
-            "task": "Hatch 5 Eggs",
+            "task": "Earn 2 Candies walking with your buddy",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 79,
+                        "template": "SLOWPOKE_NORMAL",
+                        "form": 1017
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Walk 3 km",
             "rewards": [
                 {
                     "type": "item",
                     "amount": 1,
-                    "id": 502
+                    "id": 1102
                 }
             ]
         }

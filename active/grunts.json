@@ -275,6 +275,11 @@
                 ],
                 [
                     {
+                        "id": 149,
+                        "template": "DRAGONITE_NORMAL",
+                        "form": 196
+                    },
+                    {
                         "id": 148,
                         "template": "DRAGONAIR_NORMAL",
                         "form": 193
@@ -283,11 +288,6 @@
                         "id": 330,
                         "template": "FLYGON_NORMAL",
                         "form": 752
-                    },
-                    {
-                        "id": 149,
-                        "template": "DRAGONITE_NORMAL",
-                        "form": 196
                     }
                 ]
             ]
@@ -1334,14 +1334,14 @@
                         "form": 622
                     },
                     {
-                        "id": 80,
-                        "template": "SLOWBRO_NORMAL",
-                        "form": 1020
-                    },
-                    {
                         "id": 45,
                         "template": "VILEPLUME_NORMAL",
                         "form": 271
+                    },
+                    {
+                        "id": 80,
+                        "template": "SLOWBRO_NORMAL",
+                        "form": 1020
                     }
                 ],
                 [
@@ -1554,14 +1554,14 @@
             "team": [
                 [
                     {
-                        "id": 309,
-                        "template": "ELECTRIKE_NORMAL",
-                        "form": 1484
-                    },
-                    {
                         "id": 81,
                         "template": "MAGNEMITE_NORMAL",
                         "form": 655
+                    },
+                    {
+                        "id": 309,
+                        "template": "ELECTRIKE_NORMAL",
+                        "form": 1484
                     }
                 ],
                 [
