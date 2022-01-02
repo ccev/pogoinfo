@@ -106,37 +106,6 @@
             ]
         },
         {
-            "task": "Use 5 Berries to help catch Pokémon",
-            "rewards": [
-                {
-                    "type": "stardust",
-                    "amount": 500
-                },
-                {
-                    "type": "item",
-                    "amount": 6,
-                    "id": 701
-                },
-                {
-                    "type": "item",
-                    "amount": 2,
-                    "id": 705
-                },
-                {
-                    "type": "item",
-                    "amount": 5,
-                    "id": 2
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 265,
-                        "template": "WURMPLE"
-                    }
-                }
-            ]
-        },
-        {
             "task": "Catch 5 Pokémon with Weather Boost",
             "rewards": [
                 {
@@ -188,6 +157,37 @@
                         "id": 459,
                         "template": "SNOVER_NORMAL",
                         "form": 932
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Use 5 Berries to help catch Pokémon",
+            "rewards": [
+                {
+                    "type": "stardust",
+                    "amount": 500
+                },
+                {
+                    "type": "item",
+                    "amount": 6,
+                    "id": 701
+                },
+                {
+                    "type": "item",
+                    "amount": 2,
+                    "id": 705
+                },
+                {
+                    "type": "item",
+                    "amount": 5,
+                    "id": 2
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 265,
+                        "template": "WURMPLE"
                     }
                 }
             ]
@@ -264,6 +264,15 @@
         {
             "task": "Catch 10 Grass-type Pokémon",
             "rewards": [
+                {
+                    "type": "energy",
+                    "reward": {
+                        "id": 3,
+                        "template": "VENUSAUR_NORMAL",
+                        "form": 169
+                    },
+                    "amount": 10
+                },
                 {
                     "type": "stardust",
                     "amount": 500
@@ -781,7 +790,7 @@
             ]
         },
         {
-            "task": "Defeat a Team GO Rocket Leader. ",
+            "task": "Defeat a Team GO Rocket Leader",
             "rewards": [
                 {
                     "type": "pokemon",
@@ -834,7 +843,17 @@
         },
         {
             "task": "Use 10 supereffective Charged Attacks",
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "energy",
+                    "reward": {
+                        "id": 460,
+                        "template": "ABOMASNOW_NORMAL",
+                        "form": 935
+                    },
+                    "amount": 20
+                }
+            ]
         },
         {
             "task": "Defeat 3 Team GO Rocket Grunts",
@@ -1053,6 +1072,31 @@
             ]
         },
         {
+            "task": "Spin 5 PokéStops or Gyms",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 280,
+                        "template": "RALTS_NORMAL",
+                        "form": 292
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Hatch 3 Eggs",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 113,
+                        "template": "CHANSEY"
+                    }
+                }
+            ]
+        },
+        {
             "task": "Take a snapshot of a wild Pokémon",
             "rewards": [
                 {
@@ -1118,19 +1162,6 @@
             ]
         },
         {
-            "task": "Spin 5 PokéStops or Gyms",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 280,
-                        "template": "RALTS_NORMAL",
-                        "form": 292
-                    }
-                }
-            ]
-        },
-        {
             "task": "Hatch an Egg",
             "rewards": [
                 {
@@ -1138,18 +1169,6 @@
                     "reward": {
                         "id": 226,
                         "template": "MANTINE"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Hatch 3 Eggs",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 113,
-                        "template": "CHANSEY"
                     }
                 }
             ]
