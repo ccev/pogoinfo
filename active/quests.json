@@ -769,6 +769,19 @@
             ]
         },
         {
+            "task": "Win 2 raids",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 143,
+                        "template": "SNORLAX_NORMAL",
+                        "form": 199
+                    }
+                }
+            ]
+        },
+        {
             "task": "Win a level 3 or higher raid",
             "rewards": [
                 {
@@ -790,32 +803,6 @@
             ]
         },
         {
-            "task": "Defeat a Team GO Rocket Leader",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 131,
-                        "template": "LAPRAS_NORMAL",
-                        "form": 322
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Win 2 raids",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 143,
-                        "template": "SNORLAX_NORMAL",
-                        "form": 199
-                    }
-                }
-            ]
-        },
-        {
             "task": "Win 5 raids",
             "rewards": [
                 {
@@ -824,6 +811,19 @@
                         "id": 142,
                         "template": "AERODACTYL_NORMAL",
                         "form": 1110
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Defeat a Team GO Rocket Leader",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 131,
+                        "template": "LAPRAS_NORMAL",
+                        "form": 322
                     }
                 }
             ]
@@ -869,6 +869,19 @@
             ]
         },
         {
+            "task": "Trade a Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 399,
+                        "template": "BIDOOF_NORMAL",
+                        "form": 1667
+                    }
+                }
+            ]
+        },
+        {
             "task": "Open 5 Gifts",
             "rewards": [
                 {
@@ -888,19 +901,6 @@
                     "reward": {
                         "id": 133,
                         "template": "EEVEE"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Trade a Pokémon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 399,
-                        "template": "BIDOOF_NORMAL",
-                        "form": 1667
                     }
                 }
             ]
@@ -1041,6 +1041,18 @@
             ]
         },
         {
+            "task": "Evolve a Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 133,
+                        "template": "EEVEE"
+                    }
+                }
+            ]
+        },
+        {
             "task": "Spin 3 PokéStops or Gyms",
             "rewards": [
                 {
@@ -1080,6 +1092,31 @@
                         "id": 280,
                         "template": "RALTS_NORMAL",
                         "form": 292
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Hatch an Egg",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 226,
+                        "template": "MANTINE"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Hatch 2 Eggs",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 374,
+                        "template": "BELDUM_NORMAL",
+                        "form": 764
                     }
                 }
             ]
@@ -1145,30 +1182,6 @@
                         "id": 90,
                         "template": "SHELLDER_NORMAL",
                         "form": 876
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Evolve a Pokémon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 133,
-                        "template": "EEVEE"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Hatch an Egg",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 226,
-                        "template": "MANTINE"
                     }
                 }
             ]
