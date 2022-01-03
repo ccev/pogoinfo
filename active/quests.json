@@ -894,18 +894,6 @@
             ]
         },
         {
-            "task": "Earn 5 hearts with your buddy",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 133,
-                        "template": "EEVEE"
-                    }
-                }
-            ]
-        },
-        {
             "task": "Earn 2 Candies walking with your buddy",
             "rewards": [
                 {
@@ -913,6 +901,18 @@
                     "reward": {
                         "id": 659,
                         "template": "BUNNELBY"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Earn 5 hearts with your buddy",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 133,
+                        "template": "EEVEE"
                     }
                 }
             ]
