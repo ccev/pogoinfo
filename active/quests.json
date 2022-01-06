@@ -937,9 +937,9 @@
                 {
                     "type": "energy",
                     "reward": {
-                        "id": 9,
-                        "template": "BLASTOISE_NORMAL",
-                        "form": 187
+                        "id": 3,
+                        "template": "VENUSAUR_NORMAL",
+                        "form": 169
                     },
                     "amount": 10
                 },
@@ -955,9 +955,9 @@
                 {
                     "type": "energy",
                     "reward": {
-                        "id": 3,
-                        "template": "VENUSAUR_NORMAL",
-                        "form": 169
+                        "id": 9,
+                        "template": "BLASTOISE_NORMAL",
+                        "form": 187
                     },
                     "amount": 10
                 }
@@ -1130,10 +1130,6 @@
                     }
                 }
             ]
-        },
-        {
-            "task": "Take two snapshots of a wild Ice-type Pokémon",
-            "rewards": []
         },
         {
             "task": "Spin 10 PokéStops or Gyms",
