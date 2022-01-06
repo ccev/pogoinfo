@@ -1,201 +1,5 @@
 [
     {
-        "name": "Solosis Spotlight Hour",
-        "type": "spotlight-hour",
-        "start": "2022-01-04 18:00",
-        "end": "2022-01-04 19:00",
-        "spawns": [
-            {
-                "id": 577,
-                "template": "SOLOSIS"
-            }
-        ],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": true
-    },
-    {
-        "name": "New Year's Event",
-        "type": "event",
-        "start": "2021-12-31 22:00",
-        "end": "2022-01-04 20:00",
-        "spawns": [
-            {
-                "id": 25,
-                "template": "PIKACHU",
-                "costume": 28
-            },
-            {
-                "id": 79,
-                "template": "SLOWPOKE_2020",
-                "form": 2673
-            },
-            {
-                "id": 86,
-                "template": "SEEL"
-            },
-            {
-                "id": 163,
-                "template": "HOOTHOOT"
-            },
-            {
-                "id": 234,
-                "template": "STANTLER"
-            },
-            {
-                "id": 265,
-                "template": "WURMPLE",
-                "costume": 11
-            },
-            {
-                "id": 294,
-                "template": "LOUDRED"
-            },
-            {
-                "id": 1,
-                "template": "BULBASAUR",
-                "costume": 11
-            },
-            {
-                "id": 4,
-                "template": "CHARMANDER",
-                "costume": 11
-            },
-            {
-                "id": 7,
-                "template": "SQUIRTLE",
-                "costume": 11
-            },
-            {
-                "id": 22,
-                "template": "FEAROW"
-            }
-        ],
-        "eggs": [
-            {
-                "id": 1,
-                "template": "BULBASAUR",
-                "costume": 11
-            },
-            {
-                "id": 4,
-                "template": "CHARMANDER",
-                "costume": 11
-            },
-            {
-                "id": 7,
-                "template": "SQUIRTLE",
-                "costume": 11
-            },
-            {
-                "id": 172,
-                "template": "PICHU",
-                "costume": 28
-            },
-            {
-                "id": 79,
-                "template": "SLOWPOKE_2020",
-                "form": 2673
-            },
-            {
-                "id": 163,
-                "template": "HOOTHOOT"
-            },
-            {
-                "id": 265,
-                "template": "WURMPLE",
-                "costume": 11
-            }
-        ],
-        "raids": [
-            {
-                "id": 79,
-                "template": "SLOWPOKE_2020",
-                "form": 2673
-            },
-            {
-                "id": 163,
-                "template": "HOOTHOOT"
-            },
-            {
-                "id": 202,
-                "template": "WOBBUFFET",
-                "costume": 11
-            },
-            {
-                "id": 303,
-                "template": "MAWILE"
-            },
-            {
-                "id": 20,
-                "template": "RATICATE",
-                "costume": 11
-            },
-            {
-                "id": 33,
-                "template": "NIDORINO",
-                "costume": 11
-            },
-            {
-                "id": 68,
-                "template": "MACHAMP"
-            },
-            {
-                "id": 94,
-                "template": "GENGAR",
-                "costume": 11
-            },
-            {
-                "id": 199,
-                "template": "SLOWKING"
-            },
-            {
-                "id": 646,
-                "template": "KYUREM_NORMAL",
-                "form": 146
-            },
-            {
-                "id": 460,
-                "template": "ABOMASNOW",
-                "temp_evolution_id": 1
-            }
-        ],
-        "shinies": [
-            {
-                "id": 163,
-                "template": "HOOTHOOT"
-            },
-            {
-                "id": 164,
-                "template": "NOCTOWL"
-            }
-        ],
-        "bonuses": [
-            {
-                "text": "2x Hatch Stardust",
-                "template": "increased-stardust",
-                "value": 2
-            },
-            {
-                "text": "1/2 Hatch Distance",
-                "template": "reduced-hatch-distance",
-                "value": 12
-            },
-            {
-                "text": "2x Hatch Candy",
-                "template": "increased-candy",
-                "value": 2
-            }
-        ],
-        "features": [],
-        "has_quests": true,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Kyurem Raid Hour",
         "type": "raid-hour",
         "start": "2022-01-05 18:00",
@@ -261,13 +65,102 @@
         "type": "event",
         "start": "2022-01-07 10:00",
         "end": "2022-01-13 20:00",
-        "spawns": [],
+        "spawns": [
+            {
+                "id": 41,
+                "template": "ZUBAT"
+            },
+            {
+                "id": 66,
+                "template": "MACHOP"
+            },
+            {
+                "id": 74,
+                "template": "GEODUDE"
+            },
+            {
+                "id": 218,
+                "template": "SLUGMA"
+            },
+            {
+                "id": 299,
+                "template": "NOSEPASS"
+            },
+            {
+                "id": 339,
+                "template": "BARBOACH"
+            },
+            {
+                "id": 95,
+                "template": "ONIX"
+            },
+            {
+                "id": 597,
+                "template": "FERROSEED"
+            }
+        ],
         "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
+        "raids": [
+            {
+                "id": 74,
+                "template": "GEODUDE_ALOLA",
+                "form": 68
+            },
+            {
+                "id": 95,
+                "template": "ONIX"
+            },
+            {
+                "id": 374,
+                "template": "BELDUM"
+            },
+            {
+                "id": 436,
+                "template": "BRONZOR"
+            },
+            {
+                "id": 217,
+                "template": "URSARING"
+            },
+            {
+                "id": 232,
+                "template": "DONPHAN"
+            },
+            {
+                "id": 308,
+                "template": "MEDICHAM"
+            },
+            {
+                "id": 359,
+                "template": "ABSOL"
+            },
+            {
+                "id": 485,
+                "template": "HEATRAN"
+            },
+            {
+                "id": 142,
+                "template": "AERODACTYL"
+            }
+        ],
+        "shinies": [
+            {
+                "id": 218,
+                "template": "SLUGMA"
+            },
+            {
+                "id": 219,
+                "template": "MAGCARGO"
+            }
+        ],
+        "bonuses": [
+            {
+                "text": "1/2 walking distance to earn hearts with your buddy",
+                "value": 12
+            }
+        ],
         "features": [],
-        "has_quests": false,
+        "has_quests": true,
         "has_spawnpoints": false
     },
     {
@@ -351,6 +244,56 @@
         "features": [],
         "has_quests": false,
         "has_spawnpoints": false
+    },
+    {
+        "name": "Bulbasaur Community Day Classic",
+        "type": "community-day",
+        "start": "2022-01-22 14:00",
+        "end": "2022-01-22 17:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [
+            {
+                "id": 1,
+                "template": "BULBASAUR"
+            },
+            {
+                "id": 2,
+                "template": "IVYSAUR"
+            },
+            {
+                "id": 3,
+                "template": "VENUSAUR"
+            }
+        ],
+        "bonuses": [
+            {
+                "text": "Increased Spawns"
+            },
+            {
+                "text": "3x Catch XP",
+                "template": "increased-xp",
+                "value": 3
+            },
+            {
+                "text": "3-hour Incense",
+                "template": "longer-incense",
+                "value": 3
+            },
+            {
+                "text": "3-hour Lures",
+                "template": "longer-lure",
+                "value": 3
+            }
+        ],
+        "features": [
+            "\nFrenzy Plant\n\nTrainer Battles: 100 Power\nGyms and raids: 100 Power\n\n",
+            "Trainer Battles: 100 Power",
+            "Gyms and raids: 100 Power"
+        ],
+        "has_quests": true,
+        "has_spawnpoints": true
     },
     {
         "name": "Minun Spotlight Hour",

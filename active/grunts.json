@@ -184,14 +184,14 @@
             "team": [
                 [
                     {
-                        "id": 261,
-                        "template": "POOCHYENA_NORMAL",
-                        "form": 1367
-                    },
-                    {
                         "id": 228,
                         "template": "HOUNDOUR_NORMAL",
                         "form": 229
+                    },
+                    {
+                        "id": 261,
+                        "template": "POOCHYENA_NORMAL",
+                        "form": 1367
                     }
                 ],
                 [
@@ -615,14 +615,14 @@
             "team": [
                 [
                     {
-                        "id": 387,
-                        "template": "TURTWIG_NORMAL",
-                        "form": 688
-                    },
-                    {
                         "id": 331,
                         "template": "CACNEA_NORMAL",
                         "form": 610
+                    },
+                    {
+                        "id": 387,
+                        "template": "TURTWIG_NORMAL",
+                        "form": 688
                     }
                 ],
                 [

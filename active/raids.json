@@ -1,50 +1,48 @@
 {
     "1": [
         {
-            "id": 79,
-            "template": "SLOWPOKE_NORMAL",
-            "form": 1017
+            "id": 147,
+            "template": "DRATINI_NORMAL",
+            "form": 190
         },
         {
-            "id": 163,
-            "template": "HOOTHOOT"
+            "id": 215,
+            "template": "SNEASEL_NORMAL",
+            "form": 797
         },
         {
-            "id": 202,
-            "template": "WOBBUFFET_NORMAL",
-            "form": 602
+            "id": 296,
+            "template": "MAKUHITA_NORMAL",
+            "form": 1451
         },
         {
-            "id": 303,
-            "template": "MAWILE_NORMAL",
-            "form": 833
+            "id": 532,
+            "template": "TIMBURR"
+        },
+        {
+            "id": 661,
+            "template": "FLETCHLING"
         }
     ],
     "3": [
         {
-            "id": 20,
-            "template": "RATICATE_NORMAL",
-            "form": 47
+            "id": 87,
+            "template": "DEWGONG"
         },
         {
-            "id": 33,
-            "template": "NIDORINO_NORMAL",
-            "form": 785
+            "id": 257,
+            "template": "BLAZIKEN_NORMAL",
+            "form": 1364
         },
         {
-            "id": 68,
-            "template": "MACHAMP_NORMAL",
-            "form": 815
+            "id": 330,
+            "template": "FLYGON_NORMAL",
+            "form": 752
         },
         {
-            "id": 94,
-            "template": "GENGAR_NORMAL",
-            "form": 1044
-        },
-        {
-            "id": 199,
-            "template": "SLOWKING_NORMAL",
-            "form": 1238
+            "id": 365,
+            "template": "WALREIN_NORMAL",
+            "form": 1604
         }
     ],
     "5": [
