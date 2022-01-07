@@ -1,62 +1,56 @@
 {
     "1": [
         {
-            "id": 147,
-            "template": "DRATINI_NORMAL",
-            "form": 190
+            "id": 74,
+            "template": "GEODUDE_ALOLA",
+            "form": 68
         },
         {
-            "id": 215,
-            "template": "SNEASEL_NORMAL",
-            "form": 797
+            "id": 95,
+            "template": "ONIX_NORMAL",
+            "form": 902
         },
         {
-            "id": 296,
-            "template": "MAKUHITA_NORMAL",
-            "form": 1451
+            "id": 374,
+            "template": "BELDUM_NORMAL",
+            "form": 764
         },
         {
-            "id": 532,
-            "template": "TIMBURR"
-        },
-        {
-            "id": 661,
-            "template": "FLETCHLING"
+            "id": 436,
+            "template": "BRONZOR"
         }
     ],
     "3": [
         {
-            "id": 87,
-            "template": "DEWGONG"
+            "id": 217,
+            "template": "URSARING_NORMAL",
+            "form": 1268
         },
         {
-            "id": 257,
-            "template": "BLAZIKEN_NORMAL",
-            "form": 1364
+            "id": 232,
+            "template": "DONPHAN"
         },
         {
-            "id": 330,
-            "template": "FLYGON_NORMAL",
-            "form": 752
+            "id": 308,
+            "template": "MEDICHAM"
         },
         {
-            "id": 365,
-            "template": "WALREIN_NORMAL",
-            "form": 1604
+            "id": 359,
+            "template": "ABSOL_NORMAL",
+            "form": 830
         }
     ],
     "5": [
         {
-            "id": 646,
-            "template": "KYUREM_NORMAL",
-            "form": 146
+            "id": 485,
+            "template": "HEATRAN"
         }
     ],
     "6": [
         {
-            "id": 460,
-            "template": "ABOMASNOW_NORMAL",
-            "form": 935,
+            "id": 142,
+            "template": "AERODACTYL_NORMAL",
+            "form": 1110,
             "temp_evolution_id": 1
         }
     ]

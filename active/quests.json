@@ -1,5 +1,44 @@
 {
-    "event": [],
+    "event": [
+        {
+            "task": "Hatch an Egg",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 74,
+                        "template": "GEODUDE_ALOLA",
+                        "form": 68
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Walk 1 km",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 218,
+                        "template": "SLUGMA"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Earn 2 Candies walking with your buddy",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 303,
+                        "template": "MAWILE_NORMAL",
+                        "form": 833
+                    }
+                }
+            ]
+        }
+    ],
     "quests": [
         {
             "task": "Catch 5 Pokémon",
