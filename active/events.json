@@ -1,19 +1,5 @@
 [
     {
-        "name": "GO Battle Day",
-        "type": "event",
-        "start": "2022-02-06 00:00",
-        "end": "2022-02-06 23:59",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Diglett Spotlight Hour",
         "type": "spotlight-hour",
         "start": "2022-01-11 18:00",
@@ -280,6 +266,20 @@
         ],
         "has_quests": true,
         "has_spawnpoints": true
+    },
+    {
+        "name": "GO Battle Day",
+        "type": "event",
+        "start": "2022-02-06 00:00",
+        "end": "2022-02-06 23:59",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
     },
     {
         "name": "Minun Spotlight Hour",
