@@ -1,7 +1,7 @@
 {
     "event": [
         {
-            "task": "Hatch an Egg",
+            "task": "Event: Hatch an Egg",
             "rewards": [
                 {
                     "type": "pokemon",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "task": "Walk 1 km",
+            "task": "Event: Walk 1 km",
             "rewards": [
                 {
                     "type": "pokemon",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "task": "Earn 2 Candies walking with your buddy",
+            "task": "Event: Earn 2 Candies walking with your buddy",
             "rewards": [
                 {
                     "type": "pokemon",
