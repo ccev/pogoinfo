@@ -11,6 +11,10 @@
             "form": 1104
         },
         {
+            "id": 170,
+            "template": "CHINCHOU"
+        },
+        {
             "id": 278,
             "template": "WINGULL"
         },
@@ -21,6 +25,11 @@
     ],
     "3": [
         {
+            "id": 82,
+            "template": "MAGNETON_NORMAL",
+            "form": 658
+        },
+        {
             "id": 112,
             "template": "RHYDON_NORMAL",
             "form": 849
@@ -28,6 +37,11 @@
         {
             "id": 219,
             "template": "MAGCARGO"
+        },
+        {
+            "id": 227,
+            "template": "SKARMORY_NORMAL",
+            "form": 1295
         }
     ],
     "5": [
