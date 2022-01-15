@@ -1,53 +1,53 @@
 {
     "1": [
         {
-            "id": 138,
-            "template": "OMANYTE_NORMAL",
-            "form": 740
+            "id": 46,
+            "template": "PARAS"
         },
         {
-            "id": 140,
-            "template": "KABUTO_NORMAL",
-            "form": 1104
+            "id": 81,
+            "template": "MAGNEMITE_NORMAL",
+            "form": 655
         },
         {
             "id": 170,
             "template": "CHINCHOU"
         },
         {
-            "id": 278,
-            "template": "WINGULL"
+            "id": 390,
+            "template": "CHIMCHAR_NORMAL",
+            "form": 818
         },
         {
-            "id": 535,
-            "template": "TYMPOLE"
+            "id": 599,
+            "template": "KLINK"
         }
     ],
     "3": [
         {
-            "id": 82,
-            "template": "MAGNETON_NORMAL",
-            "form": 658
+            "id": 123,
+            "template": "SCYTHER_NORMAL",
+            "form": 247
         },
         {
-            "id": 112,
-            "template": "RHYDON_NORMAL",
-            "form": 849
+            "id": 157,
+            "template": "TYPHLOSION"
         },
         {
-            "id": 219,
-            "template": "MAGCARGO"
+            "id": 303,
+            "template": "MAWILE_NORMAL",
+            "form": 833
         },
         {
-            "id": 227,
-            "template": "SKARMORY_NORMAL",
-            "form": 1295
+            "id": 621,
+            "template": "DRUDDIGON"
         }
     ],
     "5": [
         {
-            "id": 485,
-            "template": "HEATRAN"
+            "id": 649,
+            "template": "GENESECT_SHOCK",
+            "form": 594
         }
     ],
     "6": [
