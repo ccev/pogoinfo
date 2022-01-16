@@ -152,14 +152,14 @@
                         "form": 898
                     },
                     {
-                        "id": 212,
-                        "template": "SCIZOR_NORMAL",
-                        "form": 250
-                    },
-                    {
                         "id": 205,
                         "template": "FORRETRESS_NORMAL",
                         "form": 1247
+                    },
+                    {
+                        "id": 212,
+                        "template": "SCIZOR_NORMAL",
+                        "form": 250
                     }
                 ]
             ]
@@ -184,14 +184,14 @@
             "team": [
                 [
                     {
-                        "id": 228,
-                        "template": "HOUNDOUR_NORMAL",
-                        "form": 229
-                    },
-                    {
                         "id": 261,
                         "template": "POOCHYENA_NORMAL",
                         "form": 1367
+                    },
+                    {
+                        "id": 228,
+                        "template": "HOUNDOUR_NORMAL",
+                        "form": 229
                     }
                 ],
                 [
@@ -1215,11 +1215,6 @@
                 ],
                 [
                     {
-                        "id": 3,
-                        "template": "VENUSAUR_NORMAL",
-                        "form": 169
-                    },
-                    {
                         "id": 68,
                         "template": "MACHAMP_NORMAL",
                         "form": 815
@@ -1228,6 +1223,11 @@
                         "id": 169,
                         "template": "CROBAT_NORMAL",
                         "form": 202
+                    },
+                    {
+                        "id": 3,
+                        "template": "VENUSAUR_NORMAL",
+                        "form": 169
                     }
                 ],
                 [
@@ -1329,11 +1329,6 @@
                 ],
                 [
                     {
-                        "id": 15,
-                        "template": "BEEDRILL_NORMAL",
-                        "form": 622
-                    },
-                    {
                         "id": 80,
                         "template": "SLOWBRO_NORMAL",
                         "form": 1020
@@ -1342,6 +1337,11 @@
                         "id": 45,
                         "template": "VILEPLUME_NORMAL",
                         "form": 271
+                    },
+                    {
+                        "id": 15,
+                        "template": "BEEDRILL_NORMAL",
+                        "form": 622
                     }
                 ],
                 [
@@ -1386,14 +1386,14 @@
                 ],
                 [
                     {
-                        "id": 464,
-                        "template": "RHYPERIOR_NORMAL",
-                        "form": 852
-                    },
-                    {
                         "id": 99,
                         "template": "KINGLER_NORMAL",
                         "form": 873
+                    },
+                    {
+                        "id": 464,
+                        "template": "RHYPERIOR_NORMAL",
+                        "form": 852
                     },
                     {
                         "id": 34,
