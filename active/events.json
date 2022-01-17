@@ -1,54 +1,5 @@
 [
     {
-        "name": "Spheal Community Day",
-        "type": "community-day",
-        "start": "2022-01-16 11:00",
-        "end": "2022-01-16 17:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [
-            {
-                "id": 363,
-                "template": "SPHEAL"
-            },
-            {
-                "id": 364,
-                "template": "SEALEO"
-            },
-            {
-                "id": 365,
-                "template": "WALREIN"
-            }
-        ],
-        "bonuses": [
-            {
-                "text": "Increased Spawns"
-            },
-            {
-                "text": "3x Catch XP",
-                "template": "increased-xp",
-                "value": 3
-            },
-            {
-                "text": "3-hour Incense",
-                "template": "longer-incense",
-                "value": 3
-            },
-            {
-                "text": "3-hour Lures",
-                "template": "longer-lure",
-                "value": 3
-            }
-        ],
-        "features": [
-            "Trainer Battles: 60 damage",
-            "Gyms and raids: 60 damage"
-        ],
-        "has_quests": true,
-        "has_spawnpoints": true
-    },
-    {
         "name": "Plusle Spotlight Hour",
         "type": "spotlight-hour",
         "start": "2022-01-18 18:00",
@@ -174,17 +125,123 @@
         "has_spawnpoints": false
     },
     {
-        "name": "Electric- and Steel-themed event inspired by the Kanto Power Plant",
+        "name": "Power Plant Event",
         "type": "event",
         "start": "2022-01-19 10:00",
         "end": "2022-02-01 20:00",
-        "spawns": [],
+        "spawns": [
+            {
+                "id": 81,
+                "template": "MAGNEMITE"
+            },
+            {
+                "id": 88,
+                "template": "GRIMER"
+            },
+            {
+                "id": 100,
+                "template": "VOLTORB"
+            },
+            {
+                "id": 125,
+                "template": "ELECTABUZZ"
+            },
+            {
+                "id": 137,
+                "template": "PORYGON"
+            },
+            {
+                "id": 568,
+                "template": "TRUBBISH"
+            },
+            {
+                "id": 694,
+                "template": "HELIOPTILE"
+            },
+            {
+                "id": 101,
+                "template": "ELECTRODE"
+            },
+            {
+                "id": 135,
+                "template": "JOLTEON"
+            }
+        ],
         "eggs": [],
-        "raids": [],
+        "raids": [
+            {
+                "id": 25,
+                "template": "PIKACHU"
+            },
+            {
+                "id": 374,
+                "template": "BELDUM"
+            },
+            {
+                "id": 403,
+                "template": "SHINX"
+            },
+            {
+                "id": 522,
+                "template": "BLITZLE"
+            },
+            {
+                "id": 599,
+                "template": "KLINK"
+            },
+            {
+                "id": 123,
+                "template": "SCYTHER"
+            },
+            {
+                "id": 157,
+                "template": "TYPHLOSION"
+            },
+            {
+                "id": 303,
+                "template": "MAWILE"
+            },
+            {
+                "id": 621,
+                "template": "DRUDDIGON"
+            },
+            {
+                "id": 87,
+                "template": "DEWGONG"
+            },
+            {
+                "id": 221,
+                "template": "PILOSWINE"
+            },
+            {
+                "id": 391,
+                "template": "MONFERNO"
+            },
+            {
+                "id": 649,
+                "template": "GENESECT_SHOCK",
+                "form": 594
+            },
+            {
+                "id": 378,
+                "template": "REGICE"
+            },
+            {
+                "id": 142,
+                "template": "AERODACTYL"
+            }
+        ],
         "shinies": [],
-        "bonuses": [],
+        "bonuses": [
+            {
+                "text": "Team GO Rocket will be appearing more frequently at PokéStops and in balloons."
+            },
+            {
+                "text": "You can use a Charged TM to help a Shadow Pokémon forget the Charged Attack Frustration."
+            }
+        ],
         "features": [],
-        "has_quests": false,
+        "has_quests": true,
         "has_spawnpoints": false
     },
     {
