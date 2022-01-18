@@ -1,5 +1,25 @@
 {
-    "event": [],
+    "event": [
+        {
+            "task": "Catch 5 Electric-type Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 595,
+                        "template": "JOLTIK"
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 694,
+                        "template": "HELIOPTILE"
+                    }
+                }
+            ]
+        }
+    ],
     "quests": [
         {
             "task": "Catch 5 Pokémon with Weather Boost",

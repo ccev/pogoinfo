@@ -1,22 +1,22 @@
 {
     "1": [
         {
-            "id": 46,
-            "template": "PARAS"
+            "id": 25,
+            "template": "PIKACHU_NORMAL",
+            "form": 598
         },
         {
-            "id": 81,
-            "template": "MAGNEMITE_NORMAL",
-            "form": 655
+            "id": 374,
+            "template": "BELDUM_NORMAL",
+            "form": 764
         },
         {
-            "id": 170,
-            "template": "CHINCHOU"
+            "id": 403,
+            "template": "SHINX"
         },
         {
-            "id": 390,
-            "template": "CHIMCHAR_NORMAL",
-            "form": 818
+            "id": 522,
+            "template": "BLITZLE"
         },
         {
             "id": 599,
