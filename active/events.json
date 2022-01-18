@@ -128,7 +128,7 @@
         "name": "Power Plant Event",
         "type": "event",
         "start": "2022-01-19 10:00",
-        "end": "2022-02-01 20:00",
+        "end": "2022-02-01 10:00",
         "spawns": [
             {
                 "id": 81,
