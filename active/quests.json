@@ -16,6 +16,14 @@
                         "id": 694,
                         "template": "HELIOPTILE"
                     }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 309,
+                        "template": "ELECTRIKE_NORMAL",
+                        "form": 1484
+                    }
                 }
             ]
         }
@@ -1174,6 +1182,10 @@
                     "id": 1
                 }
             ]
+        },
+        {
+            "task": "Make 3 Curveball Throws",
+            "rewards": []
         }
     ],
     "ar": [
