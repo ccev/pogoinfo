@@ -26,6 +26,93 @@
                     }
                 }
             ]
+        },
+        {
+            "task": "Make 3 Curveball Throws",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 81,
+                        "template": "MAGNEMITE_NORMAL",
+                        "form": 655
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 100,
+                        "template": "VOLTORB"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Walk 1 km",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 694,
+                        "template": "HELIOPTILE"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Walk 2 km",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 88,
+                        "template": "GRIMER_ALOLA",
+                        "form": 74
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 568,
+                        "template": "TRUBBISH"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Walk 4 km. ",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 587,
+                        "template": "EMOLGA"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Take 2 snapshots of wild Electric-type Pokémon",
+            "rewards": [
+                {
+                    "type": "energy",
+                    "reward": {
+                        "id": 310,
+                        "template": "MANECTRIC_NORMAL",
+                        "form": 1487
+                    },
+                    "amount": 25
+                },
+                {
+                    "type": "energy",
+                    "reward": {
+                        "id": 181,
+                        "template": "AMPHAROS_NORMAL",
+                        "form": 652
+                    },
+                    "amount": 25
+                }
+            ]
         }
     ],
     "quests": [
@@ -1182,10 +1269,6 @@
                     "id": 1
                 }
             ]
-        },
-        {
-            "task": "Make 3 Curveball Throws",
-            "rewards": []
         }
     ],
     "ar": [
