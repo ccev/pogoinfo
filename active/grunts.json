@@ -487,14 +487,14 @@
                 ],
                 [
                     {
-                        "id": 59,
-                        "template": "ARCANINE_NORMAL",
-                        "form": 283
-                    },
-                    {
                         "id": 38,
                         "template": "NINETALES_NORMAL",
                         "form": 57
+                    },
+                    {
+                        "id": 59,
+                        "template": "ARCANINE_NORMAL",
+                        "form": 283
                     }
                 ]
             ]
@@ -1220,14 +1220,14 @@
                         "form": 815
                     },
                     {
-                        "id": 3,
-                        "template": "VENUSAUR_NORMAL",
-                        "form": 169
-                    },
-                    {
                         "id": 169,
                         "template": "CROBAT_NORMAL",
                         "form": 202
+                    },
+                    {
+                        "id": 3,
+                        "template": "VENUSAUR_NORMAL",
+                        "form": 169
                     }
                 ],
                 [
