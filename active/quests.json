@@ -48,18 +48,6 @@
             ]
         },
         {
-            "task": "Walk 1 km",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 694,
-                        "template": "HELIOPTILE"
-                    }
-                }
-            ]
-        },
-        {
             "task": "Walk 2 km",
             "rewards": [
                 {
@@ -75,6 +63,18 @@
                     "reward": {
                         "id": 568,
                         "template": "TRUBBISH"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Walk 1 km",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 694,
+                        "template": "HELIOPTILE"
                     }
                 }
             ]
