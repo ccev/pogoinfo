@@ -80,7 +80,7 @@
             ]
         },
         {
-            "task": "Walk 4 km. ",
+            "task": "Walk 4 km",
             "rewards": [
                 {
                     "type": "pokemon",
