@@ -1,6 +1,18 @@
 {
     "event": [
         {
+            "task": "Defeat 2 Team GO Rocket Grunts",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 453,
+                        "template": "CROAGUNK"
+                    }
+                }
+            ]
+        },
+        {
             "task": "Catch 5 Electric-type Pokémon",
             "rewards": [
                 {
