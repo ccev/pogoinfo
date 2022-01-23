@@ -31,7 +31,8 @@
         },
         {
             "id": 157,
-            "template": "TYPHLOSION"
+            "template": "TYPHLOSION_NORMAL",
+            "form": 1133
         },
         {
             "id": 303,

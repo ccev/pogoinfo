@@ -42,7 +42,8 @@
                     "type": "pokemon",
                     "reward": {
                         "id": 100,
-                        "template": "VOLTORB"
+                        "template": "VOLTORB_NORMAL",
+                        "form": 1047
                     }
                 }
             ]
@@ -999,21 +1000,24 @@
                     "type": "pokemon",
                     "reward": {
                         "id": 152,
-                        "template": "CHIKORITA"
+                        "template": "CHIKORITA_NORMAL",
+                        "form": 1118
                     }
                 },
                 {
                     "type": "pokemon",
                     "reward": {
                         "id": 155,
-                        "template": "CYNDAQUIL"
+                        "template": "CYNDAQUIL_NORMAL",
+                        "form": 1127
                     }
                 },
                 {
                     "type": "pokemon",
                     "reward": {
                         "id": 158,
-                        "template": "TOTODILE"
+                        "template": "TOTODILE_NORMAL",
+                        "form": 1136
                     }
                 }
             ]
