@@ -27,12 +27,61 @@
         }
     },
     "4": {
-        "active": false,
+        "active": true,
         "character": {
             "template": "CHARACTER_GRUNT_MALE",
             "gender": 1,
             "boss": false,
             "type": {}
+        },
+        "lineup": {
+            "rewards": [
+                0,
+                1
+            ],
+            "team": [
+                [
+                    {
+                        "id": 152,
+                        "template": "CHIKORITA_NORMAL",
+                        "form": 1118
+                    },
+                    {
+                        "id": 155,
+                        "template": "CYNDAQUIL_NORMAL",
+                        "form": 1127
+                    },
+                    {
+                        "id": 158,
+                        "template": "TOTODILE_NORMAL",
+                        "form": 1136
+                    }
+                ],
+                [
+                    {
+                        "id": 153,
+                        "template": "BAYLEEF_NORMAL",
+                        "form": 1121
+                    },
+                    {
+                        "id": 159,
+                        "template": "CROCONAW_NORMAL",
+                        "form": 1139
+                    }
+                ],
+                [
+                    {
+                        "id": 160,
+                        "template": "FERALIGATR_NORMAL",
+                        "form": 1142
+                    },
+                    {
+                        "id": 157,
+                        "template": "TYPHLOSION_NORMAL",
+                        "form": 1133
+                    }
+                ]
+            ]
         }
     },
     "5": {

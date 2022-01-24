@@ -1,19 +1,5 @@
 [
     {
-        "name": "GO Battle Day",
-        "type": "event",
-        "start": "2022-02-06 00:00",
-        "end": "2022-02-06 23:59",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Minun Spotlight Hour",
         "type": "spotlight-hour",
         "start": "2022-01-25 18:00",
@@ -162,6 +148,20 @@
         "has_spawnpoints": false
     },
     {
+        "name": "GO Battle Day",
+        "type": "event",
+        "start": "2022-02-06 00:00",
+        "end": "2022-02-06 23:59",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
         "name": "February Community Day",
         "type": "community-day",
         "start": "2022-02-12 11:00",
@@ -169,9 +169,54 @@
         "spawns": [],
         "eggs": [],
         "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
+        "shinies": [
+            {
+                "id": 187,
+                "template": "HOPPIP"
+            },
+            {
+                "id": 188,
+                "template": "SKIPLOOM"
+            },
+            {
+                "id": 189,
+                "template": "JUMPLUFF"
+            }
+        ],
+        "bonuses": [
+            {
+                "text": "Increased Spawns"
+            },
+            {
+                "text": "3x Catch Stardust",
+                "template": "increased-stardust",
+                "value": 3
+            },
+            {
+                "text": "3-hour Incense",
+                "template": "longer-incense",
+                "value": 3
+            },
+            {
+                "text": "3-hour Lures",
+                "template": "longer-lure",
+                "value": 3
+            },
+            {
+                "text": "Get up to three free Raid Passes from Gyms during the event and up to two hours after the event."
+            },
+            {
+                "text": "Chance for Skiploom to appear in Parks alongside Hoppip."
+            },
+            {
+                "text": "Bonus Hoppip Candy XL from Skiploom caught in Parks.",
+                "template": "increased-candy"
+            }
+        ],
+        "features": [
+            "Trainer Battles: 110 damage",
+            "Gyms and raids: 100 damage"
+        ],
         "has_quests": true,
         "has_spawnpoints": true
     },
