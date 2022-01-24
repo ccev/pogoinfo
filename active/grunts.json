@@ -97,8 +97,7 @@
         },
         "lineup": {
             "rewards": [
-                0,
-                1
+                0
             ],
             "team": [
                 [
@@ -138,8 +137,7 @@
         },
         "lineup": {
             "rewards": [
-                0,
-                1
+                0
             ],
             "team": [
                 [
@@ -166,6 +164,11 @@
                         "id": 319,
                         "template": "SHARPEDO_NORMAL",
                         "form": 737
+                    },
+                    {
+                        "id": 275,
+                        "template": "SHIFTRY_NORMAL",
+                        "form": 631
                     }
                 ]
             ]
@@ -241,17 +244,22 @@
             "team": [
                 [
                     {
+                        "id": 209,
+                        "template": "SNUBBULL_NORMAL",
+                        "form": 1253
+                    },
+                    {
                         "id": 280,
                         "template": "RALTS_NORMAL",
                         "form": 292
-                    },
+                    }
+                ],
+                [
                     {
                         "id": 209,
                         "template": "SNUBBULL_NORMAL",
                         "form": 1253
-                    }
-                ],
-                [
+                    },
                     {
                         "id": 281,
                         "template": "KIRLIA_NORMAL",
@@ -359,6 +367,11 @@
                         "id": 155,
                         "template": "CYNDAQUIL_NORMAL",
                         "form": 1127
+                    },
+                    {
+                        "id": 4,
+                        "template": "CHARMANDER_NORMAL",
+                        "form": 172
                     }
                 ],
                 [
@@ -476,10 +489,7 @@
             }
         },
         "lineup": {
-            "rewards": [
-                0,
-                1
-            ],
+            "rewards": [],
             "team": [
                 [
                     {
@@ -535,7 +545,8 @@
         },
         "lineup": {
             "rewards": [
-                0
+                0,
+                1
             ],
             "team": [
                 [
@@ -580,8 +591,7 @@
         },
         "lineup": {
             "rewards": [
-                0,
-                1
+                0
             ],
             "team": [
                 [
@@ -673,7 +683,8 @@
         },
         "lineup": {
             "rewards": [
-                0
+                0,
+                1
             ],
             "team": [
                 [
@@ -683,8 +694,20 @@
                         "form": 1442
                     }
                 ],
-                [],
-                []
+                [
+                    {
+                        "id": 294,
+                        "template": "LOUDRED_NORMAL",
+                        "form": 1445
+                    }
+                ],
+                [
+                    {
+                        "id": 400,
+                        "template": "BIBAREL_NORMAL",
+                        "form": 1670
+                    }
+                ]
             ]
         }
     },
@@ -719,12 +742,22 @@
                 ],
                 [
                     {
+                        "id": 33,
+                        "template": "NIDORINO_NORMAL",
+                        "form": 785
+                    },
+                    {
                         "id": 110,
                         "template": "WEEZING_NORMAL",
                         "form": 706
                     }
                 ],
                 [
+                    {
+                        "id": 110,
+                        "template": "WEEZING_NORMAL",
+                        "form": 706
+                    },
                     {
                         "id": 89,
                         "template": "MUK_NORMAL",
@@ -771,8 +804,7 @@
         },
         "lineup": {
             "rewards": [
-                0,
-                1
+                0
             ],
             "team": [
                 [
@@ -829,8 +861,7 @@
         },
         "lineup": {
             "rewards": [
-                0,
-                1
+                0
             ],
             "team": [
                 [
@@ -950,6 +981,11 @@
                         "id": 248,
                         "template": "TYRANITAR_NORMAL",
                         "form": 319
+                    },
+                    {
+                        "id": 389,
+                        "template": "TORTERRA_NORMAL",
+                        "form": 694
                     }
                 ]
             ]
@@ -980,6 +1016,16 @@
                         "id": 9,
                         "template": "BLASTOISE_NORMAL",
                         "form": 187
+                    },
+                    {
+                        "id": 6,
+                        "template": "CHARIZARD_NORMAL",
+                        "form": 178
+                    },
+                    {
+                        "id": 208,
+                        "template": "STEELIX_NORMAL",
+                        "form": 905
                     }
                 ],
                 [
@@ -1017,6 +1063,11 @@
                         "id": 103,
                         "template": "EXEGGUTOR_NORMAL",
                         "form": 77
+                    },
+                    {
+                        "id": 131,
+                        "template": "LAPRAS_NORMAL",
+                        "form": 322
                     }
                 ],
                 [
@@ -1030,12 +1081,40 @@
         }
     },
     "44": {
-        "active": false,
+        "active": true,
         "character": {
             "template": "CHARACTER_GIOVANNI",
             "gender": 1,
             "boss": true,
             "type": {}
+        },
+        "lineup": {
+            "rewards": [
+                2
+            ],
+            "team": [
+                [
+                    {
+                        "id": 53,
+                        "template": "PERSIAN_NORMAL",
+                        "form": 65
+                    }
+                ],
+                [
+                    {
+                        "id": 34,
+                        "template": "NIDOKING_NORMAL",
+                        "form": 788
+                    }
+                ],
+                [
+                    {
+                        "id": 249,
+                        "template": "LUGIA_NORMAL",
+                        "form": 1340
+                    }
+                ]
+            ]
         }
     },
     "45": {
