@@ -195,6 +195,20 @@
         "has_spawnpoints": false
     },
     {
+        "name": "Lunar New Year 2022",
+        "type": "event",
+        "start": "2022-02-01 10:00",
+        "end": "2022-02-07 20:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
         "name": "Spritzee Spotlight Hour",
         "type": "spotlight-hour",
         "start": "2022-02-08 18:00",
@@ -287,6 +301,20 @@
         "has_spawnpoints": true
     },
     {
+        "name": "Valentine’s Day 2022",
+        "type": "event",
+        "start": "2022-02-10 10:00",
+        "end": "2022-02-14 20:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
         "name": "Koffing Spotlight Hour",
         "type": "spotlight-hour",
         "start": "2022-02-15 18:00",
@@ -343,6 +371,20 @@
         "type": "raid-hour",
         "start": "2022-02-23 18:00",
         "end": "2022-02-23 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "GO Tour Johto Leadup Event",
+        "type": "event",
+        "start": "2022-02-18 10:00",
+        "end": "2022-02-25 20:00",
         "spawns": [],
         "eggs": [],
         "raids": [],
