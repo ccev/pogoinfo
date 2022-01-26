@@ -236,7 +236,8 @@
         },
         "lineup": {
             "rewards": [
-                0
+                0,
+                1
             ],
             "team": [
                 [
@@ -380,14 +381,14 @@
             "team": [
                 [
                     {
-                        "id": 209,
-                        "template": "SNUBBULL_NORMAL",
-                        "form": 1253
-                    },
-                    {
                         "id": 280,
                         "template": "RALTS_NORMAL",
                         "form": 292
+                    },
+                    {
+                        "id": 209,
+                        "template": "SNUBBULL_NORMAL",
+                        "form": 1253
                     }
                 ],
                 [
@@ -471,14 +472,14 @@
                 ],
                 [
                     {
-                        "id": 106,
-                        "template": "HITMONLEE_NORMAL",
-                        "form": 713
-                    },
-                    {
                         "id": 107,
                         "template": "HITMONCHAN_NORMAL",
                         "form": 277
+                    },
+                    {
+                        "id": 106,
+                        "template": "HITMONLEE_NORMAL",
+                        "form": 713
                     },
                     {
                         "id": 297,
@@ -782,14 +783,14 @@
                 ],
                 [
                     {
-                        "id": 459,
-                        "template": "SNOVER_NORMAL",
-                        "form": 932
-                    },
-                    {
                         "id": 91,
                         "template": "CLOYSTER_NORMAL",
                         "form": 879
+                    },
+                    {
+                        "id": 459,
+                        "template": "SNOVER_NORMAL",
+                        "form": 932
                     }
                 ],
                 [
@@ -919,14 +920,14 @@
                         "form": 776
                     },
                     {
-                        "id": 41,
-                        "template": "ZUBAT_NORMAL",
-                        "form": 157
-                    },
-                    {
                         "id": 30,
                         "template": "NIDORINA_NORMAL",
                         "form": 779
+                    },
+                    {
+                        "id": 41,
+                        "template": "ZUBAT_NORMAL",
+                        "form": 157
                     }
                 ],
                 [
@@ -1026,6 +1027,11 @@
                         "id": 97,
                         "template": "HYPNO_NORMAL",
                         "form": 217
+                    },
+                    {
+                        "id": 375,
+                        "template": "METANG_NORMAL",
+                        "form": 767
                     }
                 ]
             ]
@@ -1056,8 +1062,7 @@
         },
         "lineup": {
             "rewards": [
-                0,
-                1
+                0
             ],
             "team": [
                 [
@@ -1264,9 +1269,9 @@
                 ],
                 [
                     {
-                        "id": 208,
-                        "template": "STEELIX_NORMAL",
-                        "form": 905
+                        "id": 9,
+                        "template": "BLASTOISE_NORMAL",
+                        "form": 187
                     },
                     {
                         "id": 6,
@@ -1274,9 +1279,9 @@
                         "form": 178
                     },
                     {
-                        "id": 9,
-                        "template": "BLASTOISE_NORMAL",
-                        "form": 187
+                        "id": 208,
+                        "template": "STEELIX_NORMAL",
+                        "form": 905
                     }
                 ],
                 [

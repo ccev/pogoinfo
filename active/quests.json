@@ -1,33 +1,6 @@
 {
     "event": [
         {
-            "task": "Event: Catch 5 Electric-type Pokémon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 595,
-                        "template": "JOLTIK"
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 694,
-                        "template": "HELIOPTILE"
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 309,
-                        "template": "ELECTRIKE_NORMAL",
-                        "form": 1484
-                    }
-                }
-            ]
-        },
-        {
             "task": "Event: Defeat 2 Team GO Rocket Grunts",
             "rewards": [
                 {
@@ -51,6 +24,33 @@
                         "id": 23,
                         "template": "EKANS_NORMAL",
                         "form": 697
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Event: Catch 5 Electric-type Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 595,
+                        "template": "JOLTIK"
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 694,
+                        "template": "HELIOPTILE"
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 309,
+                        "template": "ELECTRIKE_NORMAL",
+                        "form": 1484
                     }
                 }
             ]
