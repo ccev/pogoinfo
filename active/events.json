@@ -167,6 +167,29 @@
         "has_spawnpoints": false
     },
     {
+        "name": "Hisiuan Voltorb Appearing in the Wild",
+        "type": "event",
+        "start": null,
+        "end": "2022-02-07 20:00",
+        "spawns": [
+            {
+                "id": 100,
+                "template": "VOLTORB"
+            }
+        ],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [
+            {
+                "text": "All Team GO Rocket grunts will only have Shadow Voltorb in their parties."
+            }
+        ],
+        "features": [],
+        "has_quests": true,
+        "has_spawnpoints": false
+    },
+    {
         "name": "Lunar New Year 2022",
         "type": "event",
         "start": "2022-02-01 10:00",
