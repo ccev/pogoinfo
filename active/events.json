@@ -169,7 +169,7 @@
     {
         "name": "Hisiuan Voltorb Appearing in the Wild",
         "type": "event",
-        "start": null,
+        "start": "2022-01-30 10:00",
         "end": "2022-02-07 20:00",
         "spawns": [
             {
