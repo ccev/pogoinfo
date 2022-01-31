@@ -194,13 +194,154 @@
         "type": "event",
         "start": "2022-02-01 10:00",
         "end": "2022-02-07 20:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
+        "spawns": [
+            {
+                "id": 46,
+                "template": "PARAS"
+            },
+            {
+                "id": 52,
+                "template": "MEOWTH"
+            },
+            {
+                "id": 58,
+                "template": "GROWLITHE"
+            },
+            {
+                "id": 100,
+                "template": "VOLTORB"
+            },
+            {
+                "id": 129,
+                "template": "MAGIKARP"
+            },
+            {
+                "id": 255,
+                "template": "TORCHIC"
+            },
+            {
+                "id": 667,
+                "template": "LITLEO"
+            },
+            {
+                "id": 125,
+                "template": "ELECTABUZZ"
+            },
+            {
+                "id": 130,
+                "template": "GYARADOS"
+            },
+            {
+                "id": 256,
+                "template": "COMBUSKEN"
+            }
+        ],
+        "eggs": [
+            {
+                "id": 213,
+                "template": "SHUCKLE"
+            },
+            {
+                "id": 218,
+                "template": "SLUGMA"
+            },
+            {
+                "id": 554,
+                "template": "DARUMAKA"
+            },
+            {
+                "id": 559,
+                "template": "SCRAGGY"
+            },
+            {
+                "id": 667,
+                "template": "LITLEO"
+            }
+        ],
+        "raids": [
+            {
+                "id": 129,
+                "template": "MAGIKARP"
+            },
+            {
+                "id": 403,
+                "template": "SHINX"
+            },
+            {
+                "id": 554,
+                "template": "DARUMAKA"
+            },
+            {
+                "id": 667,
+                "template": "LITLEO"
+            },
+            {
+                "id": 677,
+                "template": "ESPURR"
+            },
+            {
+                "id": 6,
+                "template": "CHARIZARD"
+            },
+            {
+                "id": 136,
+                "template": "FLAREON"
+            },
+            {
+                "id": 213,
+                "template": "SHUCKLE"
+            },
+            {
+                "id": 301,
+                "template": "DELCATTY"
+            },
+            {
+                "id": 359,
+                "template": "ABSOL"
+            },
+            {
+                "id": 621,
+                "template": "DRUDDIGON"
+            },
+            {
+                "id": 377,
+                "template": "REGIROCK"
+            },
+            {
+                "id": 229,
+                "template": "HOUNDOOM",
+                "temp_evolution_id": 1
+            }
+        ],
+        "shinies": [
+            {
+                "id": 667,
+                "template": "LITLEO"
+            },
+            {
+                "id": 668,
+                "template": "PYROAR"
+            }
+        ],
+        "bonuses": [
+            {
+                "text": "Increased chance for Lucky Pokémon in trades",
+                "template": "increased-lucky-chance"
+            },
+            {
+                "text": "Double Stardust from opening Gifts",
+                "template": "increased-stardust"
+            },
+            {
+                "text": "Increased chance to become Lucky Friends"
+            },
+            {
+                "text": "1 extra special trade per day*",
+                "value": 1
+            }
+        ],
         "features": [],
-        "has_quests": false,
+        "has_quests": true,
         "has_spawnpoints": false
     },
     {
