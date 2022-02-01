@@ -1,42 +1,51 @@
 {
     "1": [
         {
-            "id": 25,
-            "template": "PIKACHU_NORMAL",
-            "form": 598
-        },
-        {
-            "id": 374,
-            "template": "BELDUM_NORMAL",
-            "form": 764
+            "id": 129,
+            "template": "MAGIKARP_NORMAL",
+            "form": 253
         },
         {
             "id": 403,
             "template": "SHINX"
         },
         {
-            "id": 522,
-            "template": "BLITZLE"
+            "id": 554,
+            "template": "DARUMAKA_NORMAL",
+            "form": 2063
         },
         {
-            "id": 599,
-            "template": "KLINK"
+            "id": 667,
+            "template": "LITLEO"
+        },
+        {
+            "id": 677,
+            "template": "ESPURR"
         }
     ],
     "3": [
         {
-            "id": 87,
-            "template": "DEWGONG"
+            "id": 6,
+            "template": "CHARIZARD_NORMAL",
+            "form": 178
         },
         {
-            "id": 221,
-            "template": "PILOSWINE_NORMAL",
-            "form": 1280
+            "id": 136,
+            "template": "FLAREON"
         },
         {
-            "id": 391,
-            "template": "MONFERNO_NORMAL",
-            "form": 821
+            "id": 213,
+            "template": "SHUCKLE_NORMAL",
+            "form": 827
+        },
+        {
+            "id": 301,
+            "template": "DELCATTY"
+        },
+        {
+            "id": 359,
+            "template": "ABSOL_NORMAL",
+            "form": 830
         },
         {
             "id": 621,
@@ -45,15 +54,15 @@
     ],
     "5": [
         {
-            "id": 378,
-            "template": "REGICE"
+            "id": 377,
+            "template": "REGIROCK"
         }
     ],
     "6": [
         {
-            "id": 142,
-            "template": "AERODACTYL_NORMAL",
-            "form": 1110,
+            "id": 229,
+            "template": "HOUNDOOM_NORMAL",
+            "form": 232,
             "temp_evolution_id": 1
         }
     ]

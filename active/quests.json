@@ -1,150 +1,85 @@
 {
     "event": [
         {
-            "task": "Event: Defeat 2 Team GO Rocket Grunts",
+            "task": "Event: Hatch an Egg. ",
             "rewards": [
                 {
                     "type": "pokemon",
                     "reward": {
-                        "id": 453,
-                        "template": "CROAGUNK"
+                        "id": 52,
+                        "template": "MEOWTH_GALARIAN",
+                        "form": 2335
                     }
                 },
                 {
                     "type": "pokemon",
                     "reward": {
-                        "id": 451,
-                        "template": "SKORUPI_NORMAL",
-                        "form": 1796
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 23,
-                        "template": "EKANS_NORMAL",
-                        "form": 697
+                        "id": 52,
+                        "template": "MEOWTH_ALOLA",
+                        "form": 64
                     }
                 }
             ]
         },
         {
-            "task": "Event: Catch 5 Electric-type Pokémon",
+            "task": "Event: Catch 12 Pokémon",
             "rewards": [
                 {
                     "type": "pokemon",
                     "reward": {
-                        "id": 595,
-                        "template": "JOLTIK"
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 694,
-                        "template": "HELIOPTILE"
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 309,
-                        "template": "ELECTRIKE_NORMAL",
-                        "form": 1484
+                        "id": 554,
+                        "template": "DARUMAKA_NORMAL",
+                        "form": 2063
                     }
                 }
             ]
         },
         {
-            "task": "Event: Make 3 Curveball Throws",
+            "task": "Event: Send 3 Gifts and add a sticker to each",
             "rewards": [
                 {
                     "type": "pokemon",
                     "reward": {
-                        "id": 81,
-                        "template": "MAGNEMITE_NORMAL",
-                        "form": 655
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 100,
-                        "template": "VOLTORB_NORMAL",
-                        "form": 1047
+                        "id": 667,
+                        "template": "LITLEO"
                     }
                 }
             ]
         },
         {
-            "task": "Event: Walk 2 km",
+            "task": "Event: Send 3 Gifts to friends. ",
             "rewards": [
                 {
-                    "type": "item",
-                    "amount": 1,
-                    "id": 0
-                },
-                {
                     "type": "pokemon",
                     "reward": {
-                        "id": 88,
-                        "template": "GRIMER_ALOLA",
-                        "form": 74
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 568,
-                        "template": "TRUBBISH"
+                        "id": 129,
+                        "template": "MAGIKARP_NORMAL",
+                        "form": 253
                     }
                 }
             ]
         },
         {
-            "task": "Event: Walk 1 km",
+            "task": "Event: Trade a Pokémon",
             "rewards": [
                 {
                     "type": "pokemon",
                     "reward": {
-                        "id": 694,
-                        "template": "HELIOPTILE"
+                        "id": 667,
+                        "template": "LITLEO"
                     }
                 }
             ]
         },
         {
-            "task": "Event: Walk 4 km",
+            "task": "Event: Win a raid. ",
             "rewards": [
                 {
                     "type": "pokemon",
                     "reward": {
-                        "id": 587,
-                        "template": "EMOLGA"
+                        "id": 677,
+                        "template": "ESPURR"
                     }
-                }
-            ]
-        },
-        {
-            "task": "Event: Take 2 snapshots of wild Electric-type Pokémon",
-            "rewards": [
-                {
-                    "type": "energy",
-                    "reward": {
-                        "id": 310,
-                        "template": "MANECTRIC_NORMAL",
-                        "form": 1487
-                    },
-                    "amount": 25
-                },
-                {
-                    "type": "energy",
-                    "reward": {
-                        "id": 181,
-                        "template": "AMPHAROS_NORMAL",
-                        "form": 652
-                    },
-                    "amount": 25
                 }
             ]
         },
@@ -152,19 +87,13 @@
             "task": "Event: Catch 5 Pokémon",
             "rewards": [
                 {
-                    "type": "item",
-                    "amount": 5,
-                    "id": 102
-                },
-                {
-                    "type": "item",
-                    "amount": 2,
-                    "id": 103
-                },
-                {
-                    "type": "item",
-                    "amount": 1,
-                    "id": 201
+                    "type": "energy",
+                    "reward": {
+                        "id": 130,
+                        "template": "GYARADOS_NORMAL",
+                        "form": 256
+                    },
+                    "amount": 25
                 }
             ]
         }
