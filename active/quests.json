@@ -387,6 +387,14 @@
             "task": "Catch 10 Normal-type Pokémon",
             "rewards": [
                 {
+                    "type": "energy",
+                    "reward": {
+                        "id": 18,
+                        "template": "PIDGEOT"
+                    },
+                    "amount": 10
+                },
+                {
                     "type": "stardust",
                     "amount": 500
                 },
@@ -601,6 +609,18 @@
             ]
         },
         {
+            "task": "Make 5 Great Curveball Throws in a row",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 327,
+                        "template": "SPINDA"
+                    }
+                }
+            ]
+        },
+        {
             "task": "Make 3 Excellent Throws in a row",
             "rewards": [
                 {
@@ -640,18 +660,6 @@
                     "reward": {
                         "id": 597,
                         "template": "FERROSEED"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Make 5 Great Curveball Throws in a row",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 327,
-                        "template": "SPINDA"
                     }
                 }
             ]
