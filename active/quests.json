@@ -182,6 +182,40 @@
             ]
         },
         {
+            "task": "Catch 5 different species of Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 46,
+                        "template": "PARAS"
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 341,
+                        "template": "CORPHISH"
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 98,
+                        "template": "KRABBY_NORMAL",
+                        "form": 870
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 557,
+                        "template": "DWEBBLE"
+                    }
+                }
+            ]
+        },
+        {
             "task": "Catch a Dragon-type Pokémon",
             "rewards": [
                 {
@@ -267,33 +301,6 @@
             ]
         },
         {
-            "task": "Catch 5 different species of Pokémon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 46,
-                        "template": "PARAS"
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 341,
-                        "template": "CORPHISH"
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 98,
-                        "template": "KRABBY_NORMAL",
-                        "form": 870
-                    }
-                }
-            ]
-        },
-        {
             "task": "Catch 10 Grass-type Pokémon",
             "rewards": [
                 {
@@ -329,6 +336,15 @@
         {
             "task": "Catch 10 Fire-type Pokémon",
             "rewards": [
+                {
+                    "type": "energy",
+                    "reward": {
+                        "id": 6,
+                        "template": "CHARIZARD_NORMAL",
+                        "form": 178
+                    },
+                    "amount": 10
+                },
                 {
                     "type": "stardust",
                     "amount": 500
@@ -907,6 +923,18 @@
             ]
         },
         {
+            "task": "Trade a Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 120,
+                        "template": "STARYU"
+                    }
+                }
+            ]
+        },
+        {
             "task": "Earn 2 Candies walking with your buddy",
             "rewards": [
                 {
@@ -939,18 +967,6 @@
                     "reward": {
                         "id": 527,
                         "template": "WOOBAT"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Trade a Pokémon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 120,
-                        "template": "STARYU"
                     }
                 }
             ]
@@ -1084,6 +1100,14 @@
                         "form": 622
                     },
                     "amount": 10
+                },
+                {
+                    "type": "energy",
+                    "reward": {
+                        "id": 18,
+                        "template": "PIDGEOT"
+                    },
+                    "amount": 10
                 }
             ]
         },
@@ -1121,6 +1145,35 @@
             ]
         },
         {
+            "task": "Take a snapshot of a wild Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 273,
+                        "template": "SEEDOT_NORMAL",
+                        "form": 625
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 69,
+                        "template": "BELLSPROUT_NORMAL",
+                        "form": 664
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 43,
+                        "template": "ODDISH_NORMAL",
+                        "form": 265
+                    }
+                }
+            ]
+        },
+        {
             "task": "Hatch 2 Eggs",
             "rewards": [
                 {
@@ -1153,6 +1206,19 @@
             ]
         },
         {
+            "task": "Spin 5 PokéStops or Gyms",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 280,
+                        "template": "RALTS_NORMAL",
+                        "form": 292
+                    }
+                }
+            ]
+        },
+        {
             "task": "Hatch an Egg",
             "rewards": [
                 {
@@ -1160,35 +1226,6 @@
                     "reward": {
                         "id": 226,
                         "template": "MANTINE"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Take a snapshot of a wild Pokémon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 273,
-                        "template": "SEEDOT_NORMAL",
-                        "form": 625
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 69,
-                        "template": "BELLSPROUT_NORMAL",
-                        "form": 664
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 43,
-                        "template": "ODDISH_NORMAL",
-                        "form": 265
                     }
                 }
             ]
@@ -1220,19 +1257,6 @@
                     "reward": {
                         "id": 185,
                         "template": "SUDOWOODO"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Spin 5 PokéStops or Gyms",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 280,
-                        "template": "RALTS_NORMAL",
-                        "form": 292
                     }
                 }
             ]
