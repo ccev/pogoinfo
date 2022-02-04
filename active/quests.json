@@ -100,6 +100,40 @@
     ],
     "quests": [
         {
+            "task": "Catch 5 different species of Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 46,
+                        "template": "PARAS"
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 341,
+                        "template": "CORPHISH"
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 98,
+                        "template": "KRABBY_NORMAL",
+                        "form": 870
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 557,
+                        "template": "DWEBBLE"
+                    }
+                }
+            ]
+        },
+        {
             "task": "Catch 5 Pokémon",
             "rewards": [
                 {
@@ -177,40 +211,6 @@
                         "id": 459,
                         "template": "SNOVER_NORMAL",
                         "form": 932
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Catch 5 different species of Pokémon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 46,
-                        "template": "PARAS"
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 341,
-                        "template": "CORPHISH"
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 98,
-                        "template": "KRABBY_NORMAL",
-                        "form": 870
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 557,
-                        "template": "DWEBBLE"
                     }
                 }
             ]
@@ -832,6 +832,19 @@
             ]
         },
         {
+            "task": "Win 1 raids",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 227,
+                        "template": "SKARMORY_NORMAL",
+                        "form": 1295
+                    }
+                }
+            ]
+        },
+        {
             "task": "Battle in GO Battle League",
             "rewards": [
                 {
@@ -860,19 +873,6 @@
                         "id": 140,
                         "template": "KABUTO_NORMAL",
                         "form": 1104
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Win 1 raids",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 227,
-                        "template": "SKARMORY_NORMAL",
-                        "form": 1295
                     }
                 }
             ]
@@ -1206,31 +1206,6 @@
             ]
         },
         {
-            "task": "Spin 5 PokéStops or Gyms",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 280,
-                        "template": "RALTS_NORMAL",
-                        "form": 292
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Hatch an Egg",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 226,
-                        "template": "MANTINE"
-                    }
-                }
-            ]
-        },
-        {
             "task": "Spin 3 PokéStops or Gyms",
             "rewards": [
                 {
@@ -1257,6 +1232,31 @@
                     "reward": {
                         "id": 185,
                         "template": "SUDOWOODO"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Spin 5 PokéStops or Gyms",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 280,
+                        "template": "RALTS_NORMAL",
+                        "form": 292
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Hatch an Egg",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 226,
+                        "template": "MANTINE"
                     }
                 }
             ]
