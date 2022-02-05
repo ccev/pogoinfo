@@ -134,32 +134,6 @@
             ]
         },
         {
-            "task": "Catch 5 Pokémon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 84,
-                        "template": "DODUO"
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 16,
-                        "template": "PIDGEY"
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 21,
-                        "template": "SPEAROW"
-                    }
-                }
-            ]
-        },
-        {
             "task": "Catch 5 Pokémon with Weather Boost",
             "rewards": [
                 {
@@ -211,6 +185,32 @@
                         "id": 459,
                         "template": "SNOVER_NORMAL",
                         "form": 932
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Catch 5 Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 84,
+                        "template": "DODUO"
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 16,
+                        "template": "PIDGEY"
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 21,
+                        "template": "SPEAROW"
                     }
                 }
             ]
@@ -832,6 +832,27 @@
             ]
         },
         {
+            "task": "Win a level 3 or higher raid",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 138,
+                        "template": "OMANYTE_NORMAL",
+                        "form": 740
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 140,
+                        "template": "KABUTO_NORMAL",
+                        "form": 1104
+                    }
+                }
+            ]
+        },
+        {
             "task": "Win 1 raids",
             "rewards": [
                 {
@@ -852,27 +873,6 @@
                     "reward": {
                         "id": 307,
                         "template": "MEDITITE"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Win a level 3 or higher raid",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 138,
-                        "template": "OMANYTE_NORMAL",
-                        "form": 740
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 140,
-                        "template": "KABUTO_NORMAL",
-                        "form": 1104
                     }
                 }
             ]
@@ -1115,6 +1115,35 @@
             "task": "Take a snapshot of a wild Pokémon",
             "rewards": [
                 {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 273,
+                        "template": "SEEDOT_NORMAL",
+                        "form": 625
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 69,
+                        "template": "BELLSPROUT_NORMAL",
+                        "form": 664
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 43,
+                        "template": "ODDISH_NORMAL",
+                        "form": 265
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Take a snapshot of a wild Pokémon",
+            "rewards": [
+                {
                     "type": "item",
                     "amount": 1,
                     "id": 1102
@@ -1140,35 +1169,6 @@
                     "reward": {
                         "id": 193,
                         "template": "YANMA"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Take a snapshot of a wild Pokémon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 273,
-                        "template": "SEEDOT_NORMAL",
-                        "form": 625
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 69,
-                        "template": "BELLSPROUT_NORMAL",
-                        "form": 664
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 43,
-                        "template": "ODDISH_NORMAL",
-                        "form": 265
                     }
                 }
             ]
@@ -1260,10 +1260,6 @@
                     }
                 }
             ]
-        },
-        {
-            "task": "Hatch 3 Eggs",
-            "rewards": []
         },
         {
             "task": "Walk 2 km",
