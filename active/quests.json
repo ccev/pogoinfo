@@ -811,27 +811,6 @@
             ]
         },
         {
-            "task": "Defeat 2 Team GO Rocket Grunts",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 33,
-                        "template": "NIDORINO_NORMAL",
-                        "form": 785
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 30,
-                        "template": "NIDORINA_NORMAL",
-                        "form": 779
-                    }
-                }
-            ]
-        },
-        {
             "task": "Win a level 3 or higher raid",
             "rewards": [
                 {
@@ -853,6 +832,27 @@
             ]
         },
         {
+            "task": "Defeat 2 Team GO Rocket Grunts",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 33,
+                        "template": "NIDORINO_NORMAL",
+                        "form": 785
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 30,
+                        "template": "NIDORINA_NORMAL",
+                        "form": 779
+                    }
+                }
+            ]
+        },
+        {
             "task": "Win 1 raids",
             "rewards": [
                 {
@@ -866,18 +866,6 @@
             ]
         },
         {
-            "task": "Battle in GO Battle League",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 307,
-                        "template": "MEDITITE"
-                    }
-                }
-            ]
-        },
-        {
             "task": "Win 5 raids",
             "rewards": [
                 {
@@ -886,6 +874,18 @@
                         "id": 142,
                         "template": "AERODACTYL_NORMAL",
                         "form": 1110
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Battle in GO Battle League",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 307,
+                        "template": "MEDITITE"
                     }
                 }
             ]
