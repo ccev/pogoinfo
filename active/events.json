@@ -1,24 +1,5 @@
 [
     {
-        "name": "Spritzee Spotlight Hour",
-        "type": "spotlight-hour",
-        "start": "2022-02-08 18:00",
-        "end": "2022-02-08 19:00",
-        "spawns": [
-            {
-                "id": 682,
-                "template": "SPRITZEE"
-            }
-        ],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": true
-    },
-    {
         "name": "Registeel Raid Hour",
         "type": "raid-hour",
         "start": "2022-02-09 18:00",
