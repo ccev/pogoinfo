@@ -1,13 +1,17 @@
 {
     "1": [
         {
-            "id": 246,
-            "template": "LARVITAR_NORMAL",
-            "form": 313
+            "id": 81,
+            "template": "MAGNEMITE_NORMAL",
+            "form": 655
         },
         {
             "id": 403,
             "template": "SHINX"
+        },
+        {
+            "id": 436,
+            "template": "BRONZOR"
         },
         {
             "id": 532,
@@ -16,25 +20,23 @@
         {
             "id": 677,
             "template": "ESPURR"
-        },
-        {
-            "id": 688,
-            "template": "BINACLE"
         }
     ],
     "3": [
         {
-            "id": 75,
-            "template": "GRAVELER_ALOLA",
-            "form": 70
+            "id": 256,
+            "template": "COMBUSKEN_NORMAL",
+            "form": 1361
         },
         {
-            "id": 286,
-            "template": "BRELOOM"
+            "id": 303,
+            "template": "MAWILE_NORMAL",
+            "form": 833
         },
         {
-            "id": 525,
-            "template": "BOLDORE"
+            "id": 375,
+            "template": "METANG_NORMAL",
+            "form": 767
         },
         {
             "id": 621,
@@ -43,8 +45,8 @@
     ],
     "5": [
         {
-            "id": 377,
-            "template": "REGIROCK"
+            "id": 379,
+            "template": "REGISTEEL"
         }
     ],
     "6": [
