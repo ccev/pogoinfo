@@ -46,6 +46,18 @@
             ]
         },
         {
+            "task": "Event: Catch 20 Luvdisc",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 594,
+                        "template": "ALOMOMOLA"
+                    }
+                }
+            ]
+        },
+        {
             "task": "Event: Win a raid",
             "rewards": [
                 {
@@ -66,18 +78,6 @@
                     "reward": {
                         "id": 327,
                         "template": "SPINDA"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Event: Catch 20 Luvdisc",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 594,
-                        "template": "ALOMOMOLA"
                     }
                 }
             ]
