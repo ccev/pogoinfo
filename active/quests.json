@@ -1,5 +1,19 @@
 {
-    "event": [],
+    "event": [
+        {
+            "task": "Event: Use 5 Berries to help catch Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 280,
+                        "template": "RALTS_NORMAL",
+                        "form": 292
+                    }
+                }
+            ]
+        }
+    ],
     "quests": [
         {
             "task": "Catch 5 different species of Pokémon",
