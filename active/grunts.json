@@ -64,14 +64,14 @@
                         "form": 1130
                     },
                     {
-                        "id": 159,
-                        "template": "CROCONAW_NORMAL",
-                        "form": 1139
-                    },
-                    {
                         "id": 153,
                         "template": "BAYLEEF_NORMAL",
                         "form": 1121
+                    },
+                    {
+                        "id": 159,
+                        "template": "CROCONAW_NORMAL",
+                        "form": 1139
                     }
                 ],
                 [
@@ -579,14 +579,14 @@
             "team": [
                 [
                     {
-                        "id": 198,
-                        "template": "MURKROW_NORMAL",
-                        "form": 855
-                    },
-                    {
                         "id": 396,
                         "template": "STARLY_NORMAL",
                         "form": 1658
+                    },
+                    {
+                        "id": 198,
+                        "template": "MURKROW_NORMAL",
+                        "form": 855
                     },
                     {
                         "id": 41,
@@ -1350,14 +1350,14 @@
                         "form": 232
                     },
                     {
-                        "id": 275,
-                        "template": "SHIFTRY_NORMAL",
-                        "form": 631
-                    },
-                    {
                         "id": 260,
                         "template": "SWAMPERT_NORMAL",
                         "form": 211
+                    },
+                    {
+                        "id": 275,
+                        "template": "SHIFTRY_NORMAL",
+                        "form": 631
                     }
                 ]
             ]
