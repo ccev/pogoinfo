@@ -1,64 +1,5 @@
 [
     {
-        "name": "February Community Day",
-        "type": "community-day",
-        "start": "2022-02-12 11:00",
-        "end": "2022-02-12 17:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [
-            {
-                "id": 187,
-                "template": "HOPPIP"
-            },
-            {
-                "id": 188,
-                "template": "SKIPLOOM"
-            },
-            {
-                "id": 189,
-                "template": "JUMPLUFF"
-            }
-        ],
-        "bonuses": [
-            {
-                "text": "Increased Spawns"
-            },
-            {
-                "text": "3x Catch Stardust",
-                "template": "increased-stardust",
-                "value": 3
-            },
-            {
-                "text": "3-hour Incense",
-                "template": "longer-incense",
-                "value": 3
-            },
-            {
-                "text": "3-hour Lures",
-                "template": "longer-lure",
-                "value": 3
-            },
-            {
-                "text": "Get up to three free Raid Passes from Gyms during the event and up to two hours after the event."
-            },
-            {
-                "text": "Chance for Skiploom to appear in Parks alongside Hoppip."
-            },
-            {
-                "text": "Bonus Hoppip Candy XL from Skiploom caught in Parks.",
-                "template": "increased-candy"
-            }
-        ],
-        "features": [
-            "Trainer Battles: 110 damage",
-            "Gyms and raids: 100 damage"
-        ],
-        "has_quests": true,
-        "has_spawnpoints": true
-    },
-    {
         "name": "Valentine’s Day 2022",
         "type": "event",
         "start": "2022-02-10 10:00",
@@ -796,6 +737,48 @@
         "features": [],
         "has_quests": true,
         "has_spawnpoints": false
+    },
+    {
+        "name": "March Community Day",
+        "type": "community-day",
+        "start": "2022-03-13 11:00",
+        "end": "2022-03-13 17:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": true,
+        "has_spawnpoints": true
+    },
+    {
+        "name": "April Community Day",
+        "type": "community-day",
+        "start": "2022-04-23 11:00",
+        "end": "2022-04-23 17:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": true,
+        "has_spawnpoints": true
+    },
+    {
+        "name": "May Community Day",
+        "type": "community-day",
+        "start": "2022-05-21 11:00",
+        "end": "2022-05-21 17:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": true,
+        "has_spawnpoints": true
     },
     {
         "name": "[Postponed] Pikachu wearing an Okinawan kariyushi shirt and Shiny Corsola",
