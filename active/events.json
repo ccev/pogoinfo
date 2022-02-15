@@ -1,124 +1,5 @@
 [
     {
-        "name": "Valentine’s Day 2022",
-        "type": "event",
-        "start": "2022-02-10 10:00",
-        "end": "2022-02-14 20:00",
-        "spawns": [
-            {
-                "id": 113,
-                "template": "CHANSEY"
-            },
-            {
-                "id": 311,
-                "template": "PLUSLE"
-            },
-            {
-                "id": 312,
-                "template": "MINUN"
-            },
-            {
-                "id": 313,
-                "template": "VOLBEAT"
-            },
-            {
-                "id": 314,
-                "template": "ILLUMISE"
-            },
-            {
-                "id": 370,
-                "template": "LUVDISC"
-            },
-            {
-                "id": 527,
-                "template": "WOOBAT"
-            },
-            {
-                "id": 676,
-                "template": "FURFROU"
-            },
-            {
-                "id": 241,
-                "template": "MILTANK"
-            },
-            {
-                "id": 531,
-                "template": "AUDINO"
-            },
-            {
-                "id": 594,
-                "template": "ALOMOMOLA"
-            }
-        ],
-        "eggs": [],
-        "raids": [
-            {
-                "id": 241,
-                "template": "MILTANK"
-            },
-            {
-                "id": 315,
-                "template": "ROSELIA"
-            },
-            {
-                "id": 531,
-                "template": "AUDINO"
-            },
-            {
-                "id": 676,
-                "template": "FURFROU"
-            },
-            {
-                "id": 31,
-                "template": "NIDOQUEEN"
-            },
-            {
-                "id": 34,
-                "template": "NIDOKING"
-            },
-            {
-                "id": 108,
-                "template": "LICKITUNG"
-            },
-            {
-                "id": 282,
-                "template": "GARDEVOIR"
-            },
-            {
-                "id": 475,
-                "template": "GALLADE"
-            },
-            {
-                "id": 379,
-                "template": "REGISTEEL"
-            },
-            {
-                "id": 229,
-                "template": "HOUNDOOM",
-                "temp_evolution_id": 1
-            }
-        ],
-        "shinies": [],
-        "bonuses": [
-            {
-                "text": "2× Lure Module duration",
-                "template": "longer-lure",
-                "value": 2
-            },
-            {
-                "text": "2× Catch Candy",
-                "template": "increased-candy",
-                "value": 2
-            },
-            {
-                "text": "Your Buddy Pokémon will bring you items more often"
-            }
-        ],
-        "features": [],
-        "has_quests": true,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Koffing Spotlight Hour",
         "type": "spotlight-hour",
         "start": "2022-02-15 18:00",
@@ -285,6 +166,22 @@
             {
                 "id": 175,
                 "template": "TOGEPI"
+            },
+            {
+                "id": 236,
+                "template": "TYROGUE"
+            },
+            {
+                "id": 238,
+                "template": "SMOOCHUM"
+            },
+            {
+                "id": 239,
+                "template": "ELEKID"
+            },
+            {
+                "id": 240,
+                "template": "MAGBY"
             }
         ],
         "raids": [],
