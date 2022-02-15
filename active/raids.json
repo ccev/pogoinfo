@@ -1,46 +1,46 @@
 {
     "1": [
         {
-            "id": 241,
-            "template": "MILTANK"
+            "id": 81,
+            "template": "MAGNEMITE_NORMAL",
+            "form": 655
         },
         {
-            "id": 315,
-            "template": "ROSELIA"
+            "id": 403,
+            "template": "SHINX"
         },
         {
-            "id": 531,
-            "template": "AUDINO"
+            "id": 436,
+            "template": "BRONZOR"
         },
         {
-            "id": 676,
-            "template": "FURFROU"
+            "id": 532,
+            "template": "TIMBURR"
+        },
+        {
+            "id": 677,
+            "template": "ESPURR"
         }
     ],
     "3": [
         {
-            "id": 31,
-            "template": "NIDOQUEEN_NORMAL",
-            "form": 782
+            "id": 256,
+            "template": "COMBUSKEN_NORMAL",
+            "form": 1361
         },
         {
-            "id": 34,
-            "template": "NIDOKING_NORMAL",
-            "form": 788
+            "id": 303,
+            "template": "MAWILE_NORMAL",
+            "form": 833
         },
         {
-            "id": 108,
-            "template": "LICKITUNG"
+            "id": 375,
+            "template": "METANG_NORMAL",
+            "form": 767
         },
         {
-            "id": 282,
-            "template": "GARDEVOIR_NORMAL",
-            "form": 298
-        },
-        {
-            "id": 475,
-            "template": "GALLADE_NORMAL",
-            "form": 301
+            "id": 621,
+            "template": "DRUDDIGON"
         }
     ],
     "5": [
