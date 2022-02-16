@@ -1,21 +1,23 @@
 {
     "1": [
         {
-            "id": 81,
-            "template": "MAGNEMITE_NORMAL",
-            "form": 655
+            "id": 200,
+            "template": "MISDREAVUS_NORMAL",
+            "form": 719
         },
         {
-            "id": 403,
-            "template": "SHINX"
+            "id": 215,
+            "template": "SNEASEL_NORMAL",
+            "form": 797
         },
         {
-            "id": 436,
-            "template": "BRONZOR"
+            "id": 263,
+            "template": "ZIGZAGOON_GALARIAN",
+            "form": 946
         },
         {
-            "id": 532,
-            "template": "TIMBURR"
+            "id": 343,
+            "template": "BALTOY"
         },
         {
             "id": 677,
@@ -24,9 +26,9 @@
     ],
     "3": [
         {
-            "id": 256,
-            "template": "COMBUSKEN_NORMAL",
-            "form": 1361
+            "id": 112,
+            "template": "RHYDON_NORMAL",
+            "form": 849
         },
         {
             "id": 303,
@@ -34,9 +36,9 @@
             "form": 833
         },
         {
-            "id": 375,
-            "template": "METANG_NORMAL",
-            "form": 767
+            "id": 356,
+            "template": "DUSCLOPS_NORMAL",
+            "form": 917
         },
         {
             "id": 621,
@@ -45,15 +47,16 @@
     ],
     "5": [
         {
-            "id": 379,
-            "template": "REGISTEEL"
+            "id": 386,
+            "template": "DEOXYS_NORMAL",
+            "form": 33
         }
     ],
     "6": [
         {
-            "id": 229,
-            "template": "HOUNDOOM_NORMAL",
-            "form": 232,
+            "id": 181,
+            "template": "AMPHAROS_NORMAL",
+            "form": 652,
             "temp_evolution_id": 1
         }
     ]
