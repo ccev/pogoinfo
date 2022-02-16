@@ -1,24 +1,5 @@
 [
     {
-        "name": "Koffing Spotlight Hour",
-        "type": "spotlight-hour",
-        "start": "2022-02-15 18:00",
-        "end": "2022-02-15 19:00",
-        "spawns": [
-            {
-                "id": 109,
-                "template": "KOFFING"
-            }
-        ],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": true
-    },
-    {
         "name": "Normal Forme Deoxys Raid Hour",
         "type": "raid-hour",
         "start": "2022-02-16 18:00",
@@ -233,36 +214,8 @@
         "raids": [],
         "shinies": [
             {
-                "id": 163,
-                "template": "HOOTHOOT"
-            },
-            {
-                "id": 164,
-                "template": "NOCTOWL"
-            },
-            {
-                "id": 187,
-                "template": "HOPPIP"
-            },
-            {
-                "id": 188,
-                "template": "SKIPLOOM"
-            },
-            {
-                "id": 189,
-                "template": "JUMPLUFF"
-            },
-            {
                 "id": 203,
                 "template": "GIRAFARIG"
-            },
-            {
-                "id": 218,
-                "template": "SLUGMA"
-            },
-            {
-                "id": 219,
-                "template": "MAGCARGO"
             },
             {
                 "id": 222,
