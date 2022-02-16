@@ -66,17 +66,63 @@
         "has_spawnpoints": false
     },
     {
-        "name": "GO Tour Johto Leadup Event",
+        "name": "GO Tour Poké Ball Prep Rally",
         "type": "event",
         "start": "2022-02-18 10:00",
         "end": "2022-02-25 20:00",
-        "spawns": [],
+        "spawns": [
+            {
+                "id": 100,
+                "template": "VOLTORB"
+            },
+            {
+                "id": 109,
+                "template": "KOFFING"
+            },
+            {
+                "id": 183,
+                "template": "MARILL"
+            },
+            {
+                "id": 320,
+                "template": "WAILMER"
+            },
+            {
+                "id": 577,
+                "template": "SOLOSIS"
+            },
+            {
+                "id": 590,
+                "template": "FOONGUS"
+            },
+            {
+                "id": 39,
+                "template": "JIGGLYPUFF"
+            },
+            {
+                "id": 101,
+                "template": "ELECTRODE"
+            },
+            {
+                "id": 591,
+                "template": "AMOONGUSS"
+            },
+            {
+                "id": 618,
+                "template": "STUNFISK_GALARIAN",
+                "form": 2345
+            }
+        ],
         "eggs": [],
         "raids": [],
         "shinies": [],
-        "bonuses": [],
+        "bonuses": [
+            {
+                "text": "Buddies will bring you Poké Balls in Gifts"
+            }
+        ],
         "features": [],
-        "has_quests": false,
+        "has_quests": true,
         "has_spawnpoints": false
     },
     {
