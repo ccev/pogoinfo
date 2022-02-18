@@ -116,6 +116,11 @@
                 ],
                 [
                     {
+                        "id": 62,
+                        "template": "POLIWRATH_NORMAL",
+                        "form": 241
+                    },
+                    {
                         "id": 143,
                         "template": "SNORLAX_NORMAL",
                         "form": 199
@@ -124,11 +129,6 @@
                         "id": 282,
                         "template": "GARDEVOIR_NORMAL",
                         "form": 298
-                    },
-                    {
-                        "id": 62,
-                        "template": "POLIWRATH_NORMAL",
-                        "form": 241
                     }
                 ],
                 [
