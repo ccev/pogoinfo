@@ -663,19 +663,14 @@
         "has_spawnpoints": true
     },
     {
-        "name": "[Postponed] Pikachu wearing an Okinawan kariyushi shirt and Shiny Corsola",
+        "name": "Pokémon Air Adventures x Pokémon GO Global Collaboration Event",
         "type": "event",
-        "start": null,
-        "end": null,
+        "start": "2022-05-03 00:00",
+        "end": "2023-05-08 23:59",
         "spawns": [],
         "eggs": [],
         "raids": [],
-        "shinies": [
-            {
-                "id": 222,
-                "template": "CORSOLA"
-            }
-        ],
+        "shinies": [],
         "bonuses": [],
         "features": [],
         "has_quests": false,
