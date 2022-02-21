@@ -116,14 +116,14 @@
                 ],
                 [
                     {
-                        "id": 62,
-                        "template": "POLIWRATH_NORMAL",
-                        "form": 241
-                    },
-                    {
                         "id": 143,
                         "template": "SNORLAX_NORMAL",
                         "form": 199
+                    },
+                    {
+                        "id": 62,
+                        "template": "POLIWRATH_NORMAL",
+                        "form": 241
                     },
                     {
                         "id": 282,
@@ -1350,14 +1350,14 @@
                         "form": 232
                     },
                     {
-                        "id": 275,
-                        "template": "SHIFTRY_NORMAL",
-                        "form": 631
-                    },
-                    {
                         "id": 260,
                         "template": "SWAMPERT_NORMAL",
                         "form": 211
+                    },
+                    {
+                        "id": 275,
+                        "template": "SHIFTRY_NORMAL",
+                        "form": 631
                     }
                 ]
             ]
