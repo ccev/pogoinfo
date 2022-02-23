@@ -1682,11 +1682,20 @@
             "type": {}
         }
     },
+    "508": {
+        "active": false,
+        "character": {
+            "template": "CHARACTER_EVENT_NPC_8",
+            "gender": 1,
+            "boss": false,
+            "type": {}
+        }
+    },
     "509": {
         "active": false,
         "character": {
             "template": "CHARACTER_EVENT_NPC_9",
-            "gender": 1,
+            "gender": 0,
             "boss": false,
             "type": {}
         }
@@ -1695,7 +1704,7 @@
         "active": false,
         "character": {
             "template": "CHARACTER_EVENT_NPC_10",
-            "gender": 1,
+            "gender": 0,
             "boss": false,
             "type": {}
         }
