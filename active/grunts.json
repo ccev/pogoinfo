@@ -59,14 +59,14 @@
                 ],
                 [
                     {
-                        "id": 153,
-                        "template": "BAYLEEF_NORMAL",
-                        "form": 1121
-                    },
-                    {
                         "id": 156,
                         "template": "QUILAVA_NORMAL",
                         "form": 1130
+                    },
+                    {
+                        "id": 153,
+                        "template": "BAYLEEF_NORMAL",
+                        "form": 1121
                     },
                     {
                         "id": 159,
@@ -121,14 +121,14 @@
                         "form": 199
                     },
                     {
-                        "id": 62,
-                        "template": "POLIWRATH_NORMAL",
-                        "form": 241
-                    },
-                    {
                         "id": 282,
                         "template": "GARDEVOIR_NORMAL",
                         "form": 298
+                    },
+                    {
+                        "id": 62,
+                        "template": "POLIWRATH_NORMAL",
+                        "form": 241
                     }
                 ],
                 [
