@@ -42,11 +42,6 @@
             "team": [
                 [
                     {
-                        "id": 158,
-                        "template": "TOTODILE_NORMAL",
-                        "form": 1136
-                    },
-                    {
                         "id": 155,
                         "template": "CYNDAQUIL_NORMAL",
                         "form": 1127
@@ -55,6 +50,11 @@
                         "id": 152,
                         "template": "CHIKORITA_NORMAL",
                         "form": 1118
+                    },
+                    {
+                        "id": 158,
+                        "template": "TOTODILE_NORMAL",
+                        "form": 1136
                     }
                 ],
                 [
