@@ -178,7 +178,36 @@
                 "template": "MAGBY"
             }
         ],
-        "raids": [],
+        "raids": [
+            {
+                "id": 214,
+                "template": "HERACROSS"
+            },
+            {
+                "id": 222,
+                "template": "CORSOLA"
+            },
+            {
+                "id": 243,
+                "template": "RAIKOU"
+            },
+            {
+                "id": 244,
+                "template": "ENTEI"
+            },
+            {
+                "id": 245,
+                "template": "SUICUNE"
+            },
+            {
+                "id": 249,
+                "template": "LUGIA"
+            },
+            {
+                "id": 250,
+                "template": "HO_OH"
+            }
+        ],
         "shinies": [
             {
                 "id": 203,
