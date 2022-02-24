@@ -1271,6 +1271,11 @@
                 ],
                 [
                     {
+                        "id": 208,
+                        "template": "STEELIX_NORMAL",
+                        "form": 905
+                    },
+                    {
                         "id": 6,
                         "template": "CHARIZARD_NORMAL",
                         "form": 178
@@ -1279,11 +1284,6 @@
                         "id": 9,
                         "template": "BLASTOISE_NORMAL",
                         "form": 187
-                    },
-                    {
-                        "id": 208,
-                        "template": "STEELIX_NORMAL",
-                        "form": 905
                     }
                 ],
                 [

@@ -1,19 +1,5 @@
 [
     {
-        "name": "Defense Forme Deoxys Raid Hour",
-        "type": "raid-hour",
-        "start": "2022-02-23 18:00",
-        "end": "2022-02-23 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
         "name": "GO Tour Poké Ball Prep Rally",
         "type": "event",
         "start": "2022-02-18 10:00",
