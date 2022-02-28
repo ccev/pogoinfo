@@ -1,17 +1,19 @@
 {
     "event": [
         {
-            "task": "Event: Catch 2 Voltorb",
+            "task": "Event: Walk 1 km",
             "rewards": [
                 {
-                    "type": "item",
-                    "amount": 3,
-                    "id": 1
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 734,
+                        "template": "YUNGOOS"
+                    }
                 }
             ]
         },
         {
-            "task": "Event: Make 5 Nice Throws",
+            "task": "Event: Catch 7 Pokémon",
             "rewards": [
                 {
                     "type": "item",
@@ -21,42 +23,12 @@
             ]
         },
         {
-            "task": "Event: Make 3 Great Throws",
+            "task": "Event: Use 7 Berries to help catch Pokémon",
             "rewards": [
                 {
                     "type": "item",
-                    "amount": 5,
-                    "id": 2
-                }
-            ]
-        },
-        {
-            "task": "Event: Make an Excellent Throw",
-            "rewards": [
-                {
-                    "type": "item",
-                    "amount": 3,
+                    "amount": 7,
                     "id": 3
-                }
-            ]
-        },
-        {
-            "task": "Event: Make 3 Nice Curveball Throws in a row",
-            "rewards": [
-                {
-                    "type": "item",
-                    "amount": 3,
-                    "id": 705
-                }
-            ]
-        },
-        {
-            "task": "Event: Make 4 Great Curveball Throws in a row",
-            "rewards": [
-                {
-                    "type": "item",
-                    "amount": 1,
-                    "id": 708
                 }
             ]
         }
@@ -1231,30 +1203,6 @@
                     "type": "item",
                     "amount": 1,
                     "id": 708
-                }
-            ]
-        },
-        {
-            "task": "Spin 10 PokéStops or Gyms",
-            "rewards": [
-                {
-                    "type": "stardust",
-                    "amount": 200
-                },
-                {
-                    "type": "item",
-                    "amount": 3,
-                    "id": 701
-                },
-                {
-                    "type": "item",
-                    "amount": 1,
-                    "id": 705
-                },
-                {
-                    "type": "item",
-                    "amount": 5,
-                    "id": 1
                 }
             ]
         }

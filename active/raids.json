@@ -1,62 +1,61 @@
 {
     "1": [
         {
-            "id": 200,
-            "template": "MISDREAVUS_NORMAL",
-            "form": 719
+            "id": 69,
+            "template": "BELLSPROUT_NORMAL",
+            "form": 664
         },
         {
-            "id": 215,
-            "template": "SNEASEL_NORMAL",
-            "form": 797
+            "id": 209,
+            "template": "SNUBBULL_NORMAL",
+            "form": 1253
         },
         {
-            "id": 263,
-            "template": "ZIGZAGOON_GALARIAN",
-            "form": 946
+            "id": 231,
+            "template": "PHANPY"
         },
         {
-            "id": 343,
-            "template": "BALTOY"
+            "id": 309,
+            "template": "ELECTRIKE_NORMAL",
+            "form": 1484
         },
         {
-            "id": 677,
-            "template": "ESPURR"
+            "id": 744,
+            "template": "ROCKRUFF"
         }
     ],
     "3": [
         {
-            "id": 112,
-            "template": "RHYDON_NORMAL",
-            "form": 849
+            "id": 26,
+            "template": "RAICHU_ALOLA",
+            "form": 50
         },
         {
-            "id": 303,
-            "template": "MAWILE_NORMAL",
-            "form": 833
+            "id": 31,
+            "template": "NIDOQUEEN_NORMAL",
+            "form": 782
         },
         {
-            "id": 356,
-            "template": "DUSCLOPS_NORMAL",
-            "form": 917
+            "id": 40,
+            "template": "WIGGLYTUFF"
         },
         {
-            "id": 621,
-            "template": "DRUDDIGON"
+            "id": 75,
+            "template": "GRAVELER_ALOLA",
+            "form": 70
         }
     ],
     "5": [
         {
-            "id": 386,
-            "template": "DEOXYS_SPEED",
-            "form": 36
+            "id": 785,
+            "template": "TAPU_KOKO"
         }
     ],
     "6": [
         {
-            "id": 181,
-            "template": "AMPHAROS_NORMAL",
-            "form": 652,
+            "id": 3,
+            "template": "VENUSAUR_NORMAL",
+            "form": 169,
             "temp_evolution_id": 1
         }
     ]

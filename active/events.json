@@ -1,287 +1,5 @@
 [
     {
-        "name": "GO Tour Poké Ball Prep Rally",
-        "type": "event",
-        "start": "2022-02-18 10:00",
-        "end": "2022-02-25 20:00",
-        "spawns": [
-            {
-                "id": 100,
-                "template": "VOLTORB"
-            },
-            {
-                "id": 109,
-                "template": "KOFFING"
-            },
-            {
-                "id": 183,
-                "template": "MARILL"
-            },
-            {
-                "id": 320,
-                "template": "WAILMER"
-            },
-            {
-                "id": 577,
-                "template": "SOLOSIS"
-            },
-            {
-                "id": 590,
-                "template": "FOONGUS"
-            },
-            {
-                "id": 39,
-                "template": "JIGGLYPUFF"
-            },
-            {
-                "id": 101,
-                "template": "ELECTRODE"
-            },
-            {
-                "id": 591,
-                "template": "AMOONGUSS"
-            },
-            {
-                "id": 618,
-                "template": "STUNFISK_GALARIAN",
-                "form": 2345
-            }
-        ],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [
-            {
-                "text": "Buddies will bring you Poké Balls in Gifts"
-            }
-        ],
-        "features": [],
-        "has_quests": true,
-        "has_spawnpoints": false
-    },
-    {
-        "name": "Pokémon GO Tour: Johto",
-        "type": "event",
-        "start": "2022-02-26 09:00",
-        "end": "2022-02-26 21:00",
-        "spawns": [
-            {
-                "id": 167,
-                "template": "SPINARAK"
-            },
-            {
-                "id": 207,
-                "template": "GLIGAR"
-            },
-            {
-                "id": 216,
-                "template": "TEDDIURSA"
-            },
-            {
-                "id": 226,
-                "template": "MANTINE"
-            },
-            {
-                "id": 152,
-                "template": "CHIKORITA"
-            },
-            {
-                "id": 155,
-                "template": "CYNDAQUIL"
-            },
-            {
-                "id": 158,
-                "template": "TOTODILE"
-            },
-            {
-                "id": 174,
-                "template": "IGGLYBUFF"
-            },
-            {
-                "id": 177,
-                "template": "NATU"
-            },
-            {
-                "id": 187,
-                "template": "HOPPIP"
-            },
-            {
-                "id": 191,
-                "template": "SUNKERN"
-            },
-            {
-                "id": 200,
-                "template": "MISDREAVUS"
-            },
-            {
-                "id": 202,
-                "template": "WOBBUFFET"
-            },
-            {
-                "id": 213,
-                "template": "SHUCKLE"
-            },
-            {
-                "id": 220,
-                "template": "SWINUB"
-            },
-            {
-                "id": 250,
-                "template": "HO_OH"
-            }
-        ],
-        "eggs": [
-            {
-                "id": 172,
-                "template": "PICHU"
-            },
-            {
-                "id": 173,
-                "template": "CLEFFA"
-            },
-            {
-                "id": 174,
-                "template": "IGGLYBUFF"
-            },
-            {
-                "id": 175,
-                "template": "TOGEPI"
-            },
-            {
-                "id": 236,
-                "template": "TYROGUE"
-            },
-            {
-                "id": 238,
-                "template": "SMOOCHUM"
-            },
-            {
-                "id": 239,
-                "template": "ELEKID"
-            },
-            {
-                "id": 240,
-                "template": "MAGBY"
-            }
-        ],
-        "raids": [
-            {
-                "id": 214,
-                "template": "HERACROSS"
-            },
-            {
-                "id": 222,
-                "template": "CORSOLA"
-            },
-            {
-                "id": 243,
-                "template": "RAIKOU"
-            },
-            {
-                "id": 244,
-                "template": "ENTEI"
-            },
-            {
-                "id": 245,
-                "template": "SUICUNE"
-            },
-            {
-                "id": 249,
-                "template": "LUGIA"
-            },
-            {
-                "id": 250,
-                "template": "HO_OH"
-            }
-        ],
-        "shinies": [
-            {
-                "id": 203,
-                "template": "GIRAFARIG"
-            },
-            {
-                "id": 222,
-                "template": "CORSOLA"
-            },
-            {
-                "id": 223,
-                "template": "REMORAID"
-            },
-            {
-                "id": 224,
-                "template": "OCTILLERY"
-            },
-            {
-                "id": 226,
-                "template": "MANTINE"
-            },
-            {
-                "id": 231,
-                "template": "PHANPY"
-            },
-            {
-                "id": 232,
-                "template": "DONPHAN"
-            },
-            {
-                "id": 236,
-                "template": "TYROGUE"
-            },
-            {
-                "id": 237,
-                "template": "HITMONTOP"
-            },
-            {
-                "id": 201,
-                "template": "UNOWN_G",
-                "form": 7
-            },
-            {
-                "id": 201,
-                "template": "UNOWN_O",
-                "form": 15
-            },
-            {
-                "id": 201,
-                "template": "UNOWN_T",
-                "form": 20
-            },
-            {
-                "id": 201,
-                "template": "UNOWN_U",
-                "form": 21
-            },
-            {
-                "id": 201,
-                "template": "UNOWN_R",
-                "form": 18
-            },
-            {
-                "id": 201,
-                "template": "UNOWN_J",
-                "form": 10
-            }
-        ],
-        "bonuses": [],
-        "features": [],
-        "has_quests": true,
-        "has_spawnpoints": false
-    },
-    {
-        "name": "Pokémon GO Tour: Live",
-        "type": "event",
-        "start": "2022-02-27 10:00",
-        "end": "2022-02-27 18:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Season of Heritage",
         "type": "event",
         "start": "2021-12-01 10:00",
@@ -617,17 +335,246 @@
         "has_spawnpoints": false
     },
     {
-        "name": "March Community Day",
-        "type": "community-day",
-        "start": "2022-03-13 11:00",
-        "end": "2022-03-13 17:00",
-        "spawns": [],
+        "name": "Cubone Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2022-03-01 18:00",
+        "end": "2022-03-01 19:00",
+        "spawns": [
+            {
+                "id": 104,
+                "template": "CUBONE"
+            }
+        ],
         "eggs": [],
         "raids": [],
         "shinies": [],
         "bonuses": [],
         "features": [],
+        "has_quests": false,
+        "has_spawnpoints": true
+    },
+    {
+        "name": "Exeggcute Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2022-03-08 18:00",
+        "end": "2022-03-08 19:00",
+        "spawns": [
+            {
+                "id": 102,
+                "template": "EXEGGCUTE"
+            }
+        ],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": true
+    },
+    {
+        "name": "Welcome to Alola",
+        "type": "event",
+        "start": "2022-03-01 10:00",
+        "end": "2022-03-09 20:00",
+        "spawns": [
+            {
+                "id": 722,
+                "template": "ROWLET"
+            },
+            {
+                "id": 725,
+                "template": "LITTEN"
+            },
+            {
+                "id": 728,
+                "template": "POPPLIO"
+            },
+            {
+                "id": 731,
+                "template": "PIKIPEK"
+            },
+            {
+                "id": 734,
+                "template": "YUNGOOS"
+            }
+        ],
+        "eggs": [],
+        "raids": [
+            {
+                "id": 69,
+                "template": "BELLSPROUT"
+            },
+            {
+                "id": 209,
+                "template": "SNUBBULL"
+            },
+            {
+                "id": 231,
+                "template": "PHANPY"
+            },
+            {
+                "id": 309,
+                "template": "ELECTRIKE"
+            },
+            {
+                "id": 744,
+                "template": "ROCKRUFF"
+            },
+            {
+                "id": 26,
+                "template": "RAICHU_ALOLA",
+                "form": 50
+            },
+            {
+                "id": 31,
+                "template": "NIDOQUEEN"
+            },
+            {
+                "id": 40,
+                "template": "WIGGLYTUFF"
+            },
+            {
+                "id": 75,
+                "template": "GRAVELER_ALOLA",
+                "form": 70
+            },
+            {
+                "id": 785,
+                "template": "TAPU_KOKO"
+            },
+            {
+                "id": 3,
+                "template": "VENUSAUR",
+                "temp_evolution_id": 1
+            }
+        ],
+        "shinies": [
+            {
+                "id": 744,
+                "template": "ROCKRUFF"
+            },
+            {
+                "id": 745,
+                "template": "LYCANROC"
+            },
+            {
+                "id": 734,
+                "template": "YUNGOOS"
+            },
+            {
+                "id": 735,
+                "template": "GUMSHOOS"
+            }
+        ],
+        "bonuses": [],
+        "features": [],
         "has_quests": true,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Sandshrew Community Day",
+        "type": "community-day",
+        "start": "2022-03-13 11:00",
+        "end": "2022-03-13 17:00",
+        "spawns": [
+            {
+                "id": 27,
+                "template": "SANDSHREW"
+            },
+            {
+                "id": 27,
+                "template": "SANDSHREW_ALOLA",
+                "form": 52
+            }
+        ],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [
+            {
+                "text": "Increased Spawns"
+            },
+            {
+                "text": "1/4 Egg Hatch Distance",
+                "template": "reduced-hatch-distance",
+                "value": 14
+            },
+            {
+                "text": "3-hour Incense",
+                "template": "longer-incense",
+                "value": 3
+            },
+            {
+                "text": "3-hour Lures",
+                "template": "longer-lure",
+                "value": 3
+            }
+        ],
+        "features": [
+            "Trainer Battles: 50 power",
+            "Gyms and raids: 50 power",
+            "Trainer Battles: 6 power",
+            "Gyms and raids: 9 power"
+        ],
+        "has_quests": true,
+        "has_spawnpoints": true
+    },
+    {
+        "name": "Growlithe Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2022-03-15 18:00",
+        "end": "2022-03-15 19:00",
+        "spawns": [
+            {
+                "id": 58,
+                "template": "GROWLITHE"
+            }
+        ],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": true
+    },
+    {
+        "name": "Sudowoodo Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2022-03-22 18:00",
+        "end": "2022-03-22 19:00",
+        "spawns": [
+            {
+                "id": 185,
+                "template": "SUDOWOODO"
+            }
+        ],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": true
+    },
+    {
+        "name": "Paras Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2022-03-29 18:00",
+        "end": "2022-03-29 19:00",
+        "spawns": [
+            {
+                "id": 46,
+                "template": "PARAS"
+            }
+        ],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
         "has_spawnpoints": true
     },
     {
@@ -657,6 +604,314 @@
         "features": [],
         "has_quests": true,
         "has_spawnpoints": true
+    },
+    {
+        "name": "Season of Alola",
+        "type": "event",
+        "start": "2022-03-01 10:00",
+        "end": "2022-06-01 10:00",
+        "spawns": [
+            {
+                "id": 19,
+                "template": "RATTATA_ALOLA",
+                "form": 46
+            },
+            {
+                "id": 52,
+                "template": "MEOWTH_ALOLA",
+                "form": 64
+            },
+            {
+                "id": 88,
+                "template": "GRIMER_ALOLA",
+                "form": 74
+            },
+            {
+                "id": 135,
+                "template": "JOLTEON"
+            },
+            {
+                "id": 296,
+                "template": "MAKUHITA"
+            },
+            {
+                "id": 572,
+                "template": "MINCCINO"
+            },
+            {
+                "id": 46,
+                "template": "PARAS"
+            },
+            {
+                "id": 102,
+                "template": "EXEGGCUTE"
+            },
+            {
+                "id": 190,
+                "template": "AIPOM"
+            },
+            {
+                "id": 204,
+                "template": "PINECO"
+            },
+            {
+                "id": 309,
+                "template": "ELECTRIKE"
+            },
+            {
+                "id": 627,
+                "template": "RUFFLET"
+            },
+            {
+                "id": 734,
+                "template": "YUNGOOS"
+            },
+            {
+                "id": 50,
+                "template": "DIGLETT_ALOLA",
+                "form": 60
+            },
+            {
+                "id": 74,
+                "template": "GEODUDE_ALOLA",
+                "form": 68
+            },
+            {
+                "id": 104,
+                "template": "CUBONE"
+            },
+            {
+                "id": 136,
+                "template": "FLAREON"
+            },
+            {
+                "id": 343,
+                "template": "BALTOY"
+            },
+            {
+                "id": 566,
+                "template": "ARCHEN"
+            },
+            {
+                "id": 622,
+                "template": "GOLETT"
+            },
+            {
+                "id": 103,
+                "template": "EXEGGUTOR_ALOLA",
+                "form": 78
+            },
+            {
+                "id": 120,
+                "template": "STARYU"
+            },
+            {
+                "id": 134,
+                "template": "VAPOREON"
+            },
+            {
+                "id": 147,
+                "template": "DRATINI"
+            },
+            {
+                "id": 341,
+                "template": "CORPHISH"
+            },
+            {
+                "id": 564,
+                "template": "TIRTOUGA"
+            }
+        ],
+        "eggs": [
+            {
+                "id": 60,
+                "template": "POLIWAG"
+            },
+            {
+                "id": 102,
+                "template": "EXEGGCUTE"
+            },
+            {
+                "id": 104,
+                "template": "CUBONE"
+            },
+            {
+                "id": 307,
+                "template": "MEDITITE"
+            },
+            {
+                "id": 320,
+                "template": "WAILMER"
+            },
+            {
+                "id": 339,
+                "template": "BARBOACH"
+            },
+            {
+                "id": 650,
+                "template": "CHESPIN"
+            },
+            {
+                "id": 653,
+                "template": "FENNEKIN"
+            },
+            {
+                "id": 656,
+                "template": "FROAKIE"
+            },
+            {
+                "id": 731,
+                "template": "PIKIPEK"
+            },
+            {
+                "id": 734,
+                "template": "YUNGOOS"
+            },
+            {
+                "id": 86,
+                "template": "SEEL"
+            },
+            {
+                "id": 227,
+                "template": "SKARMORY"
+            },
+            {
+                "id": 236,
+                "template": "TYROGUE"
+            },
+            {
+                "id": 298,
+                "template": "AZURILL"
+            },
+            {
+                "id": 438,
+                "template": "BONSLY"
+            },
+            {
+                "id": 458,
+                "template": "MANTYKE"
+            },
+            {
+                "id": 722,
+                "template": "ROWLET"
+            },
+            {
+                "id": 725,
+                "template": "LITTEN"
+            },
+            {
+                "id": 728,
+                "template": "POPPLIO"
+            },
+            {
+                "id": 447,
+                "template": "RIOLU"
+            },
+            {
+                "id": 531,
+                "template": "AUDINO"
+            },
+            {
+                "id": 554,
+                "template": "DARUMAKA"
+            },
+            {
+                "id": 594,
+                "template": "ALOMOMOLA"
+            },
+            {
+                "id": 610,
+                "template": "AXEW"
+            },
+            {
+                "id": 627,
+                "template": "RUFFLET"
+            },
+            {
+                "id": 677,
+                "template": "ESPURR"
+            },
+            {
+                "id": 704,
+                "template": "GOOMY"
+            },
+            {
+                "id": 714,
+                "template": "NOIBAT"
+            },
+            {
+                "id": 744,
+                "template": "ROCKRUFF"
+            },
+            {
+                "id": 782,
+                "template": "JANGMO_O"
+            },
+            {
+                "id": 408,
+                "template": "CRANIDOS"
+            },
+            {
+                "id": 410,
+                "template": "SHIELDON"
+            },
+            {
+                "id": 440,
+                "template": "HAPPINY"
+            },
+            {
+                "id": 446,
+                "template": "MUNCHLAX"
+            },
+            {
+                "id": 702,
+                "template": "DEDENNE"
+            },
+            {
+                "id": 708,
+                "template": "PHANTUMP"
+            },
+            {
+                "id": 147,
+                "template": "DRATINI"
+            },
+            {
+                "id": 371,
+                "template": "BAGON"
+            },
+            {
+                "id": 374,
+                "template": "BELDUM"
+            },
+            {
+                "id": 633,
+                "template": "DEINO"
+            }
+        ],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [
+            {
+                "text": "Increased Incense effectiveness while moving",
+                "template": "longer-incense"
+            },
+            {
+                "text": "Increased damage for Pokémon participating in raids remotely"
+            },
+            {
+                "text": "Guaranteed Gifts from PokéStop spins"
+            },
+            {
+                "text": "Up to two free Raid Passes per day by spinning Gym Photo Discs"
+            },
+            {
+                "text": "Incense will last for 90 minutes",
+                "value": 90
+            }
+        ],
+        "features": [],
+        "has_quests": true,
+        "has_spawnpoints": false
     },
     {
         "name": "Pokémon Air Adventures x Pokémon GO Global Collaboration Event",

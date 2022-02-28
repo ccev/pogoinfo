@@ -42,14 +42,14 @@
             "team": [
                 [
                     {
-                        "id": 155,
-                        "template": "CYNDAQUIL_NORMAL",
-                        "form": 1127
-                    },
-                    {
                         "id": 152,
                         "template": "CHIKORITA_NORMAL",
                         "form": 1118
+                    },
+                    {
+                        "id": 155,
+                        "template": "CYNDAQUIL_NORMAL",
+                        "form": 1127
                     },
                     {
                         "id": 158,
@@ -59,14 +59,14 @@
                 ],
                 [
                     {
-                        "id": 156,
-                        "template": "QUILAVA_NORMAL",
-                        "form": 1130
-                    },
-                    {
                         "id": 153,
                         "template": "BAYLEEF_NORMAL",
                         "form": 1121
+                    },
+                    {
+                        "id": 156,
+                        "template": "QUILAVA_NORMAL",
+                        "form": 1130
                     },
                     {
                         "id": 159,
@@ -116,9 +116,9 @@
                 ],
                 [
                     {
-                        "id": 143,
-                        "template": "SNORLAX_NORMAL",
-                        "form": 199
+                        "id": 62,
+                        "template": "POLIWRATH_NORMAL",
+                        "form": 241
                     },
                     {
                         "id": 282,
@@ -126,9 +126,9 @@
                         "form": 298
                     },
                     {
-                        "id": 62,
-                        "template": "POLIWRATH_NORMAL",
-                        "form": 241
+                        "id": 143,
+                        "template": "SNORLAX_NORMAL",
+                        "form": 199
                     }
                 ],
                 [
@@ -461,14 +461,14 @@
                 ],
                 [
                     {
-                        "id": 66,
-                        "template": "MACHOP_NORMAL",
-                        "form": 809
-                    },
-                    {
                         "id": 296,
                         "template": "MAKUHITA_NORMAL",
                         "form": 1451
+                    },
+                    {
+                        "id": 66,
+                        "template": "MACHOP_NORMAL",
+                        "form": 809
                     }
                 ],
                 [
@@ -1276,14 +1276,14 @@
                         "form": 905
                     },
                     {
-                        "id": 6,
-                        "template": "CHARIZARD_NORMAL",
-                        "form": 178
-                    },
-                    {
                         "id": 9,
                         "template": "BLASTOISE_NORMAL",
                         "form": 187
+                    },
+                    {
+                        "id": 6,
+                        "template": "CHARIZARD_NORMAL",
+                        "form": 178
                     }
                 ],
                 [
