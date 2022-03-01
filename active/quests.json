@@ -9,6 +9,13 @@
                         "id": 734,
                         "template": "YUNGOOS"
                     }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 731,
+                        "template": "PIKIPEK"
+                    }
                 }
             ]
         },
@@ -19,6 +26,11 @@
                     "type": "item",
                     "amount": 10,
                     "id": 1
+                },
+                {
+                    "type": "item",
+                    "amount": 10,
+                    "id": 2
                 }
             ]
         },
