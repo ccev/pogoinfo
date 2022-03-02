@@ -47,40 +47,6 @@
     ],
     "quests": [
         {
-            "task": "Catch 5 different species of Pokémon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 46,
-                        "template": "PARAS"
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 341,
-                        "template": "CORPHISH"
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 98,
-                        "template": "KRABBY_NORMAL",
-                        "form": 870
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 557,
-                        "template": "DWEBBLE"
-                    }
-                }
-            ]
-        },
-        {
             "task": "Catch 5 Pokémon with Weather Boost",
             "rewards": [
                 {
@@ -137,27 +103,94 @@
             ]
         },
         {
+            "task": "Use 5 Berries to help catch Pokémon",
+            "rewards": [
+                {
+                    "type": "stardust",
+                    "amount": 500
+                },
+                {
+                    "type": "item",
+                    "amount": 6,
+                    "id": 701
+                },
+                {
+                    "type": "item",
+                    "amount": 2,
+                    "id": 705
+                },
+                {
+                    "type": "item",
+                    "amount": 5,
+                    "id": 2
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 194,
+                        "template": "WOOPER_NORMAL",
+                        "form": 1226
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 320,
+                        "template": "WAILMER"
+                    }
+                }
+            ]
+        },
+        {
             "task": "Catch 5 Pokémon",
             "rewards": [
                 {
                     "type": "pokemon",
                     "reward": {
-                        "id": 84,
-                        "template": "DODUO"
+                        "id": 399,
+                        "template": "BIDOOF_NORMAL",
+                        "form": 1667
                     }
                 },
                 {
                     "type": "pokemon",
                     "reward": {
-                        "id": 16,
-                        "template": "PIDGEY"
+                        "id": 50,
+                        "template": "DIGLETT_NORMAL",
+                        "form": 59
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Catch 7 Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 129,
+                        "template": "MAGIKARP_NORMAL",
+                        "form": 253
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Catch 5 different species of Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 255,
+                        "template": "TORCHIC_NORMAL",
+                        "form": 1358
                     }
                 },
                 {
                     "type": "pokemon",
                     "reward": {
-                        "id": 21,
-                        "template": "SPEAROW"
+                        "id": 661,
+                        "template": "FLETCHLING"
                     }
                 }
             ]
@@ -203,46 +236,13 @@
             ]
         },
         {
-            "task": "Catch 7 Pokémon",
+            "task": "Catch 5 Normal-type Pokémon",
             "rewards": [
                 {
                     "type": "pokemon",
                     "reward": {
-                        "id": 129,
-                        "template": "MAGIKARP_NORMAL",
-                        "form": 253
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Use 5 Berries to help catch Pokémon",
-            "rewards": [
-                {
-                    "type": "stardust",
-                    "amount": 500
-                },
-                {
-                    "type": "item",
-                    "amount": 6,
-                    "id": 701
-                },
-                {
-                    "type": "item",
-                    "amount": 2,
-                    "id": 705
-                },
-                {
-                    "type": "item",
-                    "amount": 5,
-                    "id": 2
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 114,
-                        "template": "TANGELA_NORMAL",
-                        "form": 1059
+                        "id": 734,
+                        "template": "YUNGOOS"
                     }
                 }
             ]
@@ -283,15 +283,6 @@
         {
             "task": "Catch 10 Fire-type Pokémon",
             "rewards": [
-                {
-                    "type": "energy",
-                    "reward": {
-                        "id": 6,
-                        "template": "CHARIZARD_NORMAL",
-                        "form": 178
-                    },
-                    "amount": 10
-                },
                 {
                     "type": "stardust",
                     "amount": 500
@@ -349,14 +340,6 @@
         {
             "task": "Catch 10 Normal-type Pokémon",
             "rewards": [
-                {
-                    "type": "energy",
-                    "reward": {
-                        "id": 18,
-                        "template": "PIDGEOT"
-                    },
-                    "amount": 10
-                },
                 {
                     "type": "stardust",
                     "amount": 500
@@ -530,6 +513,19 @@
             ]
         },
         {
+            "task": "Make 2 Excellent Throws",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 246,
+                        "template": "LARVITAR_NORMAL",
+                        "form": 313
+                    }
+                }
+            ]
+        },
+        {
             "task": "Make 3 Great Throws in a row",
             "rewards": [
                 {
@@ -617,13 +613,6 @@
                     "type": "item",
                     "amount": 5,
                     "id": 2
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 597,
-                        "template": "FERROSEED"
-                    }
                 }
             ]
         },
@@ -758,6 +747,40 @@
             ]
         },
         {
+            "task": "Defeat 2 Team GO Rocket Grunts",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 296,
+                        "template": "MAKUHITA_NORMAL",
+                        "form": 1451
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 66,
+                        "template": "MACHOP_NORMAL",
+                        "form": 809
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Battle in GO Battle League",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 258,
+                        "template": "MUDKIP_NORMAL",
+                        "form": 205
+                    }
+                }
+            ]
+        },
+        {
             "task": "Win a level 3 or higher raid",
             "rewards": [
                 {
@@ -779,35 +802,13 @@
             ]
         },
         {
-            "task": "Defeat 2 Team GO Rocket Grunts",
+            "task": "Win a raid",
             "rewards": [
                 {
                     "type": "pokemon",
                     "reward": {
-                        "id": 33,
-                        "template": "NIDORINO_NORMAL",
-                        "form": 785
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 30,
-                        "template": "NIDORINA_NORMAL",
-                        "form": 779
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Win 1 raids",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 227,
-                        "template": "SKARMORY_NORMAL",
-                        "form": 1295
+                        "id": 627,
+                        "template": "RUFFLET"
                     }
                 }
             ]
@@ -826,45 +827,24 @@
             ]
         },
         {
-            "task": "Battle in GO Battle League",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 307,
-                        "template": "MEDITITE"
-                    }
-                }
-            ]
-        },
-        {
             "task": "Use 10 supereffective Charged Attacks",
-            "rewards": [
-                {
-                    "type": "energy",
-                    "reward": {
-                        "id": 18,
-                        "template": "PIDGEOT"
-                    },
-                    "amount": 20
-                }
-            ]
+            "rewards": []
         },
         {
-            "task": "Open 3 Gifts",
+            "task": "Send 5 Gifts and add a sticker to each",
             "rewards": [
                 {
                     "type": "pokemon",
                     "reward": {
-                        "id": 684,
-                        "template": "SWIRLIX"
+                        "id": 546,
+                        "template": "COTTONEE"
                     }
                 },
                 {
                     "type": "pokemon",
                     "reward": {
-                        "id": 682,
-                        "template": "SPRITZEE"
+                        "id": 548,
+                        "template": "PETILIL"
                     }
                 }
             ]
@@ -875,8 +855,40 @@
                 {
                     "type": "pokemon",
                     "reward": {
-                        "id": 120,
-                        "template": "STARYU"
+                        "id": 165,
+                        "template": "LEDYBA"
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 167,
+                        "template": "SPINARAK"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Earn a Candy walking with your buddy",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 299,
+                        "template": "NOSEPASS_NORMAL",
+                        "form": 1460
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Earn 5 hearts with your buddy",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 56,
+                        "template": "MANKEY"
                     }
                 }
             ]
@@ -907,16 +919,8 @@
             ]
         },
         {
-            "task": "Earn 5 hearts with your buddy. ",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 527,
-                        "template": "WOOBAT"
-                    }
-                }
-            ]
+            "task": "Open 3 Gifts",
+            "rewards": []
         },
         {
             "task": "Power up Pokémon 3 times",
@@ -1005,17 +1009,22 @@
             ]
         },
         {
-            "task": "Power up Pokémon 5 times",
+            "task": "Power up Pokémon 10 times",
             "rewards": [
                 {
                     "type": "energy",
                     "reward": {
-                        "id": 9,
-                        "template": "BLASTOISE_NORMAL",
-                        "form": 187
+                        "id": 3,
+                        "template": "VENUSAUR_NORMAL",
+                        "form": 169
                     },
-                    "amount": 10
-                },
+                    "amount": 20
+                }
+            ]
+        },
+        {
+            "task": "Power up Pokémon 5 times",
+            "rewards": [
                 {
                     "type": "energy",
                     "reward": {
@@ -1028,9 +1037,9 @@
                 {
                     "type": "energy",
                     "reward": {
-                        "id": 6,
-                        "template": "CHARIZARD_NORMAL",
-                        "form": 178
+                        "id": 9,
+                        "template": "BLASTOISE_NORMAL",
+                        "form": 187
                     },
                     "amount": 10
                 }
@@ -1042,48 +1051,10 @@
                 {
                     "type": "energy",
                     "reward": {
-                        "id": 15,
-                        "template": "BEEDRILL_NORMAL",
-                        "form": 622
-                    },
-                    "amount": 10
-                },
-                {
-                    "type": "energy",
-                    "reward": {
                         "id": 18,
                         "template": "PIDGEOT"
                     },
                     "amount": 10
-                }
-            ]
-        },
-        {
-            "task": "Take a snapshot of a wild Pokémon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 273,
-                        "template": "SEEDOT_NORMAL",
-                        "form": 625
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 69,
-                        "template": "BELLSPROUT_NORMAL",
-                        "form": 664
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 43,
-                        "template": "ODDISH_NORMAL",
-                        "form": 265
-                    }
                 }
             ]
         },
@@ -1121,21 +1092,30 @@
             ]
         },
         {
-            "task": "Hatch 2 Eggs",
+            "task": "Take a snapshot of a wild Pokémon",
             "rewards": [
                 {
                     "type": "pokemon",
                     "reward": {
-                        "id": 374,
-                        "template": "BELDUM_NORMAL",
-                        "form": 764
+                        "id": 54,
+                        "template": "PSYDUCK_NORMAL",
+                        "form": 286
                     }
                 },
                 {
                     "type": "pokemon",
                     "reward": {
-                        "id": 594,
-                        "template": "ALOMOMOLA"
+                        "id": 96,
+                        "template": "DROWZEE_NORMAL",
+                        "form": 214
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 63,
+                        "template": "ABRA_NORMAL",
+                        "form": 304
                     }
                 }
             ]
@@ -1197,6 +1177,27 @@
             ]
         },
         {
+            "task": "Hatch 2 Eggs",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 374,
+                        "template": "BELDUM_NORMAL",
+                        "form": 764
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 103,
+                        "template": "EXEGGUTOR_ALOLA",
+                        "form": 78
+                    }
+                }
+            ]
+        },
+        {
             "task": "Hatch an Egg",
             "rewards": [
                 {
@@ -1205,16 +1206,6 @@
                         "id": 226,
                         "template": "MANTINE"
                     }
-                }
-            ]
-        },
-        {
-            "task": "Walk 2 km",
-            "rewards": [
-                {
-                    "type": "item",
-                    "amount": 1,
-                    "id": 708
                 }
             ]
         }

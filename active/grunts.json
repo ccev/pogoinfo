@@ -59,14 +59,14 @@
                 ],
                 [
                     {
-                        "id": 153,
-                        "template": "BAYLEEF_NORMAL",
-                        "form": 1121
-                    },
-                    {
                         "id": 156,
                         "template": "QUILAVA_NORMAL",
                         "form": 1130
+                    },
+                    {
+                        "id": 153,
+                        "template": "BAYLEEF_NORMAL",
+                        "form": 1121
                     },
                     {
                         "id": 159,
@@ -1214,14 +1214,14 @@
                 ],
                 [
                     {
-                        "id": 105,
-                        "template": "MAROWAK_NORMAL",
-                        "form": 79
-                    },
-                    {
                         "id": 139,
                         "template": "OMASTAR_NORMAL",
                         "form": 743
+                    },
+                    {
+                        "id": 105,
+                        "template": "MAROWAK_NORMAL",
+                        "form": 79
                     },
                     {
                         "id": 466,
@@ -1276,14 +1276,14 @@
                         "form": 905
                     },
                     {
-                        "id": 9,
-                        "template": "BLASTOISE_NORMAL",
-                        "form": 187
-                    },
-                    {
                         "id": 6,
                         "template": "CHARIZARD_NORMAL",
                         "form": 178
+                    },
+                    {
+                        "id": 9,
+                        "template": "BLASTOISE_NORMAL",
+                        "form": 187
                     }
                 ],
                 [
