@@ -59,14 +59,14 @@
                 ],
                 [
                     {
-                        "id": 153,
-                        "template": "BAYLEEF_NORMAL",
-                        "form": 1121
-                    },
-                    {
                         "id": 156,
                         "template": "QUILAVA_NORMAL",
                         "form": 1130
+                    },
+                    {
+                        "id": 153,
+                        "template": "BAYLEEF_NORMAL",
+                        "form": 1121
                     },
                     {
                         "id": 159,
@@ -76,14 +76,14 @@
                 ],
                 [
                     {
-                        "id": 157,
-                        "template": "TYPHLOSION_NORMAL",
-                        "form": 1133
-                    },
-                    {
                         "id": 154,
                         "template": "MEGANIUM_NORMAL",
                         "form": 1124
+                    },
+                    {
+                        "id": 157,
+                        "template": "TYPHLOSION_NORMAL",
+                        "form": 1133
                     },
                     {
                         "id": 160,
@@ -121,14 +121,14 @@
                         "form": 241
                     },
                     {
-                        "id": 143,
-                        "template": "SNORLAX_NORMAL",
-                        "form": 199
-                    },
-                    {
                         "id": 282,
                         "template": "GARDEVOIR_NORMAL",
                         "form": 298
+                    },
+                    {
+                        "id": 143,
+                        "template": "SNORLAX_NORMAL",
+                        "form": 199
                     }
                 ],
                 [
@@ -1020,14 +1020,14 @@
                 ],
                 [
                     {
-                        "id": 65,
-                        "template": "ALAKAZAM_NORMAL",
-                        "form": 310
-                    },
-                    {
                         "id": 97,
                         "template": "HYPNO_NORMAL",
                         "form": 217
+                    },
+                    {
+                        "id": 65,
+                        "template": "ALAKAZAM_NORMAL",
+                        "form": 310
                     },
                     {
                         "id": 375,
@@ -1214,14 +1214,14 @@
                 ],
                 [
                     {
-                        "id": 139,
-                        "template": "OMASTAR_NORMAL",
-                        "form": 743
-                    },
-                    {
                         "id": 105,
                         "template": "MAROWAK_NORMAL",
                         "form": 79
+                    },
+                    {
+                        "id": 139,
+                        "template": "OMASTAR_NORMAL",
+                        "form": 743
                     },
                     {
                         "id": 466,
@@ -1276,14 +1276,14 @@
                         "form": 905
                     },
                     {
-                        "id": 9,
-                        "template": "BLASTOISE_NORMAL",
-                        "form": 187
-                    },
-                    {
                         "id": 6,
                         "template": "CHARIZARD_NORMAL",
                         "form": 178
+                    },
+                    {
+                        "id": 9,
+                        "template": "BLASTOISE_NORMAL",
+                        "form": 187
                     }
                 ],
                 [
@@ -1350,14 +1350,14 @@
                         "form": 232
                     },
                     {
-                        "id": 275,
-                        "template": "SHIFTRY_NORMAL",
-                        "form": 631
-                    },
-                    {
                         "id": 260,
                         "template": "SWAMPERT_NORMAL",
                         "form": 211
+                    },
+                    {
+                        "id": 275,
+                        "template": "SHIFTRY_NORMAL",
+                        "form": 631
                     }
                 ]
             ]
