@@ -138,14 +138,14 @@
                         "form": 196
                     },
                     {
-                        "id": 143,
-                        "template": "SNORLAX_NORMAL",
-                        "form": 199
-                    },
-                    {
                         "id": 130,
                         "template": "GYARADOS_NORMAL",
                         "form": 256
+                    },
+                    {
+                        "id": 143,
+                        "template": "SNORLAX_NORMAL",
+                        "form": 199
                     }
                 ]
             ]
@@ -461,14 +461,14 @@
                 ],
                 [
                     {
-                        "id": 66,
-                        "template": "MACHOP_NORMAL",
-                        "form": 809
-                    },
-                    {
                         "id": 296,
                         "template": "MAKUHITA_NORMAL",
                         "form": 1451
+                    },
+                    {
+                        "id": 66,
+                        "template": "MACHOP_NORMAL",
+                        "form": 809
                     }
                 ],
                 [
@@ -1350,14 +1350,14 @@
                         "form": 232
                     },
                     {
-                        "id": 275,
-                        "template": "SHIFTRY_NORMAL",
-                        "form": 631
-                    },
-                    {
                         "id": 260,
                         "template": "SWAMPERT_NORMAL",
                         "form": 211
+                    },
+                    {
+                        "id": 275,
+                        "template": "SHIFTRY_NORMAL",
+                        "form": 631
                     }
                 ]
             ]
