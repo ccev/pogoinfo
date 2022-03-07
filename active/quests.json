@@ -124,6 +124,26 @@
             ]
         },
         {
+            "task": "Catch 5 different species of Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 255,
+                        "template": "TORCHIC_NORMAL",
+                        "form": 1358
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 661,
+                        "template": "FLETCHLING"
+                    }
+                }
+            ]
+        },
+        {
             "task": "Catch a Dragon-type Pokémon",
             "rewards": [
                 {
@@ -198,26 +218,6 @@
                     "reward": {
                         "id": 320,
                         "template": "WAILMER"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Catch 5 different species of Pokémon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 255,
-                        "template": "TORCHIC_NORMAL",
-                        "form": 1358
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 661,
-                        "template": "FLETCHLING"
                     }
                 }
             ]
