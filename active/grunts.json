@@ -334,14 +334,14 @@
                 ],
                 [
                     {
-                        "id": 148,
-                        "template": "DRAGONAIR_NORMAL",
-                        "form": 193
-                    },
-                    {
                         "id": 149,
                         "template": "DRAGONITE_NORMAL",
                         "form": 196
+                    },
+                    {
+                        "id": 148,
+                        "template": "DRAGONAIR_NORMAL",
+                        "form": 193
                     },
                     {
                         "id": 330,
@@ -461,14 +461,14 @@
                 ],
                 [
                     {
-                        "id": 296,
-                        "template": "MAKUHITA_NORMAL",
-                        "form": 1451
-                    },
-                    {
                         "id": 66,
                         "template": "MACHOP_NORMAL",
                         "form": 809
+                    },
+                    {
+                        "id": 296,
+                        "template": "MAKUHITA_NORMAL",
+                        "form": 1451
                     }
                 ],
                 [
@@ -1020,14 +1020,14 @@
                 ],
                 [
                     {
-                        "id": 97,
-                        "template": "HYPNO_NORMAL",
-                        "form": 217
-                    },
-                    {
                         "id": 65,
                         "template": "ALAKAZAM_NORMAL",
                         "form": 310
+                    },
+                    {
+                        "id": 97,
+                        "template": "HYPNO_NORMAL",
+                        "form": 217
                     },
                     {
                         "id": 375,
@@ -1214,14 +1214,14 @@
                 ],
                 [
                     {
-                        "id": 105,
-                        "template": "MAROWAK_NORMAL",
-                        "form": 79
-                    },
-                    {
                         "id": 139,
                         "template": "OMASTAR_NORMAL",
                         "form": 743
+                    },
+                    {
+                        "id": 105,
+                        "template": "MAROWAK_NORMAL",
+                        "form": 79
                     },
                     {
                         "id": 466,
@@ -1276,14 +1276,14 @@
                         "form": 905
                     },
                     {
-                        "id": 6,
-                        "template": "CHARIZARD_NORMAL",
-                        "form": 178
-                    },
-                    {
                         "id": 9,
                         "template": "BLASTOISE_NORMAL",
                         "form": 187
+                    },
+                    {
+                        "id": 6,
+                        "template": "CHARIZARD_NORMAL",
+                        "form": 178
                     }
                 ],
                 [
@@ -1350,14 +1350,14 @@
                         "form": 232
                     },
                     {
-                        "id": 260,
-                        "template": "SWAMPERT_NORMAL",
-                        "form": 211
-                    },
-                    {
                         "id": 275,
                         "template": "SHIFTRY_NORMAL",
                         "form": 631
+                    },
+                    {
+                        "id": 260,
+                        "template": "SWAMPERT_NORMAL",
+                        "form": 211
                     }
                 ]
             ]
