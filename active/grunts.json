@@ -1271,14 +1271,14 @@
                 ],
                 [
                     {
-                        "id": 208,
-                        "template": "STEELIX_NORMAL",
-                        "form": 905
-                    },
-                    {
                         "id": 9,
                         "template": "BLASTOISE_NORMAL",
                         "form": 187
+                    },
+                    {
+                        "id": 208,
+                        "template": "STEELIX_NORMAL",
+                        "form": 905
                     },
                     {
                         "id": 6,
