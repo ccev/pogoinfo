@@ -1,119 +1,5 @@
 [
     {
-        "name": "Tapu Koko Raid Hour",
-        "type": "raid-hour",
-        "start": "2022-03-09 18:00",
-        "end": "2022-03-09 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
-        "name": "Welcome to Alola",
-        "type": "event",
-        "start": "2022-03-01 10:00",
-        "end": "2022-03-09 20:00",
-        "spawns": [
-            {
-                "id": 722,
-                "template": "ROWLET"
-            },
-            {
-                "id": 725,
-                "template": "LITTEN"
-            },
-            {
-                "id": 728,
-                "template": "POPPLIO"
-            },
-            {
-                "id": 731,
-                "template": "PIKIPEK"
-            },
-            {
-                "id": 734,
-                "template": "YUNGOOS"
-            }
-        ],
-        "eggs": [],
-        "raids": [
-            {
-                "id": 69,
-                "template": "BELLSPROUT"
-            },
-            {
-                "id": 209,
-                "template": "SNUBBULL"
-            },
-            {
-                "id": 231,
-                "template": "PHANPY"
-            },
-            {
-                "id": 309,
-                "template": "ELECTRIKE"
-            },
-            {
-                "id": 744,
-                "template": "ROCKRUFF"
-            },
-            {
-                "id": 26,
-                "template": "RAICHU_ALOLA",
-                "form": 50
-            },
-            {
-                "id": 31,
-                "template": "NIDOQUEEN"
-            },
-            {
-                "id": 40,
-                "template": "WIGGLYTUFF"
-            },
-            {
-                "id": 75,
-                "template": "GRAVELER_ALOLA",
-                "form": 70
-            },
-            {
-                "id": 785,
-                "template": "TAPU_KOKO"
-            },
-            {
-                "id": 3,
-                "template": "VENUSAUR",
-                "temp_evolution_id": 1
-            }
-        ],
-        "shinies": [
-            {
-                "id": 744,
-                "template": "ROCKRUFF"
-            },
-            {
-                "id": 745,
-                "template": "LYCANROC"
-            },
-            {
-                "id": 734,
-                "template": "YUNGOOS"
-            },
-            {
-                "id": 735,
-                "template": "GUMSHOOS"
-            }
-        ],
-        "bonuses": [],
-        "features": [],
-        "has_quests": true,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Sandshrew Community Day",
         "type": "community-day",
         "start": "2022-03-13 11:00",
@@ -199,13 +85,122 @@
         "type": "event",
         "start": "2022-03-15 10:00",
         "end": "2022-03-20 20:00",
-        "spawns": [],
+        "spawns": [
+            {
+                "id": 96,
+                "template": "DROWZEE"
+            },
+            {
+                "id": 116,
+                "template": "HORSEA"
+            },
+            {
+                "id": 207,
+                "template": "GLIGAR"
+            },
+            {
+                "id": 218,
+                "template": "SLUGMA"
+            },
+            {
+                "id": 276,
+                "template": "TAILLOW"
+            },
+            {
+                "id": 328,
+                "template": "TRAPINCH"
+            },
+            {
+                "id": 387,
+                "template": "TURTWIG"
+            },
+            {
+                "id": 453,
+                "template": "CROAGUNK"
+            },
+            {
+                "id": 661,
+                "template": "FLETCHLING"
+            },
+            {
+                "id": 267,
+                "template": "BEAUTIFLY"
+            },
+            {
+                "id": 269,
+                "template": "DUSTOX"
+            },
+            {
+                "id": 594,
+                "template": "ALOMOMOLA"
+            }
+        ],
         "eggs": [],
-        "raids": [],
+        "raids": [
+            {
+                "id": 39,
+                "template": "JIGGLYPUFF"
+            },
+            {
+                "id": 252,
+                "template": "TREECKO"
+            },
+            {
+                "id": 255,
+                "template": "TORCHIC"
+            },
+            {
+                "id": 258,
+                "template": "MUDKIP"
+            },
+            {
+                "id": 744,
+                "template": "ROCKRUFF"
+            },
+            {
+                "id": 105,
+                "template": "MAROWAK"
+            },
+            {
+                "id": 105,
+                "template": "MAROWAK_ALOLA",
+                "form": 80
+            },
+            {
+                "id": 113,
+                "template": "CHANSEY"
+            },
+            {
+                "id": 197,
+                "template": "UMBREON"
+            },
+            {
+                "id": 621,
+                "template": "DRUDDIGON"
+            },
+            {
+                "id": 641,
+                "template": "TORNADUS_THERIAN",
+                "form": 141
+            },
+            {
+                "id": 428,
+                "template": "LOPUNNY",
+                "temp_evolution_id": 1
+            }
+        ],
         "shinies": [],
-        "bonuses": [],
+        "bonuses": [
+            {
+                "text": "Lure Modules activated during the event will last for three hours",
+                "template": "longer-lure"
+            },
+            {
+                "text": "Take a few snapshots every day during the event for a surprise!*"
+            }
+        ],
         "features": [],
-        "has_quests": false,
+        "has_quests": true,
         "has_spawnpoints": false
     },
     {
