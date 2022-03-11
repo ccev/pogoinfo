@@ -193,7 +193,8 @@
         "bonuses": [
             {
                 "text": "Lure Modules activated during the event will last for three hours",
-                "template": "longer-lure"
+                "template": "longer-lure",
+                "value": 3
             },
             {
                 "text": "Take a few snapshots every day during the event for a surprise!*"
