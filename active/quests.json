@@ -1,50 +1,5 @@
 {
-    "event": [
-        {
-            "task": "Event: Walk 1 km",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 734,
-                        "template": "YUNGOOS"
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 731,
-                        "template": "PIKIPEK"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Event: Catch 7 Pokémon",
-            "rewards": [
-                {
-                    "type": "item",
-                    "amount": 10,
-                    "id": 1
-                },
-                {
-                    "type": "item",
-                    "amount": 10,
-                    "id": 2
-                }
-            ]
-        },
-        {
-            "task": "Event: Use 7 Berries to help catch Pokémon",
-            "rewards": [
-                {
-                    "type": "item",
-                    "amount": 7,
-                    "id": 3
-                }
-            ]
-        }
-    ],
+    "event": [],
     "quests": [
         {
             "task": "Catch 5 Pokémon with Weather Boost",
