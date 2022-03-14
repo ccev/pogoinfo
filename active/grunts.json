@@ -1350,14 +1350,14 @@
                         "form": 232
                     },
                     {
-                        "id": 275,
-                        "template": "SHIFTRY_NORMAL",
-                        "form": 631
-                    },
-                    {
                         "id": 260,
                         "template": "SWAMPERT_NORMAL",
                         "form": 211
+                    },
+                    {
+                        "id": 275,
+                        "template": "SHIFTRY_NORMAL",
+                        "form": 631
                     }
                 ]
             ]
@@ -1385,14 +1385,14 @@
                 ],
                 [
                     {
-                        "id": 34,
-                        "template": "NIDOKING_NORMAL",
-                        "form": 788
-                    },
-                    {
                         "id": 99,
                         "template": "KINGLER_NORMAL",
                         "form": 873
+                    },
+                    {
+                        "id": 34,
+                        "template": "NIDOKING_NORMAL",
+                        "form": 788
                     },
                     {
                         "id": 464,
