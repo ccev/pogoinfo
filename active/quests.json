@@ -1,5 +1,142 @@
 {
-    "event": [],
+    "event": [
+        {
+            "task": "Event: Catch 5 different species of Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 351,
+                        "template": "CASTFORM_NORMAL",
+                        "form": 29
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 351,
+                        "template": "CASTFORM_RAINY",
+                        "form": 31
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 351,
+                        "template": "CASTFORM_SNOWY",
+                        "form": 32
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 351,
+                        "template": "CASTFORM_SUNNY",
+                        "form": 30
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Event: Catch 10 different species of Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 741,
+                        "template": "ORICORIO_BAILE",
+                        "form": 2679
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 741,
+                        "template": "ORICORIO_PAU",
+                        "form": 2681
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 741,
+                        "template": "ORICORIO_SENSU",
+                        "form": 2683
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Event: Catch 8 different species of Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 412,
+                        "template": "BURMY_PLANT",
+                        "form": 118
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 412,
+                        "template": "BURMY_SANDY",
+                        "form": 119
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 412,
+                        "template": "BURMY_TRASH",
+                        "form": 120
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Event: Hatch an egg",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 88,
+                        "template": "GRIMER_ALOLA",
+                        "form": 74
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Event: Catch 3 Grass-type Pokémon",
+            "rewards": [
+                {
+                    "type": "energy",
+                    "reward": {
+                        "id": 3,
+                        "template": "VENUSAUR_NORMAL",
+                        "form": 169
+                    },
+                    "amount": 20
+                }
+            ]
+        },
+        {
+            "task": "Event: Catch 3 Water-type Pokémon",
+            "rewards": [
+                {
+                    "type": "energy",
+                    "reward": {
+                        "id": 9,
+                        "template": "BLASTOISE_NORMAL",
+                        "form": 187
+                    },
+                    "amount": 20
+                }
+            ]
+        }
+    ],
     "quests": [
         {
             "task": "Catch 5 Pokémon with Weather Boost",
