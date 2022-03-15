@@ -1,57 +1,6 @@
 {
     "event": [
         {
-            "task": "Event: Catch 10 different species of Pokémon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 741,
-                        "template": "ORICORIO_BAILE",
-                        "form": 2679
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 741,
-                        "template": "ORICORIO_PAU",
-                        "form": 2681
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 741,
-                        "template": "ORICORIO_SENSU",
-                        "form": 2683
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Event: Catch 3 Grass-type Pokémon",
-            "rewards": [
-                {
-                    "type": "energy",
-                    "reward": {
-                        "id": 3,
-                        "template": "VENUSAUR_NORMAL",
-                        "form": 169
-                    },
-                    "amount": 20
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 1,
-                        "template": "BULBASAUR_NORMAL",
-                        "form": 163
-                    }
-                }
-            ]
-        },
-        {
             "task": "Event: Catch 5 different species of Pokémon",
             "rewards": [
                 {
@@ -89,6 +38,35 @@
             ]
         },
         {
+            "task": "Event: Catch 10 different species of Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 741,
+                        "template": "ORICORIO_BAILE",
+                        "form": 2679
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 741,
+                        "template": "ORICORIO_PAU",
+                        "form": 2681
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 741,
+                        "template": "ORICORIO_SENSU",
+                        "form": 2683
+                    }
+                }
+            ]
+        },
+        {
             "task": "Event: Catch 8 different species of Pokémon",
             "rewards": [
                 {
@@ -118,8 +96,39 @@
             ]
         },
         {
+            "task": "Event: Catch 3 Grass-type Pokémon",
+            "rewards": [
+                {
+                    "type": "energy",
+                    "reward": {
+                        "id": 3,
+                        "template": "VENUSAUR_NORMAL",
+                        "form": 169
+                    },
+                    "amount": 20
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 1,
+                        "template": "BULBASAUR_NORMAL",
+                        "form": 163
+                    }
+                }
+            ]
+        },
+        {
             "task": "Event: Catch 3 Fire-type Pokémon",
             "rewards": [
+                {
+                    "type": "energy",
+                    "reward": {
+                        "id": 6,
+                        "template": "CHARIZARD_NORMAL",
+                        "form": 178
+                    },
+                    "amount": 20
+                },
                 {
                     "type": "pokemon",
                     "reward": {
