@@ -1,24 +1,5 @@
 [
     {
-        "name": "Growlithe Spotlight Hour",
-        "type": "spotlight-hour",
-        "start": "2022-03-15 18:00",
-        "end": "2022-03-15 19:00",
-        "spawns": [
-            {
-                "id": 58,
-                "template": "GROWLITHE"
-            }
-        ],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": true
-    },
-    {
         "name": "Therian Forme Tornadus",
         "type": "raid-hour",
         "start": "2022-03-16 18:00",
