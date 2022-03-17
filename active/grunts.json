@@ -121,14 +121,14 @@
                         "form": 241
                     },
                     {
-                        "id": 282,
-                        "template": "GARDEVOIR_NORMAL",
-                        "form": 298
-                    },
-                    {
                         "id": 143,
                         "template": "SNORLAX_NORMAL",
                         "form": 199
+                    },
+                    {
+                        "id": 282,
+                        "template": "GARDEVOIR_NORMAL",
+                        "form": 298
                     }
                 ],
                 [
@@ -1214,14 +1214,14 @@
                 ],
                 [
                     {
-                        "id": 139,
-                        "template": "OMASTAR_NORMAL",
-                        "form": 743
-                    },
-                    {
                         "id": 105,
                         "template": "MAROWAK_NORMAL",
                         "form": 79
+                    },
+                    {
+                        "id": 139,
+                        "template": "OMASTAR_NORMAL",
+                        "form": 743
                     },
                     {
                         "id": 466,
