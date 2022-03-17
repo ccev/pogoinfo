@@ -1,19 +1,5 @@
 [
     {
-        "name": "Therian Forme Tornadus",
-        "type": "raid-hour",
-        "start": "2022-03-16 18:00",
-        "end": "2022-03-16 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Festival of Colors",
         "type": "event",
         "start": "2022-03-15 10:00",
@@ -183,13 +169,101 @@
         "type": "event",
         "start": "2022-03-22 10:00",
         "end": "2022-03-29 20:00",
-        "spawns": [],
+        "spawns": [
+            {
+                "id": 11,
+                "template": "METAPOD"
+            },
+            {
+                "id": 46,
+                "template": "PARAS"
+            },
+            {
+                "id": 102,
+                "template": "EXEGGCUTE"
+            },
+            {
+                "id": 163,
+                "template": "HOOTHOOT"
+            },
+            {
+                "id": 185,
+                "template": "SUDOWOODO"
+            },
+            {
+                "id": 597,
+                "template": "FERROSEED"
+            },
+            {
+                "id": 753,
+                "template": "FOMANTIS"
+            },
+            {
+                "id": 127,
+                "template": "PINSIR"
+            },
+            {
+                "id": 546,
+                "template": "COTTONEE"
+            }
+        ],
         "eggs": [],
-        "raids": [],
-        "shinies": [],
+        "raids": [
+            {
+                "id": 69,
+                "template": "BELLSPROUT"
+            },
+            {
+                "id": 114,
+                "template": "TANGELA"
+            },
+            {
+                "id": 540,
+                "template": "SEWADDLE"
+            },
+            {
+                "id": 546,
+                "template": "COTTONEE"
+            },
+            {
+                "id": 12,
+                "template": "BUTTERFREE"
+            },
+            {
+                "id": 45,
+                "template": "VILEPLUME"
+            },
+            {
+                "id": 47,
+                "template": "PARASECT"
+            },
+            {
+                "id": 103,
+                "template": "EXEGGUTOR"
+            },
+            {
+                "id": 786,
+                "template": "TAPU_LELE"
+            },
+            {
+                "id": 6,
+                "template": "CHARIZARD",
+                "temp_evolution_id": 3
+            }
+        ],
+        "shinies": [
+            {
+                "id": 546,
+                "template": "COTTONEE"
+            },
+            {
+                "id": 547,
+                "template": "WHIMSICOTT"
+            }
+        ],
         "bonuses": [],
         "features": [],
-        "has_quests": false,
+        "has_quests": true,
         "has_spawnpoints": false
     },
     {
