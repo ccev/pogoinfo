@@ -1,22 +1,17 @@
 {
     "1": [
         {
-            "id": 39,
-            "template": "JIGGLYPUFF"
+            "id": 215,
+            "template": "SNEASEL_NORMAL",
+            "form": 797
         },
         {
-            "id": 252,
-            "template": "TREECKO"
+            "id": 231,
+            "template": "PHANPY"
         },
         {
-            "id": 255,
-            "template": "TORCHIC_NORMAL",
-            "form": 1358
-        },
-        {
-            "id": 258,
-            "template": "MUDKIP_NORMAL",
-            "form": 205
+            "id": 529,
+            "template": "DRILBUR"
         },
         {
             "id": 744,
@@ -25,22 +20,16 @@
     ],
     "3": [
         {
-            "id": 105,
-            "template": "MAROWAK_NORMAL",
-            "form": 79
+            "id": 340,
+            "template": "WHISCASH"
         },
         {
-            "id": 105,
-            "template": "MAROWAK_ALOLA",
-            "form": 80
+            "id": 362,
+            "template": "GLALIE"
         },
         {
-            "id": 113,
-            "template": "CHANSEY"
-        },
-        {
-            "id": 197,
-            "template": "UMBREON"
+            "id": 520,
+            "template": "TRANQUILL"
         },
         {
             "id": 621,
