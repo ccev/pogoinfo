@@ -1214,14 +1214,14 @@
                 ],
                 [
                     {
-                        "id": 105,
-                        "template": "MAROWAK_NORMAL",
-                        "form": 79
-                    },
-                    {
                         "id": 139,
                         "template": "OMASTAR_NORMAL",
                         "form": 743
+                    },
+                    {
+                        "id": 105,
+                        "template": "MAROWAK_NORMAL",
+                        "form": 79
                     },
                     {
                         "id": 466,
