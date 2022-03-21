@@ -1,132 +1,5 @@
 [
     {
-        "name": "Festival of Colors",
-        "type": "event",
-        "start": "2022-03-15 10:00",
-        "end": "2022-03-20 20:00",
-        "spawns": [
-            {
-                "id": 96,
-                "template": "DROWZEE"
-            },
-            {
-                "id": 116,
-                "template": "HORSEA"
-            },
-            {
-                "id": 207,
-                "template": "GLIGAR"
-            },
-            {
-                "id": 218,
-                "template": "SLUGMA"
-            },
-            {
-                "id": 276,
-                "template": "TAILLOW"
-            },
-            {
-                "id": 328,
-                "template": "TRAPINCH"
-            },
-            {
-                "id": 387,
-                "template": "TURTWIG"
-            },
-            {
-                "id": 453,
-                "template": "CROAGUNK"
-            },
-            {
-                "id": 661,
-                "template": "FLETCHLING"
-            },
-            {
-                "id": 267,
-                "template": "BEAUTIFLY"
-            },
-            {
-                "id": 269,
-                "template": "DUSTOX"
-            },
-            {
-                "id": 594,
-                "template": "ALOMOMOLA"
-            },
-            {
-                "id": 235,
-                "template": "SMEARGLE"
-            }
-        ],
-        "eggs": [],
-        "raids": [
-            {
-                "id": 39,
-                "template": "JIGGLYPUFF"
-            },
-            {
-                "id": 252,
-                "template": "TREECKO"
-            },
-            {
-                "id": 255,
-                "template": "TORCHIC"
-            },
-            {
-                "id": 258,
-                "template": "MUDKIP"
-            },
-            {
-                "id": 744,
-                "template": "ROCKRUFF"
-            },
-            {
-                "id": 105,
-                "template": "MAROWAK"
-            },
-            {
-                "id": 105,
-                "template": "MAROWAK_ALOLA",
-                "form": 80
-            },
-            {
-                "id": 113,
-                "template": "CHANSEY"
-            },
-            {
-                "id": 197,
-                "template": "UMBREON"
-            },
-            {
-                "id": 621,
-                "template": "DRUDDIGON"
-            },
-            {
-                "id": 641,
-                "template": "TORNADUS_THERIAN",
-                "form": 141
-            },
-            {
-                "id": 428,
-                "template": "LOPUNNY",
-                "temp_evolution_id": 1
-            }
-        ],
-        "shinies": [],
-        "bonuses": [
-            {
-                "text": "Lure Modules activated during the event will last for three hours",
-                "template": "longer-lure"
-            },
-            {
-                "text": "Take a few snapshots every day during the event for a surprise!*"
-            }
-        ],
-        "features": [],
-        "has_quests": true,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Sudowoodo Spotlight Hour",
         "type": "spotlight-hour",
         "start": "2022-03-22 18:00",
@@ -144,6 +17,20 @@
         "features": [],
         "has_quests": false,
         "has_spawnpoints": true
+    },
+    {
+        "name": "Tapu Lele Raid Hour",
+        "type": "raid-hour",
+        "start": "2022-03-23 18:00",
+        "end": "2022-03-23 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
     },
     {
         "name": "Paras Spotlight Hour",
