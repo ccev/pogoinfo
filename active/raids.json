@@ -1,57 +1,56 @@
 {
     "1": [
         {
-            "id": 215,
-            "template": "SNEASEL_NORMAL",
-            "form": 797
+            "id": 69,
+            "template": "BELLSPROUT_NORMAL",
+            "form": 664
         },
         {
-            "id": 231,
-            "template": "PHANPY"
+            "id": 114,
+            "template": "TANGELA_NORMAL",
+            "form": 1059
         },
         {
-            "id": 529,
-            "template": "DRILBUR"
+            "id": 540,
+            "template": "SEWADDLE"
         },
         {
-            "id": 580,
-            "template": "DUCKLETT"
-        },
-        {
-            "id": 744,
-            "template": "ROCKRUFF"
+            "id": 546,
+            "template": "COTTONEE"
         }
     ],
     "3": [
         {
-            "id": 340,
-            "template": "WHISCASH"
+            "id": 12,
+            "template": "BUTTERFREE"
         },
         {
-            "id": 362,
-            "template": "GLALIE"
+            "id": 45,
+            "template": "VILEPLUME_NORMAL",
+            "form": 271
         },
         {
-            "id": 520,
-            "template": "TRANQUILL"
+            "id": 47,
+            "template": "PARASECT"
         },
         {
-            "id": 621,
-            "template": "DRUDDIGON"
+            "id": 103,
+            "template": "EXEGGUTOR_NORMAL",
+            "form": 77
         }
     ],
     "5": [
         {
-            "id": 641,
-            "template": "TORNADUS_THERIAN",
-            "form": 141
+            "id": 786,
+            "template": "TAPU_LELE"
         }
     ],
     "6": [
         {
-            "id": 428,
-            "template": "LOPUNNY",
-            "temp_evolution_id": 1
+            "id": 6,
+            "template": "CHARIZARD_NORMAL",
+            "form": 178,
+            "temp_evolution_id": 3
         }
     ]
 }

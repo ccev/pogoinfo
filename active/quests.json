@@ -1,5 +1,97 @@
 {
-    "event": [],
+    "event": [
+        {
+            "task": "Event: Use 3 Berries to help catch Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 10,
+                        "template": "CATERPIE"
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 265,
+                        "template": "WURMPLE"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Event: Catch 5 Grass-type Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 273,
+                        "template": "SEEDOT_NORMAL",
+                        "form": 625
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 102,
+                        "template": "EXEGGCUTE_NORMAL",
+                        "form": 729
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Event: Use 10 Berries to help catch Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 753,
+                        "template": "FOMANTIS"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Event: Use 15 Berries to help catch Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 47,
+                        "template": "PARASECT"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Event: Catch 5 different species of Grass-type Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 546,
+                        "template": "COTTONEE"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Event: Walk 1 km",
+            "rewards": [
+                {
+                    "type": "item",
+                    "amount": 3,
+                    "id": 701
+                },
+                {
+                    "type": "item",
+                    "amount": 2,
+                    "id": 705
+                }
+            ]
+        }
+    ],
     "quests": [
         {
             "task": "Catch 5 Pokémon with Weather Boost",
