@@ -1,6 +1,41 @@
 {
     "event": [
         {
+            "task": "Event: Catch 5 Grass-type Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 273,
+                        "template": "SEEDOT_NORMAL",
+                        "form": 625
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 102,
+                        "template": "EXEGGCUTE_NORMAL",
+                        "form": 729
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 597,
+                        "template": "FERROSEED"
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 191,
+                        "template": "SUNKERN"
+                    }
+                }
+            ]
+        },
+        {
             "task": "Event: Use 3 Berries to help catch Pokémon",
             "rewards": [
                 {
@@ -20,22 +55,20 @@
             ]
         },
         {
-            "task": "Event: Catch 5 Grass-type Pokémon",
+            "task": "Event: Use 15 Berries to help catch Pokémon",
             "rewards": [
                 {
                     "type": "pokemon",
                     "reward": {
-                        "id": 273,
-                        "template": "SEEDOT_NORMAL",
-                        "form": 625
+                        "id": 47,
+                        "template": "PARASECT"
                     }
                 },
                 {
                     "type": "pokemon",
                     "reward": {
-                        "id": 102,
-                        "template": "EXEGGCUTE_NORMAL",
-                        "form": 729
+                        "id": 46,
+                        "template": "PARAS"
                     }
                 }
             ]
@@ -48,18 +81,6 @@
                     "reward": {
                         "id": 753,
                         "template": "FOMANTIS"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Event: Use 15 Berries to help catch Pokémon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 47,
-                        "template": "PARASECT"
                     }
                 }
             ]

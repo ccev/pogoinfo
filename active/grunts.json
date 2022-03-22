@@ -47,14 +47,14 @@
                         "form": 1118
                     },
                     {
-                        "id": 155,
-                        "template": "CYNDAQUIL_NORMAL",
-                        "form": 1127
-                    },
-                    {
                         "id": 158,
                         "template": "TOTODILE_NORMAL",
                         "form": 1136
+                    },
+                    {
+                        "id": 155,
+                        "template": "CYNDAQUIL_NORMAL",
+                        "form": 1127
                     }
                 ],
                 [
@@ -1333,14 +1333,14 @@
                         "form": 322
                     },
                     {
-                        "id": 319,
-                        "template": "SHARPEDO_NORMAL",
-                        "form": 737
-                    },
-                    {
                         "id": 103,
                         "template": "EXEGGUTOR_NORMAL",
                         "form": 77
+                    },
+                    {
+                        "id": 319,
+                        "template": "SHARPEDO_NORMAL",
+                        "form": 737
                     }
                 ],
                 [
