@@ -94,7 +94,28 @@
                 "template": "COTTONEE"
             }
         ],
-        "eggs": [],
+        "eggs": [
+            {
+                "id": 406,
+                "template": "BUDEW"
+            },
+            {
+                "id": 420,
+                "template": "CHERUBI"
+            },
+            {
+                "id": 438,
+                "template": "BONSLY"
+            },
+            {
+                "id": 440,
+                "template": "HAPPINY"
+            },
+            {
+                "id": 753,
+                "template": "FOMANTIS"
+            }
+        ],
         "raids": [
             {
                 "id": 69,
