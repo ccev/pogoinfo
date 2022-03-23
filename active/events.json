@@ -1,24 +1,5 @@
 [
     {
-        "name": "Sudowoodo Spotlight Hour",
-        "type": "spotlight-hour",
-        "start": "2022-03-22 18:00",
-        "end": "2022-03-22 19:00",
-        "spawns": [
-            {
-                "id": 185,
-                "template": "SUDOWOODO"
-            }
-        ],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": true
-    },
-    {
         "name": "Tapu Lele Raid Hour",
         "type": "raid-hour",
         "start": "2022-03-23 18:00",
@@ -189,16 +170,70 @@
         "has_spawnpoints": false
     },
     {
-        "name": "April Community Day",
+        "name": "Stufful Community Day",
         "type": "community-day",
-        "start": "2022-04-23 11:00",
+        "start": "2022-04-23 14:00",
         "end": "2022-04-23 17:00",
-        "spawns": [],
+        "spawns": [
+            {
+                "id": 759,
+                "template": "STUFFUL"
+            }
+        ],
         "eggs": [],
         "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
+        "shinies": [
+            {
+                "id": 759,
+                "template": "STUFFUL"
+            },
+            {
+                "id": 760,
+                "template": "BEWEAR"
+            }
+        ],
+        "bonuses": [
+            {
+                "text": "Increased Spawns"
+            },
+            {
+                "text": "3x Catch XP",
+                "template": "increased-xp",
+                "value": 3
+            },
+            {
+                "text": "3-hour Incense",
+                "template": "longer-incense",
+                "value": 3
+            },
+            {
+                "text": "3-hour Lures",
+                "template": "longer-lure",
+                "value": 3
+            },
+            {
+                "text": "2x Catch Candy",
+                "template": "increased-candy",
+                "value": 2
+            },
+            {
+                "text": "2x Chance to receive Stufful XL Candy from catching Stufful",
+                "value": 2
+            },
+            {
+                "text": "1 extra special trade can be made during the event and two hours after the event (maximum of 2 for the day)",
+                "value": 12
+            },
+            {
+                "text": "Trades made during the event and two hours after the event will require 50% less Stardust.",
+                "template": "increased-stardust",
+                "value": 50
+            }
+        ],
+        "features": [
+            "Trainer Battles: 20 power and guaranteed to increase the user’s Defense.",
+            "Gyms and raids: 50 power"
+        ],
         "has_quests": true,
         "has_spawnpoints": true
     },
