@@ -142,6 +142,100 @@
         "has_spawnpoints": false
     },
     {
+        "name": "April Fools’ 2-Oh?-22",
+        "type": "event",
+        "start": "2022-04-01 10:00",
+        "end": "2022-04-01 20:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Stunky Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2022-04-05 18:00",
+        "end": "2022-04-05 19:00",
+        "spawns": [
+            {
+                "id": 434,
+                "template": "STUNKY"
+            }
+        ],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": true
+    },
+    {
+        "name": "Thundurus (Therian) Raid Hour",
+        "type": "raid-hour",
+        "start": "2022-04-06 18:00",
+        "end": "2022-04-06 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "All-Hands Rocket Retreat",
+        "type": "event",
+        "start": "2022-04-03 10:00",
+        "end": "2022-04-07 20:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Bunnelby Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2022-04-12 18:00",
+        "end": "2022-04-12 19:00",
+        "spawns": [
+            {
+                "id": 659,
+                "template": "BUNNELBY"
+            }
+        ],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": true
+    },
+    {
+        "name": "Tapu Bulu Raid Hour",
+        "type": "raid-hour",
+        "start": "2022-04-20 18:00",
+        "end": "2022-04-20 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
         "name": "GO Battle Day: Beginner's Paradise",
         "type": "event",
         "start": "2022-04-17 00:00",
@@ -154,6 +248,39 @@
         "features": [],
         "has_quests": false,
         "has_spawnpoints": false
+    },
+    {
+        "name": "Spring into Spring",
+        "type": "event",
+        "start": "2022-04-12 10:00",
+        "end": "2022-04-18 20:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Oddish Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2022-04-19 18:00",
+        "end": "2022-04-19 19:00",
+        "spawns": [
+            {
+                "id": 43,
+                "template": "ODDISH"
+            }
+        ],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": true
     },
     {
         "name": "Stufful Community Day",
@@ -222,6 +349,54 @@
         ],
         "has_quests": true,
         "has_spawnpoints": true
+    },
+    {
+        "name": "Sustainability Week",
+        "type": "event",
+        "start": "2022-04-20 10:00",
+        "end": "2022-04-25 20:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Cherrim Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2022-04-26 18:00",
+        "end": "2022-04-26 19:00",
+        "spawns": [
+            {
+                "id": 421,
+                "template": "CHERRIM_SUNNY",
+                "form": 95
+            }
+        ],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": true
+    },
+    {
+        "name": "Landorus (Therian) Raid Hour",
+        "type": "raid-hour",
+        "start": "2022-04-27 18:00",
+        "end": "2022-04-27 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
     },
     {
         "name": "May Community Day",
