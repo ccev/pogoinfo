@@ -1,7 +1,7 @@
 {
     "event": [
         {
-            "task": "Event: Use 3 Berries to help catch Pokémon.7.73%: 15 of 194 Tasks7.73%: 15 of 194 Tasks",
+            "task": "Event: Use 3 Berries to help catch Pokémon.8.01%: 23 of 287 Tasks8.01%: 23 of 287 Tasks",
             "rewards": [
                 {
                     "type": "pokemon",
@@ -20,7 +20,7 @@
             ]
         },
         {
-            "task": "Event: Catch 5 Grass-type Pokémon.7.22%: 11 of 194 Tasks7.22%: 14 of 194 Tasks",
+            "task": "Event: Catch 5 Grass-type Pokémon.7.67%: 18 of 287 Tasks7.67%: 22 of 287 Tasks",
             "rewards": [
                 {
                     "type": "pokemon",
@@ -55,7 +55,7 @@
             ]
         },
         {
-            "task": "Event: Use 10 Berries to help catch Pokémon.4.64%: 9 of 194 Tasks4.64%: 9 of 194 Tasks",
+            "task": "Event: Use 10 Berries to help catch Pokémon.4.53%: 13 of 287 Tasks4.53%: 13 of 287 Tasks",
             "rewards": [
                 {
                     "type": "pokemon",
@@ -67,19 +67,7 @@
             ]
         },
         {
-            "task": "Event: Catch 5 different species of Grass-type Pokémon.4.12%: 7 of 194 Tasks4.12%: 8 of 194 Tasks",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 546,
-                        "template": "COTTONEE"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Event: Use 15 Berries to help catch Pokémon.1.55%: 3 of 194 Tasks1.03%: 2 of 194 Tasks",
+            "task": "Event: Use 15 Berries to help catch Pokémon.4.18%: 12 of 287 Tasks2.79%: 8 of 287 Tasks",
             "rewards": [
                 {
                     "type": "pokemon",
@@ -98,7 +86,19 @@
             ]
         },
         {
-            "task": "Event: Walk 1 km.0%: 0 of 194 Tasks8.25%: 16 of 194 Tasks",
+            "task": "Event: Catch 5 different species of Grass-type Pokémon.3.48%: 9 of 287 Tasks3.48%: 10 of 287 Tasks",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 546,
+                        "template": "COTTONEE"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Event: Walk 1 km.0%: 0 of 287 Tasks8.71%: 25 of 287 Tasks",
             "rewards": [
                 {
                     "type": "item",
@@ -115,7 +115,7 @@
     ],
     "quests": [
         {
-            "task": "Catch 5 different species of Pokémon.1.55%: 3 of 194 Tasks1.55%: 3 of 194 Tasks",
+            "task": "Catch 5 different species of Pokémon.1.74%: 5 of 287 Tasks1.74%: 5 of 287 Tasks",
             "rewards": [
                 {
                     "type": "pokemon",
@@ -135,7 +135,7 @@
             ]
         },
         {
-            "task": "Catch 5 Pokémon with Weather Boost.1.03%: 2 of 194 Tasks2.06%: 4 of 194 Tasks",
+            "task": "Catch 5 Pokémon with Weather Boost.1.05%: 3 of 287 Tasks2.44%: 7 of 287 Tasks",
             "rewards": [
                 {
                     "type": "stardust",
@@ -191,7 +191,7 @@
             ]
         },
         {
-            "task": "Catch 5 Pokémon.1.03%: 2 of 194 Tasks1.03%: 2 of 194 Tasks",
+            "task": "Catch 5 Pokémon.1.05%: 3 of 287 Tasks1.05%: 3 of 287 Tasks",
             "rewards": [
                 {
                     "type": "pokemon",
@@ -212,7 +212,7 @@
             ]
         },
         {
-            "task": "Catch 7 Pokémon.1.03%: 2 of 194 Tasks1.03%: 2 of 194 Tasks",
+            "task": "Catch 7 Pokémon.1.05%: 3 of 287 Tasks1.05%: 3 of 287 Tasks",
             "rewards": [
                 {
                     "type": "pokemon",
@@ -225,7 +225,46 @@
             ]
         },
         {
-            "task": "Catch a Dragon-type Pokémon.0%: 0 of 194 Tasks0%: 0 of 194 Tasks",
+            "task": "Use 5 Berries to help catch Pokémon.0.35%: 1 of 287 Tasks1.05%: 3 of 287 Tasks",
+            "rewards": [
+                {
+                    "type": "stardust",
+                    "amount": 500
+                },
+                {
+                    "type": "item",
+                    "amount": 6,
+                    "id": 701
+                },
+                {
+                    "type": "item",
+                    "amount": 2,
+                    "id": 705
+                },
+                {
+                    "type": "item",
+                    "amount": 5,
+                    "id": 2
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 194,
+                        "template": "WOOPER_NORMAL",
+                        "form": 1226
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 320,
+                        "template": "WAILMER"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Catch a Dragon-type Pokémon.0%: 0 of 287 Tasks0%: 0 of 287 Tasks",
             "rewards": [
                 {
                     "type": "stardust",
@@ -265,46 +304,7 @@
             ]
         },
         {
-            "task": "Use 5 Berries to help catch Pokémon.0%: 0 of 194 Tasks1.03%: 2 of 194 Tasks",
-            "rewards": [
-                {
-                    "type": "stardust",
-                    "amount": 500
-                },
-                {
-                    "type": "item",
-                    "amount": 6,
-                    "id": 701
-                },
-                {
-                    "type": "item",
-                    "amount": 2,
-                    "id": 705
-                },
-                {
-                    "type": "item",
-                    "amount": 5,
-                    "id": 2
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 194,
-                        "template": "WOOPER_NORMAL",
-                        "form": 1226
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 320,
-                        "template": "WAILMER"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Catch 10 Grass-type Pokémon.0%: 0 of 194 Tasks1.03%: 2 of 194 Tasks",
+            "task": "Catch 10 Grass-type Pokémon.0%: 0 of 287 Tasks1.39%: 4 of 287 Tasks",
             "rewards": [
                 {
                     "type": "energy",
@@ -337,7 +337,7 @@
             ]
         },
         {
-            "task": "Catch 10 Fire-type Pokémon.0%: 0 of 194 Tasks1.03%: 2 of 194 Tasks",
+            "task": "Catch 10 Fire-type Pokémon.0%: 0 of 287 Tasks1.39%: 4 of 287 Tasks",
             "rewards": [
                 {
                     "type": "energy",
@@ -370,7 +370,7 @@
             ]
         },
         {
-            "task": "Catch 10 Water-type Pokémon.0%: 0 of 194 Tasks3.09%: 6 of 194 Tasks",
+            "task": "Catch 10 Water-type Pokémon.0%: 0 of 287 Tasks2.09%: 6 of 287 Tasks",
             "rewards": [
                 {
                     "type": "energy",
@@ -403,7 +403,7 @@
             ]
         },
         {
-            "task": "Catch 10 Normal-type Pokémon.0%: 0 of 194 Tasks2.58%: 5 of 194 Tasks",
+            "task": "Catch 10 Normal-type Pokémon.0%: 0 of 287 Tasks2.79%: 8 of 287 Tasks",
             "rewards": [
                 {
                     "type": "energy",
@@ -435,7 +435,7 @@
             ]
         },
         {
-            "task": "Catch a Ditto.0%: 0 of 194 Tasks0%: 0 of 194 Tasks",
+            "task": "Catch a Ditto.0%: 0 of 287 Tasks0%: 0 of 287 Tasks",
             "rewards": [
                 {
                     "type": "stardust",
@@ -459,7 +459,7 @@
             ]
         },
         {
-            "task": "Catch 10 Pokémon.0%: 0 of 194 Tasks2.58%: 5 of 194 Tasks",
+            "task": "Catch 10 Pokémon.0%: 0 of 287 Tasks2.44%: 7 of 287 Tasks",
             "rewards": [
                 {
                     "type": "stardust",
@@ -483,7 +483,7 @@
             ]
         },
         {
-            "task": "Catch 10 Pokémon with Weather Boost.0%: 0 of 194 Tasks1.03%: 2 of 194 Tasks",
+            "task": "Catch 10 Pokémon with Weather Boost.0%: 0 of 287 Tasks1.39%: 4 of 287 Tasks",
             "rewards": [
                 {
                     "type": "stardust",
@@ -507,7 +507,7 @@
             ]
         },
         {
-            "task": "Make 3 Great Throws.2.06%: 3 of 194 Tasks6.19%: 12 of 194 Tasks",
+            "task": "Make 3 Great Throws.2.09%: 5 of 287 Tasks5.57%: 16 of 287 Tasks",
             "rewards": [
                 {
                     "type": "stardust",
@@ -555,7 +555,7 @@
             ]
         },
         {
-            "task": "Make 3 Great Throws in a row.1.55%: 3 of 194 Tasks2.06%: 4 of 194 Tasks",
+            "task": "Make 3 Great Throws in a row.1.74%: 5 of 287 Tasks2.44%: 7 of 287 Tasks",
             "rewards": [
                 {
                     "type": "stardust",
@@ -597,7 +597,7 @@
             ]
         },
         {
-            "task": "Make 5 Nice Throws.1.55%: 2 of 194 Tasks4.12%: 8 of 194 Tasks",
+            "task": "Make 5 Nice Throws.1.39%: 3 of 287 Tasks3.83%: 11 of 287 Tasks",
             "rewards": [
                 {
                     "type": "stardust",
@@ -628,19 +628,7 @@
             ]
         },
         {
-            "task": "Make 5 Great Curveball Throws in a row.1.03%: 0 of 194 Tasks1.03%: 2 of 194 Tasks",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 327,
-                        "template": "SPINDA"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Make 2 Excellent Throws.0%: 0 of 194 Tasks0%: 0 of 194 Tasks",
+            "task": "Make 2 Excellent Throws.0.35%: 1 of 287 Tasks0.35%: 1 of 287 Tasks",
             "rewards": [
                 {
                     "type": "pokemon",
@@ -653,7 +641,19 @@
             ]
         },
         {
-            "task": "Make 3 Excellent Throws in a row.0%: 0 of 194 Tasks0%: 0 of 194 Tasks",
+            "task": "Make 5 Great Curveball Throws in a row.0.7%: 0 of 287 Tasks0.7%: 2 of 287 Tasks",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 327,
+                        "template": "SPINDA"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Make 3 Excellent Throws in a row.0%: 0 of 287 Tasks0%: 0 of 287 Tasks",
             "rewards": [
                 {
                     "type": "pokemon",
@@ -666,7 +666,7 @@
             ]
         },
         {
-            "task": "Make 2 Nice Curveball Throws in a row.0%: 0 of 194 Tasks5.15%: 10 of 194 Tasks",
+            "task": "Make 2 Nice Curveball Throws in a row.0%: 0 of 287 Tasks4.53%: 13 of 287 Tasks",
             "rewards": [
                 {
                     "type": "stardust",
@@ -690,7 +690,7 @@
             ]
         },
         {
-            "task": "Make 5 Curveball Throws in a row.0%: 0 of 194 Tasks1.03%: 2 of 194 Tasks",
+            "task": "Make 5 Curveball Throws in a row.0%: 0 of 287 Tasks0.7%: 2 of 287 Tasks",
             "rewards": [
                 {
                     "type": "stardust",
@@ -714,7 +714,7 @@
             ]
         },
         {
-            "task": "Make 3 Nice Throws in a row.0%: 0 of 194 Tasks2.06%: 4 of 194 Tasks",
+            "task": "Make 3 Nice Throws in a row.0%: 0 of 287 Tasks2.09%: 6 of 287 Tasks",
             "rewards": [
                 {
                     "type": "stardust",
@@ -738,7 +738,7 @@
             ]
         },
         {
-            "task": "Make 3 Great Curveball Throws.0%: 0 of 194 Tasks0%: 0 of 194 Tasks",
+            "task": "Make 3 Great Curveball Throws.0%: 0 of 287 Tasks0%: 0 of 287 Tasks",
             "rewards": [
                 {
                     "type": "stardust",
@@ -772,7 +772,7 @@
             ]
         },
         {
-            "task": "Make 3 Great Curveball Throws in a row.0%: 0 of 194 Tasks0.52%: 1 of 194 Tasks",
+            "task": "Make 3 Great Curveball Throws in a row.0%: 0 of 287 Tasks0.35%: 1 of 287 Tasks",
             "rewards": [
                 {
                     "type": "stardust",
@@ -796,7 +796,7 @@
             ]
         },
         {
-            "task": "Make an Excellent Throw.0%: 0 of 194 Tasks0.52%: 1 of 194 Tasks",
+            "task": "Make an Excellent Throw.0%: 0 of 287 Tasks0.35%: 1 of 287 Tasks",
             "rewards": [
                 {
                     "type": "stardust",
@@ -820,7 +820,7 @@
             ]
         },
         {
-            "task": "Defeat 2 Team GO Rocket Grunts.2.06%: 3 of 194 Tasks2.06%: 4 of 194 Tasks",
+            "task": "Defeat 2 Team GO Rocket Grunts.1.39%: 3 of 287 Tasks1.39%: 4 of 287 Tasks",
             "rewards": [
                 {
                     "type": "pokemon",
@@ -841,7 +841,7 @@
             ]
         },
         {
-            "task": "Win a raid.1.03%: 1 of 194 Tasks1.03%: 2 of 194 Tasks",
+            "task": "Win a raid.1.05%: 2 of 287 Tasks1.05%: 3 of 287 Tasks",
             "rewards": [
                 {
                     "type": "pokemon",
@@ -853,7 +853,7 @@
             ]
         },
         {
-            "task": "Win a level 3 or higher raid.0%: 0 of 194 Tasks0%: 0 of 194 Tasks",
+            "task": "Win a level 3 or higher raid.0%: 0 of 287 Tasks0%: 0 of 287 Tasks",
             "rewards": [
                 {
                     "type": "pokemon",
@@ -874,7 +874,7 @@
             ]
         },
         {
-            "task": "Win 5 raids.0%: 0 of 194 Tasks0%: 0 of 194 Tasks",
+            "task": "Win 5 raids.0.35%: 0 of 287 Tasks0.35%: 1 of 287 Tasks",
             "rewards": [
                 {
                     "type": "pokemon",
@@ -887,7 +887,7 @@
             ]
         },
         {
-            "task": "Battle in GO Battle League.1.55%: 0 of 194 Tasks1.55%: 3 of 194 Tasks",
+            "task": "Battle in GO Battle League.1.39%: 0 of 287 Tasks1.39%: 4 of 287 Tasks",
             "rewards": [
                 {
                     "type": "pokemon",
@@ -900,7 +900,7 @@
             ]
         },
         {
-            "task": "Earn 5 hearts with your buddy.2.06%: 3 of 194 Tasks2.06%: 4 of 194 Tasks",
+            "task": "Earn 5 hearts with your buddy.2.44%: 6 of 287 Tasks2.44%: 7 of 287 Tasks",
             "rewards": [
                 {
                     "type": "pokemon",
@@ -912,20 +912,7 @@
             ]
         },
         {
-            "task": "Earn a Candy walking with your buddy.1.03%: 2 of 194 Tasks1.03%: 2 of 194 Tasks",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 299,
-                        "template": "NOSEPASS_NORMAL",
-                        "form": 1460
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Send 5 Gifts and add a sticker to each.0.52%: 1 of 194 Tasks0.52%: 1 of 194 Tasks",
+            "task": "Send 5 Gifts and add a sticker to each.0.7%: 2 of 287 Tasks0.7%: 2 of 287 Tasks",
             "rewards": [
                 {
                     "type": "pokemon",
@@ -944,7 +931,20 @@
             ]
         },
         {
-            "task": "Trade a Pokémon.0%: 0 of 194 Tasks0%: 0 of 194 Tasks",
+            "task": "Earn a Candy walking with your buddy.0.7%: 2 of 287 Tasks0.7%: 2 of 287 Tasks",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 299,
+                        "template": "NOSEPASS_NORMAL",
+                        "form": 1460
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Trade a Pokémon.0.35%: 1 of 287 Tasks0.35%: 1 of 287 Tasks",
             "rewards": [
                 {
                     "type": "pokemon",
@@ -963,7 +963,7 @@
             ]
         },
         {
-            "task": "Earn 2 Candies walking with your buddy.1.03%: 0 of 194 Tasks1.03%: 2 of 194 Tasks",
+            "task": "Earn 2 Candies walking with your buddy.0.7%: 0 of 287 Tasks0.7%: 2 of 287 Tasks",
             "rewards": [
                 {
                     "type": "pokemon",
@@ -975,7 +975,7 @@
             ]
         },
         {
-            "task": "Earn 3 Candies walking with your buddy.1.03%: 0 of 194 Tasks1.03%: 2 of 194 Tasks",
+            "task": "Earn 3 Candies walking with your buddy.0.7%: 0 of 287 Tasks0.7%: 2 of 287 Tasks",
             "rewards": [
                 {
                     "type": "pokemon",
@@ -988,35 +988,7 @@
             ]
         },
         {
-            "task": "Power up Pokémon 7 times.1.55%: 3 of 194 Tasks1.55%: 3 of 194 Tasks",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 252,
-                        "template": "TREECKO"
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 255,
-                        "template": "TORCHIC_NORMAL",
-                        "form": 1358
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 258,
-                        "template": "MUDKIP_NORMAL",
-                        "form": 205
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Power up Pokémon 5 times.1.03%: 2 of 194 Tasks2.06%: 4 of 194 Tasks",
+            "task": "Power up Pokémon 5 times.1.05%: 3 of 287 Tasks2.09%: 6 of 287 Tasks",
             "rewards": [
                 {
                     "type": "pokemon",
@@ -1045,7 +1017,35 @@
             ]
         },
         {
-            "task": "Power up Pokémon 3 times.0%: 0 of 194 Tasks0%: 0 of 194 Tasks",
+            "task": "Power up Pokémon 7 times.1.05%: 3 of 287 Tasks1.05%: 3 of 287 Tasks",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 252,
+                        "template": "TREECKO"
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 255,
+                        "template": "TORCHIC_NORMAL",
+                        "form": 1358
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 258,
+                        "template": "MUDKIP_NORMAL",
+                        "form": 205
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Power up Pokémon 3 times.0%: 0 of 287 Tasks0%: 0 of 287 Tasks",
             "rewards": [
                 {
                     "type": "pokemon",
@@ -1074,7 +1074,7 @@
             ]
         },
         {
-            "task": "Power up Pokémon 5 times.0%: 0 of 194 Tasks2.06%: 4 of 194 Tasks",
+            "task": "Power up Pokémon 5 times.0%: 0 of 287 Tasks2.09%: 6 of 287 Tasks",
             "rewards": [
                 {
                     "type": "energy",
@@ -1106,7 +1106,7 @@
             ]
         },
         {
-            "task": "Power up Pokémon 5 times.0%: 0 of 194 Tasks2.06%: 4 of 194 Tasks",
+            "task": "Power up Pokémon 5 times.0%: 0 of 287 Tasks2.09%: 6 of 287 Tasks",
             "rewards": [
                 {
                     "type": "energy",
@@ -1128,7 +1128,7 @@
             ]
         },
         {
-            "task": "Power up Pokémon 10 times.0%: 0 of 194 Tasks0.52%: 1 of 194 Tasks",
+            "task": "Power up Pokémon 10 times.0%: 0 of 287 Tasks0.35%: 1 of 287 Tasks",
             "rewards": [
                 {
                     "type": "energy",
@@ -1142,7 +1142,7 @@
             ]
         },
         {
-            "task": "Take a snapshot of a wild Pokémon.2.06%: 3 of 194 Tasks2.58%: 5 of 194 Tasks",
+            "task": "Take a snapshot of a wild Pokémon.1.39%: 3 of 287 Tasks1.74%: 5 of 287 Tasks",
             "rewards": [
                 {
                     "type": "item",
@@ -1175,7 +1175,20 @@
             ]
         },
         {
-            "task": "Take a snapshot of a wild Pokémon.1.03%: 1 of 194 Tasks2.58%: 5 of 194 Tasks",
+            "task": "Spin 5 PokéStops or Gyms.0.7%: 2 of 287 Tasks0.7%: 2 of 287 Tasks",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 280,
+                        "template": "RALTS_NORMAL",
+                        "form": 292
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Take a snapshot of a wild Pokémon.0.7%: 1 of 287 Tasks1.74%: 5 of 287 Tasks",
             "rewards": [
                 {
                     "type": "pokemon",
@@ -1204,53 +1217,7 @@
             ]
         },
         {
-            "task": "Spin 5 PokéStops or Gyms.0.52%: 1 of 194 Tasks0.52%: 1 of 194 Tasks",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 280,
-                        "template": "RALTS_NORMAL",
-                        "form": 292
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Hatch 2 Eggs.0%: 0 of 194 Tasks0%: 0 of 194 Tasks",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 374,
-                        "template": "BELDUM_NORMAL",
-                        "form": 764
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 103,
-                        "template": "EXEGGUTOR_ALOLA",
-                        "form": 78
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Evolve a Pokémon.0%: 0 of 194 Tasks0%: 0 of 194 Tasks",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 133,
-                        "template": "EEVEE"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Spin 3 PokéStops or Gyms.0%: 0 of 194 Tasks0.52%: 1 of 194 Tasks",
+            "task": "Spin 3 PokéStops or Gyms.0.35%: 1 of 287 Tasks2.09%: 6 of 287 Tasks",
             "rewards": [
                 {
                     "type": "stardust",
@@ -1281,7 +1248,7 @@
             ]
         },
         {
-            "task": "Hatch an Egg.0%: 0 of 194 Tasks0%: 0 of 194 Tasks",
+            "task": "Hatch an Egg.0.35%: 1 of 287 Tasks0.35%: 1 of 287 Tasks",
             "rewards": [
                 {
                     "type": "pokemon",
@@ -1291,11 +1258,44 @@
                     }
                 }
             ]
+        },
+        {
+            "task": "Hatch 2 Eggs.0%: 0 of 287 Tasks0%: 0 of 287 Tasks",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 374,
+                        "template": "BELDUM_NORMAL",
+                        "form": 764
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 103,
+                        "template": "EXEGGUTOR_ALOLA",
+                        "form": 78
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Evolve a Pokémon.0%: 0 of 287 Tasks0%: 0 of 287 Tasks",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 133,
+                        "template": "EEVEE"
+                    }
+                }
+            ]
         }
     ],
     "ar": [
         {
-            "task": "AR Mapping.0%: 0 of 194 Tasks1.55%: 3 of 194 Tasks",
+            "task": "AR Mapping.0%: 0 of 287 Tasks1.05%: 3 of 287 Tasks",
             "rewards": [
                 {
                     "type": "item",
