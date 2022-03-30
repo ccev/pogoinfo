@@ -255,14 +255,14 @@
                 ],
                 [
                     {
-                        "id": 332,
-                        "template": "CACTURNE_NORMAL",
-                        "form": 613
-                    },
-                    {
                         "id": 274,
                         "template": "NUZLEAF_NORMAL",
                         "form": 628
+                    },
+                    {
+                        "id": 332,
+                        "template": "CACTURNE_NORMAL",
+                        "form": 613
                     },
                     {
                         "id": 302,
