@@ -1,42 +1,47 @@
 {
     "1": [
         {
-            "id": 69,
-            "template": "BELLSPROUT_NORMAL",
-            "form": 664
+            "id": 209,
+            "template": "SNUBBULL_NORMAL",
+            "form": 1253
         },
         {
-            "id": 114,
-            "template": "TANGELA_NORMAL",
-            "form": 1059
+            "id": 280,
+            "template": "RALTS_NORMAL",
+            "form": 292
         },
         {
-            "id": 540,
-            "template": "SEWADDLE"
+            "id": 517,
+            "template": "MUNNA"
         },
         {
-            "id": 546,
-            "template": "COTTONEE"
+            "id": 599,
+            "template": "KLINK"
+        },
+        {
+            "id": 744,
+            "template": "ROCKRUFF"
         }
     ],
     "3": [
         {
-            "id": 12,
-            "template": "BUTTERFREE"
+            "id": 65,
+            "template": "ALAKAZAM_NORMAL",
+            "form": 310
         },
         {
-            "id": 45,
-            "template": "VILEPLUME_NORMAL",
-            "form": 271
+            "id": 105,
+            "template": "MAROWAK_ALOLA",
+            "form": 80
         },
         {
-            "id": 47,
-            "template": "PARASECT"
+            "id": 176,
+            "template": "TOGETIC"
         },
         {
-            "id": 103,
-            "template": "EXEGGUTOR_NORMAL",
-            "form": 77
+            "id": 205,
+            "template": "FORRETRESS_NORMAL",
+            "form": 1247
         }
     ],
     "5": [
