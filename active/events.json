@@ -4,10 +4,44 @@
         "type": "event",
         "start": "2022-04-01 00:00",
         "end": "2022-04-01 23:59",
-        "spawns": [],
+        "spawns": [
+            {
+                "id": 23,
+                "template": "EKANS"
+            },
+            {
+                "id": 92,
+                "template": "GASTLY"
+            },
+            {
+                "id": 177,
+                "template": "NATU"
+            },
+            {
+                "id": 283,
+                "template": "SURSKIT"
+            },
+            {
+                "id": 456,
+                "template": "FINNEON"
+            },
+            {
+                "id": 557,
+                "template": "DWEBBLE"
+            },
+            {
+                "id": 684,
+                "template": "SWIRLIX"
+            }
+        ],
         "eggs": [],
         "raids": [],
-        "shinies": [],
+        "shinies": [
+            {
+                "id": 132,
+                "template": "DITTO"
+            }
+        ],
         "bonuses": [],
         "features": [],
         "has_quests": true,
@@ -645,6 +679,34 @@
         ],
         "features": [],
         "has_quests": true,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Pokémon GO Fest 2022",
+        "type": "event",
+        "start": "2022-06-04 10:00",
+        "end": "2022-06-05 20:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Pokémon GO Fest Bonus Finale Event",
+        "type": "event",
+        "start": "2022-08-27 10:00",
+        "end": "2022-08-27 20:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
         "has_spawnpoints": false
     },
     {
