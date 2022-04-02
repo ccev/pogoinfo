@@ -818,18 +818,6 @@
             ]
         },
         {
-            "task": "Earn 3 hearts with your buddy",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 320,
-                        "template": "WAILMER"
-                    }
-                }
-            ]
-        },
-        {
             "task": "Earn 2 Candies walking with your buddy",
             "rewards": [
                 {
@@ -837,6 +825,18 @@
                     "reward": {
                         "id": 659,
                         "template": "BUNNELBY"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Earn 3 hearts with your buddy",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 320,
+                        "template": "WAILMER"
                     }
                 }
             ]
