@@ -83,7 +83,7 @@
     {
         "name": "All-Hands Rocket Retreat",
         "type": "event",
-        "start": "2022-04-03 10:00",
+        "start": "2022-04-03 00:00",
         "end": "2022-04-07 20:00",
         "spawns": [],
         "eggs": [],
