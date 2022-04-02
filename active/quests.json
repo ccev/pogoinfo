@@ -1,6 +1,73 @@
 {
-    "event": [],
+    "event": [
+        {
+            "task": "Event: Defeat 2 Team GO Rocket Grunts",
+            "rewards": [
+                {
+                    "type": "item",
+                    "amount": 1,
+                    "id": 201
+                }
+            ]
+        }
+    ],
     "quests": [
+        {
+            "task": "Catch 5 Pokémon with Weather Boost",
+            "rewards": [
+                {
+                    "type": "stardust",
+                    "amount": 200
+                },
+                {
+                    "type": "item",
+                    "amount": 3,
+                    "id": 701
+                },
+                {
+                    "type": "item",
+                    "amount": 1,
+                    "id": 705
+                },
+                {
+                    "type": "item",
+                    "amount": 5,
+                    "id": 1
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 60,
+                        "template": "POLIWAG_NORMAL",
+                        "form": 235
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 37,
+                        "template": "VULPIX_NORMAL",
+                        "form": 55
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 449,
+                        "template": "HIPPOPOTAS_NORMAL",
+                        "form": 888
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 459,
+                        "template": "SNOVER_NORMAL",
+                        "form": 932
+                    }
+                }
+            ]
+        },
         {
             "task": "Use 5 Nanab Berries while catching Pokémon",
             "rewards": [
@@ -70,62 +137,6 @@
                     "reward": {
                         "id": 415,
                         "template": "COMBEE"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Catch 5 Pokémon with Weather Boost",
-            "rewards": [
-                {
-                    "type": "stardust",
-                    "amount": 200
-                },
-                {
-                    "type": "item",
-                    "amount": 3,
-                    "id": 701
-                },
-                {
-                    "type": "item",
-                    "amount": 1,
-                    "id": 705
-                },
-                {
-                    "type": "item",
-                    "amount": 5,
-                    "id": 1
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 60,
-                        "template": "POLIWAG_NORMAL",
-                        "form": 235
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 37,
-                        "template": "VULPIX_NORMAL",
-                        "form": 55
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 449,
-                        "template": "HIPPOPOTAS_NORMAL",
-                        "form": 888
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 459,
-                        "template": "SNOVER_NORMAL",
-                        "form": 932
                     }
                 }
             ]
@@ -459,6 +470,18 @@
             ]
         },
         {
+            "task": "Make 5 Great Curveball Throws in a row",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 327,
+                        "template": "SPINDA"
+                    }
+                }
+            ]
+        },
+        {
             "task": "Make 5 Nice Curveball Throws in a row. ",
             "rewards": [
                 {
@@ -522,18 +545,6 @@
                         "id": 95,
                         "template": "ONIX_NORMAL",
                         "form": 902
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Make 5 Great Curveball Throws in a row",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 327,
-                        "template": "SPINDA"
                     }
                 }
             ]
@@ -931,10 +942,6 @@
         },
         {
             "task": "Power up Pokémon 5 times",
-            "rewards": []
-        },
-        {
-            "task": "Power up Pokémon 5 times",
             "rewards": [
                 {
                     "type": "energy",
@@ -965,6 +972,29 @@
                         "template": "LOPUNNY"
                     },
                     "amount": 20
+                }
+            ]
+        },
+        {
+            "task": "Power up Pokémon 5 times",
+            "rewards": [
+                {
+                    "type": "energy",
+                    "reward": {
+                        "id": 3,
+                        "template": "VENUSAUR_NORMAL",
+                        "form": 169
+                    },
+                    "amount": 10
+                },
+                {
+                    "type": "energy",
+                    "reward": {
+                        "id": 9,
+                        "template": "BLASTOISE_NORMAL",
+                        "form": 187
+                    },
+                    "amount": 10
                 }
             ]
         },
@@ -1022,18 +1052,6 @@
             ]
         },
         {
-            "task": "Take a snapshot of a wild Grass-type Pokémon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 546,
-                        "template": "COTTONEE"
-                    }
-                }
-            ]
-        },
-        {
             "task": "Evolve a Pokémon",
             "rewards": [
                 {
@@ -1041,6 +1059,18 @@
                     "reward": {
                         "id": 133,
                         "template": "EEVEE"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Take a snapshot of a wild Grass-type Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 546,
+                        "template": "COTTONEE"
                     }
                 }
             ]

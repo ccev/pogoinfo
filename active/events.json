@@ -1,53 +1,5 @@
 [
     {
-        "name": "April Fools’ 2-Oh?-22",
-        "type": "event",
-        "start": "2022-04-01 00:00",
-        "end": "2022-04-01 23:59",
-        "spawns": [
-            {
-                "id": 23,
-                "template": "EKANS"
-            },
-            {
-                "id": 92,
-                "template": "GASTLY"
-            },
-            {
-                "id": 177,
-                "template": "NATU"
-            },
-            {
-                "id": 283,
-                "template": "SURSKIT"
-            },
-            {
-                "id": 456,
-                "template": "FINNEON"
-            },
-            {
-                "id": 557,
-                "template": "DWEBBLE"
-            },
-            {
-                "id": 684,
-                "template": "SWIRLIX"
-            }
-        ],
-        "eggs": [],
-        "raids": [],
-        "shinies": [
-            {
-                "id": 132,
-                "template": "DITTO"
-            }
-        ],
-        "bonuses": [],
-        "features": [],
-        "has_quests": true,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Stunky Spotlight Hour",
         "type": "spotlight-hour",
         "start": "2022-04-05 18:00",
@@ -84,14 +36,66 @@
         "name": "All-Hands Rocket Retreat",
         "type": "event",
         "start": "2022-04-03 00:00",
-        "end": "2022-04-07 20:00",
+        "end": "2022-04-07 11:59",
         "spawns": [],
-        "eggs": [],
+        "eggs": [
+            {
+                "id": 246,
+                "template": "LARVITAR"
+            },
+            {
+                "id": 359,
+                "template": "ABSOL"
+            },
+            {
+                "id": 451,
+                "template": "SKORUPI"
+            },
+            {
+                "id": 551,
+                "template": "SANDILE"
+            },
+            {
+                "id": 559,
+                "template": "SCRAGGY"
+            },
+            {
+                "id": 624,
+                "template": "PAWNIARD"
+            },
+            {
+                "id": 629,
+                "template": "VULLABY"
+            },
+            {
+                "id": 633,
+                "template": "DEINO"
+            },
+            {
+                "id": 674,
+                "template": "PANCHAM"
+            },
+            {
+                "id": 690,
+                "template": "SKRELP"
+            },
+            {
+                "id": 757,
+                "template": "SALANDIT"
+            }
+        ],
         "raids": [],
         "shinies": [],
-        "bonuses": [],
+        "bonuses": [
+            {
+                "text": "Team GO Rocket will be appearing more frequently at PokéStops and in balloons"
+            },
+            {
+                "text": "You can use a Charged TM to help a Shadow Pokémon forget the Charged Attack Frustration"
+            }
+        ],
         "features": [],
-        "has_quests": false,
+        "has_quests": true,
         "has_spawnpoints": false
     },
     {
