@@ -57,14 +57,14 @@
                 ],
                 [
                     {
-                        "id": 282,
-                        "template": "GARDEVOIR_NORMAL",
-                        "form": 298
-                    },
-                    {
                         "id": 62,
                         "template": "POLIWRATH_NORMAL",
                         "form": 241
+                    },
+                    {
+                        "id": 282,
+                        "template": "GARDEVOIR_NORMAL",
+                        "form": 298
                     },
                     {
                         "id": 143,
@@ -345,14 +345,14 @@
                         "form": 1256
                     },
                     {
-                        "id": 209,
-                        "template": "SNUBBULL_NORMAL",
-                        "form": 1253
-                    },
-                    {
                         "id": 281,
                         "template": "KIRLIA_NORMAL",
                         "form": 295
+                    },
+                    {
+                        "id": 209,
+                        "template": "SNUBBULL_NORMAL",
+                        "form": 1253
                     }
                 ],
                 [
@@ -684,8 +684,7 @@
         },
         "lineup": {
             "rewards": [
-                0,
-                1
+                0
             ],
             "team": [
                 [
@@ -845,14 +844,14 @@
             "team": [
                 [
                     {
-                        "id": 19,
-                        "template": "RATTATA_NORMAL",
-                        "form": 45
-                    },
-                    {
                         "id": 399,
                         "template": "BIDOOF_NORMAL",
                         "form": 1667
+                    },
+                    {
+                        "id": 19,
+                        "template": "RATTATA_NORMAL",
+                        "form": 45
                     }
                 ],
                 [
@@ -862,14 +861,14 @@
                         "form": 1670
                     },
                     {
-                        "id": 294,
-                        "template": "LOUDRED_NORMAL",
-                        "form": 1445
-                    },
-                    {
                         "id": 20,
                         "template": "RATICATE_NORMAL",
                         "form": 47
+                    },
+                    {
+                        "id": 294,
+                        "template": "LOUDRED_NORMAL",
+                        "form": 1445
                     }
                 ],
                 [
@@ -900,7 +899,8 @@
         },
         "lineup": {
             "rewards": [
-                0
+                0,
+                1
             ],
             "team": [
                 [
@@ -979,19 +979,18 @@
         },
         "lineup": {
             "rewards": [
-                0,
-                1
+                0
             ],
             "team": [
                 [
                     {
+                        "id": 203,
+                        "template": "GIRAFARIG"
+                    },
+                    {
                         "id": 280,
                         "template": "RALTS_NORMAL",
                         "form": 292
-                    },
-                    {
-                        "id": 203,
-                        "template": "GIRAFARIG"
                     }
                 ],
                 [
@@ -1397,6 +1396,11 @@
                         "id": 130,
                         "template": "GYARADOS_NORMAL",
                         "form": 256
+                    },
+                    {
+                        "id": 464,
+                        "template": "RHYPERIOR_NORMAL",
+                        "form": 852
                     }
                 ],
                 [
@@ -1585,9 +1589,9 @@
                 ],
                 [
                     {
-                        "id": 125,
-                        "template": "ELECTABUZZ_NORMAL",
-                        "form": 640
+                        "id": 181,
+                        "template": "AMPHAROS_NORMAL",
+                        "form": 652
                     },
                     {
                         "id": 101,
@@ -1595,9 +1599,9 @@
                         "form": 1050
                     },
                     {
-                        "id": 181,
-                        "template": "AMPHAROS_NORMAL",
-                        "form": 652
+                        "id": 125,
+                        "template": "ELECTABUZZ_NORMAL",
+                        "form": 640
                     }
                 ]
             ]
