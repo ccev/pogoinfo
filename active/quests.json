@@ -1,12 +1,34 @@
 {
     "event": [
         {
+            "task": "Event: Purify 3 Shadow Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 215,
+                        "template": "SNEASEL_NORMAL",
+                        "form": 797
+                    }
+                }
+            ]
+        },
+        {
             "task": "Event: Defeat 2 Team GO Rocket Grunts",
             "rewards": [
                 {
                     "type": "item",
                     "amount": 1,
                     "id": 201
+                }
+            ]
+        },
+        {
+            "task": "Event: Catch 3 Shadow Pokémon",
+            "rewards": [
+                {
+                    "type": "stardust",
+                    "amount": 750
                 }
             ]
         }
@@ -839,18 +861,6 @@
             ]
         },
         {
-            "task": "Earn 3 hearts with your buddy",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 320,
-                        "template": "WAILMER"
-                    }
-                }
-            ]
-        },
-        {
             "task": "Earn 3 Candies walking with your buddy",
             "rewards": [
                 {
@@ -859,6 +869,18 @@
                         "id": 618,
                         "template": "STUNFISK_NORMAL",
                         "form": 2246
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Earn 3 hearts with your buddy",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 320,
+                        "template": "WAILMER"
                     }
                 }
             ]
@@ -955,6 +977,38 @@
                 {
                     "type": "energy",
                     "reward": {
+                        "id": 3,
+                        "template": "VENUSAUR_NORMAL",
+                        "form": 169
+                    },
+                    "amount": 10
+                },
+                {
+                    "type": "energy",
+                    "reward": {
+                        "id": 6,
+                        "template": "CHARIZARD_NORMAL",
+                        "form": 178
+                    },
+                    "amount": 10
+                },
+                {
+                    "type": "energy",
+                    "reward": {
+                        "id": 9,
+                        "template": "BLASTOISE_NORMAL",
+                        "form": 187
+                    },
+                    "amount": 10
+                }
+            ]
+        },
+        {
+            "task": "Power up Pokémon 5 times",
+            "rewards": [
+                {
+                    "type": "energy",
+                    "reward": {
                         "id": 15,
                         "template": "BEEDRILL_NORMAL",
                         "form": 622
@@ -981,49 +1035,6 @@
                         "template": "LOPUNNY"
                     },
                     "amount": 20
-                }
-            ]
-        },
-        {
-            "task": "Power up Pokémon 5 times",
-            "rewards": [
-                {
-                    "type": "energy",
-                    "reward": {
-                        "id": 3,
-                        "template": "VENUSAUR_NORMAL",
-                        "form": 169
-                    },
-                    "amount": 10
-                },
-                {
-                    "type": "energy",
-                    "reward": {
-                        "id": 9,
-                        "template": "BLASTOISE_NORMAL",
-                        "form": 187
-                    },
-                    "amount": 10
-                }
-            ]
-        },
-        {
-            "task": "Hatch an Egg",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 226,
-                        "template": "MANTINE"
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 227,
-                        "template": "SKARMORY_NORMAL",
-                        "form": 1295
-                    }
                 }
             ]
         },
@@ -1061,6 +1072,26 @@
             ]
         },
         {
+            "task": "Hatch an Egg",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 226,
+                        "template": "MANTINE"
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 227,
+                        "template": "SKARMORY_NORMAL",
+                        "form": 1295
+                    }
+                }
+            ]
+        },
+        {
             "task": "Evolve a Pokémon",
             "rewards": [
                 {
@@ -1068,18 +1099,6 @@
                     "reward": {
                         "id": 133,
                         "template": "EEVEE"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Take a snapshot of a wild Grass-type Pokémon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 546,
-                        "template": "COTTONEE"
                     }
                 }
             ]
@@ -1116,19 +1135,6 @@
             ]
         },
         {
-            "task": "Spin 5 PokéStops or Gyms",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 280,
-                        "template": "RALTS_NORMAL",
-                        "form": 292
-                    }
-                }
-            ]
-        },
-        {
             "task": "Hatch 2 Eggs",
             "rewards": [
                 {
@@ -1137,6 +1143,31 @@
                         "id": 374,
                         "template": "BELDUM_NORMAL",
                         "form": 764
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Take a snapshot of a wild Grass-type Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 546,
+                        "template": "COTTONEE"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Spin 5 PokéStops or Gyms",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 280,
+                        "template": "RALTS_NORMAL",
+                        "form": 292
                     }
                 }
             ]
