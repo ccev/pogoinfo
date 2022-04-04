@@ -1161,6 +1161,19 @@
             ]
         },
         {
+            "task": "Spin 5 PokéStops or Gyms",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 280,
+                        "template": "RALTS_NORMAL",
+                        "form": 292
+                    }
+                }
+            ]
+        },
+        {
             "task": "Hatch 2 Eggs",
             "rewards": [
                 {
@@ -1181,19 +1194,6 @@
                     "reward": {
                         "id": 546,
                         "template": "COTTONEE"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Spin 5 PokéStops or Gyms",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 280,
-                        "template": "RALTS_NORMAL",
-                        "form": 292
                     }
                 }
             ]
