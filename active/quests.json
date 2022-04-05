@@ -156,31 +156,6 @@
             ]
         },
         {
-            "task": "Catch 7 Pokémon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 129,
-                        "template": "MAGIKARP_NORMAL",
-                        "form": 253
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Catch 7 different species of Pokémon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 415,
-                        "template": "COMBEE"
-                    }
-                }
-            ]
-        },
-        {
             "task": "Catch a Dragon-type Pokémon",
             "rewards": [
                 {
@@ -216,6 +191,31 @@
                         "id": 371,
                         "template": "BAGON_NORMAL",
                         "form": 755
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Catch 7 Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 129,
+                        "template": "MAGIKARP_NORMAL",
+                        "form": 253
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Catch 7 different species of Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 415,
+                        "template": "COMBEE"
                     }
                 }
             ]
@@ -941,34 +941,6 @@
             ]
         },
         {
-            "task": "Power up Pokémon 7 times",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 252,
-                        "template": "TREECKO"
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 255,
-                        "template": "TORCHIC_NORMAL",
-                        "form": 1358
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 258,
-                        "template": "MUDKIP_NORMAL",
-                        "form": 205
-                    }
-                }
-            ]
-        },
-        {
             "task": "Power up Pokémon 5 times",
             "rewards": [
                 {
@@ -993,6 +965,34 @@
                         "id": 158,
                         "template": "TOTODILE_NORMAL",
                         "form": 1136
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Power up Pokémon 7 times",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 252,
+                        "template": "TREECKO"
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 255,
+                        "template": "TORCHIC_NORMAL",
+                        "form": 1358
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 258,
+                        "template": "MUDKIP_NORMAL",
+                        "form": 205
                     }
                 }
             ]
@@ -1197,10 +1197,6 @@
                     }
                 }
             ]
-        },
-        {
-            "task": "Take a snapshot of a wild Pokémon",
-            "rewards": []
         }
     ],
     "ar": [

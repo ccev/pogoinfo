@@ -1,18 +1,17 @@
 {
     "1": [
         {
-            "id": 209,
-            "template": "SNUBBULL_NORMAL",
-            "form": 1253
+            "id": 396,
+            "template": "STARLY_NORMAL",
+            "form": 1658
         },
         {
-            "id": 280,
-            "template": "RALTS_NORMAL",
-            "form": 292
+            "id": 403,
+            "template": "SHINX"
         },
         {
-            "id": 517,
-            "template": "MUNNA"
+            "id": 522,
+            "template": "BLITZLE"
         },
         {
             "id": 599,
@@ -25,37 +24,37 @@
     ],
     "3": [
         {
-            "id": 65,
-            "template": "ALAKAZAM_NORMAL",
-            "form": 310
+            "id": 22,
+            "template": "FEAROW"
         },
         {
-            "id": 105,
-            "template": "MAROWAK_ALOLA",
-            "form": 80
+            "id": 26,
+            "template": "RAICHU_NORMAL",
+            "form": 49
         },
         {
-            "id": 176,
-            "template": "TOGETIC"
+            "id": 75,
+            "template": "GRAVELER_ALOLA",
+            "form": 70
         },
         {
-            "id": 205,
-            "template": "FORRETRESS_NORMAL",
-            "form": 1247
+            "id": 621,
+            "template": "DRUDDIGON"
         }
     ],
     "5": [
         {
-            "id": 786,
-            "template": "TAPU_LELE"
+            "id": 642,
+            "template": "THUNDURUS_THERIAN",
+            "form": 143
         }
     ],
     "6": [
         {
-            "id": 6,
-            "template": "CHARIZARD_NORMAL",
-            "form": 178,
-            "temp_evolution_id": 3
+            "id": 310,
+            "template": "MANECTRIC_NORMAL",
+            "form": 1487,
+            "temp_evolution_id": 1
         }
     ]
 }

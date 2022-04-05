@@ -1292,14 +1292,14 @@
                 ],
                 [
                     {
-                        "id": 212,
-                        "template": "SCIZOR_NORMAL",
-                        "form": 250
-                    },
-                    {
                         "id": 282,
                         "template": "GARDEVOIR_NORMAL",
                         "form": 298
+                    },
+                    {
+                        "id": 212,
+                        "template": "SCIZOR_NORMAL",
+                        "form": 250
                     },
                     {
                         "id": 208,
@@ -1354,14 +1354,14 @@
                         "form": 232
                     },
                     {
-                        "id": 275,
-                        "template": "SHIFTRY_NORMAL",
-                        "form": 631
-                    },
-                    {
                         "id": 31,
                         "template": "NIDOQUEEN_NORMAL",
                         "form": 782
+                    },
+                    {
+                        "id": 275,
+                        "template": "SHIFTRY_NORMAL",
+                        "form": 631
                     }
                 ]
             ]
@@ -1457,14 +1457,14 @@
                 ],
                 [
                     {
-                        "id": 143,
-                        "template": "SNORLAX_NORMAL",
-                        "form": 199
-                    },
-                    {
                         "id": 20,
                         "template": "RATICATE_NORMAL",
                         "form": 47
+                    },
+                    {
+                        "id": 143,
+                        "template": "SNORLAX_NORMAL",
+                        "form": 199
                     }
                 ]
             ]
