@@ -57,9 +57,9 @@
                 ],
                 [
                     {
-                        "id": 143,
-                        "template": "SNORLAX_NORMAL",
-                        "form": 199
+                        "id": 282,
+                        "template": "GARDEVOIR_NORMAL",
+                        "form": 298
                     },
                     {
                         "id": 62,
@@ -67,9 +67,9 @@
                         "form": 241
                     },
                     {
-                        "id": 282,
-                        "template": "GARDEVOIR_NORMAL",
-                        "form": 298
+                        "id": 143,
+                        "template": "SNORLAX_NORMAL",
+                        "form": 199
                     }
                 ],
                 [
@@ -266,16 +266,6 @@
                         "id": 103,
                         "template": "EXEGGUTOR_NORMAL",
                         "form": 77
-                    },
-                    {
-                        "id": 148,
-                        "template": "DRAGONAIR_NORMAL",
-                        "form": 193
-                    },
-                    {
-                        "id": 330,
-                        "template": "FLYGON_NORMAL",
-                        "form": 752
                     }
                 ],
                 [
@@ -285,14 +275,14 @@
                         "form": 193
                     },
                     {
-                        "id": 149,
-                        "template": "DRAGONITE_NORMAL",
-                        "form": 196
-                    },
-                    {
                         "id": 330,
                         "template": "FLYGON_NORMAL",
                         "form": 752
+                    },
+                    {
+                        "id": 149,
+                        "template": "DRAGONITE_NORMAL",
+                        "form": 196
                     }
                 ]
             ]
@@ -1016,10 +1006,6 @@
                         "id": 97,
                         "template": "HYPNO_NORMAL",
                         "form": 217
-                    },
-                    {
-                        "id": 203,
-                        "template": "GIRAFARIG"
                     }
                 ]
             ]
@@ -1241,14 +1227,14 @@
                         "form": 178
                     },
                     {
-                        "id": 248,
-                        "template": "TYRANITAR_NORMAL",
-                        "form": 319
-                    },
-                    {
                         "id": 260,
                         "template": "SWAMPERT_NORMAL",
                         "form": 211
+                    },
+                    {
+                        "id": 248,
+                        "template": "TYRANITAR_NORMAL",
+                        "form": 319
                     }
                 ]
             ]
@@ -1390,14 +1376,14 @@
                 ],
                 [
                     {
-                        "id": 130,
-                        "template": "GYARADOS_NORMAL",
-                        "form": 256
-                    },
-                    {
                         "id": 430,
                         "template": "HONCHKROW_NORMAL",
                         "form": 858
+                    },
+                    {
+                        "id": 130,
+                        "template": "GYARADOS_NORMAL",
+                        "form": 256
                     },
                     {
                         "id": 464,
