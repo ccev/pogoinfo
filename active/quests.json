@@ -1,55 +1,5 @@
 {
-    "event": [
-        {
-            "task": "Event: Purify 3 Shadow Pokémon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 215,
-                        "template": "SNEASEL_NORMAL",
-                        "form": 797
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Event: Defeat a Team GO Rocket Leader",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 559,
-                        "template": "SCRAGGY"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Event: Defeat 2 Team GO Rocket Grunts",
-            "rewards": [
-                {
-                    "type": "item",
-                    "amount": 2,
-                    "id": 102
-                },
-                {
-                    "type": "item",
-                    "amount": 2,
-                    "id": 201
-                }
-            ]
-        },
-        {
-            "task": "Event: Catch 3 Shadow Pokémon",
-            "rewards": [
-                {
-                    "type": "stardust",
-                    "amount": 750
-                }
-            ]
-        }
-    ],
+    "event": [],
     "quests": [
         {
             "task": "Catch 5 Pokémon with Weather Boost",
