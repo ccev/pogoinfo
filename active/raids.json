@@ -1,6 +1,11 @@
 {
     "1": [
         {
+            "id": 88,
+            "template": "GRIMER_ALOLA",
+            "form": 74
+        },
+        {
             "id": 255,
             "template": "TORCHIC_NORMAL",
             "form": 1358
@@ -48,9 +53,8 @@
     ],
     "6": [
         {
-            "id": 310,
-            "template": "MANECTRIC_NORMAL",
-            "form": 1487,
+            "id": 18,
+            "template": "PIDGEOT",
             "temp_evolution_id": 1
         }
     ]
