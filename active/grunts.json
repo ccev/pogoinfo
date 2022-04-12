@@ -617,34 +617,28 @@
         },
         "lineup": {
             "rewards": [
-                0,
-                1
+                0
             ],
             "team": [
                 [
                     {
-                        "id": 331,
-                        "template": "CACNEA_NORMAL",
-                        "form": 610
-                    },
-                    {
-                        "id": 152,
-                        "template": "CHIKORITA_NORMAL",
-                        "form": 1118
+                        "id": 102,
+                        "template": "EXEGGCUTE_NORMAL",
+                        "form": 729
                     }
                 ],
                 [
                     {
-                        "id": 332,
-                        "template": "CACTURNE_NORMAL",
-                        "form": 613
+                        "id": 102,
+                        "template": "EXEGGCUTE_NORMAL",
+                        "form": 729
                     }
                 ],
                 [
                     {
-                        "id": 154,
-                        "template": "MEGANIUM_NORMAL",
-                        "form": 1124
+                        "id": 102,
+                        "template": "EXEGGCUTE_NORMAL",
+                        "form": 729
                     }
                 ]
             ]
@@ -825,49 +819,28 @@
         },
         "lineup": {
             "rewards": [
-                0,
-                1
+                0
             ],
             "team": [
                 [
                     {
-                        "id": 399,
-                        "template": "BIDOOF_NORMAL",
-                        "form": 1667
-                    },
-                    {
-                        "id": 19,
-                        "template": "RATTATA_NORMAL",
-                        "form": 45
+                        "id": 293,
+                        "template": "WHISMUR_NORMAL",
+                        "form": 1442
                     }
                 ],
                 [
                     {
-                        "id": 400,
-                        "template": "BIBAREL_NORMAL",
-                        "form": 1670
-                    },
-                    {
-                        "id": 294,
-                        "template": "LOUDRED_NORMAL",
-                        "form": 1445
-                    },
-                    {
-                        "id": 20,
-                        "template": "RATICATE_NORMAL",
-                        "form": 47
+                        "id": 293,
+                        "template": "WHISMUR_NORMAL",
+                        "form": 1442
                     }
                 ],
                 [
                     {
-                        "id": 295,
-                        "template": "EXPLOUD_NORMAL",
-                        "form": 1448
-                    },
-                    {
-                        "id": 400,
-                        "template": "BIBAREL_NORMAL",
-                        "form": 1670
+                        "id": 293,
+                        "template": "WHISMUR_NORMAL",
+                        "form": 1442
                     }
                 ]
             ]

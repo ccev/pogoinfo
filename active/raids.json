@@ -1,21 +1,17 @@
 {
     "1": [
         {
-            "id": 396,
-            "template": "STARLY_NORMAL",
-            "form": 1658
+            "id": 255,
+            "template": "TORCHIC_NORMAL",
+            "form": 1358
         },
         {
-            "id": 403,
-            "template": "SHINX"
+            "id": 548,
+            "template": "PETILIL"
         },
         {
-            "id": 522,
-            "template": "BLITZLE"
-        },
-        {
-            "id": 599,
-            "template": "KLINK"
+            "id": 684,
+            "template": "SWIRLIX"
         },
         {
             "id": 744,
@@ -24,29 +20,30 @@
     ],
     "3": [
         {
-            "id": 22,
-            "template": "FEAROW"
+            "id": 42,
+            "template": "GOLBAT_NORMAL",
+            "form": 160
         },
         {
-            "id": 26,
-            "template": "RAICHU_NORMAL",
-            "form": 49
+            "id": 103,
+            "template": "EXEGGUTOR_ALOLA",
+            "form": 78
         },
         {
-            "id": 75,
-            "template": "GRAVELER_ALOLA",
-            "form": 70
+            "id": 210,
+            "template": "GRANBULL_NORMAL",
+            "form": 1256
         },
         {
-            "id": 621,
-            "template": "DRUDDIGON"
+            "id": 388,
+            "template": "GROTLE_NORMAL",
+            "form": 691
         }
     ],
     "5": [
         {
-            "id": 642,
-            "template": "THUNDURUS_THERIAN",
-            "form": 143
+            "id": 787,
+            "template": "TAPU_BULU"
         }
     ],
     "6": [
