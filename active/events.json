@@ -1,38 +1,5 @@
 [
     {
-        "name": "Bunnelby Spotlight Hour",
-        "type": "spotlight-hour",
-        "start": "2022-04-12 18:00",
-        "end": "2022-04-12 19:00",
-        "spawns": [
-            {
-                "id": 659,
-                "template": "BUNNELBY"
-            }
-        ],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": true
-    },
-    {
-        "name": "Tapu Bulu Raid Hour",
-        "type": "raid-hour",
-        "start": "2022-04-20 18:00",
-        "end": "2022-04-20 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
         "name": "GO Battle Day: Beginner's Paradise",
         "type": "event",
         "start": "2022-04-17 00:00",
@@ -207,6 +174,20 @@
         "has_spawnpoints": true
     },
     {
+        "name": "Tapu Bulu Raid Hour",
+        "type": "raid-hour",
+        "start": "2022-04-20 18:00",
+        "end": "2022-04-20 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
         "name": "Stufful Community Day",
         "type": "community-day",
         "start": "2022-04-23 14:00",
@@ -279,13 +260,93 @@
         "type": "event",
         "start": "2022-04-20 10:00",
         "end": "2022-04-25 20:00",
-        "spawns": [],
-        "eggs": [],
+        "spawns": [
+            {
+                "id": 43,
+                "template": "ODDISH"
+            },
+            {
+                "id": 88,
+                "template": "GRIMER"
+            },
+            {
+                "id": 387,
+                "template": "TURTWIG"
+            },
+            {
+                "id": 388,
+                "template": "GROTLE"
+            },
+            {
+                "id": 420,
+                "template": "CHERUBI"
+            },
+            {
+                "id": 568,
+                "template": "TRUBBISH"
+            },
+            {
+                "id": 597,
+                "template": "FERROSEED"
+            },
+            {
+                "id": 765,
+                "template": "ORANGURU"
+            },
+            {
+                "id": 3,
+                "template": "VENUSAUR"
+            },
+            {
+                "id": 708,
+                "template": "PHANTUMP"
+            }
+        ],
+        "eggs": [
+            {
+                "id": 50,
+                "template": "DIGLETT_ALOLA",
+                "form": 60
+            },
+            {
+                "id": 246,
+                "template": "LARVITAR"
+            },
+            {
+                "id": 420,
+                "template": "CHERUBI"
+            },
+            {
+                "id": 765,
+                "template": "ORANGURU"
+            }
+        ],
         "raids": [],
-        "shinies": [],
-        "bonuses": [],
+        "shinies": [
+            {
+                "id": 420,
+                "template": "CHERUBI"
+            },
+            {
+                "id": 421,
+                "template": "CHERRIM_OVERCAST",
+                "form": 94
+            },
+            {
+                "id": 421,
+                "template": "CHERRIM_SUNNY",
+                "form": 95
+            }
+        ],
+        "bonuses": [
+            {
+                "text": "2x bonus XP from spinning a PokéStop for the first time",
+                "template": "increased-xp",
+                "value": 2
+            }
+        ],
         "features": [],
-        "has_quests": false,
+        "has_quests": true,
         "has_spawnpoints": false
     },
     {
