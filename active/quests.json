@@ -1,5 +1,83 @@
 {
-    "event": [],
+    "event": [
+        {
+            "task": "Event: Catch 5 Grass-type Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 387,
+                        "template": "TURTWIG_NORMAL",
+                        "form": 688
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 495,
+                        "template": "SNIVY"
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 650,
+                        "template": "CHESPIN"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Event: Walk 1 km",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 420,
+                        "template": "CHERUBI"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Event: Catch 3 Grimer",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 568,
+                        "template": "TRUBBISH"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Event: Walk 3 km. ",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 708,
+                        "template": "PHANTUMP"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Event: Power up Pokémon 5 times",
+            "rewards": [
+                {
+                    "type": "energy",
+                    "reward": {
+                        "id": 3,
+                        "template": "VENUSAUR_NORMAL",
+                        "form": 169
+                    },
+                    "amount": 50
+                }
+            ]
+        }
+    ],
     "quests": [
         {
             "task": "Catch 5 Pokémon with Weather Boost",
