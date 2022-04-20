@@ -74,6 +74,25 @@
                         "form": 169
                     },
                     "amount": 50
+                },
+                {
+                    "type": "energy",
+                    "reward": {
+                        "id": 460,
+                        "template": "ABOMASNOW_NORMAL",
+                        "form": 935
+                    },
+                    "amount": 50
+                }
+            ]
+        },
+        {
+            "task": "Event: Catch 3 Trubbish",
+            "rewards": [
+                {
+                    "type": "item",
+                    "amount": 1,
+                    "id": 708
                 }
             ]
         }
