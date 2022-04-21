@@ -566,14 +566,14 @@
                 ],
                 [
                     {
-                        "id": 398,
-                        "template": "STARAPTOR_NORMAL",
-                        "form": 1664
-                    },
-                    {
                         "id": 169,
                         "template": "CROBAT_NORMAL",
                         "form": 202
+                    },
+                    {
+                        "id": 398,
+                        "template": "STARAPTOR_NORMAL",
+                        "form": 1664
                     }
                 ]
             ]
@@ -831,14 +831,14 @@
             "team": [
                 [
                     {
-                        "id": 19,
-                        "template": "RATTATA_NORMAL",
-                        "form": 45
-                    },
-                    {
                         "id": 399,
                         "template": "BIDOOF_NORMAL",
                         "form": 1667
+                    },
+                    {
+                        "id": 19,
+                        "template": "RATTATA_NORMAL",
+                        "form": 45
                     }
                 ],
                 [
