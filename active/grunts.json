@@ -79,14 +79,14 @@
                         "form": 256
                     },
                     {
-                        "id": 143,
-                        "template": "SNORLAX_NORMAL",
-                        "form": 199
-                    },
-                    {
                         "id": 149,
                         "template": "DRAGONITE_NORMAL",
                         "form": 196
+                    },
+                    {
+                        "id": 143,
+                        "template": "SNORLAX_NORMAL",
+                        "form": 199
                     }
                 ]
             ]
@@ -467,14 +467,14 @@
                         "template": "NUMEL"
                     },
                     {
-                        "id": 4,
-                        "template": "CHARMANDER_NORMAL",
-                        "form": 172
-                    },
-                    {
                         "id": 155,
                         "template": "CYNDAQUIL_NORMAL",
                         "form": 1127
+                    },
+                    {
+                        "id": 4,
+                        "template": "CHARMANDER_NORMAL",
+                        "form": 172
                     }
                 ],
                 [
@@ -566,14 +566,14 @@
                 ],
                 [
                     {
-                        "id": 169,
-                        "template": "CROBAT_NORMAL",
-                        "form": 202
-                    },
-                    {
                         "id": 398,
                         "template": "STARAPTOR_NORMAL",
                         "form": 1664
+                    },
+                    {
+                        "id": 169,
+                        "template": "CROBAT_NORMAL",
+                        "form": 202
                     }
                 ]
             ]
@@ -1043,13 +1043,13 @@
             "team": [
                 [
                     {
+                        "id": 185,
+                        "template": "SUDOWOODO"
+                    },
+                    {
                         "id": 213,
                         "template": "SHUCKLE_NORMAL",
                         "form": 827
-                    },
-                    {
-                        "id": 185,
-                        "template": "SUDOWOODO"
                     }
                 ],
                 [
@@ -1268,14 +1268,14 @@
                         "form": 196
                     },
                     {
-                        "id": 373,
-                        "template": "SALAMENCE_NORMAL",
-                        "form": 761
-                    },
-                    {
                         "id": 103,
                         "template": "EXEGGUTOR_NORMAL",
                         "form": 77
+                    },
+                    {
+                        "id": 373,
+                        "template": "SALAMENCE_NORMAL",
+                        "form": 761
                     }
                 ],
                 [
