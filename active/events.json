@@ -1,73 +1,5 @@
 [
     {
-        "name": "Stufful Community Day",
-        "type": "community-day",
-        "start": "2022-04-23 14:00",
-        "end": "2022-04-23 17:00",
-        "spawns": [
-            {
-                "id": 759,
-                "template": "STUFFUL"
-            }
-        ],
-        "eggs": [],
-        "raids": [],
-        "shinies": [
-            {
-                "id": 759,
-                "template": "STUFFUL"
-            },
-            {
-                "id": 760,
-                "template": "BEWEAR"
-            }
-        ],
-        "bonuses": [
-            {
-                "text": "Increased Spawns"
-            },
-            {
-                "text": "3x Catch XP",
-                "template": "increased-xp",
-                "value": 3
-            },
-            {
-                "text": "3-hour Incense",
-                "template": "longer-incense",
-                "value": 3
-            },
-            {
-                "text": "3-hour Lures",
-                "template": "longer-lure",
-                "value": 3
-            },
-            {
-                "text": "2x Catch Candy",
-                "template": "increased-candy",
-                "value": 2
-            },
-            {
-                "text": "2x Chance to receive Stufful XL Candy from catching Stufful",
-                "value": 2
-            },
-            {
-                "text": "1 extra special trade can be made during the event and two hours after the event (maximum of 2 for the day)",
-                "value": 12
-            },
-            {
-                "text": "Trades made during the event and two hours after the event will require 50% less Stardust.",
-                "template": "increased-stardust",
-                "value": 50
-            }
-        ],
-        "features": [
-            "Trainer Battles: 20 power and guaranteed to increase the user’s Defense.",
-            "Gyms and raids: 50 power"
-        ],
-        "has_quests": true,
-        "has_spawnpoints": true
-    },
-    {
         "name": "Sustainability Week",
         "type": "event",
         "start": "2022-04-20 10:00",
@@ -196,16 +128,77 @@
         "has_spawnpoints": false
     },
     {
-        "name": "May Community Day",
+        "name": "Alolan Geodude Community Day",
         "type": "community-day",
         "start": "2022-05-21 11:00",
-        "end": "2022-05-21 17:00",
-        "spawns": [],
+        "end": "2022-05-21 14:00",
+        "spawns": [
+            {
+                "id": 74,
+                "template": "GEODUDE_ALOLA",
+                "form": 68
+            }
+        ],
         "eggs": [],
         "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
+        "shinies": [
+            {
+                "id": 74,
+                "template": "GEODUDE_ALOLA",
+                "form": 68
+            },
+            {
+                "id": 75,
+                "template": "GRAVELER_ALOLA",
+                "form": 70
+            },
+            {
+                "id": 76,
+                "template": "GOLEM_ALOLA",
+                "form": 72
+            }
+        ],
+        "bonuses": [
+            {
+                "text": "Increased Spawns"
+            },
+            {
+                "text": "3x Catch Stardust",
+                "template": "increased-stardust",
+                "value": 3
+            },
+            {
+                "text": "3-hour Incense",
+                "template": "longer-incense",
+                "value": 3
+            },
+            {
+                "text": "3-hour Lures",
+                "template": "longer-lure",
+                "value": 3
+            },
+            {
+                "text": "2x Catch Candy",
+                "template": "increased-candy",
+                "value": 2
+            },
+            {
+                "text": "2x Chance to receive Geodude XL Candy from catching Alolan Geodude",
+                "value": 2
+            },
+            {
+                "text": "1 extra special trade can be made during the event and two hours after the event (maximum of 2 for the day)",
+                "value": 12
+            },
+            {
+                "text": "Trades made during the event and two hours after the event will require 50% less Stardust.",
+                "value": 50
+            }
+        ],
+        "features": [
+            "Trainer Battles: 4 damage",
+            "Gyms and raids: 14 damage"
+        ],
         "has_quests": true,
         "has_spawnpoints": true
     },
