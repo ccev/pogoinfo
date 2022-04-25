@@ -184,14 +184,14 @@
             "team": [
                 [
                     {
-                        "id": 434,
-                        "template": "STUNKY_NORMAL",
-                        "form": 791
-                    },
-                    {
                         "id": 19,
                         "template": "RATTATA_NORMAL",
                         "form": 45
+                    },
+                    {
+                        "id": 434,
+                        "template": "STUNKY_NORMAL",
+                        "form": 791
                     }
                 ],
                 [
@@ -566,14 +566,14 @@
                 ],
                 [
                     {
-                        "id": 398,
-                        "template": "STARAPTOR_NORMAL",
-                        "form": 1664
-                    },
-                    {
                         "id": 169,
                         "template": "CROBAT_NORMAL",
                         "form": 202
+                    },
+                    {
+                        "id": 398,
+                        "template": "STARAPTOR_NORMAL",
+                        "form": 1664
                     }
                 ]
             ]
@@ -1127,14 +1127,14 @@
                 ],
                 [
                     {
-                        "id": 160,
-                        "template": "FERALIGATR_NORMAL",
-                        "form": 1142
-                    },
-                    {
                         "id": 260,
                         "template": "SWAMPERT_NORMAL",
                         "form": 211
+                    },
+                    {
+                        "id": 160,
+                        "template": "FERALIGATR_NORMAL",
+                        "form": 1142
                     }
                 ]
             ]
@@ -1268,14 +1268,14 @@
                         "form": 196
                     },
                     {
-                        "id": 103,
-                        "template": "EXEGGUTOR_NORMAL",
-                        "form": 77
-                    },
-                    {
                         "id": 373,
                         "template": "SALAMENCE_NORMAL",
                         "form": 761
+                    },
+                    {
+                        "id": 103,
+                        "template": "EXEGGUTOR_NORMAL",
+                        "form": 77
                     }
                 ],
                 [
@@ -1377,14 +1377,14 @@
                 ],
                 [
                     {
-                        "id": 464,
-                        "template": "RHYPERIOR_NORMAL",
-                        "form": 852
-                    },
-                    {
                         "id": 430,
                         "template": "HONCHKROW_NORMAL",
                         "form": 858
+                    },
+                    {
+                        "id": 464,
+                        "template": "RHYPERIOR_NORMAL",
+                        "form": 852
                     },
                     {
                         "id": 130,
@@ -1566,14 +1566,14 @@
                         "form": 1047
                     },
                     {
-                        "id": 180,
-                        "template": "FLAAFFY_NORMAL",
-                        "form": 649
-                    },
-                    {
                         "id": 101,
                         "template": "ELECTRODE_NORMAL",
                         "form": 1050
+                    },
+                    {
+                        "id": 180,
+                        "template": "FLAAFFY_NORMAL",
+                        "form": 649
                     }
                 ],
                 [
