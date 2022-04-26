@@ -1,99 +1,5 @@
 [
     {
-        "name": "Sustainability Week",
-        "type": "event",
-        "start": "2022-04-20 10:00",
-        "end": "2022-04-25 20:00",
-        "spawns": [
-            {
-                "id": 43,
-                "template": "ODDISH"
-            },
-            {
-                "id": 88,
-                "template": "GRIMER"
-            },
-            {
-                "id": 387,
-                "template": "TURTWIG"
-            },
-            {
-                "id": 388,
-                "template": "GROTLE"
-            },
-            {
-                "id": 420,
-                "template": "CHERUBI"
-            },
-            {
-                "id": 568,
-                "template": "TRUBBISH"
-            },
-            {
-                "id": 597,
-                "template": "FERROSEED"
-            },
-            {
-                "id": 765,
-                "template": "ORANGURU"
-            },
-            {
-                "id": 3,
-                "template": "VENUSAUR"
-            },
-            {
-                "id": 708,
-                "template": "PHANTUMP"
-            }
-        ],
-        "eggs": [
-            {
-                "id": 50,
-                "template": "DIGLETT_ALOLA",
-                "form": 60
-            },
-            {
-                "id": 246,
-                "template": "LARVITAR"
-            },
-            {
-                "id": 420,
-                "template": "CHERUBI"
-            },
-            {
-                "id": 765,
-                "template": "ORANGURU"
-            }
-        ],
-        "raids": [],
-        "shinies": [
-            {
-                "id": 420,
-                "template": "CHERUBI"
-            },
-            {
-                "id": 421,
-                "template": "CHERRIM_OVERCAST",
-                "form": 94
-            },
-            {
-                "id": 421,
-                "template": "CHERRIM_SUNNY",
-                "form": 95
-            }
-        ],
-        "bonuses": [
-            {
-                "text": "2x bonus XP from spinning a PokéStop for the first time",
-                "template": "increased-xp",
-                "value": 2
-            }
-        ],
-        "features": [],
-        "has_quests": true,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Cherrim Spotlight Hour",
         "type": "spotlight-hour",
         "start": "2022-04-26 18:00",
@@ -529,7 +435,186 @@
         "type": "event",
         "start": "2022-06-04 10:00",
         "end": "2022-06-05 20:00",
-        "spawns": [],
+        "spawns": [
+            {
+                "id": 81,
+                "template": "MAGNEMITE"
+            },
+            {
+                "id": 88,
+                "template": "GRIMER_ALOLA",
+                "form": 74
+            },
+            {
+                "id": 107,
+                "template": "HITMONCHAN"
+            },
+            {
+                "id": 343,
+                "template": "BALTOY"
+            },
+            {
+                "id": 412,
+                "template": "BURMY_TRASH",
+                "form": 120
+            },
+            {
+                "id": 436,
+                "template": "BRONZOR"
+            },
+            {
+                "id": 519,
+                "template": "PIDOVE"
+            },
+            {
+                "id": 568,
+                "template": "TRUBBISH"
+            },
+            {
+                "id": 574,
+                "template": "GOTHITA"
+            },
+            {
+                "id": 622,
+                "template": "GOLETT"
+            },
+            {
+                "id": 725,
+                "template": "LITTEN"
+            },
+            {
+                "id": 203,
+                "template": "GIRAFARIG"
+            },
+            {
+                "id": 206,
+                "template": "DUNSPARCE"
+            },
+            {
+                "id": 246,
+                "template": "LARVITAR"
+            },
+            {
+                "id": 322,
+                "template": "NUMEL"
+            },
+            {
+                "id": 328,
+                "template": "TRAPINCH"
+            },
+            {
+                "id": 418,
+                "template": "BUIZEL"
+            },
+            {
+                "id": 504,
+                "template": "PATRAT"
+            },
+            {
+                "id": 529,
+                "template": "DRILBUR"
+            },
+            {
+                "id": 616,
+                "template": "SHELMET"
+            },
+            {
+                "id": 627,
+                "template": "RUFFLET"
+            },
+            {
+                "id": 667,
+                "template": "LITLEO"
+            },
+            {
+                "id": 258,
+                "template": "MUDKIP"
+            },
+            {
+                "id": 273,
+                "template": "SEEDOT"
+            },
+            {
+                "id": 285,
+                "template": "SHROOMISH"
+            },
+            {
+                "id": 287,
+                "template": "SLAKOTH"
+            },
+            {
+                "id": 387,
+                "template": "TURTWIG"
+            },
+            {
+                "id": 390,
+                "template": "CHIMCHAR"
+            },
+            {
+                "id": 543,
+                "template": "VENIPEDE"
+            },
+            {
+                "id": 588,
+                "template": "KARRABLAST"
+            },
+            {
+                "id": 688,
+                "template": "BINACLE"
+            },
+            {
+                "id": 690,
+                "template": "SKRELP"
+            },
+            {
+                "id": 722,
+                "template": "ROWLET"
+            },
+            {
+                "id": 138,
+                "template": "OMANYTE"
+            },
+            {
+                "id": 220,
+                "template": "SWINUB"
+            },
+            {
+                "id": 278,
+                "template": "WINGULL"
+            },
+            {
+                "id": 307,
+                "template": "MEDITITE"
+            },
+            {
+                "id": 320,
+                "template": "WAILMER"
+            },
+            {
+                "id": 363,
+                "template": "SPHEAL"
+            },
+            {
+                "id": 393,
+                "template": "PIPLUP"
+            },
+            {
+                "id": 582,
+                "template": "VANILLITE"
+            },
+            {
+                "id": 613,
+                "template": "CUBCHOO"
+            },
+            {
+                "id": 712,
+                "template": "BERGMITE"
+            },
+            {
+                "id": 728,
+                "template": "POPPLIO"
+            }
+        ],
         "eggs": [],
         "raids": [],
         "shinies": [],
