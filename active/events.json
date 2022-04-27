@@ -463,6 +463,11 @@
                 "template": "LITTEN"
             },
             {
+                "id": 110,
+                "template": "WEEZING_GALARIAN",
+                "form": 944
+            },
+            {
                 "id": 203,
                 "template": "GIRAFARIG"
             },
@@ -505,6 +510,10 @@
             {
                 "id": 667,
                 "template": "LITLEO"
+            },
+            {
+                "id": 610,
+                "template": "AXEW"
             },
             {
                 "id": 258,
@@ -551,6 +560,10 @@
                 "template": "ROWLET"
             },
             {
+                "id": 674,
+                "template": "PANCHAM"
+            },
+            {
                 "id": 138,
                 "template": "OMANYTE"
             },
@@ -593,16 +606,16 @@
             {
                 "id": 728,
                 "template": "POPPLIO"
+            },
+            {
+                "id": 554,
+                "template": "DARUMAKA_GALARIAN",
+                "form": 2341
             }
         ],
         "eggs": [],
         "raids": [],
         "shinies": [
-            {
-                "id": 201,
-                "template": "UNOWN_B",
-                "form": 2
-            },
             {
                 "id": 285,
                 "template": "SHROOMISH"
