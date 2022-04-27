@@ -921,14 +921,14 @@
                 ],
                 [
                     {
-                        "id": 89,
-                        "template": "MUK_NORMAL",
-                        "form": 75
-                    },
-                    {
                         "id": 110,
                         "template": "WEEZING_NORMAL",
                         "form": 706
+                    },
+                    {
+                        "id": 89,
+                        "template": "MUK_NORMAL",
+                        "form": 75
                     }
                 ]
             ]
