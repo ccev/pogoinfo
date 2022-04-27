@@ -597,7 +597,57 @@
         ],
         "eggs": [],
         "raids": [],
-        "shinies": [],
+        "shinies": [
+            {
+                "id": 201,
+                "template": "UNOWN_B",
+                "form": 2
+            },
+            {
+                "id": 285,
+                "template": "SHROOMISH"
+            },
+            {
+                "id": 286,
+                "template": "BRELOOM"
+            },
+            {
+                "id": 322,
+                "template": "NUMEL"
+            },
+            {
+                "id": 323,
+                "template": "CAMERUPT"
+            },
+            {
+                "id": 588,
+                "template": "KARRABLAST"
+            },
+            {
+                "id": 589,
+                "template": "ESCAVALIER"
+            },
+            {
+                "id": 610,
+                "template": "AXEW"
+            },
+            {
+                "id": 611,
+                "template": "FRAXURE"
+            },
+            {
+                "id": 612,
+                "template": "HAXORUS"
+            },
+            {
+                "id": 616,
+                "template": "SHELMET"
+            },
+            {
+                "id": 617,
+                "template": "ACCELGOR"
+            }
+        ],
         "bonuses": [],
         "features": [],
         "has_quests": false,
