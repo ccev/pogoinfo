@@ -659,6 +659,26 @@
             {
                 "id": 617,
                 "template": "ACCELGOR"
+            },
+            {
+                "id": 201,
+                "template": "UNOWN_B",
+                "form": 2
+            },
+            {
+                "id": 201,
+                "template": "UNOWN_G",
+                "form": 7
+            },
+            {
+                "id": 201,
+                "template": "UNOWN_O",
+                "form": 15
+            },
+            {
+                "id": 201,
+                "template": "UNOWN_U",
+                "form": 21
             }
         ],
         "bonuses": [],

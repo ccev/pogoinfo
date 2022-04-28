@@ -490,14 +490,14 @@
                 ],
                 [
                     {
-                        "id": 157,
-                        "template": "TYPHLOSION_NORMAL",
-                        "form": 1133
-                    },
-                    {
                         "id": 38,
                         "template": "NINETALES_NORMAL",
                         "form": 57
+                    },
+                    {
+                        "id": 157,
+                        "template": "TYPHLOSION_NORMAL",
+                        "form": 1133
                     },
                     {
                         "id": 323,
@@ -1500,14 +1500,14 @@
                 ],
                 [
                     {
-                        "id": 354,
-                        "template": "BANETTE_NORMAL",
-                        "form": 911
-                    },
-                    {
                         "id": 302,
                         "template": "SABLEYE_NORMAL",
                         "form": 923
+                    },
+                    {
+                        "id": 354,
+                        "template": "BANETTE_NORMAL",
+                        "form": 911
                     }
                 ],
                 [
