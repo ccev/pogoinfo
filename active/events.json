@@ -743,17 +743,112 @@
         "has_spawnpoints": false
     },
     {
-        "name": "Pokémon Air Adventures x Pokémon GO Global Collaboration Event",
+        "name": "Pokémon Air Adventures Event",
         "type": "event",
         "start": "2022-05-03 00:00",
         "end": "2023-05-08 23:59",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
+        "spawns": [
+            {
+                "id": 25,
+                "template": "PIKACHU_COSTUME_2020",
+                "form": 2332
+            },
+            {
+                "id": 39,
+                "template": "JIGGLYPUFF"
+            },
+            {
+                "id": 52,
+                "template": "MEOWTH"
+            },
+            {
+                "id": 54,
+                "template": "PSYDUCK"
+            },
+            {
+                "id": 84,
+                "template": "DODUO"
+            },
+            {
+                "id": 129,
+                "template": "MAGIKARP"
+            },
+            {
+                "id": 278,
+                "template": "WINGULL"
+            },
+            {
+                "id": 333,
+                "template": "SWABLU"
+            },
+            {
+                "id": 425,
+                "template": "DRIFLOON"
+            },
+            {
+                "id": 6,
+                "template": "CHARIZARD"
+            },
+            {
+                "id": 226,
+                "template": "MANTINE"
+            }
+        ],
+        "eggs": [
+            {
+                "id": 175,
+                "template": "TOGEPI"
+            },
+            {
+                "id": 458,
+                "template": "MANTYKE"
+            },
+            {
+                "id": 587,
+                "template": "EMOLGA"
+            },
+            {
+                "id": 714,
+                "template": "NOIBAT"
+            }
+        ],
+        "raids": [
+            {
+                "id": 6,
+                "template": "CHARIZARD"
+            },
+            {
+                "id": 131,
+                "template": "LAPRAS"
+            },
+            {
+                "id": 468,
+                "template": "TOGEKISS"
+            },
+            {
+                "id": 380,
+                "template": "LATIAS"
+            },
+            {
+                "id": 381,
+                "template": "LATIOS"
+            }
+        ],
         "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
+        "bonuses": [
+            {
+                "text": "1/2 Hatch Distance",
+                "template": "reduced-hatch-distance",
+                "value": 12
+            }
+        ],
+        "features": [
+            "Trainer Battles: 120 power and a chance to lower the opposing Pokémon’s Attack",
+            "Gyms and raids: 105 power",
+            "Trainer Battles: 120 power and a chance to lower the opposing Pokémon’s Defense",
+            "Gyms and raids: 100 power"
+        ],
+        "has_quests": true,
         "has_spawnpoints": false
     }
 ]
