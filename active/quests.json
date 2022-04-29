@@ -50,6 +50,15 @@
                         "template": "ALTARIA"
                     },
                     "amount": 70
+                },
+                {
+                    "type": "energy",
+                    "reward": {
+                        "id": 130,
+                        "template": "GYARADOS_NORMAL",
+                        "form": 256
+                    },
+                    "amount": 70
                 }
             ]
         },
@@ -88,6 +97,37 @@
                         "id": 310,
                         "template": "MANECTRIC_NORMAL",
                         "form": 1487
+                    },
+                    "amount": 25
+                }
+            ]
+        },
+        {
+            "task": "Event: Power up Pokémon 5 times",
+            "rewards": [
+                {
+                    "type": "energy",
+                    "reward": {
+                        "id": 80,
+                        "template": "SLOWBRO_NORMAL",
+                        "form": 1020
+                    },
+                    "amount": 25
+                },
+                {
+                    "type": "energy",
+                    "reward": {
+                        "id": 94,
+                        "template": "GENGAR_NORMAL",
+                        "form": 1044
+                    },
+                    "amount": 25
+                },
+                {
+                    "type": "energy",
+                    "reward": {
+                        "id": 428,
+                        "template": "LOPUNNY"
                     },
                     "amount": 25
                 }
