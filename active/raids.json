@@ -52,8 +52,9 @@
     ],
     "6": [
         {
-            "id": 18,
-            "template": "PIDGEOT",
+            "id": 115,
+            "template": "KANGASKHAN_NORMAL",
+            "form": 839,
             "temp_evolution_id": 1
         }
     ]

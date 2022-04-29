@@ -1,5 +1,99 @@
 {
-    "event": [],
+    "event": [
+        {
+            "task": "Event: Power up Pokémon 10 times",
+            "rewards": [
+                {
+                    "type": "energy",
+                    "reward": {
+                        "id": 94,
+                        "template": "GENGAR_NORMAL",
+                        "form": 1044
+                    },
+                    "amount": 70
+                },
+                {
+                    "type": "energy",
+                    "reward": {
+                        "id": 181,
+                        "template": "AMPHAROS_NORMAL",
+                        "form": 652
+                    },
+                    "amount": 70
+                },
+                {
+                    "type": "energy",
+                    "reward": {
+                        "id": 359,
+                        "template": "ABSOL_NORMAL",
+                        "form": 830
+                    },
+                    "amount": 70
+                },
+                {
+                    "type": "energy",
+                    "reward": {
+                        "id": 428,
+                        "template": "LOPUNNY"
+                    },
+                    "amount": 70
+                }
+            ]
+        },
+        {
+            "task": "Event: Power up Pokémon 10 times",
+            "rewards": [
+                {
+                    "type": "energy",
+                    "reward": {
+                        "id": 334,
+                        "template": "ALTARIA"
+                    },
+                    "amount": 70
+                }
+            ]
+        },
+        {
+            "task": "Event: Power up Pokémon 5 times",
+            "rewards": [
+                {
+                    "type": "energy",
+                    "reward": {
+                        "id": 18,
+                        "template": "PIDGEOT"
+                    },
+                    "amount": 25
+                },
+                {
+                    "type": "energy",
+                    "reward": {
+                        "id": 208,
+                        "template": "STEELIX_NORMAL",
+                        "form": 905
+                    },
+                    "amount": 25
+                },
+                {
+                    "type": "energy",
+                    "reward": {
+                        "id": 181,
+                        "template": "AMPHAROS_NORMAL",
+                        "form": 652
+                    },
+                    "amount": 25
+                },
+                {
+                    "type": "energy",
+                    "reward": {
+                        "id": 310,
+                        "template": "MANECTRIC_NORMAL",
+                        "form": 1487
+                    },
+                    "amount": 25
+                }
+            ]
+        }
+    ],
     "quests": [
         {
             "task": "Catch 5 Pokémon with Weather Boost",
