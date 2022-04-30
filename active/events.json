@@ -910,8 +910,8 @@
     {
         "name": "Pokémon Air Adventures Event",
         "type": "event",
-        "start": "2022-05-03 00:00",
-        "end": "2023-05-08 23:59",
+        "start": "2022-05-03 10:00",
+        "end": "2023-05-08 20:00",
         "spawns": [
             {
                 "id": 25,
