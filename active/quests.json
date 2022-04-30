@@ -47,6 +47,37 @@
                 {
                     "type": "energy",
                     "reward": {
+                        "id": 18,
+                        "template": "PIDGEOT"
+                    },
+                    "amount": 70
+                },
+                {
+                    "type": "energy",
+                    "reward": {
+                        "id": 94,
+                        "template": "GENGAR_NORMAL",
+                        "form": 1044
+                    },
+                    "amount": 70
+                },
+                {
+                    "type": "energy",
+                    "reward": {
+                        "id": 130,
+                        "template": "GYARADOS_NORMAL",
+                        "form": 256
+                    },
+                    "amount": 70
+                }
+            ]
+        },
+        {
+            "task": "Event: Power up Pokémon 10 times",
+            "rewards": [
+                {
+                    "type": "energy",
+                    "reward": {
                         "id": 142,
                         "template": "AERODACTYL_NORMAL",
                         "form": 1110
@@ -249,37 +280,6 @@
             ]
         },
         {
-            "task": "Event: Power up Pokémon 10 times",
-            "rewards": [
-                {
-                    "type": "energy",
-                    "reward": {
-                        "id": 18,
-                        "template": "PIDGEOT"
-                    },
-                    "amount": 70
-                },
-                {
-                    "type": "energy",
-                    "reward": {
-                        "id": 94,
-                        "template": "GENGAR_NORMAL",
-                        "form": 1044
-                    },
-                    "amount": 70
-                },
-                {
-                    "type": "energy",
-                    "reward": {
-                        "id": 130,
-                        "template": "GYARADOS_NORMAL",
-                        "form": 256
-                    },
-                    "amount": 70
-                }
-            ]
-        },
-        {
             "task": "Event: Power up Pokémon 5 times",
             "rewards": [
                 {
@@ -305,6 +305,20 @@
                     "reward": {
                         "id": 428,
                         "template": "LOPUNNY"
+                    },
+                    "amount": 25
+                }
+            ]
+        },
+        {
+            "task": "Event: Power up Pokémon 5 times",
+            "rewards": [
+                {
+                    "type": "energy",
+                    "reward": {
+                        "id": 460,
+                        "template": "ABOMASNOW_NORMAL",
+                        "form": 935
                     },
                     "amount": 25
                 }
