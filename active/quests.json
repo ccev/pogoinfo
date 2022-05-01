@@ -55,6 +55,15 @@
                 {
                     "type": "energy",
                     "reward": {
+                        "id": 80,
+                        "template": "SLOWBRO_NORMAL",
+                        "form": 1020
+                    },
+                    "amount": 70
+                },
+                {
+                    "type": "energy",
+                    "reward": {
                         "id": 94,
                         "template": "GENGAR_NORMAL",
                         "form": 1044
