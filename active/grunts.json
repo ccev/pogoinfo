@@ -213,14 +213,14 @@
                         "form": 47
                     },
                     {
-                        "id": 430,
-                        "template": "HONCHKROW_NORMAL",
-                        "form": 858
-                    },
-                    {
                         "id": 332,
                         "template": "CACTURNE_NORMAL",
                         "form": 613
+                    },
+                    {
+                        "id": 430,
+                        "template": "HONCHKROW_NORMAL",
+                        "form": 858
                     }
                 ]
             ]
@@ -464,13 +464,13 @@
             "team": [
                 [
                     {
-                        "id": 322,
-                        "template": "NUMEL"
-                    },
-                    {
                         "id": 155,
                         "template": "CYNDAQUIL_NORMAL",
                         "form": 1127
+                    },
+                    {
+                        "id": 322,
+                        "template": "NUMEL"
                     },
                     {
                         "id": 4,
@@ -757,14 +757,14 @@
                         "form": 935
                     },
                     {
-                        "id": 91,
-                        "template": "CLOYSTER_NORMAL",
-                        "form": 879
-                    },
-                    {
                         "id": 131,
                         "template": "LAPRAS_NORMAL",
                         "form": 322
+                    },
+                    {
+                        "id": 91,
+                        "template": "CLOYSTER_NORMAL",
+                        "form": 879
                     }
                 ]
             ]
@@ -1127,14 +1127,14 @@
                 ],
                 [
                     {
-                        "id": 160,
-                        "template": "FERALIGATR_NORMAL",
-                        "form": 1142
-                    },
-                    {
                         "id": 260,
                         "template": "SWAMPERT_NORMAL",
                         "form": 211
+                    },
+                    {
+                        "id": 160,
+                        "template": "FERALIGATR_NORMAL",
+                        "form": 1142
                     }
                 ]
             ]
