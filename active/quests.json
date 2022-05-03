@@ -1,5 +1,30 @@
 {
-    "event": [],
+    "event": [
+        {
+            "task": "Event: Purify 1 Shadow Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 333,
+                        "template": "SWABLU"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Event: Defeat 3 Team GO Rocket Grunts. ",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 587,
+                        "template": "EMOLGA"
+                    }
+                }
+            ]
+        }
+    ],
     "quests": [
         {
             "task": "Catch 5 Pokémon with Weather Boost",
@@ -103,6 +128,35 @@
             ]
         },
         {
+            "task": "Catch 5 Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 355,
+                        "template": "DUSKULL_NORMAL",
+                        "form": 914
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 200,
+                        "template": "MISDREAVUS_NORMAL",
+                        "form": 719
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 353,
+                        "template": "SHUPPET_NORMAL",
+                        "form": 908
+                    }
+                }
+            ]
+        },
+        {
             "task": "Catch a Dragon-type Pokémon",
             "rewards": [
                 {
@@ -169,27 +223,6 @@
             ]
         },
         {
-            "task": "Catch 5 Pokémon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 355,
-                        "template": "DUSKULL_NORMAL",
-                        "form": 914
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 200,
-                        "template": "MISDREAVUS_NORMAL",
-                        "form": 719
-                    }
-                }
-            ]
-        },
-        {
             "task": "Catch 10 Grass-type Pokémon",
             "rewards": [
                 {
@@ -216,6 +249,15 @@
         {
             "task": "Catch 10 Fire-type Pokémon",
             "rewards": [
+                {
+                    "type": "energy",
+                    "reward": {
+                        "id": 6,
+                        "template": "CHARIZARD_NORMAL",
+                        "form": 178
+                    },
+                    "amount": 10
+                },
                 {
                     "type": "stardust",
                     "amount": 500
@@ -264,6 +306,14 @@
         {
             "task": "Catch 10 Normal-type Pokémon",
             "rewards": [
+                {
+                    "type": "energy",
+                    "reward": {
+                        "id": 18,
+                        "template": "PIDGEOT"
+                    },
+                    "amount": 10
+                },
                 {
                     "type": "stardust",
                     "amount": 500
@@ -536,6 +586,19 @@
             ]
         },
         {
+            "task": "Make 5 Nice Curveball Throws in a row. ",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 374,
+                        "template": "BELDUM_NORMAL",
+                        "form": 764
+                    }
+                }
+            ]
+        },
+        {
             "task": "Make 5 Curveball Throws in a row",
             "rewards": [
                 {
@@ -666,32 +729,6 @@
             ]
         },
         {
-            "task": "Battle in GO Battle League",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 258,
-                        "template": "MUDKIP_NORMAL",
-                        "form": 205
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Purify 1 Shadow Pokémon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 318,
-                        "template": "CARVANHA_NORMAL",
-                        "form": 734
-                    }
-                }
-            ]
-        },
-        {
             "task": "Win a level 3 or higher raid",
             "rewards": [
                 {
@@ -721,6 +758,32 @@
                         "id": 263,
                         "template": "ZIGZAGOON_GALARIAN",
                         "form": 946
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Battle in GO Battle League",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 258,
+                        "template": "MUDKIP_NORMAL",
+                        "form": 205
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Purify 1 Shadow Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 318,
+                        "template": "CARVANHA_NORMAL",
+                        "form": 734
                     }
                 }
             ]
@@ -764,7 +827,7 @@
             ]
         },
         {
-            "task": "Earn 1 Candy walking with your buddy. ",
+            "task": "Earn a Candy walking with your buddy. ",
             "rewards": [
                 {
                     "type": "pokemon",
@@ -809,35 +872,6 @@
                         "id": 618,
                         "template": "STUNFISK_NORMAL",
                         "form": 2246
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Power up Pokémon 3 times",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 1,
-                        "template": "BULBASAUR_NORMAL",
-                        "form": 163
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 4,
-                        "template": "CHARMANDER_NORMAL",
-                        "form": 172
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 7,
-                        "template": "SQUIRTLE_NORMAL",
-                        "form": 181
                     }
                 }
             ]
@@ -900,6 +934,35 @@
             ]
         },
         {
+            "task": "Power up Pokémon 3 times",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 1,
+                        "template": "BULBASAUR_NORMAL",
+                        "form": 163
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 4,
+                        "template": "CHARMANDER_NORMAL",
+                        "form": 172
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 7,
+                        "template": "SQUIRTLE_NORMAL",
+                        "form": 181
+                    }
+                }
+            ]
+        },
+        {
             "task": "Power up Pokémon 5 times",
             "rewards": [
                 {
@@ -908,6 +971,15 @@
                         "id": 3,
                         "template": "VENUSAUR_NORMAL",
                         "form": 169
+                    },
+                    "amount": 10
+                },
+                {
+                    "type": "energy",
+                    "reward": {
+                        "id": 9,
+                        "template": "BLASTOISE_NORMAL",
+                        "form": 187
                     },
                     "amount": 10
                 }
@@ -921,6 +993,15 @@
                     "reward": {
                         "id": 18,
                         "template": "PIDGEOT"
+                    },
+                    "amount": 10
+                },
+                {
+                    "type": "energy",
+                    "reward": {
+                        "id": 15,
+                        "template": "BEEDRILL_NORMAL",
+                        "form": 622
                     },
                     "amount": 10
                 }

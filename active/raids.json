@@ -1,60 +1,29 @@
 {
-    "1": [
-        {
-            "id": 207,
-            "template": "GLIGAR_NORMAL",
-            "form": 803
-        },
-        {
-            "id": 278,
-            "template": "WINGULL"
-        },
-        {
-            "id": 459,
-            "template": "SNOVER_NORMAL",
-            "form": 932
-        },
-        {
-            "id": 532,
-            "template": "TIMBURR"
-        },
-        {
-            "id": 744,
-            "template": "ROCKRUFF"
-        }
-    ],
     "3": [
         {
-            "id": 195,
-            "template": "QUAGSIRE_NORMAL",
-            "form": 1229
+            "id": 6,
+            "template": "CHARIZARD_NORMAL",
+            "form": 178
         },
         {
-            "id": 362,
-            "template": "GLALIE"
+            "id": 131,
+            "template": "LAPRAS_NORMAL",
+            "form": 322
         },
         {
-            "id": 450,
-            "template": "HIPPOWDON_NORMAL",
-            "form": 891
-        },
-        {
-            "id": 621,
-            "template": "DRUDDIGON"
-        }
-    ],
-    "5": [
-        {
-            "id": 645,
-            "template": "LANDORUS_THERIAN",
-            "form": 145
+            "id": 468,
+            "template": "TOGEKISS"
         }
     ],
     "6": [
         {
-            "id": 115,
-            "template": "KANGASKHAN_NORMAL",
-            "form": 839,
+            "id": 380,
+            "template": "LATIAS",
+            "temp_evolution_id": 1
+        },
+        {
+            "id": 381,
+            "template": "LATIOS",
             "temp_evolution_id": 1
         }
     ]
