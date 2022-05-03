@@ -13,6 +13,18 @@
             ]
         },
         {
+            "task": "Event: Defeat 3 Team GO Rocket Grunts. ",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 587,
+                        "template": "EMOLGA"
+                    }
+                }
+            ]
+        },
+        {
             "task": "Event: Catch 3 Flying-type Pokémon",
             "rewards": [
                 {
@@ -21,18 +33,6 @@
                         "id": 25,
                         "template": "PIKACHU_NORMAL",
                         "form": 598
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Event: Defeat 3 Team GO Rocket Grunts. ",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 587,
-                        "template": "EMOLGA"
                     }
                 }
             ]
@@ -316,6 +316,15 @@
         {
             "task": "Catch 10 Water-type Pokémon",
             "rewards": [
+                {
+                    "type": "energy",
+                    "reward": {
+                        "id": 9,
+                        "template": "BLASTOISE_NORMAL",
+                        "form": 187
+                    },
+                    "amount": 10
+                },
                 {
                     "type": "stardust",
                     "amount": 500
@@ -615,19 +624,6 @@
                         "id": 443,
                         "template": "GIBLE_NORMAL",
                         "form": 861
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Make 5 Nice Curveball Throws in a row. ",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 374,
-                        "template": "BELDUM_NORMAL",
-                        "form": 764
                     }
                 }
             ]
