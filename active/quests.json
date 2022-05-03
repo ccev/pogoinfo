@@ -13,6 +13,19 @@
             ]
         },
         {
+            "task": "Event: Catch 3 Flying-type Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 25,
+                        "template": "PIKACHU_NORMAL",
+                        "form": 598
+                    }
+                }
+            ]
+        },
+        {
             "task": "Event: Defeat 3 Team GO Rocket Grunts. ",
             "rewards": [
                 {
@@ -20,6 +33,18 @@
                     "reward": {
                         "id": 587,
                         "template": "EMOLGA"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Event: Catch 10 Pokémon with Weather Boost",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 84,
+                        "template": "DODUO"
                     }
                 }
             ]
@@ -225,6 +250,15 @@
         {
             "task": "Catch 10 Grass-type Pokémon",
             "rewards": [
+                {
+                    "type": "energy",
+                    "reward": {
+                        "id": 3,
+                        "template": "VENUSAUR_NORMAL",
+                        "form": 169
+                    },
+                    "amount": 10
+                },
                 {
                     "type": "stardust",
                     "amount": 500

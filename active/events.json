@@ -949,6 +949,9 @@
                 "text": "1/2 Hatch Distance",
                 "template": "reduced-hatch-distance",
                 "value": 12
+            },
+            {
+                "text": "Team GO Rocket Balloons appearing every hour"
             }
         ],
         "features": [
