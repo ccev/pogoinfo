@@ -108,6 +108,35 @@
             ]
         },
         {
+            "task": "Catch 5 Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 355,
+                        "template": "DUSKULL_NORMAL",
+                        "form": 914
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 200,
+                        "template": "MISDREAVUS_NORMAL",
+                        "form": 719
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 353,
+                        "template": "SHUPPET_NORMAL",
+                        "form": 908
+                    }
+                }
+            ]
+        },
+        {
             "task": "Use 5 Berries to help catch Pokémon",
             "rewards": [
                 {
@@ -148,35 +177,6 @@
                     "reward": {
                         "id": 193,
                         "template": "YANMA"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Catch 5 Pokémon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 355,
-                        "template": "DUSKULL_NORMAL",
-                        "form": 914
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 200,
-                        "template": "MISDREAVUS_NORMAL",
-                        "form": 719
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 353,
-                        "template": "SHUPPET_NORMAL",
-                        "form": 908
                     }
                 }
             ]
@@ -881,6 +881,19 @@
             ]
         },
         {
+            "task": "Earn 3 Candies walking with your buddy",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 618,
+                        "template": "STUNFISK_NORMAL",
+                        "form": 2246
+                    }
+                }
+            ]
+        },
+        {
             "task": "Earn 5 hearts with your buddy",
             "rewards": [
                 {
@@ -894,14 +907,30 @@
             ]
         },
         {
-            "task": "Earn 3 Candies walking with your buddy",
+            "task": "Power up Pokémon 3 times",
             "rewards": [
                 {
                     "type": "pokemon",
                     "reward": {
-                        "id": 618,
-                        "template": "STUNFISK_NORMAL",
-                        "form": 2246
+                        "id": 1,
+                        "template": "BULBASAUR_NORMAL",
+                        "form": 163
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 4,
+                        "template": "CHARMANDER_NORMAL",
+                        "form": 172
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 7,
+                        "template": "SQUIRTLE_NORMAL",
+                        "form": 181
                     }
                 }
             ]
@@ -964,35 +993,6 @@
             ]
         },
         {
-            "task": "Power up Pokémon 3 times",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 1,
-                        "template": "BULBASAUR_NORMAL",
-                        "form": 163
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 4,
-                        "template": "CHARMANDER_NORMAL",
-                        "form": 172
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 7,
-                        "template": "SQUIRTLE_NORMAL",
-                        "form": 181
-                    }
-                }
-            ]
-        },
-        {
             "task": "Power up Pokémon 5 times",
             "rewards": [
                 {
@@ -1010,6 +1010,15 @@
                         "id": 9,
                         "template": "BLASTOISE_NORMAL",
                         "form": 187
+                    },
+                    "amount": 10
+                },
+                {
+                    "type": "energy",
+                    "reward": {
+                        "id": 6,
+                        "template": "CHARIZARD_NORMAL",
+                        "form": 178
                     },
                     "amount": 10
                 }
@@ -1160,18 +1169,6 @@
             ]
         },
         {
-            "task": "Take a snapshot of a wild Water-type Pokémon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 223,
-                        "template": "REMORAID"
-                    }
-                }
-            ]
-        },
-        {
             "task": "Hatch 2 Eggs",
             "rewards": [
                 {
@@ -1180,6 +1177,18 @@
                         "id": 374,
                         "template": "BELDUM_NORMAL",
                         "form": 764
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Take a snapshot of a wild Water-type Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 223,
+                        "template": "REMORAID"
                     }
                 }
             ]
