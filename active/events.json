@@ -1,38 +1,5 @@
 [
     {
-        "name": "Wingull Spotlight Hour",
-        "type": "spotlight-hour",
-        "start": "2022-05-03 18:00",
-        "end": "2022-05-03 19:00",
-        "spawns": [
-            {
-                "id": 278,
-                "template": "WINGULL"
-            }
-        ],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": true
-    },
-    {
-        "name": "Mega Latios and Mega Latias Raid Hour",
-        "type": "raid-hour",
-        "start": "2022-05-04 18:00",
-        "end": "2022-05-04 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Pokémon Air Adventures Event",
         "type": "event",
         "start": "2022-05-03 10:00",
@@ -947,6 +914,155 @@
         "bonuses": [],
         "features": [],
         "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Pokémon GO Fest: Berlin",
+        "type": "event",
+        "start": "2022-07-01 09:00",
+        "end": "2022-07-03 18:00",
+        "spawns": [
+            {
+                "id": 100,
+                "template": "VOLTORB"
+            },
+            {
+                "id": 415,
+                "template": "COMBEE"
+            },
+            {
+                "id": 590,
+                "template": "FOONGUS"
+            },
+            {
+                "id": 694,
+                "template": "HELIOPTILE"
+            },
+            {
+                "id": 349,
+                "template": "FEEBAS"
+            },
+            {
+                "id": 366,
+                "template": "CLAMPERL"
+            },
+            {
+                "id": 515,
+                "template": "PANPOUR"
+            },
+            {
+                "id": 527,
+                "template": "WOOBAT"
+            },
+            {
+                "id": 77,
+                "template": "PONYTA_GALARIAN",
+                "form": 2336
+            },
+            {
+                "id": 123,
+                "template": "SCYTHER"
+            },
+            {
+                "id": 193,
+                "template": "YANMA"
+            },
+            {
+                "id": 511,
+                "template": "PANSAGE"
+            },
+            {
+                "id": 408,
+                "template": "CRANIDOS"
+            },
+            {
+                "id": 513,
+                "template": "PANSEAR"
+            },
+            {
+                "id": 524,
+                "template": "ROGGENROLA"
+            },
+            {
+                "id": 554,
+                "template": "DARUMAKA"
+            }
+        ],
+        "eggs": [],
+        "raids": [
+            {
+                "id": 488,
+                "template": "CRESSELIA"
+            },
+            {
+                "id": 491,
+                "template": "DARKRAI"
+            }
+        ],
+        "shinies": [
+            {
+                "id": 513,
+                "template": "PANSEAR"
+            },
+            {
+                "id": 514,
+                "template": "SIMISEAR"
+            },
+            {
+                "id": 590,
+                "template": "FOONGUS"
+            },
+            {
+                "id": 591,
+                "template": "AMOONGUSS"
+            }
+        ],
+        "bonuses": [
+            {
+                "text": "Make up to six Special Trades"
+            },
+            {
+                "text": "Reduced Stardust cost for trades",
+                "template": "increased-stardust"
+            },
+            {
+                "text": "Up to 12 Free Raid Passes by spinning Photo Discs at Gyms",
+                "value": 12
+            },
+            {
+                "text": "An additional 5,000 XP from completed raids",
+                "template": "increased-xp",
+                "value": 5000
+            },
+            {
+                "text": "6 Additional Candy from Pokémon in 5-star raids",
+                "template": "increased-candy",
+                "value": 65
+            },
+            {
+                "text": "3 Additional Candy XL from Pokémon in 5-star raids",
+                "value": 35
+            },
+            {
+                "text": "1/4 Egg Hatch Distance*",
+                "template": "reduced-hatch-distance",
+                "value": 14
+            },
+            {
+                "text": "2x Hatch XP",
+                "value": 2
+            },
+            {
+                "text": "2x Hatch Candy",
+                "value": 2
+            },
+            {
+                "text": "2x Hatch Stardust",
+                "value": 2
+            }
+        ],
+        "features": [],
+        "has_quests": true,
         "has_spawnpoints": false
     },
     {
