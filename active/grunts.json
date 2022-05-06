@@ -464,13 +464,13 @@
             "team": [
                 [
                     {
+                        "id": 322,
+                        "template": "NUMEL"
+                    },
+                    {
                         "id": 155,
                         "template": "CYNDAQUIL_NORMAL",
                         "form": 1127
-                    },
-                    {
-                        "id": 322,
-                        "template": "NUMEL"
                     },
                     {
                         "id": 4,
