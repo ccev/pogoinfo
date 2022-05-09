@@ -56,13 +56,189 @@
         "type": "event",
         "start": "2022-05-12 10:00",
         "end": "2022-05-20 20:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
+        "spawns": [
+            {
+                "id": 72,
+                "template": "TENTACOOL"
+            },
+            {
+                "id": 79,
+                "template": "SLOWPOKE"
+            },
+            {
+                "id": 118,
+                "template": "GOLDEEN"
+            },
+            {
+                "id": 120,
+                "template": "STARYU"
+            },
+            {
+                "id": 129,
+                "template": "MAGIKARP"
+            },
+            {
+                "id": 183,
+                "template": "MARILL"
+            },
+            {
+                "id": 270,
+                "template": "LOTAD"
+            },
+            {
+                "id": 283,
+                "template": "SURSKIT"
+            },
+            {
+                "id": 318,
+                "template": "CARVANHA"
+            },
+            {
+                "id": 320,
+                "template": "WAILMER"
+            },
+            {
+                "id": 535,
+                "template": "TYMPOLE"
+            },
+            {
+                "id": 688,
+                "template": "BINACLE"
+            },
+            {
+                "id": 751,
+                "template": "DEWPIDER"
+            },
+            {
+                "id": 61,
+                "template": "POLIWHIRL"
+            },
+            {
+                "id": 226,
+                "template": "MANTINE"
+            },
+            {
+                "id": 594,
+                "template": "ALOMOMOLA"
+            }
+        ],
+        "eggs": [
+            {
+                "id": 54,
+                "template": "PSYDUCK"
+            },
+            {
+                "id": 120,
+                "template": "STARYU"
+            },
+            {
+                "id": 258,
+                "template": "MUDKIP"
+            },
+            {
+                "id": 298,
+                "template": "AZURILL"
+            },
+            {
+                "id": 349,
+                "template": "FEEBAS"
+            },
+            {
+                "id": 366,
+                "template": "CLAMPERL"
+            },
+            {
+                "id": 458,
+                "template": "MANTYKE"
+            },
+            {
+                "id": 688,
+                "template": "BINACLE"
+            }
+        ],
+        "raids": [
+            {
+                "id": 211,
+                "template": "QWILFISH"
+            },
+            {
+                "id": 320,
+                "template": "WAILMER"
+            },
+            {
+                "id": 682,
+                "template": "SPRITZEE"
+            },
+            {
+                "id": 694,
+                "template": "HELIOPTILE"
+            },
+            {
+                "id": 744,
+                "template": "ROCKRUFF"
+            },
+            {
+                "id": 26,
+                "template": "RAICHU_ALOLA",
+                "form": 50
+            },
+            {
+                "id": 131,
+                "template": "LAPRAS"
+            },
+            {
+                "id": 160,
+                "template": "FERALIGATR"
+            },
+            {
+                "id": 184,
+                "template": "AZUMARILL"
+            },
+            {
+                "id": 272,
+                "template": "LUDICOLO"
+            },
+            {
+                "id": 788,
+                "template": "TAPU_FINI"
+            },
+            {
+                "id": 9,
+                "template": "BLASTOISE",
+                "temp_evolution_id": 1
+            }
+        ],
+        "shinies": [
+            {
+                "id": 688,
+                "template": "BINACLE"
+            },
+            {
+                "id": 689,
+                "template": "BARBARACLE"
+            }
+        ],
+        "bonuses": [
+            {
+                "text": "Rainy Lure Modules activated during the event will last for two hours",
+                "template": "longer-lure"
+            },
+            {
+                "text": "2x Hatch Candy",
+                "template": "increased-candy",
+                "value": 2
+            },
+            {
+                "text": "Increased Candy XL from hatching Eggs",
+                "template": "reduced-hatch-distance"
+            },
+            {
+                "text": "2x Catch Candy",
+                "value": 2
+            }
+        ],
         "features": [],
-        "has_quests": false,
+        "has_quests": true,
         "has_spawnpoints": false
     },
     {
