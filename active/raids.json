@@ -1,18 +1,47 @@
 {
+    "1": [
+        {
+            "id": 147,
+            "template": "DRATINI_NORMAL",
+            "form": 190
+        },
+        {
+            "id": 333,
+            "template": "SWABLU"
+        },
+        {
+            "id": 355,
+            "template": "DUSKULL_NORMAL",
+            "form": 914
+        },
+        {
+            "id": 677,
+            "template": "ESPURR"
+        },
+        {
+            "id": 744,
+            "template": "ROCKRUFF"
+        }
+    ],
     "3": [
         {
-            "id": 6,
-            "template": "CHARIZARD_NORMAL",
-            "form": 178
+            "id": 65,
+            "template": "ALAKAZAM_NORMAL",
+            "form": 310
         },
         {
-            "id": 131,
-            "template": "LAPRAS_NORMAL",
-            "form": 322
+            "id": 262,
+            "template": "MIGHTYENA_NORMAL",
+            "form": 1370
         },
         {
-            "id": 468,
-            "template": "TOGEKISS"
+            "id": 373,
+            "template": "SALAMENCE_NORMAL",
+            "form": 761
+        },
+        {
+            "id": 621,
+            "template": "DRUDDIGON"
         }
     ],
     "6": [
