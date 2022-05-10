@@ -196,14 +196,14 @@
                 ],
                 [
                     {
-                        "id": 20,
-                        "template": "RATICATE_NORMAL",
-                        "form": 47
-                    },
-                    {
                         "id": 435,
                         "template": "SKUNTANK_NORMAL",
                         "form": 794
+                    },
+                    {
+                        "id": 20,
+                        "template": "RATICATE_NORMAL",
+                        "form": 47
                     }
                 ],
                 [
@@ -464,13 +464,13 @@
             "team": [
                 [
                     {
-                        "id": 322,
-                        "template": "NUMEL"
-                    },
-                    {
                         "id": 155,
                         "template": "CYNDAQUIL_NORMAL",
                         "form": 1127
+                    },
+                    {
+                        "id": 322,
+                        "template": "NUMEL"
                     },
                     {
                         "id": 4,
@@ -1054,14 +1054,14 @@
                 ],
                 [
                     {
-                        "id": 345,
-                        "template": "LILEEP_NORMAL",
-                        "form": 1568
-                    },
-                    {
                         "id": 246,
                         "template": "LARVITAR_NORMAL",
                         "form": 313
+                    },
+                    {
+                        "id": 345,
+                        "template": "LILEEP_NORMAL",
+                        "form": 1568
                     },
                     {
                         "id": 347,

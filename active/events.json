@@ -1130,6 +1130,170 @@
         "has_spawnpoints": false
     },
     {
+        "name": "Pokémon GO Fest: Sapporo",
+        "type": "event",
+        "start": "2022-08-05 08:00",
+        "end": "2022-08-07 20:00",
+        "spawns": [
+            {
+                "id": 96,
+                "template": "DROWZEE"
+            },
+            {
+                "id": 143,
+                "template": "SNORLAX"
+            },
+            {
+                "id": 216,
+                "template": "TEDDIURSA"
+            },
+            {
+                "id": 607,
+                "template": "LITWICK"
+            },
+            {
+                "id": 77,
+                "template": "PONYTA_GALARIAN",
+                "form": 2336
+            },
+            {
+                "id": 123,
+                "template": "SCYTHER"
+            },
+            {
+                "id": 193,
+                "template": "YANMA"
+            },
+            {
+                "id": 511,
+                "template": "PANSAGE"
+            },
+            {
+                "id": 37,
+                "template": "VULPIX_ALOLA",
+                "form": 56
+            },
+            {
+                "id": 131,
+                "template": "LAPRAS"
+            },
+            {
+                "id": 361,
+                "template": "SNORUNT"
+            },
+            {
+                "id": 515,
+                "template": "PANPOUR"
+            },
+            {
+                "id": 66,
+                "template": "MACHOP"
+            },
+            {
+                "id": 237,
+                "template": "HITMONTOP"
+            },
+            {
+                "id": 390,
+                "template": "CHIMCHAR"
+            },
+            {
+                "id": 513,
+                "template": "PANSEAR"
+            }
+        ],
+        "eggs": [],
+        "raids": [
+            {
+                "id": 488,
+                "template": "CRESSELIA"
+            },
+            {
+                "id": 491,
+                "template": "DARKRAI"
+            }
+        ],
+        "shinies": [
+            {
+                "id": 511,
+                "template": "PANSAGE"
+            },
+            {
+                "id": 512,
+                "template": "SIMISAGE"
+            },
+            {
+                "id": 684,
+                "template": "SWIRLIX"
+            },
+            {
+                "id": 685,
+                "template": "SLURPUFF"
+            }
+        ],
+        "bonuses": [
+            {
+                "text": "Make up to six Special Trades"
+            },
+            {
+                "text": "Reduced Stardust cost for trades",
+                "template": "increased-stardust"
+            },
+            {
+                "text": "Up to 9 Free Raid Passes from spinning Photo Discs at Gyms",
+                "value": 9
+            },
+            {
+                "text": "Team GO Rocket Balloons will be appearing more often"
+            },
+            {
+                "text": "Team GO Rocket Grunts will earn you twice as many Mysterious Components"
+            },
+            {
+                "text": "1/2 Egg Hatch Distance",
+                "template": "reduced-hatch-distance",
+                "value": 12
+            },
+            {
+                "text": "Up to 12 Free Raid Passes by spinning Photo Discs at Gyms",
+                "value": 12
+            },
+            {
+                "text": "An additional 5,000 XP from completed raids",
+                "template": "increased-xp",
+                "value": 5000
+            },
+            {
+                "text": "6 Additional Candy from Pokémon in 5-star raids",
+                "template": "increased-candy",
+                "value": 65
+            },
+            {
+                "text": "3 Additional Candy XL from Pokémon in 5-star raids",
+                "value": 35
+            },
+            {
+                "text": "1/4 Egg Hatch Distance*",
+                "value": 14
+            },
+            {
+                "text": "2x Hatch XP",
+                "value": 2
+            },
+            {
+                "text": "2x Hatch Candy",
+                "value": 2
+            },
+            {
+                "text": "2x Hatch Stardust",
+                "value": 2
+            }
+        ],
+        "features": [],
+        "has_quests": true,
+        "has_spawnpoints": false
+    },
+    {
         "name": "Pokémon GO Fest Bonus Finale Event",
         "type": "event",
         "start": "2022-08-27 10:00",

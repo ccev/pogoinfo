@@ -1,22 +1,20 @@
 {
     "1": [
         {
-            "id": 147,
-            "template": "DRATINI_NORMAL",
-            "form": 190
+            "id": 211,
+            "template": "QWILFISH"
         },
         {
-            "id": 333,
-            "template": "SWABLU"
+            "id": 320,
+            "template": "WAILMER"
         },
         {
-            "id": 355,
-            "template": "DUSKULL_NORMAL",
-            "form": 914
+            "id": 682,
+            "template": "SPRITZEE"
         },
         {
-            "id": 677,
-            "template": "ESPURR"
+            "id": 694,
+            "template": "HELIOPTILE"
         },
         {
             "id": 744,
@@ -25,34 +23,35 @@
     ],
     "3": [
         {
-            "id": 65,
-            "template": "ALAKAZAM_NORMAL",
-            "form": 310
+            "id": 26,
+            "template": "RAICHU_ALOLA",
+            "form": 50
         },
         {
-            "id": 262,
-            "template": "MIGHTYENA_NORMAL",
-            "form": 1370
+            "id": 160,
+            "template": "FERALIGATR_NORMAL",
+            "form": 1142
         },
         {
-            "id": 373,
-            "template": "SALAMENCE_NORMAL",
-            "form": 761
+            "id": 184,
+            "template": "AZUMARILL"
         },
         {
-            "id": 621,
-            "template": "DRUDDIGON"
+            "id": 272,
+            "template": "LUDICOLO"
+        }
+    ],
+    "5": [
+        {
+            "id": 788,
+            "template": "TAPU_FINI"
         }
     ],
     "6": [
         {
-            "id": 380,
-            "template": "LATIAS",
-            "temp_evolution_id": 1
-        },
-        {
-            "id": 381,
-            "template": "LATIOS",
+            "id": 9,
+            "template": "BLASTOISE_NORMAL",
+            "form": 187,
             "temp_evolution_id": 1
         }
     ]
