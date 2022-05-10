@@ -213,14 +213,14 @@
                         "form": 47
                     },
                     {
-                        "id": 332,
-                        "template": "CACTURNE_NORMAL",
-                        "form": 613
-                    },
-                    {
                         "id": 430,
                         "template": "HONCHKROW_NORMAL",
                         "form": 858
+                    },
+                    {
+                        "id": 332,
+                        "template": "CACTURNE_NORMAL",
+                        "form": 613
                     }
                 ]
             ]
@@ -464,13 +464,13 @@
             "team": [
                 [
                     {
+                        "id": 322,
+                        "template": "NUMEL"
+                    },
+                    {
                         "id": 155,
                         "template": "CYNDAQUIL_NORMAL",
                         "form": 1127
-                    },
-                    {
-                        "id": 322,
-                        "template": "NUMEL"
                     },
                     {
                         "id": 4,
@@ -491,14 +491,14 @@
                 ],
                 [
                     {
-                        "id": 157,
-                        "template": "TYPHLOSION_NORMAL",
-                        "form": 1133
-                    },
-                    {
                         "id": 38,
                         "template": "NINETALES_NORMAL",
                         "form": 57
+                    },
+                    {
+                        "id": 157,
+                        "template": "TYPHLOSION_NORMAL",
+                        "form": 1133
                     },
                     {
                         "id": 323,
@@ -555,14 +555,14 @@
                 ],
                 [
                     {
-                        "id": 397,
-                        "template": "STARAVIA_NORMAL",
-                        "form": 1661
-                    },
-                    {
                         "id": 42,
                         "template": "GOLBAT_NORMAL",
                         "form": 160
+                    },
+                    {
+                        "id": 397,
+                        "template": "STARAVIA_NORMAL",
+                        "form": 1661
                     }
                 ],
                 [
@@ -752,14 +752,14 @@
                 ],
                 [
                     {
-                        "id": 460,
-                        "template": "ABOMASNOW_NORMAL",
-                        "form": 935
-                    },
-                    {
                         "id": 91,
                         "template": "CLOYSTER_NORMAL",
                         "form": 879
+                    },
+                    {
+                        "id": 460,
+                        "template": "ABOMASNOW_NORMAL",
+                        "form": 935
                     },
                     {
                         "id": 131,
@@ -831,14 +831,14 @@
             "team": [
                 [
                     {
-                        "id": 19,
-                        "template": "RATTATA_NORMAL",
-                        "form": 45
-                    },
-                    {
                         "id": 399,
                         "template": "BIDOOF_NORMAL",
                         "form": 1667
+                    },
+                    {
+                        "id": 19,
+                        "template": "RATTATA_NORMAL",
+                        "form": 45
                     }
                 ],
                 [
@@ -1054,14 +1054,14 @@
                 ],
                 [
                     {
-                        "id": 246,
-                        "template": "LARVITAR_NORMAL",
-                        "form": 313
-                    },
-                    {
                         "id": 345,
                         "template": "LILEEP_NORMAL",
                         "form": 1568
+                    },
+                    {
+                        "id": 246,
+                        "template": "LARVITAR_NORMAL",
+                        "form": 313
                     },
                     {
                         "id": 347,
@@ -1127,14 +1127,14 @@
                 ],
                 [
                     {
-                        "id": 260,
-                        "template": "SWAMPERT_NORMAL",
-                        "form": 211
-                    },
-                    {
                         "id": 160,
                         "template": "FERALIGATR_NORMAL",
                         "form": 1142
+                    },
+                    {
+                        "id": 260,
+                        "template": "SWAMPERT_NORMAL",
+                        "form": 211
                     }
                 ]
             ]
@@ -1377,14 +1377,14 @@
                 ],
                 [
                     {
-                        "id": 464,
-                        "template": "RHYPERIOR_NORMAL",
-                        "form": 852
-                    },
-                    {
                         "id": 430,
                         "template": "HONCHKROW_NORMAL",
                         "form": 858
+                    },
+                    {
+                        "id": 464,
+                        "template": "RHYPERIOR_NORMAL",
+                        "form": 852
                     },
                     {
                         "id": 130,
