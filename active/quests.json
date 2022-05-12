@@ -33,18 +33,6 @@
             ]
         },
         {
-            "task": "Event: Catch 15 Pokémon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 751,
-                        "template": "DEWPIDER"
-                    }
-                }
-            ]
-        },
-        {
             "task": "Event: Catch 10 Water-type Pokémon",
             "rewards": [
                 {
@@ -70,6 +58,31 @@
                     "reward": {
                         "id": 688,
                         "template": "BINACLE"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Event: Catch 15 Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 751,
+                        "template": "DEWPIDER"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Event: Catch 25 Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 131,
+                        "template": "LAPRAS_NORMAL",
+                        "form": 322
                     }
                 }
             ]
