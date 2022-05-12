@@ -28,6 +28,11 @@
             "form": 50
         },
         {
+            "id": 131,
+            "template": "LAPRAS_NORMAL",
+            "form": 322
+        },
+        {
             "id": 160,
             "template": "FERALIGATR_NORMAL",
             "form": 1142
