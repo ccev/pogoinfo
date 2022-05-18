@@ -1,24 +1,5 @@
 [
     {
-        "name": "Magikarp Spotlight Hour",
-        "type": "spotlight-hour",
-        "start": "2022-05-17 18:00",
-        "end": "2022-05-17 19:00",
-        "spawns": [
-            {
-                "id": 129,
-                "template": "MAGIKARP"
-            }
-        ],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": true
-    },
-    {
         "name": "Tapu Fini Raid Hour",
         "type": "raid-hour",
         "start": "2022-05-18 18:00",
@@ -368,13 +349,167 @@
         "type": "event",
         "start": "2022-05-25 10:00",
         "end": "2022-05-31 20:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
+        "spawns": [
+            {
+                "id": 19,
+                "template": "RATTATA_ALOLA",
+                "form": 46
+            },
+            {
+                "id": 104,
+                "template": "CUBONE"
+            },
+            {
+                "id": 722,
+                "template": "ROWLET"
+            },
+            {
+                "id": 725,
+                "template": "LITTEN"
+            },
+            {
+                "id": 728,
+                "template": "POPPLIO"
+            },
+            {
+                "id": 731,
+                "template": "PIKIPEK"
+            },
+            {
+                "id": 734,
+                "template": "YUNGOOS"
+            },
+            {
+                "id": 52,
+                "template": "MEOWTH_ALOLA",
+                "form": 64
+            },
+            {
+                "id": 103,
+                "template": "EXEGGUTOR_ALOLA",
+                "form": 78
+            }
+        ],
+        "eggs": [
+            {
+                "id": 19,
+                "template": "RATTATA_ALOLA",
+                "form": 46
+            },
+            {
+                "id": 27,
+                "template": "SANDSHREW_ALOLA",
+                "form": 52
+            },
+            {
+                "id": 37,
+                "template": "VULPIX_ALOLA",
+                "form": 56
+            },
+            {
+                "id": 50,
+                "template": "DIGLETT_ALOLA",
+                "form": 60
+            },
+            {
+                "id": 52,
+                "template": "MEOWTH_ALOLA",
+                "form": 64
+            },
+            {
+                "id": 88,
+                "template": "GRIMER_ALOLA",
+                "form": 74
+            },
+            {
+                "id": 751,
+                "template": "DEWPIDER"
+            },
+            {
+                "id": 753,
+                "template": "FOMANTIS"
+            },
+            {
+                "id": 759,
+                "template": "STUFFUL"
+            },
+            {
+                "id": 765,
+                "template": "ORANGURU"
+            }
+        ],
+        "raids": [
+            {
+                "id": 19,
+                "template": "RATTATA_ALOLA",
+                "form": 46
+            },
+            {
+                "id": 50,
+                "template": "DIGLETT_ALOLA",
+                "form": 60
+            },
+            {
+                "id": 74,
+                "template": "GEODUDE_ALOLA",
+                "form": 68
+            },
+            {
+                "id": 88,
+                "template": "GRIMER_ALOLA",
+                "form": 74
+            },
+            {
+                "id": 744,
+                "template": "ROCKRUFF"
+            },
+            {
+                "id": 26,
+                "template": "RAICHU_ALOLA",
+                "form": 50
+            },
+            {
+                "id": 103,
+                "template": "EXEGGUTOR_ALOLA",
+                "form": 78
+            },
+            {
+                "id": 105,
+                "template": "MAROWAK_ALOLA",
+                "form": 80
+            },
+            {
+                "id": 785,
+                "template": "TAPU_KOKO"
+            },
+            {
+                "id": 786,
+                "template": "TAPU_LELE"
+            },
+            {
+                "id": 787,
+                "template": "TAPU_BULU"
+            },
+            {
+                "id": 788,
+                "template": "TAPU_FINI"
+            },
+            {
+                "id": 334,
+                "template": "ALTARIA",
+                "temp_evolution_id": 1
+            }
+        ],
         "shinies": [],
-        "bonuses": [],
+        "bonuses": [
+            {
+                "text": "2× Stardust from opening Gifts",
+                "template": "increased-stardust",
+                "value": 2
+            }
+        ],
         "features": [],
-        "has_quests": false,
+        "has_quests": true,
         "has_spawnpoints": false
     },
     {
