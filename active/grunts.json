@@ -491,14 +491,14 @@
                 ],
                 [
                     {
-                        "id": 157,
-                        "template": "TYPHLOSION_NORMAL",
-                        "form": 1133
-                    },
-                    {
                         "id": 38,
                         "template": "NINETALES_NORMAL",
                         "form": 57
+                    },
+                    {
+                        "id": 157,
+                        "template": "TYPHLOSION_NORMAL",
+                        "form": 1133
                     },
                     {
                         "id": 323,
@@ -831,14 +831,14 @@
             "team": [
                 [
                     {
-                        "id": 19,
-                        "template": "RATTATA_NORMAL",
-                        "form": 45
-                    },
-                    {
                         "id": 399,
                         "template": "BIDOOF_NORMAL",
                         "form": 1667
+                    },
+                    {
+                        "id": 19,
+                        "template": "RATTATA_NORMAL",
+                        "form": 45
                     }
                 ],
                 [
