@@ -818,6 +818,20 @@
         "has_spawnpoints": false
     },
     {
+        "name": "June Community Day",
+        "type": "community-day",
+        "start": "2022-06-25 00:00",
+        "end": "2022-06-25 23:59",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": true,
+        "has_spawnpoints": true
+    },
+    {
         "name": "Pokémon GO Fest: Berlin",
         "type": "event",
         "start": "2022-07-01 09:00",
@@ -965,6 +979,20 @@
         "features": [],
         "has_quests": true,
         "has_spawnpoints": false
+    },
+    {
+        "name": "July Community Day",
+        "type": "community-day",
+        "start": "2022-07-17 00:00",
+        "end": "2022-07-17 23:59",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": true,
+        "has_spawnpoints": true
     },
     {
         "name": "Pokémon GO Fest: Sapporo",
@@ -1129,6 +1157,20 @@
         "features": [],
         "has_quests": true,
         "has_spawnpoints": false
+    },
+    {
+        "name": "August Community Day",
+        "type": "community-day",
+        "start": "2022-08-13 00:00",
+        "end": "2022-08-13 23:59",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": true,
+        "has_spawnpoints": true
     },
     {
         "name": "Pokémon GO Fest Bonus Finale Event",
