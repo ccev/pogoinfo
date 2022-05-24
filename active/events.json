@@ -995,6 +995,166 @@
         "has_spawnpoints": true
     },
     {
+        "name": "Pokémon GO Fest: Seattle",
+        "type": "event",
+        "start": "2022-07-22 09:00",
+        "end": "2022-07-24 19:00",
+        "spawns": [
+            {
+                "id": 176,
+                "template": "TOGETIC"
+            },
+            {
+                "id": 527,
+                "template": "WOOBAT"
+            },
+            {
+                "id": 627,
+                "template": "RUFFLET"
+            },
+            {
+                "id": 103,
+                "template": "EXEGGUTOR_ALOLA",
+                "form": 78
+            },
+            {
+                "id": 412,
+                "template": "BURMY_SANDY",
+                "form": 119
+            },
+            {
+                "id": 443,
+                "template": "GIBLE"
+            },
+            {
+                "id": 515,
+                "template": "PANPOUR"
+            },
+            {
+                "id": 96,
+                "template": "DROWZEE"
+            },
+            {
+                "id": 143,
+                "template": "SNORLAX"
+            },
+            {
+                "id": 216,
+                "template": "TEDDIURSA"
+            },
+            {
+                "id": 607,
+                "template": "LITWICK"
+            },
+            {
+                "id": 100,
+                "template": "VOLTORB"
+            },
+            {
+                "id": 415,
+                "template": "COMBEE"
+            },
+            {
+                "id": 590,
+                "template": "FOONGUS"
+            },
+            {
+                "id": 694,
+                "template": "HELIOPTILE"
+            }
+        ],
+        "eggs": [],
+        "raids": [
+            {
+                "id": 488,
+                "template": "CRESSELIA"
+            },
+            {
+                "id": 491,
+                "template": "DARKRAI"
+            }
+        ],
+        "shinies": [
+            {
+                "id": 415,
+                "template": "COMBEE"
+            },
+            {
+                "id": 416,
+                "template": "VESPIQUEN"
+            },
+            {
+                "id": 515,
+                "template": "PANPOUR"
+            },
+            {
+                "id": 516,
+                "template": "SIMIPOUR"
+            }
+        ],
+        "bonuses": [
+            {
+                "text": "Make up to six Special Trades"
+            },
+            {
+                "text": "Reduced Stardust cost for trades",
+                "template": "increased-stardust"
+            },
+            {
+                "text": "Up to 9 Free Raid Passes from spinning Photo Discs at Gyms",
+                "value": 9
+            },
+            {
+                "text": "Team GO Rocket Balloons will be appearing more often"
+            },
+            {
+                "text": "Team GO Rocket Grunts will earn you twice as many Mysterious Components"
+            },
+            {
+                "text": "1/2 Egg Hatch Distance",
+                "template": "reduced-hatch-distance",
+                "value": 12
+            },
+            {
+                "text": "Up to 12 Free Raid Passes by spinning Photo Discs at Gyms",
+                "value": 12
+            },
+            {
+                "text": "An additional 5,000 XP from completed raids",
+                "template": "increased-xp",
+                "value": 5000
+            },
+            {
+                "text": "6 Additional Candy from Pokémon in 5-star raids",
+                "template": "increased-candy",
+                "value": 65
+            },
+            {
+                "text": "3 Additional Candy XL from Pokémon in 5-star raids",
+                "value": 35
+            },
+            {
+                "text": "1/4 Egg Hatch Distance*",
+                "value": 14
+            },
+            {
+                "text": "2x Hatch XP",
+                "value": 2
+            },
+            {
+                "text": "2x Hatch Candy",
+                "value": 2
+            },
+            {
+                "text": "2x Hatch Stardust",
+                "value": 2
+            }
+        ],
+        "features": [],
+        "has_quests": true,
+        "has_spawnpoints": false
+    },
+    {
         "name": "Pokémon GO Fest: Sapporo",
         "type": "event",
         "start": "2022-08-05 08:00",
