@@ -1,20 +1,24 @@
 {
     "1": [
         {
-            "id": 211,
-            "template": "QWILFISH"
+            "id": 19,
+            "template": "RATTATA_ALOLA",
+            "form": 46
         },
         {
-            "id": 320,
-            "template": "WAILMER"
+            "id": 50,
+            "template": "DIGLETT_ALOLA",
+            "form": 60
         },
         {
-            "id": 682,
-            "template": "SPRITZEE"
+            "id": 74,
+            "template": "GEODUDE_ALOLA",
+            "form": 68
         },
         {
-            "id": 694,
-            "template": "HELIOPTILE"
+            "id": 88,
+            "template": "GRIMER_ALOLA",
+            "form": 74
         },
         {
             "id": 744,
@@ -28,20 +32,29 @@
             "form": 50
         },
         {
-            "id": 160,
-            "template": "FERALIGATR_NORMAL",
-            "form": 1142
+            "id": 103,
+            "template": "EXEGGUTOR_ALOLA",
+            "form": 78
         },
         {
-            "id": 184,
-            "template": "AZUMARILL"
-        },
-        {
-            "id": 272,
-            "template": "LUDICOLO"
+            "id": 105,
+            "template": "MAROWAK_ALOLA",
+            "form": 80
         }
     ],
     "5": [
+        {
+            "id": 785,
+            "template": "TAPU_KOKO"
+        },
+        {
+            "id": 786,
+            "template": "TAPU_LELE"
+        },
+        {
+            "id": 787,
+            "template": "TAPU_BULU"
+        },
         {
             "id": 788,
             "template": "TAPU_FINI"
@@ -49,9 +62,8 @@
     ],
     "6": [
         {
-            "id": 9,
-            "template": "BLASTOISE_NORMAL",
-            "form": 187,
+            "id": 334,
+            "template": "ALTARIA",
             "temp_evolution_id": 1
         }
     ]
