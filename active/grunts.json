@@ -184,14 +184,14 @@
             "team": [
                 [
                     {
-                        "id": 434,
-                        "template": "STUNKY_NORMAL",
-                        "form": 791
-                    },
-                    {
                         "id": 19,
                         "template": "RATTATA_NORMAL",
                         "form": 45
+                    },
+                    {
+                        "id": 434,
+                        "template": "STUNKY_NORMAL",
+                        "form": 791
                     }
                 ],
                 [
@@ -213,14 +213,14 @@
                         "form": 47
                     },
                     {
-                        "id": 430,
-                        "template": "HONCHKROW_NORMAL",
-                        "form": 858
-                    },
-                    {
                         "id": 332,
                         "template": "CACTURNE_NORMAL",
                         "form": 613
+                    },
+                    {
+                        "id": 430,
+                        "template": "HONCHKROW_NORMAL",
+                        "form": 858
                     }
                 ]
             ]

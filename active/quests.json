@@ -56,6 +56,16 @@
             ]
         },
         {
+            "task": "Event: Send 3 Gifts and add a sticker to each",
+            "rewards": [
+                {
+                    "type": "item",
+                    "amount": 3,
+                    "id": 705
+                }
+            ]
+        },
+        {
             "task": "Event: Use 7 Berries to help catch Pokémon",
             "rewards": [
                 {
