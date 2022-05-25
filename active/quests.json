@@ -1,6 +1,32 @@
 {
     "event": [
         {
+            "task": "Event: Power up  Pokémon 7 times",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 722,
+                        "template": "ROWLET"
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 728,
+                        "template": "POPPLIO"
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 725,
+                        "template": "LITTEN"
+                    }
+                }
+            ]
+        },
+        {
             "task": "Event: Walk 1 km",
             "rewards": [
                 {
@@ -9,17 +35,12 @@
                         "id": 734,
                         "template": "YUNGOOS"
                     }
-                }
-            ]
-        },
-        {
-            "task": "Event: Power up  Pokémon 7 times",
-            "rewards": [
+                },
                 {
                     "type": "pokemon",
                     "reward": {
-                        "id": 722,
-                        "template": "ROWLET"
+                        "id": 731,
+                        "template": "PIKIPEK"
                     }
                 }
             ]

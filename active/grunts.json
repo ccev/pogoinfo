@@ -208,6 +208,11 @@
                 ],
                 [
                     {
+                        "id": 20,
+                        "template": "RATICATE_NORMAL",
+                        "form": 47
+                    },
+                    {
                         "id": 430,
                         "template": "HONCHKROW_NORMAL",
                         "form": 858
@@ -216,11 +221,6 @@
                         "id": 332,
                         "template": "CACTURNE_NORMAL",
                         "form": 613
-                    },
-                    {
-                        "id": 20,
-                        "template": "RATICATE_NORMAL",
-                        "form": 47
                     }
                 ]
             ]
@@ -464,13 +464,13 @@
             "team": [
                 [
                     {
-                        "id": 322,
-                        "template": "NUMEL"
-                    },
-                    {
                         "id": 155,
                         "template": "CYNDAQUIL_NORMAL",
                         "form": 1127
+                    },
+                    {
+                        "id": 322,
+                        "template": "NUMEL"
                     },
                     {
                         "id": 4,
@@ -740,14 +740,14 @@
                 ],
                 [
                     {
-                        "id": 28,
-                        "template": "SANDSLASH_NORMAL",
-                        "form": 53
-                    },
-                    {
                         "id": 459,
                         "template": "SNOVER_NORMAL",
                         "form": 932
+                    },
+                    {
+                        "id": 28,
+                        "template": "SANDSLASH_NORMAL",
+                        "form": 53
                     }
                 ],
                 [
@@ -1043,25 +1043,25 @@
             "team": [
                 [
                     {
+                        "id": 185,
+                        "template": "SUDOWOODO"
+                    },
+                    {
                         "id": 213,
                         "template": "SHUCKLE_NORMAL",
                         "form": 827
-                    },
-                    {
-                        "id": 185,
-                        "template": "SUDOWOODO"
                     }
                 ],
                 [
                     {
-                        "id": 246,
-                        "template": "LARVITAR_NORMAL",
-                        "form": 313
-                    },
-                    {
                         "id": 345,
                         "template": "LILEEP_NORMAL",
                         "form": 1568
+                    },
+                    {
+                        "id": 246,
+                        "template": "LARVITAR_NORMAL",
+                        "form": 313
                     },
                     {
                         "id": 347,
@@ -1285,14 +1285,14 @@
                         "form": 250
                     },
                     {
-                        "id": 208,
-                        "template": "STEELIX_NORMAL",
-                        "form": 905
-                    },
-                    {
                         "id": 282,
                         "template": "GARDEVOIR_NORMAL",
                         "form": 298
+                    },
+                    {
+                        "id": 208,
+                        "template": "STEELIX_NORMAL",
+                        "form": 905
                     }
                 ]
             ]
@@ -1500,14 +1500,14 @@
                 ],
                 [
                     {
-                        "id": 302,
-                        "template": "SABLEYE_NORMAL",
-                        "form": 923
-                    },
-                    {
                         "id": 354,
                         "template": "BANETTE_NORMAL",
                         "form": 911
+                    },
+                    {
+                        "id": 302,
+                        "template": "SABLEYE_NORMAL",
+                        "form": 923
                     }
                 ],
                 [
@@ -1517,14 +1517,14 @@
                         "form": 920
                     },
                     {
-                        "id": 354,
-                        "template": "BANETTE_NORMAL",
-                        "form": 911
-                    },
-                    {
                         "id": 302,
                         "template": "SABLEYE_NORMAL",
                         "form": 923
+                    },
+                    {
+                        "id": 354,
+                        "template": "BANETTE_NORMAL",
+                        "form": 911
                     }
                 ]
             ]
