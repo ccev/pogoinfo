@@ -1,38 +1,5 @@
 [
     {
-        "name": "Seel Spotlight Hour",
-        "type": "spotlight-hour",
-        "start": "2022-05-24 18:00",
-        "end": "2022-05-24 19:00",
-        "spawns": [
-            {
-                "id": 86,
-                "template": "SEEL"
-            }
-        ],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": true
-    },
-    {
-        "name": "Guardian Deity Raid Hour",
-        "type": "raid-hour",
-        "start": "2022-05-25 18:00",
-        "end": "2022-05-25 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
         "name": "GO Battle Day: Mega Stardust Surprise",
         "type": "event",
         "start": "2022-05-29 00:00",
@@ -818,6 +785,63 @@
         "has_spawnpoints": false
     },
     {
+        "name": "Nosepass Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2022-06-07 18:00",
+        "end": "2022-06-07 19:00",
+        "spawns": [
+            {
+                "id": 299,
+                "template": "NOSEPASS"
+            }
+        ],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": true
+    },
+    {
+        "name": "Mantine Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2022-06-14 18:00",
+        "end": "2022-06-14 19:00",
+        "spawns": [
+            {
+                "id": 226,
+                "template": "MANTINE"
+            }
+        ],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": true
+    },
+    {
+        "name": "Spinarak Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2022-06-21 18:00",
+        "end": "2022-06-21 19:00",
+        "spawns": [
+            {
+                "id": 167,
+                "template": "SPINARAK"
+            }
+        ],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": true
+    },
+    {
         "name": "June Community Day",
         "type": "community-day",
         "start": "2022-06-25 00:00",
@@ -829,6 +853,20 @@
         "bonuses": [],
         "features": [],
         "has_quests": true,
+        "has_spawnpoints": true
+    },
+    {
+        "name": "Unannounced Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2022-06-28 18:00",
+        "end": "2022-06-28 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
         "has_spawnpoints": true
     },
     {
@@ -1342,6 +1380,280 @@
         "raids": [],
         "shinies": [],
         "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Season of GO",
+        "type": "event",
+        "start": "2022-06-01 10:00",
+        "end": "2022-09-01 10:00",
+        "spawns": [
+            {
+                "id": 19,
+                "template": "RATTATA"
+            },
+            {
+                "id": 109,
+                "template": "KOFFING"
+            },
+            {
+                "id": 190,
+                "template": "AIPOM"
+            },
+            {
+                "id": 436,
+                "template": "BRONZOR"
+            },
+            {
+                "id": 453,
+                "template": "CROAGUNK"
+            },
+            {
+                "id": 504,
+                "template": "PATRAT"
+            },
+            {
+                "id": 618,
+                "template": "STUNFISK_GALARIAN",
+                "form": 2345
+            },
+            {
+                "id": 43,
+                "template": "ODDISH"
+            },
+            {
+                "id": 70,
+                "template": "WEEPINBELL"
+            },
+            {
+                "id": 114,
+                "template": "TANGELA"
+            },
+            {
+                "id": 213,
+                "template": "SHUCKLE"
+            },
+            {
+                "id": 285,
+                "template": "SHROOMISH"
+            },
+            {
+                "id": 420,
+                "template": "CHERUBI"
+            },
+            {
+                "id": 734,
+                "template": "YUNGOOS"
+            },
+            {
+                "id": 27,
+                "template": "SANDSHREW"
+            },
+            {
+                "id": 95,
+                "template": "ONIX"
+            },
+            {
+                "id": 231,
+                "template": "PHANPY"
+            },
+            {
+                "id": 304,
+                "template": "ARON"
+            },
+            {
+                "id": 328,
+                "template": "TRAPINCH"
+            },
+            {
+                "id": 449,
+                "template": "HIPPOPOTAS"
+            },
+            {
+                "id": 622,
+                "template": "GOLETT"
+            },
+            {
+                "id": 72,
+                "template": "TENTACOOL"
+            },
+            {
+                "id": 98,
+                "template": "KRABBY"
+            },
+            {
+                "id": 116,
+                "template": "HORSEA"
+            },
+            {
+                "id": 194,
+                "template": "WOOPER"
+            },
+            {
+                "id": 341,
+                "template": "CORPHISH"
+            },
+            {
+                "id": 363,
+                "template": "SPHEAL"
+            },
+            {
+                "id": 751,
+                "template": "DEWPIDER"
+            }
+        ],
+        "eggs": [
+            {
+                "id": 60,
+                "template": "POLIWAG"
+            },
+            {
+                "id": 81,
+                "template": "MAGNEMITE"
+            },
+            {
+                "id": 129,
+                "template": "MAGIKARP"
+            },
+            {
+                "id": 307,
+                "template": "MEDITITE"
+            },
+            {
+                "id": 731,
+                "template": "PIKIPEK"
+            },
+            {
+                "id": 734,
+                "template": "YUNGOOS"
+            },
+            {
+                "id": 759,
+                "template": "STUFFUL"
+            },
+            {
+                "id": 175,
+                "template": "TOGEPI"
+            },
+            {
+                "id": 227,
+                "template": "SKARMORY"
+            },
+            {
+                "id": 360,
+                "template": "WYNAUT"
+            },
+            {
+                "id": 436,
+                "template": "BRONZOR"
+            },
+            {
+                "id": 722,
+                "template": "ROWLET"
+            },
+            {
+                "id": 725,
+                "template": "LITTEN"
+            },
+            {
+                "id": 728,
+                "template": "POPPLIO"
+            },
+            {
+                "id": 447,
+                "template": "RIOLU"
+            },
+            {
+                "id": 587,
+                "template": "EMOLGA"
+            },
+            {
+                "id": 610,
+                "template": "AXEW"
+            },
+            {
+                "id": 627,
+                "template": "RUFFLET"
+            },
+            {
+                "id": 704,
+                "template": "GOOMY"
+            },
+            {
+                "id": 714,
+                "template": "NOIBAT"
+            },
+            {
+                "id": 782,
+                "template": "JANGMO_O"
+            },
+            {
+                "id": 408,
+                "template": "CRANIDOS"
+            },
+            {
+                "id": 410,
+                "template": "SHIELDON"
+            },
+            {
+                "id": 440,
+                "template": "HAPPINY"
+            },
+            {
+                "id": 446,
+                "template": "MUNCHLAX"
+            },
+            {
+                "id": 524,
+                "template": "ROGGENROLA"
+            },
+            {
+                "id": 147,
+                "template": "DRATINI"
+            },
+            {
+                "id": 371,
+                "template": "BAGON"
+            },
+            {
+                "id": 374,
+                "template": "BELDUM"
+            },
+            {
+                "id": 633,
+                "template": "DEINO"
+            }
+        ],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [
+            {
+                "text": "Increased friendship bonus for Raids"
+            },
+            {
+                "text": "1-hour Lure Modules",
+                "template": "longer-lure",
+                "value": 1
+            },
+            {
+                "text": "One extra Special Trade per day"
+            },
+            {
+                "text": "One extra Pokémon Candy when trading Pokémon",
+                "template": "increased-candy"
+            },
+            {
+                "text": "Guaranteed Candy XL when trading Pokémon"
+            },
+            {
+                "text": "Guaranteed Gifts from PokéStop spins"
+            },
+            {
+                "text": "Increased Damage for Pokémon paarticipating in raids remotely"
+            }
+        ],
         "features": [],
         "has_quests": false,
         "has_spawnpoints": false
