@@ -496,13 +496,13 @@
                         "form": 57
                     },
                     {
+                        "id": 323,
+                        "template": "CAMERUPT"
+                    },
+                    {
                         "id": 157,
                         "template": "TYPHLOSION_NORMAL",
                         "form": 1133
-                    },
-                    {
-                        "id": 323,
-                        "template": "CAMERUPT"
                     }
                 ]
             ]
