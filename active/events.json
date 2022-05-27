@@ -1652,6 +1652,10 @@
             },
             {
                 "text": "Increased Damage for Pokémon paarticipating in raids remotely"
+            },
+            {
+                "text": "Increased Incense effectiveness while moving",
+                "template": "longer-incense"
             }
         ],
         "features": [],
