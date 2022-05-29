@@ -712,7 +712,48 @@
             }
         ],
         "eggs": [],
-        "raids": [],
+        "raids": [
+            {
+                "id": 382,
+                "template": "KYOGRE"
+            },
+            {
+                "id": 383,
+                "template": "GROUDON"
+            },
+            {
+                "id": 610,
+                "template": "AXEW"
+            },
+            {
+                "id": 723,
+                "template": "DARTRIX"
+            },
+            {
+                "id": 726,
+                "template": "TORRACAT"
+            },
+            {
+                "id": 729,
+                "template": "BRIONNE"
+            },
+            {
+                "id": 143,
+                "template": "SNORLAX"
+            },
+            {
+                "id": 373,
+                "template": "SALAMENCE"
+            },
+            {
+                "id": 621,
+                "template": "DRUDDIGON"
+            },
+            {
+                "id": 744,
+                "template": "ROCKRUFF"
+            }
+        ],
         "shinies": [
             {
                 "id": 285,
@@ -781,7 +822,7 @@
         ],
         "bonuses": [],
         "features": [],
-        "has_quests": false,
+        "has_quests": true,
         "has_spawnpoints": false
     },
     {
