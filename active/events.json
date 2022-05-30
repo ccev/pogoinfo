@@ -1,19 +1,5 @@
 [
     {
-        "name": "GO Battle Day: Mega Stardust Surprise",
-        "type": "event",
-        "start": "2022-05-29 00:00",
-        "end": "2022-05-29 23:59",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Pikipek Spotlight Hour",
         "type": "spotlight-hour",
         "start": "2022-05-31 18:00",
@@ -857,6 +843,34 @@
         "features": [],
         "has_quests": false,
         "has_spawnpoints": true
+    },
+    {
+        "name": "Groudon Raid Hour",
+        "type": "raid-hour",
+        "start": "2022-06-08 18:00",
+        "end": "2022-06-08 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Mewtwo Raid Hour",
+        "type": "raid-hour",
+        "start": "2022-06-08 18:00",
+        "end": "2022-06-08 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
     },
     {
         "name": "Adventure Week",
