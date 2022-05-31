@@ -863,13 +863,164 @@
         "type": "event",
         "start": "2022-06-07 10:00",
         "end": "2022-06-12 20:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
+        "spawns": [
+            {
+                "id": 111,
+                "template": "RHYHORN"
+            },
+            {
+                "id": 138,
+                "template": "OMANYTE"
+            },
+            {
+                "id": 140,
+                "template": "KABUTO"
+            },
+            {
+                "id": 246,
+                "template": "LARVITAR"
+            },
+            {
+                "id": 304,
+                "template": "ARON"
+            },
+            {
+                "id": 345,
+                "template": "LILEEP"
+            },
+            {
+                "id": 347,
+                "template": "ANORITH"
+            },
+            {
+                "id": 408,
+                "template": "CRANIDOS"
+            },
+            {
+                "id": 410,
+                "template": "SHIELDON"
+            },
+            {
+                "id": 75,
+                "template": "GRAVELER"
+            },
+            {
+                "id": 142,
+                "template": "AERODACTYL"
+            },
+            {
+                "id": 247,
+                "template": "PUPITAR"
+            }
+        ],
+        "eggs": [
+            {
+                "id": 213,
+                "template": "SHUCKLE"
+            },
+            {
+                "id": 218,
+                "template": "SLUGMA"
+            },
+            {
+                "id": 408,
+                "template": "CRANIDOS"
+            },
+            {
+                "id": 410,
+                "template": "SHIELDON"
+            },
+            {
+                "id": 564,
+                "template": "TIRTOUGA"
+            },
+            {
+                "id": 566,
+                "template": "ARCHEN"
+            },
+            {
+                "id": 696,
+                "template": "TYRUNT"
+            },
+            {
+                "id": 698,
+                "template": "AMAURA"
+            }
+        ],
+        "raids": [
+            {
+                "id": 74,
+                "template": "GEODUDE"
+            },
+            {
+                "id": 74,
+                "template": "GEODUDE_ALOLA",
+                "form": 68
+            },
+            {
+                "id": 185,
+                "template": "SUDOWOODO"
+            },
+            {
+                "id": 524,
+                "template": "ROGGENROLA"
+            },
+            {
+                "id": 112,
+                "template": "RHYDON"
+            },
+            {
+                "id": 213,
+                "template": "SHUCKLE"
+            },
+            {
+                "id": 248,
+                "template": "TYRANITAR"
+            },
+            {
+                "id": 306,
+                "template": "AGGRON"
+            },
+            {
+                "id": 383,
+                "template": "GROUDON"
+            },
+            {
+                "id": 142,
+                "template": "AERODACTYL"
+            }
+        ],
+        "shinies": [
+            {
+                "id": 564,
+                "template": "TIRTOUGA"
+            },
+            {
+                "id": 565,
+                "template": "CARRACOSTA"
+            },
+            {
+                "id": 566,
+                "template": "ARCHEN"
+            },
+            {
+                "id": 567,
+                "template": "ARCHEOPS"
+            }
+        ],
+        "bonuses": [
+            {
+                "text": "2× XP for spinning PokéStops",
+                "template": "increased-xp",
+                "value": 2
+            },
+            {
+                "text": "5× bonus XP for spinning a PokéStop for the first time",
+                "value": 5
+            }
+        ],
         "features": [],
-        "has_quests": false,
+        "has_quests": true,
         "has_spawnpoints": false
     },
     {
