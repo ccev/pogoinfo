@@ -847,22 +847,8 @@
     {
         "name": "Groudon Raid Hour",
         "type": "raid-hour",
-        "start": "2022-06-08 18:00",
-        "end": "2022-06-08 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
-        "name": "Mewtwo Raid Hour",
-        "type": "raid-hour",
-        "start": "2022-06-08 18:00",
-        "end": "2022-06-08 19:00",
+        "start": "2022-06-15 18:00",
+        "end": "2022-06-15 19:00",
         "spawns": [],
         "eggs": [],
         "raids": [],
@@ -923,6 +909,20 @@
         "features": [],
         "has_quests": false,
         "has_spawnpoints": true
+    },
+    {
+        "name": "Mewtwo Raid Hour",
+        "type": "raid-hour",
+        "start": "2022-06-29 18:00",
+        "end": "2022-06-29 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
     },
     {
         "name": "June Community Day",
