@@ -469,13 +469,13 @@
                         "form": 1127
                     },
                     {
-                        "id": 322,
-                        "template": "NUMEL"
-                    },
-                    {
                         "id": 4,
                         "template": "CHARMANDER_NORMAL",
                         "form": 172
+                    },
+                    {
+                        "id": 322,
+                        "template": "NUMEL"
                     }
                 ],
                 [
@@ -1212,13 +1212,13 @@
                         "form": 643
                     },
                     {
-                        "id": 405,
-                        "template": "LUXRAY"
-                    },
-                    {
                         "id": 139,
                         "template": "OMASTAR_NORMAL",
                         "form": 743
+                    },
+                    {
+                        "id": 405,
+                        "template": "LUXRAY"
                     }
                 ],
                 [
