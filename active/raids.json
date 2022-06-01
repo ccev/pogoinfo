@@ -1,24 +1,24 @@
 {
     "1": [
         {
-            "id": 19,
-            "template": "RATTATA_ALOLA",
-            "form": 46
+            "id": 54,
+            "template": "PSYDUCK_NORMAL",
+            "form": 286
         },
         {
-            "id": 50,
-            "template": "DIGLETT_ALOLA",
-            "form": 60
+            "id": 220,
+            "template": "SWINUB_NORMAL",
+            "form": 1277
         },
         {
-            "id": 74,
-            "template": "GEODUDE_ALOLA",
-            "form": 68
+            "id": 299,
+            "template": "NOSEPASS_NORMAL",
+            "form": 1460
         },
         {
-            "id": 88,
-            "template": "GRIMER_ALOLA",
-            "form": 74
+            "id": 443,
+            "template": "GIBLE_NORMAL",
+            "form": 861
         },
         {
             "id": 744,
@@ -27,43 +27,36 @@
     ],
     "3": [
         {
-            "id": 26,
-            "template": "RAICHU_ALOLA",
-            "form": 50
+            "id": 67,
+            "template": "MACHOKE_NORMAL",
+            "form": 812
         },
         {
-            "id": 103,
-            "template": "EXEGGUTOR_ALOLA",
-            "form": 78
+            "id": 186,
+            "template": "POLITOED_NORMAL",
+            "form": 244
         },
         {
-            "id": 105,
-            "template": "MAROWAK_ALOLA",
-            "form": 80
+            "id": 195,
+            "template": "QUAGSIRE_NORMAL",
+            "form": 1229
+        },
+        {
+            "id": 623,
+            "template": "GOLURK"
         }
     ],
     "5": [
         {
-            "id": 785,
-            "template": "TAPU_KOKO"
-        },
-        {
-            "id": 786,
-            "template": "TAPU_LELE"
-        },
-        {
-            "id": 787,
-            "template": "TAPU_BULU"
-        },
-        {
-            "id": 788,
-            "template": "TAPU_FINI"
+            "id": 382,
+            "template": "KYOGRE"
         }
     ],
     "6": [
         {
-            "id": 334,
-            "template": "ALTARIA",
+            "id": 208,
+            "template": "STEELIX_NORMAL",
+            "form": 905,
             "temp_evolution_id": 1
         }
     ]
