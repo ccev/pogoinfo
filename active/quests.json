@@ -77,6 +77,27 @@
             ]
         },
         {
+            "task": "Catch 5 Rock-type Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 50,
+                        "template": "DIGLETT_ALOLA",
+                        "form": 60
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 50,
+                        "template": "DIGLETT_NORMAL",
+                        "form": 59
+                    }
+                }
+            ]
+        },
+        {
             "task": "Catch 7 Pokémon",
             "rewards": [
                 {
@@ -141,27 +162,6 @@
                         "id": 459,
                         "template": "SNOVER_NORMAL",
                         "form": 932
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Catch 5 Rock-type Pokémon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 50,
-                        "template": "DIGLETT_ALOLA",
-                        "form": 60
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 50,
-                        "template": "DIGLETT_NORMAL",
-                        "form": 59
                     }
                 }
             ]
@@ -471,18 +471,6 @@
             ]
         },
         {
-            "task": "Make 5 Great Curveball Throws in a row",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 327,
-                        "template": "SPINDA"
-                    }
-                }
-            ]
-        },
-        {
             "task": "Make 3 Great Throws in a row",
             "rewards": [
                 {
@@ -525,6 +513,18 @@
             ]
         },
         {
+            "task": "Make 5 Great Curveball Throws in a row",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 327,
+                        "template": "SPINDA"
+                    }
+                }
+            ]
+        },
+        {
             "task": "Make 3 Excellent Throws in a row",
             "rewards": [
                 {
@@ -533,6 +533,38 @@
                         "id": 443,
                         "template": "GIBLE_NORMAL",
                         "form": 861
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Make an Excellent Throw",
+            "rewards": [
+                {
+                    "type": "stardust",
+                    "amount": 500
+                },
+                {
+                    "type": "item",
+                    "amount": 2,
+                    "id": 705
+                },
+                {
+                    "type": "item",
+                    "amount": 5,
+                    "id": 2
+                },
+                {
+                    "type": "item",
+                    "amount": 2,
+                    "id": 3
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 147,
+                        "template": "DRATINI_NORMAL",
+                        "form": 190
                     }
                 }
             ]
@@ -668,30 +700,6 @@
             ]
         },
         {
-            "task": "Make an Excellent Throw",
-            "rewards": [
-                {
-                    "type": "stardust",
-                    "amount": 500
-                },
-                {
-                    "type": "item",
-                    "amount": 2,
-                    "id": 705
-                },
-                {
-                    "type": "item",
-                    "amount": 5,
-                    "id": 2
-                },
-                {
-                    "type": "item",
-                    "amount": 2,
-                    "id": 3
-                }
-            ]
-        },
-        {
             "task": "Battle alongside your buddy while it's adventuring with you",
             "rewards": [
                 {
@@ -810,6 +818,18 @@
             ]
         },
         {
+            "task": "Walk 2 km with your buddy",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 133,
+                        "template": "EEVEE"
+                    }
+                }
+            ]
+        },
+        {
             "task": "Earn 2 Candies walking with your buddy",
             "rewards": [
                 {
@@ -829,18 +849,6 @@
                     "reward": {
                         "id": 170,
                         "template": "CHINCHOU"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Walk 2 km with your buddy",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 133,
-                        "template": "EEVEE"
                     }
                 }
             ]
@@ -1058,6 +1066,37 @@
             ]
         },
         {
+            "task": "Spin 3 PokéStops or Gyms",
+            "rewards": [
+                {
+                    "type": "stardust",
+                    "amount": 500
+                },
+                {
+                    "type": "item",
+                    "amount": 6,
+                    "id": 701
+                },
+                {
+                    "type": "item",
+                    "amount": 2,
+                    "id": 705
+                },
+                {
+                    "type": "item",
+                    "amount": 5,
+                    "id": 2
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 185,
+                        "template": "SUDOWOODO"
+                    }
+                }
+            ]
+        },
+        {
             "task": "Take a snapshot of a Rock-type Pokémon",
             "rewards": [
                 {
@@ -1086,37 +1125,6 @@
                         "id": 246,
                         "template": "LARVITAR_NORMAL",
                         "form": 313
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Spin 3 PokéStops or Gyms",
-            "rewards": [
-                {
-                    "type": "stardust",
-                    "amount": 500
-                },
-                {
-                    "type": "item",
-                    "amount": 6,
-                    "id": 701
-                },
-                {
-                    "type": "item",
-                    "amount": 2,
-                    "id": 705
-                },
-                {
-                    "type": "item",
-                    "amount": 5,
-                    "id": 2
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 185,
-                        "template": "SUDOWOODO"
                     }
                 }
             ]
