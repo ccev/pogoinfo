@@ -77,40 +77,6 @@
             ]
         },
         {
-            "task": "Catch 5 Rock-type Pokémon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 50,
-                        "template": "DIGLETT_ALOLA",
-                        "form": 60
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 50,
-                        "template": "DIGLETT_NORMAL",
-                        "form": 59
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Catch 7 Pokémon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 129,
-                        "template": "MAGIKARP_NORMAL",
-                        "form": 253
-                    }
-                }
-            ]
-        },
-        {
             "task": "Catch 5 Pokémon with Weather Boost",
             "rewards": [
                 {
@@ -162,6 +128,40 @@
                         "id": 459,
                         "template": "SNOVER_NORMAL",
                         "form": 932
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Catch 5 Rock-type Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 50,
+                        "template": "DIGLETT_ALOLA",
+                        "form": 60
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 50,
+                        "template": "DIGLETT_NORMAL",
+                        "form": 59
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Catch 7 Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 129,
+                        "template": "MAGIKARP_NORMAL",
+                        "form": 253
                     }
                 }
             ]
@@ -1054,6 +1054,26 @@
             ]
         },
         {
+            "task": "Hatch an Egg",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 226,
+                        "template": "MANTINE"
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 246,
+                        "template": "LARVITAR_NORMAL",
+                        "form": 313
+                    }
+                }
+            ]
+        },
+        {
             "task": "Evolve a Pokémon",
             "rewards": [
                 {
@@ -1105,26 +1125,6 @@
                         "id": 111,
                         "template": "RHYHORN_NORMAL",
                         "form": 846
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Hatch an Egg",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 226,
-                        "template": "MANTINE"
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 246,
-                        "template": "LARVITAR_NORMAL",
-                        "form": 313
                     }
                 }
             ]
