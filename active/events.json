@@ -15,6 +15,11 @@
                 "form": 74
             },
             {
+                "id": 89,
+                "template": "MUK_ALOLA",
+                "form": 76
+            },
+            {
                 "id": 107,
                 "template": "HITMONCHAN"
             },
@@ -44,8 +49,16 @@
                 "template": "GOTHITA"
             },
             {
+                "id": 575,
+                "template": "GOTHORITA"
+            },
+            {
                 "id": 622,
                 "template": "GOLETT"
+            },
+            {
+                "id": 623,
+                "template": "GOLURK"
             },
             {
                 "id": 725,
@@ -81,12 +94,24 @@
                 "template": "TRAPINCH"
             },
             {
+                "id": 329,
+                "template": "VIBRAVA"
+            },
+            {
                 "id": 418,
                 "template": "BUIZEL"
             },
             {
                 "id": 504,
                 "template": "PATRAT"
+            },
+            {
+                "id": 505,
+                "template": "WATCHOG"
+            },
+            {
+                "id": 508,
+                "template": "STOUTLAND"
             },
             {
                 "id": 529,
@@ -322,9 +347,9 @@
         "has_spawnpoints": false
     },
     {
-        "name": "Pokémon GO Fest 2022",
+        "name": "Pokémon GO Fest 2022 - Day 2",
         "type": "event",
-        "start": "2022-06-04 10:00",
+        "start": null,
         "end": "2022-06-05 18:00",
         "spawns": [
             {
