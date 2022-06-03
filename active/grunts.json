@@ -848,14 +848,14 @@
                         "form": 47
                     },
                     {
-                        "id": 400,
-                        "template": "BIBAREL_NORMAL",
-                        "form": 1670
-                    },
-                    {
                         "id": 294,
                         "template": "LOUDRED_NORMAL",
                         "form": 1445
+                    },
+                    {
+                        "id": 400,
+                        "template": "BIBAREL_NORMAL",
+                        "form": 1670
                     }
                 ],
                 [

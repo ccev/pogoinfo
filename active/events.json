@@ -57,6 +57,10 @@
                 "form": 944
             },
             {
+                "id": 599,
+                "template": "KLINK"
+            },
+            {
                 "id": 203,
                 "template": "GIRAFARIG"
             },
@@ -103,6 +107,10 @@
             {
                 "id": 610,
                 "template": "AXEW"
+            },
+            {
+                "id": 324,
+                "template": "TORKOAL"
             },
             {
                 "id": 258,
@@ -153,6 +161,10 @@
                 "template": "PANCHAM"
             },
             {
+                "id": 357,
+                "template": "TROPIUS"
+            },
+            {
                 "id": 138,
                 "template": "OMANYTE"
             },
@@ -200,18 +212,15 @@
                 "id": 554,
                 "template": "DARUMAKA_GALARIAN",
                 "form": 2341
+            },
+            {
+                "id": 122,
+                "template": "MR_MIME_GALARIAN",
+                "form": 2339
             }
         ],
         "eggs": [],
         "raids": [
-            {
-                "id": 382,
-                "template": "KYOGRE"
-            },
-            {
-                "id": 383,
-                "template": "GROUDON"
-            },
             {
                 "id": 610,
                 "template": "AXEW"
@@ -229,20 +238,12 @@
                 "template": "BRIONNE"
             },
             {
-                "id": 143,
-                "template": "SNORLAX"
+                "id": 382,
+                "template": "KYOGRE"
             },
             {
-                "id": 373,
-                "template": "SALAMENCE"
-            },
-            {
-                "id": 621,
-                "template": "DRUDDIGON"
-            },
-            {
-                "id": 744,
-                "template": "ROCKRUFF"
+                "id": 383,
+                "template": "GROUDON"
             }
         ],
         "shinies": [
@@ -311,7 +312,11 @@
                 "form": 21
             }
         ],
-        "bonuses": [],
+        "bonuses": [
+            {
+                "text": "Spin Photo Discs at Gyms to earn up to nine free Raid Passes"
+            }
+        ],
         "features": [],
         "has_quests": true,
         "has_spawnpoints": false
