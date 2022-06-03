@@ -1,5 +1,322 @@
 [
     {
+        "name": "Pokémon GO Fest 2022 - Day 1",
+        "type": "event",
+        "start": "2022-06-04 10:00",
+        "end": "2022-06-04 18:00",
+        "spawns": [
+            {
+                "id": 81,
+                "template": "MAGNEMITE"
+            },
+            {
+                "id": 88,
+                "template": "GRIMER_ALOLA",
+                "form": 74
+            },
+            {
+                "id": 107,
+                "template": "HITMONCHAN"
+            },
+            {
+                "id": 343,
+                "template": "BALTOY"
+            },
+            {
+                "id": 412,
+                "template": "BURMY_TRASH",
+                "form": 120
+            },
+            {
+                "id": 436,
+                "template": "BRONZOR"
+            },
+            {
+                "id": 519,
+                "template": "PIDOVE"
+            },
+            {
+                "id": 568,
+                "template": "TRUBBISH"
+            },
+            {
+                "id": 574,
+                "template": "GOTHITA"
+            },
+            {
+                "id": 622,
+                "template": "GOLETT"
+            },
+            {
+                "id": 725,
+                "template": "LITTEN"
+            },
+            {
+                "id": 110,
+                "template": "WEEZING_GALARIAN",
+                "form": 944
+            },
+            {
+                "id": 203,
+                "template": "GIRAFARIG"
+            },
+            {
+                "id": 206,
+                "template": "DUNSPARCE"
+            },
+            {
+                "id": 246,
+                "template": "LARVITAR"
+            },
+            {
+                "id": 322,
+                "template": "NUMEL"
+            },
+            {
+                "id": 328,
+                "template": "TRAPINCH"
+            },
+            {
+                "id": 418,
+                "template": "BUIZEL"
+            },
+            {
+                "id": 504,
+                "template": "PATRAT"
+            },
+            {
+                "id": 529,
+                "template": "DRILBUR"
+            },
+            {
+                "id": 616,
+                "template": "SHELMET"
+            },
+            {
+                "id": 627,
+                "template": "RUFFLET"
+            },
+            {
+                "id": 667,
+                "template": "LITLEO"
+            },
+            {
+                "id": 610,
+                "template": "AXEW"
+            },
+            {
+                "id": 258,
+                "template": "MUDKIP"
+            },
+            {
+                "id": 273,
+                "template": "SEEDOT"
+            },
+            {
+                "id": 285,
+                "template": "SHROOMISH"
+            },
+            {
+                "id": 287,
+                "template": "SLAKOTH"
+            },
+            {
+                "id": 387,
+                "template": "TURTWIG"
+            },
+            {
+                "id": 390,
+                "template": "CHIMCHAR"
+            },
+            {
+                "id": 543,
+                "template": "VENIPEDE"
+            },
+            {
+                "id": 588,
+                "template": "KARRABLAST"
+            },
+            {
+                "id": 688,
+                "template": "BINACLE"
+            },
+            {
+                "id": 690,
+                "template": "SKRELP"
+            },
+            {
+                "id": 722,
+                "template": "ROWLET"
+            },
+            {
+                "id": 674,
+                "template": "PANCHAM"
+            },
+            {
+                "id": 138,
+                "template": "OMANYTE"
+            },
+            {
+                "id": 220,
+                "template": "SWINUB"
+            },
+            {
+                "id": 278,
+                "template": "WINGULL"
+            },
+            {
+                "id": 307,
+                "template": "MEDITITE"
+            },
+            {
+                "id": 320,
+                "template": "WAILMER"
+            },
+            {
+                "id": 363,
+                "template": "SPHEAL"
+            },
+            {
+                "id": 393,
+                "template": "PIPLUP"
+            },
+            {
+                "id": 582,
+                "template": "VANILLITE"
+            },
+            {
+                "id": 613,
+                "template": "CUBCHOO"
+            },
+            {
+                "id": 712,
+                "template": "BERGMITE"
+            },
+            {
+                "id": 728,
+                "template": "POPPLIO"
+            },
+            {
+                "id": 554,
+                "template": "DARUMAKA_GALARIAN",
+                "form": 2341
+            }
+        ],
+        "eggs": [],
+        "raids": [
+            {
+                "id": 382,
+                "template": "KYOGRE"
+            },
+            {
+                "id": 383,
+                "template": "GROUDON"
+            },
+            {
+                "id": 610,
+                "template": "AXEW"
+            },
+            {
+                "id": 723,
+                "template": "DARTRIX"
+            },
+            {
+                "id": 726,
+                "template": "TORRACAT"
+            },
+            {
+                "id": 729,
+                "template": "BRIONNE"
+            },
+            {
+                "id": 143,
+                "template": "SNORLAX"
+            },
+            {
+                "id": 373,
+                "template": "SALAMENCE"
+            },
+            {
+                "id": 621,
+                "template": "DRUDDIGON"
+            },
+            {
+                "id": 744,
+                "template": "ROCKRUFF"
+            }
+        ],
+        "shinies": [
+            {
+                "id": 285,
+                "template": "SHROOMISH"
+            },
+            {
+                "id": 286,
+                "template": "BRELOOM"
+            },
+            {
+                "id": 322,
+                "template": "NUMEL"
+            },
+            {
+                "id": 323,
+                "template": "CAMERUPT"
+            },
+            {
+                "id": 588,
+                "template": "KARRABLAST"
+            },
+            {
+                "id": 589,
+                "template": "ESCAVALIER"
+            },
+            {
+                "id": 610,
+                "template": "AXEW"
+            },
+            {
+                "id": 611,
+                "template": "FRAXURE"
+            },
+            {
+                "id": 612,
+                "template": "HAXORUS"
+            },
+            {
+                "id": 616,
+                "template": "SHELMET"
+            },
+            {
+                "id": 617,
+                "template": "ACCELGOR"
+            },
+            {
+                "id": 201,
+                "template": "UNOWN_B",
+                "form": 2
+            },
+            {
+                "id": 201,
+                "template": "UNOWN_G",
+                "form": 7
+            },
+            {
+                "id": 201,
+                "template": "UNOWN_O",
+                "form": 15
+            },
+            {
+                "id": 201,
+                "template": "UNOWN_U",
+                "form": 21
+            }
+        ],
+        "bonuses": [],
+        "features": [],
+        "has_quests": true,
+        "has_spawnpoints": false
+    },
+    {
         "name": "Pokémon GO Fest 2022",
         "type": "event",
         "start": "2022-06-04 10:00",
