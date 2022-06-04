@@ -158,8 +158,16 @@
                 "template": "TURTWIG"
             },
             {
+                "id": 388,
+                "template": "GROTLE"
+            },
+            {
                 "id": 390,
                 "template": "CHIMCHAR"
+            },
+            {
+                "id": 391,
+                "template": "MONFERNO"
             },
             {
                 "id": 543,
@@ -176,6 +184,10 @@
             {
                 "id": 690,
                 "template": "SKRELP"
+            },
+            {
+                "id": 691,
+                "template": "DRAGALGE"
             },
             {
                 "id": 722,
@@ -214,8 +226,16 @@
                 "template": "SPHEAL"
             },
             {
+                "id": 364,
+                "template": "SEALEO"
+            },
+            {
                 "id": 393,
                 "template": "PIPLUP"
+            },
+            {
+                "id": 394,
+                "template": "PRINPLUP"
             },
             {
                 "id": 582,
@@ -224,6 +244,10 @@
             {
                 "id": 613,
                 "template": "CUBCHOO"
+            },
+            {
+                "id": 614,
+                "template": "BEARTIC"
             },
             {
                 "id": 712,
