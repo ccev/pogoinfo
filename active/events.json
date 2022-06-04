@@ -373,7 +373,7 @@
     {
         "name": "Pokémon GO Fest 2022 - Day 2",
         "type": "event",
-        "start": null,
+        "start": "2022-06-05 10:00",
         "end": "2022-06-05 18:00",
         "spawns": [
             {
@@ -386,46 +386,22 @@
                 "form": 74
             },
             {
+                "id": 89,
+                "template": "MUK_ALOLA",
+                "form": 76
+            },
+            {
                 "id": 107,
                 "template": "HITMONCHAN"
-            },
-            {
-                "id": 343,
-                "template": "BALTOY"
-            },
-            {
-                "id": 412,
-                "template": "BURMY_TRASH",
-                "form": 120
-            },
-            {
-                "id": 436,
-                "template": "BRONZOR"
-            },
-            {
-                "id": 519,
-                "template": "PIDOVE"
-            },
-            {
-                "id": 568,
-                "template": "TRUBBISH"
-            },
-            {
-                "id": 574,
-                "template": "GOTHITA"
-            },
-            {
-                "id": 622,
-                "template": "GOLETT"
-            },
-            {
-                "id": 725,
-                "template": "LITTEN"
             },
             {
                 "id": 110,
                 "template": "WEEZING_GALARIAN",
                 "form": 944
+            },
+            {
+                "id": 138,
+                "template": "OMANYTE"
             },
             {
                 "id": 203,
@@ -436,44 +412,12 @@
                 "template": "DUNSPARCE"
             },
             {
+                "id": 220,
+                "template": "SWINUB"
+            },
+            {
                 "id": 246,
                 "template": "LARVITAR"
-            },
-            {
-                "id": 322,
-                "template": "NUMEL"
-            },
-            {
-                "id": 328,
-                "template": "TRAPINCH"
-            },
-            {
-                "id": 418,
-                "template": "BUIZEL"
-            },
-            {
-                "id": 504,
-                "template": "PATRAT"
-            },
-            {
-                "id": 529,
-                "template": "DRILBUR"
-            },
-            {
-                "id": 616,
-                "template": "SHELMET"
-            },
-            {
-                "id": 627,
-                "template": "RUFFLET"
-            },
-            {
-                "id": 667,
-                "template": "LITLEO"
-            },
-            {
-                "id": 610,
-                "template": "AXEW"
             },
             {
                 "id": 258,
@@ -484,56 +428,16 @@
                 "template": "SEEDOT"
             },
             {
+                "id": 278,
+                "template": "WINGULL"
+            },
+            {
                 "id": 285,
                 "template": "SHROOMISH"
             },
             {
                 "id": 287,
                 "template": "SLAKOTH"
-            },
-            {
-                "id": 387,
-                "template": "TURTWIG"
-            },
-            {
-                "id": 390,
-                "template": "CHIMCHAR"
-            },
-            {
-                "id": 543,
-                "template": "VENIPEDE"
-            },
-            {
-                "id": 588,
-                "template": "KARRABLAST"
-            },
-            {
-                "id": 688,
-                "template": "BINACLE"
-            },
-            {
-                "id": 690,
-                "template": "SKRELP"
-            },
-            {
-                "id": 722,
-                "template": "ROWLET"
-            },
-            {
-                "id": 674,
-                "template": "PANCHAM"
-            },
-            {
-                "id": 138,
-                "template": "OMANYTE"
-            },
-            {
-                "id": 220,
-                "template": "SWINUB"
-            },
-            {
-                "id": 278,
-                "template": "WINGULL"
             },
             {
                 "id": 307,
@@ -544,60 +448,189 @@
                 "template": "WAILMER"
             },
             {
+                "id": 322,
+                "template": "NUMEL"
+            },
+            {
+                "id": 328,
+                "template": "TRAPINCH"
+            },
+            {
+                "id": 329,
+                "template": "VIBRAVA"
+            },
+            {
+                "id": 343,
+                "template": "BALTOY"
+            },
+            {
                 "id": 363,
                 "template": "SPHEAL"
+            },
+            {
+                "id": 364,
+                "template": "SEALEO"
+            },
+            {
+                "id": 387,
+                "template": "TURTWIG"
+            },
+            {
+                "id": 388,
+                "template": "GROTLE"
+            },
+            {
+                "id": 390,
+                "template": "CHIMCHAR"
+            },
+            {
+                "id": 391,
+                "template": "MONFERNO"
             },
             {
                 "id": 393,
                 "template": "PIPLUP"
             },
             {
-                "id": 582,
-                "template": "VANILLITE"
+                "id": 394,
+                "template": "PRINPLUP"
             },
             {
-                "id": 613,
-                "template": "CUBCHOO"
+                "id": 412,
+                "template": "BURMY_TRASH",
+                "form": 120
             },
             {
-                "id": 712,
-                "template": "BERGMITE"
+                "id": 418,
+                "template": "BUIZEL"
             },
             {
-                "id": 728,
-                "template": "POPPLIO"
+                "id": 436,
+                "template": "BRONZOR"
+            },
+            {
+                "id": 504,
+                "template": "PATRAT"
+            },
+            {
+                "id": 505,
+                "template": "WATCHOG"
+            },
+            {
+                "id": 508,
+                "template": "STOUTLAND"
+            },
+            {
+                "id": 519,
+                "template": "PIDOVE"
+            },
+            {
+                "id": 529,
+                "template": "DRILBUR"
+            },
+            {
+                "id": 543,
+                "template": "VENIPEDE"
             },
             {
                 "id": 554,
                 "template": "DARUMAKA_GALARIAN",
                 "form": 2341
-            }
-        ],
-        "eggs": [],
-        "raids": [
-            {
-                "id": 382,
-                "template": "KYOGRE"
             },
             {
-                "id": 383,
-                "template": "GROUDON"
+                "id": 568,
+                "template": "TRUBBISH"
+            },
+            {
+                "id": 574,
+                "template": "GOTHITA"
+            },
+            {
+                "id": 575,
+                "template": "GOTHORITA"
+            },
+            {
+                "id": 582,
+                "template": "VANILLITE"
+            },
+            {
+                "id": 588,
+                "template": "KARRABLAST"
             },
             {
                 "id": 610,
                 "template": "AXEW"
             },
             {
-                "id": 723,
-                "template": "DARTRIX"
+                "id": 613,
+                "template": "CUBCHOO"
             },
             {
-                "id": 726,
-                "template": "TORRACAT"
+                "id": 614,
+                "template": "BEARTIC"
             },
             {
-                "id": 729,
-                "template": "BRIONNE"
+                "id": 616,
+                "template": "SHELMET"
+            },
+            {
+                "id": 622,
+                "template": "GOLETT"
+            },
+            {
+                "id": 623,
+                "template": "GOLURK"
+            },
+            {
+                "id": 627,
+                "template": "RUFFLET"
+            },
+            {
+                "id": 667,
+                "template": "LITLEO"
+            },
+            {
+                "id": 674,
+                "template": "PANCHAM"
+            },
+            {
+                "id": 688,
+                "template": "BINACLE"
+            },
+            {
+                "id": 690,
+                "template": "SKRELP"
+            },
+            {
+                "id": 691,
+                "template": "DRAGALGE"
+            },
+            {
+                "id": 712,
+                "template": "BERGMITE"
+            },
+            {
+                "id": 722,
+                "template": "ROWLET"
+            },
+            {
+                "id": 725,
+                "template": "LITTEN"
+            },
+            {
+                "id": 728,
+                "template": "POPPLIO"
+            }
+        ],
+        "eggs": [],
+        "raids": [
+            {
+                "id": 610,
+                "template": "AXEW"
+            },
+            {
+                "id": 744,
+                "template": "ROCKRUFF"
             },
             {
                 "id": 143,
@@ -612,8 +645,20 @@
                 "template": "DRUDDIGON"
             },
             {
-                "id": 744,
-                "template": "ROCKRUFF"
+                "id": 723,
+                "template": "DARTRIX"
+            },
+            {
+                "id": 726,
+                "template": "TORRACAT"
+            },
+            {
+                "id": 729,
+                "template": "BRIONNE"
+            },
+            {
+                "id": 793,
+                "template": "NIHILEGO"
             }
         ],
         "shinies": [
@@ -682,7 +727,18 @@
                 "form": 21
             }
         ],
-        "bonuses": [],
+        "bonuses": [
+            {
+                "text": "Spin Photo Discs at Gyms to earn up to nine free Raid Passes"
+            },
+            {
+                "text": "Increased Team GO Rocket Balloons"
+            },
+            {
+                "text": "2x Mysterious Component Drops",
+                "value": 2
+            }
+        ],
         "features": [],
         "has_quests": true,
         "has_spawnpoints": false
@@ -1782,7 +1838,7 @@
         "shinies": [],
         "bonuses": [
             {
-                "text": "Increased friendship bonus for Raids"
+                "text": "Increased friendship bonus damage for Raids"
             },
             {
                 "text": "1-hour Lure Modules",
