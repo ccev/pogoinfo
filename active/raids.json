@@ -46,18 +46,18 @@
             "template": "GOLURK"
         }
     ],
+    "5": [
+        {
+            "id": 382,
+            "template": "KYOGRE"
+        }
+    ],
     "6": [
         {
             "id": 208,
             "template": "STEELIX_NORMAL",
             "form": 905,
             "temp_evolution_id": 1
-        }
-    ],
-    "8": [
-        {
-            "id": 793,
-            "template": "NIHILEGO"
         }
     ]
 }
