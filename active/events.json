@@ -94,8 +94,16 @@
                 "template": "CRANIDOS"
             },
             {
+                "id": 409,
+                "template": "RAMPARDOS"
+            },
+            {
                 "id": 410,
                 "template": "SHIELDON"
+            },
+            {
+                "id": 411,
+                "template": "BASTIODON"
             },
             {
                 "id": 75,
@@ -311,7 +319,7 @@
         "has_spawnpoints": true
     },
     {
-        "name": "Unannounced Spotlight Hour",
+        "name": "TCG Hat Pikachu Spotlight Hour",
         "type": "spotlight-hour",
         "start": "2022-06-28 18:00",
         "end": "2022-06-28 19:00",
@@ -329,13 +337,170 @@
         "type": "event",
         "start": "2022-06-16 10:00",
         "end": "2022-06-30 20:00",
-        "spawns": [],
+        "spawns": [
+            {
+                "id": 1,
+                "template": "BULBASAUR"
+            },
+            {
+                "id": 2,
+                "template": "IVYSAUR"
+            },
+            {
+                "id": 4,
+                "template": "CHARMANDER"
+            },
+            {
+                "id": 5,
+                "template": "CHARMELEON"
+            },
+            {
+                "id": 7,
+                "template": "SQUIRTLE"
+            },
+            {
+                "id": 8,
+                "template": "WARTORTLE"
+            },
+            {
+                "id": 19,
+                "template": "RATTATA_ALOLA",
+                "form": 46
+            },
+            {
+                "id": 79,
+                "template": "SLOWPOKE"
+            },
+            {
+                "id": 129,
+                "template": "MAGIKARP"
+            },
+            {
+                "id": 133,
+                "template": "EEVEE"
+            },
+            {
+                "id": 167,
+                "template": "SPINARAK"
+            },
+            {
+                "id": 177,
+                "template": "NATU"
+            },
+            {
+                "id": 190,
+                "template": "AIPOM"
+            },
+            {
+                "id": 322,
+                "template": "NUMEL"
+            },
+            {
+                "id": 399,
+                "template": "BIDOOF"
+            },
+            {
+                "id": 519,
+                "template": "PIDOVE"
+            },
+            {
+                "id": 767,
+                "template": "WIMPOD"
+            },
+            {
+                "id": 95,
+                "template": "ONIX"
+            },
+            {
+                "id": 113,
+                "template": "CHANSEY"
+            },
+            {
+                "id": 143,
+                "template": "SNORLAX"
+            },
+            {
+                "id": 149,
+                "template": "DRAGONITE"
+            },
+            {
+                "id": 289,
+                "template": "SLAKING"
+            }
+        ],
         "eggs": [],
-        "raids": [],
-        "shinies": [],
+        "raids": [
+            {
+                "id": 113,
+                "template": "CHANSEY"
+            },
+            {
+                "id": 246,
+                "template": "LARVITAR"
+            },
+            {
+                "id": 532,
+                "template": "TIMBURR"
+            },
+            {
+                "id": 767,
+                "template": "WIMPOD"
+            },
+            {
+                "id": 103,
+                "template": "EXEGGUTOR_ALOLA",
+                "form": 78
+            },
+            {
+                "id": 143,
+                "template": "SNORLAX"
+            },
+            {
+                "id": 149,
+                "template": "DRAGONITE"
+            },
+            {
+                "id": 289,
+                "template": "SLAKING"
+            },
+            {
+                "id": 150,
+                "template": "MEWTWO"
+            },
+            {
+                "id": 3,
+                "template": "VENUSAUR",
+                "temp_evolution_id": 1
+            },
+            {
+                "id": 6,
+                "template": "CHARIZARD",
+                "temp_evolution_id": 2
+            },
+            {
+                "id": 6,
+                "template": "CHARIZARD",
+                "temp_evolution_id": 3
+            },
+            {
+                "id": 9,
+                "template": "BLASTOISE",
+                "temp_evolution_id": 1
+            }
+        ],
+        "shinies": [
+            {
+                "id": 808,
+                "template": "MELTAN"
+            },
+            {
+                "id": 809,
+                "template": "MELMETAL"
+            }
+        ],
         "bonuses": [],
         "features": [],
-        "has_quests": false,
+        "has_quests": true,
         "has_spawnpoints": false
     },
     {
