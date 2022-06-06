@@ -718,52 +718,6 @@
             ]
         },
         {
-            "task": "Battle alongside your buddy while it's adventuring with you",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 109,
-                        "template": "KOFFING_NORMAL",
-                        "form": 703
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 48,
-                        "template": "VENONAT_NORMAL",
-                        "form": 259
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Battle in GO Battle League",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 595,
-                        "template": "JOLTIK"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Battle 2 Team GO Rocket Grunts",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 88,
-                        "template": "GRIMER_NORMAL",
-                        "form": 73
-                    }
-                }
-            ]
-        },
-        {
             "task": "Win a level 3 or higher raid",
             "rewards": [
                 {
@@ -793,6 +747,44 @@
                         "id": 142,
                         "template": "AERODACTYL_NORMAL",
                         "form": 1110
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Battle in GO Battle League",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 595,
+                        "template": "JOLTIK"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Battle alongside your buddy while it's adventuring with you",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 48,
+                        "template": "VENONAT_NORMAL",
+                        "form": 259
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Battle 2 Team GO Rocket Grunts",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 88,
+                        "template": "GRIMER_NORMAL",
+                        "form": 73
                     }
                 }
             ]
