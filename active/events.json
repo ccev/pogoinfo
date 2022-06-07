@@ -94,20 +94,20 @@
                 "template": "CRANIDOS"
             },
             {
-                "id": 409,
-                "template": "RAMPARDOS"
-            },
-            {
                 "id": 410,
                 "template": "SHIELDON"
             },
             {
-                "id": 411,
-                "template": "BASTIODON"
-            },
-            {
                 "id": 75,
                 "template": "GRAVELER"
+            },
+            {
+                "id": 139,
+                "template": "OMASTAR"
+            },
+            {
+                "id": 141,
+                "template": "KABUTOPS"
             },
             {
                 "id": 142,
@@ -116,6 +116,22 @@
             {
                 "id": 247,
                 "template": "PUPITAR"
+            },
+            {
+                "id": 346,
+                "template": "CRADILY"
+            },
+            {
+                "id": 348,
+                "template": "ARMALDO"
+            },
+            {
+                "id": 409,
+                "template": "RAMPARDOS"
+            },
+            {
+                "id": 411,
+                "template": "BASTIODON"
             }
         ],
         "eggs": [
