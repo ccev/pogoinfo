@@ -1059,14 +1059,14 @@
                         "form": 313
                     },
                     {
-                        "id": 345,
-                        "template": "LILEEP_NORMAL",
-                        "form": 1568
-                    },
-                    {
                         "id": 347,
                         "template": "ANORITH_NORMAL",
                         "form": 1574
+                    },
+                    {
+                        "id": 345,
+                        "template": "LILEEP_NORMAL",
+                        "form": 1568
                     }
                 ],
                 [
