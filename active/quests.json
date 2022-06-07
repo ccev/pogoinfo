@@ -1,6 +1,46 @@
 {
     "event": [
         {
+            "task": "Event: Spin 15 PokéStops or Gyms",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 347,
+                        "template": "ANORITH_NORMAL",
+                        "form": 1574
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 345,
+                        "template": "LILEEP_NORMAL",
+                        "form": 1568
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Event: Spin 25 PokéStops or Gyms. ",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 696,
+                        "template": "TYRUNT"
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 698,
+                        "template": "AMAURA"
+                    }
+                }
+            ]
+        },
+        {
             "task": "Event: Hatch 2 Eggs. ",
             "rewards": [
                 {
@@ -14,19 +54,6 @@
             ]
         },
         {
-            "task": "Event: Spin 15 PokéStops or Gyms",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 347,
-                        "template": "ANORITH_NORMAL",
-                        "form": 1574
-                    }
-                }
-            ]
-        },
-        {
             "task": "Event: Spin 2 PokéStops you haven't visited before",
             "rewards": [
                 {
@@ -35,6 +62,99 @@
                         "id": 410,
                         "template": "SHIELDON"
                     }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 408,
+                        "template": "CRANIDOS"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Event: Catch 15 Rock-type Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 140,
+                        "template": "KABUTO_NORMAL",
+                        "form": 1104
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 138,
+                        "template": "OMANYTE_NORMAL",
+                        "form": 740
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Event: Walk 5 km",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 696,
+                        "template": "TYRUNT"
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 698,
+                        "template": "AMAURA"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Event: Earn 3 candies exploring with your buddy",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 566,
+                        "template": "ARCHEN"
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 564,
+                        "template": "TIRTOUGA"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Event: Hatch 4 Eggs",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 566,
+                        "template": "ARCHEN"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Event: Walk 1 km",
+            "rewards": [
+                {
+                    "type": "item",
+                    "amount": 5,
+                    "id": 1
+                },
+                {
+                    "type": "item",
+                    "amount": 2,
+                    "id": 3
                 }
             ]
         }
