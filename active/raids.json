@@ -1,62 +1,62 @@
 {
     "1": [
         {
-            "id": 54,
-            "template": "PSYDUCK_NORMAL",
-            "form": 286
+            "id": 74,
+            "template": "GEODUDE_NORMAL",
+            "form": 67
         },
         {
-            "id": 220,
-            "template": "SWINUB_NORMAL",
-            "form": 1277
+            "id": 74,
+            "template": "GEODUDE_ALOLA",
+            "form": 68
         },
         {
-            "id": 299,
-            "template": "NOSEPASS_NORMAL",
-            "form": 1460
+            "id": 185,
+            "template": "SUDOWOODO"
         },
         {
-            "id": 443,
-            "template": "GIBLE_NORMAL",
-            "form": 861
+            "id": 201,
+            "template": "UNOWN_F",
+            "form": 6
         },
         {
-            "id": 744,
-            "template": "ROCKRUFF"
+            "id": 524,
+            "template": "ROGGENROLA"
         }
     ],
     "3": [
         {
-            "id": 67,
-            "template": "MACHOKE_NORMAL",
-            "form": 812
+            "id": 112,
+            "template": "RHYDON_NORMAL",
+            "form": 849
         },
         {
-            "id": 186,
-            "template": "POLITOED_NORMAL",
-            "form": 244
+            "id": 213,
+            "template": "SHUCKLE_NORMAL",
+            "form": 827
         },
         {
-            "id": 195,
-            "template": "QUAGSIRE_NORMAL",
-            "form": 1229
+            "id": 248,
+            "template": "TYRANITAR_NORMAL",
+            "form": 319
         },
         {
-            "id": 623,
-            "template": "GOLURK"
+            "id": 306,
+            "template": "AGGRON_NORMAL",
+            "form": 1475
         }
     ],
     "5": [
         {
-            "id": 382,
-            "template": "KYOGRE"
+            "id": 383,
+            "template": "GROUDON"
         }
     ],
     "6": [
         {
-            "id": 208,
-            "template": "STEELIX_NORMAL",
-            "form": 905,
+            "id": 142,
+            "template": "AERODACTYL_NORMAL",
+            "form": 1110,
             "temp_evolution_id": 1
         }
     ]
