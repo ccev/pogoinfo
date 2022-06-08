@@ -20,6 +20,25 @@
             ]
         },
         {
+            "task": "Event: Spin 2 PokéStops you haven't visited before",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 410,
+                        "template": "SHIELDON"
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 408,
+                        "template": "CRANIDOS"
+                    }
+                }
+            ]
+        },
+        {
             "task": "Event: Spin 15 PokéStops or Gyms",
             "rewards": [
                 {
@@ -114,25 +133,6 @@
                     "reward": {
                         "id": 698,
                         "template": "AMAURA"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Event: Spin 2 PokéStops you haven't visited before",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 410,
-                        "template": "SHIELDON"
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 408,
-                        "template": "CRANIDOS"
                     }
                 }
             ]
