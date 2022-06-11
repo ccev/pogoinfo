@@ -16,7 +16,24 @@
         ],
         "eggs": [],
         "raids": [],
-        "shinies": [],
+        "shinies": [
+            {
+                "id": 408,
+                "template": "CRANIDOS"
+            },
+            {
+                "id": 409,
+                "template": "RAMPARDOS"
+            },
+            {
+                "id": 410,
+                "template": "SHIELDON"
+            },
+            {
+                "id": 411,
+                "template": "BASTIODON"
+            }
+        ],
         "bonuses": [],
         "features": [],
         "has_quests": true,
