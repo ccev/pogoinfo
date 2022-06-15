@@ -1,24 +1,5 @@
 [
     {
-        "name": "Mantine Spotlight Hour",
-        "type": "spotlight-hour",
-        "start": "2022-06-14 18:00",
-        "end": "2022-06-14 19:00",
-        "spawns": [
-            {
-                "id": 226,
-                "template": "MANTINE"
-            }
-        ],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": true
-    },
-    {
         "name": "Groudon Raid Hour",
         "type": "raid-hour",
         "start": "2022-06-15 18:00",

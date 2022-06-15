@@ -1127,14 +1127,14 @@
                 ],
                 [
                     {
-                        "id": 160,
-                        "template": "FERALIGATR_NORMAL",
-                        "form": 1142
-                    },
-                    {
                         "id": 260,
                         "template": "SWAMPERT_NORMAL",
                         "form": 211
+                    },
+                    {
+                        "id": 160,
+                        "template": "FERALIGATR_NORMAL",
+                        "form": 1142
                     }
                 ]
             ]
