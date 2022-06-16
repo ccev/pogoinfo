@@ -1,60 +1,74 @@
 {
     "1": [
         {
-            "id": 299,
-            "template": "NOSEPASS_NORMAL",
-            "form": 1460
+            "id": 113,
+            "template": "CHANSEY"
         },
         {
-            "id": 524,
-            "template": "ROGGENROLA"
-        },
-        {
-            "id": 529,
-            "template": "DRILBUR"
+            "id": 246,
+            "template": "LARVITAR_NORMAL",
+            "form": 313
         },
         {
             "id": 532,
             "template": "TIMBURR"
         },
         {
-            "id": 744,
-            "template": "ROCKRUFF"
+            "id": 767,
+            "template": "WIMPOD"
         }
     ],
     "3": [
         {
-            "id": 112,
-            "template": "RHYDON_NORMAL",
-            "form": 849
+            "id": 103,
+            "template": "EXEGGUTOR_ALOLA",
+            "form": 78
         },
         {
-            "id": 213,
-            "template": "SHUCKLE_NORMAL",
-            "form": 827
+            "id": 143,
+            "template": "SNORLAX_NORMAL",
+            "form": 199
         },
         {
-            "id": 248,
-            "template": "TYRANITAR_NORMAL",
-            "form": 319
+            "id": 149,
+            "template": "DRAGONITE_NORMAL",
+            "form": 196
         },
         {
-            "id": 305,
-            "template": "LAIRON_NORMAL",
-            "form": 1472
+            "id": 289,
+            "template": "SLAKING"
         }
     ],
     "5": [
         {
-            "id": 383,
-            "template": "GROUDON"
+            "id": 150,
+            "template": "MEWTWO_NORMAL",
+            "form": 135
         }
     ],
     "6": [
         {
-            "id": 142,
-            "template": "AERODACTYL_NORMAL",
-            "form": 1110,
+            "id": 3,
+            "template": "VENUSAUR_NORMAL",
+            "form": 169,
+            "temp_evolution_id": 1
+        },
+        {
+            "id": 6,
+            "template": "CHARIZARD_NORMAL",
+            "form": 178,
+            "temp_evolution_id": 2
+        },
+        {
+            "id": 6,
+            "template": "CHARIZARD_NORMAL",
+            "form": 178,
+            "temp_evolution_id": 3
+        },
+        {
+            "id": 9,
+            "template": "BLASTOISE_NORMAL",
+            "form": 187,
             "temp_evolution_id": 1
         }
     ]

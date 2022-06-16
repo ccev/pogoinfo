@@ -212,6 +212,14 @@
                 "template": "NUMEL"
             },
             {
+                "id": 337,
+                "template": "LUNATONE"
+            },
+            {
+                "id": 338,
+                "template": "SOLROCK"
+            },
+            {
                 "id": 399,
                 "template": "BIDOOF"
             },
