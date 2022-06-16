@@ -1,6 +1,18 @@
 {
     "event": [
         {
+            "task": "Event: Spin 5 PokéStops or Gyms",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 767,
+                        "template": "WIMPOD"
+                    }
+                }
+            ]
+        },
+        {
             "task": "Event: Catch 15 Pokémon",
             "rewards": [
                 {
@@ -95,18 +107,6 @@
                         "id": 25,
                         "template": "PIKACHU_NORMAL",
                         "form": 598
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Event: Spin 5 PokéStops or Gyms",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 767,
-                        "template": "WIMPOD"
                     }
                 }
             ]
