@@ -1,18 +1,6 @@
 {
     "event": [
         {
-            "task": "Event: Spin 5 PokéStops or Gyms",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 767,
-                        "template": "WIMPOD"
-                    }
-                }
-            ]
-        },
-        {
             "task": "Event: Catch 15 Pokémon",
             "rewards": [
                 {
@@ -37,6 +25,34 @@
                         "id": 8,
                         "template": "WARTORTLE_NORMAL",
                         "form": 184
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Event: Catch 40 Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 143,
+                        "template": "SNORLAX_NORMAL",
+                        "form": 199
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 149,
+                        "template": "DRAGONITE_NORMAL",
+                        "form": 196
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 289,
+                        "template": "SLAKING"
                     }
                 }
             ]
@@ -71,34 +87,6 @@
             ]
         },
         {
-            "task": "Event: Catch 40 Pokémon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 143,
-                        "template": "SNORLAX_NORMAL",
-                        "form": 199
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 149,
-                        "template": "DRAGONITE_NORMAL",
-                        "form": 196
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 289,
-                        "template": "SLAKING"
-                    }
-                }
-            ]
-        },
-        {
             "task": "Event: Trade a Pokémon",
             "rewards": [
                 {
@@ -107,6 +95,18 @@
                         "id": 25,
                         "template": "PIKACHU_NORMAL",
                         "form": 598
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Event: Spin 5 PokéStops or Gyms",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 767,
+                        "template": "WIMPOD"
                     }
                 }
             ]
