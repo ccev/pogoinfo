@@ -208,14 +208,14 @@
                 ],
                 [
                     {
-                        "id": 332,
-                        "template": "CACTURNE_NORMAL",
-                        "form": 613
-                    },
-                    {
                         "id": 20,
                         "template": "RATICATE_NORMAL",
                         "form": 47
+                    },
+                    {
+                        "id": 332,
+                        "template": "CACTURNE_NORMAL",
+                        "form": 613
                     },
                     {
                         "id": 430,

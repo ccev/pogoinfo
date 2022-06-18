@@ -30,34 +30,6 @@
             ]
         },
         {
-            "task": "Event: Catch 40 Pokémon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 143,
-                        "template": "SNORLAX_NORMAL",
-                        "form": 199
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 149,
-                        "template": "DRAGONITE_NORMAL",
-                        "form": 196
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 289,
-                        "template": "SLAKING"
-                    }
-                }
-            ]
-        },
-        {
             "task": "Event: Catch 25 Pokémon",
             "rewards": [
                 {
@@ -82,6 +54,34 @@
                         "id": 9,
                         "template": "BLASTOISE_NORMAL",
                         "form": 187
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Event: Catch 40 Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 143,
+                        "template": "SNORLAX_NORMAL",
+                        "form": 199
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 149,
+                        "template": "DRAGONITE_NORMAL",
+                        "form": 196
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 289,
+                        "template": "SLAKING"
                     }
                 }
             ]
