@@ -336,6 +336,14 @@
                 "template": "PANSAGE"
             },
             {
+                "id": 95,
+                "template": "ONIX"
+            },
+            {
+                "id": 337,
+                "template": "LUNATONE"
+            },
+            {
                 "id": 408,
                 "template": "CRANIDOS"
             },
