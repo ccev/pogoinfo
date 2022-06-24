@@ -1,20 +1,6 @@
 [
     {
-        "name": "Mewtwo Raid Hour",
-        "type": "raid-hour",
-        "start": "2022-06-29 18:00",
-        "end": "2022-06-29 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
-        "name": "June Community Day",
+        "name": "Deino Community Day",
         "type": "community-day",
         "start": "2022-06-25 11:00",
         "end": "2022-06-25 14:00",
@@ -100,6 +86,20 @@
         "features": [],
         "has_quests": false,
         "has_spawnpoints": true
+    },
+    {
+        "name": "Mewtwo Raid Hour",
+        "type": "raid-hour",
+        "start": "2022-06-29 18:00",
+        "end": "2022-06-29 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
     },
     {
         "name": "Pokémon TCG Crossover Event",
