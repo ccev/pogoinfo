@@ -469,13 +469,13 @@
                         "form": 1127
                     },
                     {
-                        "id": 322,
-                        "template": "NUMEL"
-                    },
-                    {
                         "id": 4,
                         "template": "CHARMANDER_NORMAL",
                         "form": 172
+                    },
+                    {
+                        "id": 322,
+                        "template": "NUMEL"
                     }
                 ],
                 [
@@ -495,14 +495,14 @@
                         "template": "CAMERUPT"
                     },
                     {
-                        "id": 157,
-                        "template": "TYPHLOSION_NORMAL",
-                        "form": 1133
-                    },
-                    {
                         "id": 38,
                         "template": "NINETALES_NORMAL",
                         "form": 57
+                    },
+                    {
+                        "id": 157,
+                        "template": "TYPHLOSION_NORMAL",
+                        "form": 1133
                     }
                 ]
             ]
@@ -1268,14 +1268,14 @@
                         "form": 196
                     },
                     {
-                        "id": 103,
-                        "template": "EXEGGUTOR_NORMAL",
-                        "form": 77
-                    },
-                    {
                         "id": 373,
                         "template": "SALAMENCE_NORMAL",
                         "form": 761
+                    },
+                    {
+                        "id": 103,
+                        "template": "EXEGGUTOR_NORMAL",
+                        "form": 77
                     }
                 ],
                 [
@@ -1377,14 +1377,14 @@
                 ],
                 [
                     {
-                        "id": 464,
-                        "template": "RHYPERIOR_NORMAL",
-                        "form": 852
-                    },
-                    {
                         "id": 430,
                         "template": "HONCHKROW_NORMAL",
                         "form": 858
+                    },
+                    {
+                        "id": 464,
+                        "template": "RHYPERIOR_NORMAL",
+                        "form": 852
                     },
                     {
                         "id": 130,
@@ -1512,14 +1512,14 @@
                 ],
                 [
                     {
-                        "id": 477,
-                        "template": "DUSKNOIR_NORMAL",
-                        "form": 920
-                    },
-                    {
                         "id": 302,
                         "template": "SABLEYE_NORMAL",
                         "form": 923
+                    },
+                    {
+                        "id": 477,
+                        "template": "DUSKNOIR_NORMAL",
+                        "form": 920
                     },
                     {
                         "id": 354,
