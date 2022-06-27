@@ -404,16 +404,79 @@
         "has_spawnpoints": false
     },
     {
-        "name": "July Community Day",
+        "name": "Starly Community Day",
         "type": "community-day",
-        "start": "2022-07-17 00:00",
-        "end": "2022-07-17 23:59",
-        "spawns": [],
+        "start": "2022-07-17 11:00",
+        "end": "2022-07-17 14:00",
+        "spawns": [
+            {
+                "id": 396,
+                "template": "STARLY"
+            }
+        ],
         "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
+        "raids": [
+            {
+                "id": 397,
+                "template": "STARAVIA"
+            }
+        ],
+        "shinies": [
+            {
+                "id": 396,
+                "template": "STARLY"
+            },
+            {
+                "id": 397,
+                "template": "STARAVIA"
+            },
+            {
+                "id": 398,
+                "template": "STARAPTOR"
+            }
+        ],
+        "bonuses": [
+            {
+                "text": "Increased Spawns"
+            },
+            {
+                "text": "3x Catch XP",
+                "template": "increased-xp",
+                "value": 3
+            },
+            {
+                "text": "3-hour Incense",
+                "template": "longer-incense",
+                "value": 3
+            },
+            {
+                "text": "3-hour Lures",
+                "template": "longer-lure",
+                "value": 3
+            },
+            {
+                "text": "2x Catch Candy",
+                "template": "increased-candy",
+                "value": 2
+            },
+            {
+                "text": "2x Chance to receive Starly XL Candy from catching Starly",
+                "value": 2
+            },
+            {
+                "text": "1 extra special trade can be made during the event and two hours after the event (maximum of 2 for the day)",
+                "value": 12
+            },
+            {
+                "text": "Trades made during the event and two hours after the event will require 50% less Stardust.",
+                "template": "increased-stardust",
+                "value": 50
+            }
+        ],
+        "features": [
+            "Trainer Battles: 16 damage",
+            "Gyms and raids: 25 damage"
+        ],
         "has_quests": true,
         "has_spawnpoints": true
     },
