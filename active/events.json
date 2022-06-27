@@ -1,1 +1,1048 @@
-[]
+[
+    {
+        "name": "TCG Hat Pikachu Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2022-06-28 18:00",
+        "end": "2022-06-28 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": true
+    },
+    {
+        "name": "Mewtwo Raid Hour",
+        "type": "raid-hour",
+        "start": "2022-06-29 18:00",
+        "end": "2022-06-29 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Pokémon TCG Crossover Event",
+        "type": "event",
+        "start": null,
+        "end": "2022-06-30 20:00",
+        "spawns": [
+            {
+                "id": 1,
+                "template": "BULBASAUR"
+            },
+            {
+                "id": 2,
+                "template": "IVYSAUR"
+            },
+            {
+                "id": 4,
+                "template": "CHARMANDER"
+            },
+            {
+                "id": 5,
+                "template": "CHARMELEON"
+            },
+            {
+                "id": 7,
+                "template": "SQUIRTLE"
+            },
+            {
+                "id": 8,
+                "template": "WARTORTLE"
+            },
+            {
+                "id": 19,
+                "template": "RATTATA_ALOLA",
+                "form": 46
+            },
+            {
+                "id": 79,
+                "template": "SLOWPOKE"
+            },
+            {
+                "id": 129,
+                "template": "MAGIKARP"
+            },
+            {
+                "id": 133,
+                "template": "EEVEE"
+            },
+            {
+                "id": 167,
+                "template": "SPINARAK"
+            },
+            {
+                "id": 177,
+                "template": "NATU"
+            },
+            {
+                "id": 190,
+                "template": "AIPOM"
+            },
+            {
+                "id": 322,
+                "template": "NUMEL"
+            },
+            {
+                "id": 337,
+                "template": "LUNATONE"
+            },
+            {
+                "id": 338,
+                "template": "SOLROCK"
+            },
+            {
+                "id": 399,
+                "template": "BIDOOF"
+            },
+            {
+                "id": 519,
+                "template": "PIDOVE"
+            },
+            {
+                "id": 767,
+                "template": "WIMPOD"
+            },
+            {
+                "id": 95,
+                "template": "ONIX"
+            },
+            {
+                "id": 113,
+                "template": "CHANSEY"
+            },
+            {
+                "id": 143,
+                "template": "SNORLAX"
+            },
+            {
+                "id": 149,
+                "template": "DRAGONITE"
+            },
+            {
+                "id": 289,
+                "template": "SLAKING"
+            }
+        ],
+        "eggs": [],
+        "raids": [
+            {
+                "id": 113,
+                "template": "CHANSEY"
+            },
+            {
+                "id": 246,
+                "template": "LARVITAR"
+            },
+            {
+                "id": 532,
+                "template": "TIMBURR"
+            },
+            {
+                "id": 767,
+                "template": "WIMPOD"
+            },
+            {
+                "id": 103,
+                "template": "EXEGGUTOR_ALOLA",
+                "form": 78
+            },
+            {
+                "id": 143,
+                "template": "SNORLAX"
+            },
+            {
+                "id": 149,
+                "template": "DRAGONITE"
+            },
+            {
+                "id": 289,
+                "template": "SLAKING"
+            },
+            {
+                "id": 150,
+                "template": "MEWTWO"
+            },
+            {
+                "id": 3,
+                "template": "VENUSAUR",
+                "temp_evolution_id": 1
+            },
+            {
+                "id": 6,
+                "template": "CHARIZARD",
+                "temp_evolution_id": 2
+            },
+            {
+                "id": 6,
+                "template": "CHARIZARD",
+                "temp_evolution_id": 3
+            },
+            {
+                "id": 9,
+                "template": "BLASTOISE",
+                "temp_evolution_id": 1
+            }
+        ],
+        "shinies": [
+            {
+                "id": 808,
+                "template": "MELTAN"
+            },
+            {
+                "id": 809,
+                "template": "MELMETAL"
+            }
+        ],
+        "bonuses": [],
+        "features": [],
+        "has_quests": true,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Pokémon GO Fest: Berlin",
+        "type": "event",
+        "start": "2022-07-01 09:00",
+        "end": "2022-07-03 18:00",
+        "spawns": [
+            {
+                "id": 100,
+                "template": "VOLTORB"
+            },
+            {
+                "id": 415,
+                "template": "COMBEE"
+            },
+            {
+                "id": 590,
+                "template": "FOONGUS"
+            },
+            {
+                "id": 694,
+                "template": "HELIOPTILE"
+            },
+            {
+                "id": 349,
+                "template": "FEEBAS"
+            },
+            {
+                "id": 366,
+                "template": "CLAMPERL"
+            },
+            {
+                "id": 515,
+                "template": "PANPOUR"
+            },
+            {
+                "id": 527,
+                "template": "WOOBAT"
+            },
+            {
+                "id": 77,
+                "template": "PONYTA_GALARIAN",
+                "form": 2336
+            },
+            {
+                "id": 123,
+                "template": "SCYTHER"
+            },
+            {
+                "id": 193,
+                "template": "YANMA"
+            },
+            {
+                "id": 511,
+                "template": "PANSAGE"
+            },
+            {
+                "id": 95,
+                "template": "ONIX"
+            },
+            {
+                "id": 337,
+                "template": "LUNATONE"
+            },
+            {
+                "id": 408,
+                "template": "CRANIDOS"
+            },
+            {
+                "id": 513,
+                "template": "PANSEAR"
+            },
+            {
+                "id": 524,
+                "template": "ROGGENROLA"
+            },
+            {
+                "id": 554,
+                "template": "DARUMAKA"
+            }
+        ],
+        "eggs": [],
+        "raids": [
+            {
+                "id": 488,
+                "template": "CRESSELIA"
+            },
+            {
+                "id": 491,
+                "template": "DARKRAI"
+            }
+        ],
+        "shinies": [
+            {
+                "id": 513,
+                "template": "PANSEAR"
+            },
+            {
+                "id": 514,
+                "template": "SIMISEAR"
+            },
+            {
+                "id": 590,
+                "template": "FOONGUS"
+            },
+            {
+                "id": 591,
+                "template": "AMOONGUSS"
+            }
+        ],
+        "bonuses": [
+            {
+                "text": "Make up to six Special Trades"
+            },
+            {
+                "text": "Reduced Stardust cost for trades",
+                "template": "increased-stardust"
+            },
+            {
+                "text": "Up to 9 Free Raid Passes from spinning Photo Discs at Gyms",
+                "value": 9
+            },
+            {
+                "text": "Team GO Rocket Balloons will be appearing more often"
+            },
+            {
+                "text": "Team GO Rocket Grunts will earn you twice as many Mysterious Components"
+            },
+            {
+                "text": "Up to 12 Free Raid Passes by spinning Photo Discs at Gyms",
+                "value": 12
+            },
+            {
+                "text": "An additional 5,000 XP from completed raids",
+                "template": "increased-xp",
+                "value": 5000
+            },
+            {
+                "text": "6 Additional Candy from Pokémon in 5-star raids",
+                "template": "increased-candy",
+                "value": 65
+            },
+            {
+                "text": "3 Additional Candy XL from Pokémon in 5-star raids",
+                "value": 35
+            },
+            {
+                "text": "1/4 Egg Hatch Distance*",
+                "template": "reduced-hatch-distance",
+                "value": 14
+            },
+            {
+                "text": "2x Hatch XP",
+                "value": 2
+            },
+            {
+                "text": "2x Hatch Candy",
+                "value": 2
+            },
+            {
+                "text": "2x Hatch Stardust",
+                "value": 2
+            }
+        ],
+        "features": [],
+        "has_quests": true,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "GO Battle Weekend",
+        "type": "event",
+        "start": "2022-07-09 00:00",
+        "end": "2022-07-10 23:59",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "July Community Day",
+        "type": "community-day",
+        "start": "2022-07-17 00:00",
+        "end": "2022-07-17 23:59",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": true,
+        "has_spawnpoints": true
+    },
+    {
+        "name": "Pokémon GO World Championships Event",
+        "type": "event",
+        "start": null,
+        "end": null,
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Pokémon GO Fest: Seattle",
+        "type": "event",
+        "start": "2022-07-22 18:00",
+        "end": "2022-07-25 04:00",
+        "spawns": [
+            {
+                "id": 176,
+                "template": "TOGETIC"
+            },
+            {
+                "id": 527,
+                "template": "WOOBAT"
+            },
+            {
+                "id": 627,
+                "template": "RUFFLET"
+            },
+            {
+                "id": 103,
+                "template": "EXEGGUTOR_ALOLA",
+                "form": 78
+            },
+            {
+                "id": 412,
+                "template": "BURMY_SANDY",
+                "form": 119
+            },
+            {
+                "id": 443,
+                "template": "GIBLE"
+            },
+            {
+                "id": 515,
+                "template": "PANPOUR"
+            },
+            {
+                "id": 96,
+                "template": "DROWZEE"
+            },
+            {
+                "id": 143,
+                "template": "SNORLAX"
+            },
+            {
+                "id": 216,
+                "template": "TEDDIURSA"
+            },
+            {
+                "id": 607,
+                "template": "LITWICK"
+            },
+            {
+                "id": 100,
+                "template": "VOLTORB"
+            },
+            {
+                "id": 415,
+                "template": "COMBEE"
+            },
+            {
+                "id": 590,
+                "template": "FOONGUS"
+            },
+            {
+                "id": 694,
+                "template": "HELIOPTILE"
+            }
+        ],
+        "eggs": [],
+        "raids": [
+            {
+                "id": 488,
+                "template": "CRESSELIA"
+            },
+            {
+                "id": 491,
+                "template": "DARKRAI"
+            }
+        ],
+        "shinies": [
+            {
+                "id": 415,
+                "template": "COMBEE"
+            },
+            {
+                "id": 416,
+                "template": "VESPIQUEN"
+            },
+            {
+                "id": 515,
+                "template": "PANPOUR"
+            },
+            {
+                "id": 516,
+                "template": "SIMIPOUR"
+            }
+        ],
+        "bonuses": [
+            {
+                "text": "Make up to six Special Trades"
+            },
+            {
+                "text": "Reduced Stardust cost for trades",
+                "template": "increased-stardust"
+            },
+            {
+                "text": "Up to 9 Free Raid Passes from spinning Photo Discs at Gyms",
+                "value": 9
+            },
+            {
+                "text": "Team GO Rocket Balloons will be appearing more often"
+            },
+            {
+                "text": "Team GO Rocket Grunts will earn you twice as many Mysterious Components"
+            },
+            {
+                "text": "1/2 Egg Hatch Distance",
+                "template": "reduced-hatch-distance",
+                "value": 12
+            },
+            {
+                "text": "Up to 12 Free Raid Passes by spinning Photo Discs at Gyms",
+                "value": 12
+            },
+            {
+                "text": "An additional 5,000 XP from completed raids",
+                "template": "increased-xp",
+                "value": 5000
+            },
+            {
+                "text": "6 Additional Candy from Pokémon in 5-star raids",
+                "template": "increased-candy",
+                "value": 65
+            },
+            {
+                "text": "3 Additional Candy XL from Pokémon in 5-star raids",
+                "value": 35
+            },
+            {
+                "text": "1/4 Egg Hatch Distance*",
+                "value": 14
+            },
+            {
+                "text": "2x Hatch XP",
+                "value": 2
+            },
+            {
+                "text": "2x Hatch Candy",
+                "value": 2
+            },
+            {
+                "text": "2x Hatch Stardust",
+                "value": 2
+            }
+        ],
+        "features": [],
+        "has_quests": true,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Pokémon GO Fest: Sapporo",
+        "type": "event",
+        "start": "2022-08-05 01:00",
+        "end": "2022-08-07 13:00",
+        "spawns": [
+            {
+                "id": 96,
+                "template": "DROWZEE"
+            },
+            {
+                "id": 143,
+                "template": "SNORLAX"
+            },
+            {
+                "id": 216,
+                "template": "TEDDIURSA"
+            },
+            {
+                "id": 607,
+                "template": "LITWICK"
+            },
+            {
+                "id": 77,
+                "template": "PONYTA_GALARIAN",
+                "form": 2336
+            },
+            {
+                "id": 123,
+                "template": "SCYTHER"
+            },
+            {
+                "id": 193,
+                "template": "YANMA"
+            },
+            {
+                "id": 511,
+                "template": "PANSAGE"
+            },
+            {
+                "id": 37,
+                "template": "VULPIX_ALOLA",
+                "form": 56
+            },
+            {
+                "id": 131,
+                "template": "LAPRAS"
+            },
+            {
+                "id": 361,
+                "template": "SNORUNT"
+            },
+            {
+                "id": 515,
+                "template": "PANPOUR"
+            },
+            {
+                "id": 66,
+                "template": "MACHOP"
+            },
+            {
+                "id": 237,
+                "template": "HITMONTOP"
+            },
+            {
+                "id": 390,
+                "template": "CHIMCHAR"
+            },
+            {
+                "id": 513,
+                "template": "PANSEAR"
+            }
+        ],
+        "eggs": [],
+        "raids": [
+            {
+                "id": 488,
+                "template": "CRESSELIA"
+            },
+            {
+                "id": 491,
+                "template": "DARKRAI"
+            }
+        ],
+        "shinies": [
+            {
+                "id": 511,
+                "template": "PANSAGE"
+            },
+            {
+                "id": 512,
+                "template": "SIMISAGE"
+            },
+            {
+                "id": 684,
+                "template": "SWIRLIX"
+            },
+            {
+                "id": 685,
+                "template": "SLURPUFF"
+            }
+        ],
+        "bonuses": [
+            {
+                "text": "Make up to six Special Trades"
+            },
+            {
+                "text": "Reduced Stardust cost for trades",
+                "template": "increased-stardust"
+            },
+            {
+                "text": "Up to 9 Free Raid Passes from spinning Photo Discs at Gyms",
+                "value": 9
+            },
+            {
+                "text": "Team GO Rocket Balloons will be appearing more often"
+            },
+            {
+                "text": "Team GO Rocket Grunts will earn you twice as many Mysterious Components"
+            },
+            {
+                "text": "1/2 Egg Hatch Distance",
+                "template": "reduced-hatch-distance",
+                "value": 12
+            },
+            {
+                "text": "Up to 12 Free Raid Passes by spinning Photo Discs at Gyms",
+                "value": 12
+            },
+            {
+                "text": "An additional 5,000 XP from completed raids",
+                "template": "increased-xp",
+                "value": 5000
+            },
+            {
+                "text": "6 Additional Candy from Pokémon in 5-star raids",
+                "template": "increased-candy",
+                "value": 65
+            },
+            {
+                "text": "3 Additional Candy XL from Pokémon in 5-star raids",
+                "value": 35
+            },
+            {
+                "text": "1/4 Egg Hatch Distance*",
+                "value": 14
+            },
+            {
+                "text": "2x Hatch XP",
+                "value": 2
+            },
+            {
+                "text": "2x Hatch Candy",
+                "value": 2
+            },
+            {
+                "text": "2x Hatch Stardust",
+                "value": 2
+            }
+        ],
+        "features": [],
+        "has_quests": true,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "August Community Day",
+        "type": "community-day",
+        "start": "2022-08-13 00:00",
+        "end": "2022-08-13 23:59",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": true,
+        "has_spawnpoints": true
+    },
+    {
+        "name": "Pokémon GO Fest Bonus Finale Event",
+        "type": "event",
+        "start": "2022-08-27 10:00",
+        "end": "2022-08-27 20:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Season of GO",
+        "type": "event",
+        "start": null,
+        "end": "2022-09-01 10:00",
+        "spawns": [
+            {
+                "id": 19,
+                "template": "RATTATA"
+            },
+            {
+                "id": 109,
+                "template": "KOFFING"
+            },
+            {
+                "id": 190,
+                "template": "AIPOM"
+            },
+            {
+                "id": 436,
+                "template": "BRONZOR"
+            },
+            {
+                "id": 453,
+                "template": "CROAGUNK"
+            },
+            {
+                "id": 504,
+                "template": "PATRAT"
+            },
+            {
+                "id": 618,
+                "template": "STUNFISK_GALARIAN",
+                "form": 2345
+            },
+            {
+                "id": 43,
+                "template": "ODDISH"
+            },
+            {
+                "id": 70,
+                "template": "WEEPINBELL"
+            },
+            {
+                "id": 114,
+                "template": "TANGELA"
+            },
+            {
+                "id": 213,
+                "template": "SHUCKLE"
+            },
+            {
+                "id": 285,
+                "template": "SHROOMISH"
+            },
+            {
+                "id": 420,
+                "template": "CHERUBI"
+            },
+            {
+                "id": 734,
+                "template": "YUNGOOS"
+            },
+            {
+                "id": 27,
+                "template": "SANDSHREW"
+            },
+            {
+                "id": 95,
+                "template": "ONIX"
+            },
+            {
+                "id": 231,
+                "template": "PHANPY"
+            },
+            {
+                "id": 304,
+                "template": "ARON"
+            },
+            {
+                "id": 328,
+                "template": "TRAPINCH"
+            },
+            {
+                "id": 449,
+                "template": "HIPPOPOTAS"
+            },
+            {
+                "id": 622,
+                "template": "GOLETT"
+            },
+            {
+                "id": 72,
+                "template": "TENTACOOL"
+            },
+            {
+                "id": 98,
+                "template": "KRABBY"
+            },
+            {
+                "id": 116,
+                "template": "HORSEA"
+            },
+            {
+                "id": 194,
+                "template": "WOOPER"
+            },
+            {
+                "id": 341,
+                "template": "CORPHISH"
+            },
+            {
+                "id": 363,
+                "template": "SPHEAL"
+            },
+            {
+                "id": 751,
+                "template": "DEWPIDER"
+            }
+        ],
+        "eggs": [
+            {
+                "id": 60,
+                "template": "POLIWAG"
+            },
+            {
+                "id": 81,
+                "template": "MAGNEMITE"
+            },
+            {
+                "id": 129,
+                "template": "MAGIKARP"
+            },
+            {
+                "id": 307,
+                "template": "MEDITITE"
+            },
+            {
+                "id": 731,
+                "template": "PIKIPEK"
+            },
+            {
+                "id": 734,
+                "template": "YUNGOOS"
+            },
+            {
+                "id": 759,
+                "template": "STUFFUL"
+            },
+            {
+                "id": 175,
+                "template": "TOGEPI"
+            },
+            {
+                "id": 227,
+                "template": "SKARMORY"
+            },
+            {
+                "id": 360,
+                "template": "WYNAUT"
+            },
+            {
+                "id": 436,
+                "template": "BRONZOR"
+            },
+            {
+                "id": 722,
+                "template": "ROWLET"
+            },
+            {
+                "id": 725,
+                "template": "LITTEN"
+            },
+            {
+                "id": 728,
+                "template": "POPPLIO"
+            },
+            {
+                "id": 447,
+                "template": "RIOLU"
+            },
+            {
+                "id": 587,
+                "template": "EMOLGA"
+            },
+            {
+                "id": 610,
+                "template": "AXEW"
+            },
+            {
+                "id": 627,
+                "template": "RUFFLET"
+            },
+            {
+                "id": 704,
+                "template": "GOOMY"
+            },
+            {
+                "id": 714,
+                "template": "NOIBAT"
+            },
+            {
+                "id": 782,
+                "template": "JANGMO_O"
+            },
+            {
+                "id": 408,
+                "template": "CRANIDOS"
+            },
+            {
+                "id": 410,
+                "template": "SHIELDON"
+            },
+            {
+                "id": 440,
+                "template": "HAPPINY"
+            },
+            {
+                "id": 446,
+                "template": "MUNCHLAX"
+            },
+            {
+                "id": 524,
+                "template": "ROGGENROLA"
+            },
+            {
+                "id": 147,
+                "template": "DRATINI"
+            },
+            {
+                "id": 371,
+                "template": "BAGON"
+            },
+            {
+                "id": 374,
+                "template": "BELDUM"
+            },
+            {
+                "id": 633,
+                "template": "DEINO"
+            }
+        ],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [
+            {
+                "text": "Increased friendship bonus damage for Raids"
+            },
+            {
+                "text": "1-hour Lure Modules",
+                "template": "longer-lure",
+                "value": 1
+            },
+            {
+                "text": "One extra Special Trade per day"
+            },
+            {
+                "text": "One extra Pokémon Candy when trading Pokémon",
+                "template": "increased-candy"
+            },
+            {
+                "text": "Guaranteed Candy XL when trading Pokémon"
+            },
+            {
+                "text": "Guaranteed Gifts from PokéStop spins"
+            },
+            {
+                "text": "Increased Damage for Pokémon participating in raids remotely"
+            },
+            {
+                "text": "Increased Incense effectiveness while moving",
+                "template": "longer-incense"
+            }
+        ],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    }
+]
