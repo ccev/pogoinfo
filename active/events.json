@@ -229,6 +229,10 @@
                 "template": "HELIOPTILE"
             },
             {
+                "id": 90,
+                "template": "SHELLDER"
+            },
+            {
                 "id": 349,
                 "template": "FEEBAS"
             },
@@ -245,6 +249,10 @@
                 "template": "WOOBAT"
             },
             {
+                "id": 627,
+                "template": "RUFFLET"
+            },
+            {
                 "id": 77,
                 "template": "PONYTA_GALARIAN",
                 "form": 2336
@@ -254,12 +262,20 @@
                 "template": "SCYTHER"
             },
             {
+                "id": 187,
+                "template": "HOPPIP"
+            },
+            {
                 "id": 193,
                 "template": "YANMA"
             },
             {
                 "id": 511,
                 "template": "PANSAGE"
+            },
+            {
+                "id": 684,
+                "template": "SWIRLIX"
             },
             {
                 "id": 95,
