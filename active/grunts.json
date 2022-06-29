@@ -495,14 +495,14 @@
                         "template": "CAMERUPT"
                     },
                     {
-                        "id": 157,
-                        "template": "TYPHLOSION_NORMAL",
-                        "form": 1133
-                    },
-                    {
                         "id": 38,
                         "template": "NINETALES_NORMAL",
                         "form": 57
+                    },
+                    {
+                        "id": 157,
+                        "template": "TYPHLOSION_NORMAL",
+                        "form": 1133
                     }
                 ]
             ]
@@ -1212,13 +1212,13 @@
                         "form": 643
                     },
                     {
-                        "id": 405,
-                        "template": "LUXRAY"
-                    },
-                    {
                         "id": 139,
                         "template": "OMASTAR_NORMAL",
                         "form": 743
+                    },
+                    {
+                        "id": 405,
+                        "template": "LUXRAY"
                     }
                 ],
                 [
