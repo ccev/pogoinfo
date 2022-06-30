@@ -189,12 +189,20 @@
                 "template": "VOLTORB"
             },
             {
+                "id": 252,
+                "template": "TREECKO"
+            },
+            {
                 "id": 415,
                 "template": "COMBEE"
             },
             {
                 "id": 590,
                 "template": "FOONGUS"
+            },
+            {
+                "id": 595,
+                "template": "JOLTIK"
             },
             {
                 "id": 694,
@@ -250,8 +258,28 @@
                 "template": "SWIRLIX"
             },
             {
+                "id": 4,
+                "template": "CHARMANDER"
+            },
+            {
                 "id": 95,
                 "template": "ONIX"
+            },
+            {
+                "id": 126,
+                "template": "MAGMAR"
+            },
+            {
+                "id": 218,
+                "template": "SLUGMA"
+            },
+            {
+                "id": 228,
+                "template": "HOUNDOUR"
+            },
+            {
+                "id": 322,
+                "template": "NUMEL"
             },
             {
                 "id": 337,
@@ -368,24 +396,24 @@
         "end": "2022-07-03 18:00",
         "spawns": [
             {
-                "id": 95,
-                "template": "ONIX"
+                "id": 4,
+                "template": "CHARMANDER"
             },
             {
-                "id": 337,
-                "template": "LUNATONE"
+                "id": 126,
+                "template": "MAGMAR"
             },
             {
-                "id": 408,
-                "template": "CRANIDOS"
+                "id": 218,
+                "template": "SLUGMA"
             },
             {
-                "id": 513,
-                "template": "PANSEAR"
+                "id": 228,
+                "template": "HOUNDOUR"
             },
             {
-                "id": 524,
-                "template": "ROGGENROLA"
+                "id": 322,
+                "template": "NUMEL"
             },
             {
                 "id": 554,
