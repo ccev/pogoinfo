@@ -305,6 +305,42 @@
         "eggs": [],
         "raids": [
             {
+                "id": 25,
+                "template": "PIKACHU"
+            },
+            {
+                "id": 610,
+                "template": "AXEW"
+            },
+            {
+                "id": 744,
+                "template": "ROCKRUFF"
+            },
+            {
+                "id": 143,
+                "template": "SNORLAX"
+            },
+            {
+                "id": 373,
+                "template": "SALAMENCE"
+            },
+            {
+                "id": 621,
+                "template": "DRUDDIGON"
+            },
+            {
+                "id": 723,
+                "template": "DARTRIX"
+            },
+            {
+                "id": 726,
+                "template": "TORRACAT"
+            },
+            {
+                "id": 729,
+                "template": "BRIONNE"
+            },
+            {
                 "id": 488,
                 "template": "CRESSELIA"
             },
@@ -392,8 +428,8 @@
     {
         "name": "Pokémon GO Fest 2022: Berlin Ultra Unlock",
         "type": "event",
-        "start": "2022-07-01 09:00",
-        "end": "2022-07-03 21:00",
+        "start": "2022-07-01 08:00",
+        "end": "2022-07-03 20:00",
         "spawns": [
             {
                 "id": 4,
