@@ -213,19 +213,40 @@
         "shinies": [],
         "bonuses": [
             {
-                "text": "Team GO Rocket balloons will appear every three hours"
-            },
-            {
-                "text": "Earn 4× Stardust from GO Battle League Rewards",
-                "template": "increased-stardust",
-                "value": 4
-            },
-            {
                 "text": "Enjoy up to 20 GO Battle League sets each day",
                 "value": 20
             },
             {
                 "text": "Use a Charged TM to help a Shadow Pokémon forget the Charged Attack Frustration"
+            },
+            {
+                "text": "Team GO Rocket balloons will appear every two hours"
+            },
+            {
+                "text": "Earn 5x Stardust from GO Battle League Rewards",
+                "template": "increased-stardust",
+                "value": 5
+            },
+            {
+                "text": "1 extra Raid Pass per day",
+                "value": 1
+            },
+            {
+                "text": "Earn 50% extra XP from Raid Battles",
+                "template": "increased-xp",
+                "value": 50
+            },
+            {
+                "text": "Earn 2 Mysterious Components from defeating Team GO Rocket Grunts",
+                "value": 2
+            },
+            {
+                "text": "Earn 50% extra Stardust from defeating Team GO Rocket Grunts",
+                "value": 50
+            },
+            {
+                "text": "Encounter Legendary Pokémon in GO Battle League reward encounters at Rank 16 and up",
+                "value": 16
             }
         ],
         "features": [],
@@ -332,6 +353,15 @@
             {
                 "id": 147,
                 "template": "DRATINI"
+            },
+            {
+                "id": 201,
+                "template": "UNOWN_E",
+                "form": 5
+            },
+            {
+                "id": 513,
+                "template": "PANSEAR"
             },
             {
                 "id": 3,
