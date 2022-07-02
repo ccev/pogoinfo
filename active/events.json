@@ -398,7 +398,21 @@
                 "temp_evolution_id": 3
             }
         ],
-        "shinies": [],
+        "shinies": [
+            {
+                "id": 4,
+                "template": "CHARMANDER",
+                "costume": 11
+            },
+            {
+                "id": 513,
+                "template": "PANSEAR"
+            },
+            {
+                "id": 514,
+                "template": "SIMISEAR"
+            }
+        ],
         "bonuses": [],
         "features": [],
         "has_quests": true,
