@@ -2,34 +2,6 @@
     "event": [],
     "quests": [
         {
-            "task": "Use 5 Razz Berries to help catch Pokémon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 198,
-                        "template": "MURKROW_NORMAL",
-                        "form": 855
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 434,
-                        "template": "STUNKY_NORMAL",
-                        "form": 791
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 193,
-                        "template": "YANMA"
-                    }
-                }
-            ]
-        },
-        {
             "task": "Catch 5 Pokémon with Weather Boost",
             "rewards": [
                 {
@@ -108,6 +80,34 @@
                     "reward": {
                         "id": 177,
                         "template": "NATU"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Use 5 Razz Berries to help catch Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 198,
+                        "template": "MURKROW_NORMAL",
+                        "form": 855
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 434,
+                        "template": "STUNKY_NORMAL",
+                        "form": 791
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 193,
+                        "template": "YANMA"
                     }
                 }
             ]
@@ -271,6 +271,14 @@
         {
             "task": "Catch 10 Normal-type Pokémon",
             "rewards": [
+                {
+                    "type": "energy",
+                    "reward": {
+                        "id": 18,
+                        "template": "PIDGEOT"
+                    },
+                    "amount": 10
+                },
                 {
                     "type": "stardust",
                     "amount": 500
@@ -723,6 +731,18 @@
             ]
         },
         {
+            "task": "Win a raid",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 176,
+                        "template": "TOGETIC"
+                    }
+                }
+            ]
+        },
+        {
             "task": "Battle in GO Battle League",
             "rewards": [
                 {
@@ -742,18 +762,6 @@
                     "reward": {
                         "id": 320,
                         "template": "WAILMER"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Win a raid",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 176,
-                        "template": "TOGETIC"
                     }
                 }
             ]
@@ -821,19 +829,6 @@
             ]
         },
         {
-            "task": "Take a snapshot with your buddy",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 190,
-                        "template": "AIPOM_NORMAL",
-                        "form": 1214
-                    }
-                }
-            ]
-        },
-        {
             "task": "Earn 3 Candies walking with your buddy",
             "rewards": [
                 {
@@ -842,6 +837,19 @@
                         "id": 618,
                         "template": "STUNFISK_NORMAL",
                         "form": 2246
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Take a snapshot with your buddy",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 190,
+                        "template": "AIPOM_NORMAL",
+                        "form": 1214
                     }
                 }
             ]
@@ -952,12 +960,39 @@
                         "form": 187
                     },
                     "amount": 10
+                },
+                {
+                    "type": "energy",
+                    "reward": {
+                        "id": 3,
+                        "template": "VENUSAUR_NORMAL",
+                        "form": 169
+                    },
+                    "amount": 10
                 }
             ]
         },
         {
             "task": "Power up Pokémon 5 times",
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "energy",
+                    "reward": {
+                        "id": 15,
+                        "template": "BEEDRILL_NORMAL",
+                        "form": 622
+                    },
+                    "amount": 10
+                },
+                {
+                    "type": "energy",
+                    "reward": {
+                        "id": 18,
+                        "template": "PIDGEOT"
+                    },
+                    "amount": 10
+                }
+            ]
         },
         {
             "task": "Power up Pokémon 10 times",
@@ -1068,18 +1103,6 @@
             ]
         },
         {
-            "task": "Take a snapshot of a Normal-type Pokémon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 431,
-                        "template": "GLAMEOW"
-                    }
-                }
-            ]
-        },
-        {
             "task": "Spin 5 PokéStops or Gyms",
             "rewards": [
                 {
@@ -1088,6 +1111,18 @@
                         "id": 280,
                         "template": "RALTS_NORMAL",
                         "form": 292
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Take a snapshot of a Normal-type Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 431,
+                        "template": "GLAMEOW"
                     }
                 }
             ]
