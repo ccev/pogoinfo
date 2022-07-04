@@ -182,6 +182,15 @@
             "task": "Catch 10 Grass-type Pokémon",
             "rewards": [
                 {
+                    "type": "energy",
+                    "reward": {
+                        "id": 3,
+                        "template": "VENUSAUR_NORMAL",
+                        "form": 169
+                    },
+                    "amount": 10
+                },
+                {
                     "type": "stardust",
                     "amount": 500
                 },
@@ -743,6 +752,19 @@
             ]
         },
         {
+            "task": "Win 5 raids",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 142,
+                        "template": "AERODACTYL_NORMAL",
+                        "form": 1110
+                    }
+                }
+            ]
+        },
+        {
             "task": "Battle in GO Battle League",
             "rewards": [
                 {
@@ -762,19 +784,6 @@
                     "reward": {
                         "id": 320,
                         "template": "WAILMER"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Win 5 raids",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 142,
-                        "template": "AERODACTYL_NORMAL",
-                        "form": 1110
                     }
                 }
             ]
@@ -1116,18 +1125,6 @@
             ]
         },
         {
-            "task": "Take a snapshot of a Normal-type Pokémon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 431,
-                        "template": "GLAMEOW"
-                    }
-                }
-            ]
-        },
-        {
             "task": "Hatch 2 Eggs",
             "rewards": [
                 {
@@ -1136,6 +1133,18 @@
                         "id": 374,
                         "template": "BELDUM_NORMAL",
                         "form": 764
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Take a snapshot of a Normal-type Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 431,
+                        "template": "GLAMEOW"
                     }
                 }
             ]

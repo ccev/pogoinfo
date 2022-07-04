@@ -62,26 +62,26 @@
                         "form": 241
                     },
                     {
-                        "id": 282,
-                        "template": "GARDEVOIR_NORMAL",
-                        "form": 298
-                    },
-                    {
                         "id": 143,
                         "template": "SNORLAX_NORMAL",
                         "form": 199
+                    },
+                    {
+                        "id": 282,
+                        "template": "GARDEVOIR_NORMAL",
+                        "form": 298
                     }
                 ],
                 [
                     {
-                        "id": 149,
-                        "template": "DRAGONITE_NORMAL",
-                        "form": 196
-                    },
-                    {
                         "id": 130,
                         "template": "GYARADOS_NORMAL",
                         "form": 256
+                    },
+                    {
+                        "id": 149,
+                        "template": "DRAGONITE_NORMAL",
+                        "form": 196
                     },
                     {
                         "id": 143,
@@ -848,14 +848,14 @@
                         "form": 47
                     },
                     {
-                        "id": 294,
-                        "template": "LOUDRED_NORMAL",
-                        "form": 1445
-                    },
-                    {
                         "id": 400,
                         "template": "BIBAREL_NORMAL",
                         "form": 1670
+                    },
+                    {
+                        "id": 294,
+                        "template": "LOUDRED_NORMAL",
+                        "form": 1445
                     }
                 ],
                 [
@@ -1054,6 +1054,11 @@
                 ],
                 [
                     {
+                        "id": 345,
+                        "template": "LILEEP_NORMAL",
+                        "form": 1568
+                    },
+                    {
                         "id": 246,
                         "template": "LARVITAR_NORMAL",
                         "form": 313
@@ -1062,11 +1067,6 @@
                         "id": 347,
                         "template": "ANORITH_NORMAL",
                         "form": 1574
-                    },
-                    {
-                        "id": 345,
-                        "template": "LILEEP_NORMAL",
-                        "form": 1568
                     }
                 ],
                 [
@@ -1561,6 +1561,11 @@
                 ],
                 [
                     {
+                        "id": 180,
+                        "template": "FLAAFFY_NORMAL",
+                        "form": 649
+                    },
+                    {
                         "id": 101,
                         "template": "ELECTRODE_NORMAL",
                         "form": 1050
@@ -1569,11 +1574,6 @@
                         "id": 100,
                         "template": "VOLTORB_NORMAL",
                         "form": 1047
-                    },
-                    {
-                        "id": 180,
-                        "template": "FLAAFFY_NORMAL",
-                        "form": 649
                     }
                 ],
                 [
