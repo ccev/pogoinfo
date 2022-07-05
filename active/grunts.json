@@ -1561,14 +1561,14 @@
                 ],
                 [
                     {
-                        "id": 180,
-                        "template": "FLAAFFY_NORMAL",
-                        "form": 649
-                    },
-                    {
                         "id": 101,
                         "template": "ELECTRODE_NORMAL",
                         "form": 1050
+                    },
+                    {
+                        "id": 180,
+                        "template": "FLAAFFY_NORMAL",
+                        "form": 649
                     },
                     {
                         "id": 100,
