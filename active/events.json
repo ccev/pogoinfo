@@ -1,571 +1,5 @@
 [
     {
-        "name": "Ledyba Spotlight Hour",
-        "type": "spotlight-hour",
-        "start": "2022-07-05 18:00",
-        "end": "2022-07-05 19:00",
-        "spawns": [
-            {
-                "id": 165,
-                "template": "LEDYBA"
-            }
-        ],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": true
-    },
-    {
-        "name": "Articuno Raid Hour",
-        "type": "raid-hour",
-        "start": "2022-07-06 18:00",
-        "end": "2022-07-06 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
-        "name": "GO Battle Weekend",
-        "type": "event",
-        "start": "2022-07-09 00:00",
-        "end": "2022-07-10 23:59",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [
-            {
-                "text": "Enjoy up to 20 GO Battle League sets each day",
-                "value": 20
-            },
-            {
-                "text": "Use a Charged TM to help a Shadow Pokémon forget the Charged Attack Frustration"
-            },
-            {
-                "text": "Team GO Rocket balloons will appear every two hours"
-            },
-            {
-                "text": "Earn 5x Stardust from GO Battle League Rewards",
-                "template": "increased-stardust",
-                "value": 5
-            },
-            {
-                "text": "1 extra Raid Pass per day",
-                "value": 1
-            },
-            {
-                "text": "Earn 50% extra XP from Raid Battles",
-                "template": "increased-xp",
-                "value": 50
-            },
-            {
-                "text": "Earn 2 Mysterious Components from defeating Team GO Rocket Grunts",
-                "value": 2
-            },
-            {
-                "text": "Earn 50% extra Stardust from defeating Team GO Rocket Grunts",
-                "value": 50
-            },
-            {
-                "text": "Encounter Legendary Pokémon in GO Battle League reward encounters at Rank 16 and up",
-                "value": 16
-            }
-        ],
-        "features": [],
-        "has_quests": true,
-        "has_spawnpoints": false
-    },
-    {
-        "name": "Machop Spotlight Hour",
-        "type": "spotlight-hour",
-        "start": "2022-07-12 18:00",
-        "end": "2022-07-12 19:00",
-        "spawns": [
-            {
-                "id": 66,
-                "template": "MACHOP"
-            }
-        ],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": true
-    },
-    {
-        "name": "Pokémon GO Anniversary Event 2022",
-        "type": "event",
-        "start": "2022-07-06 10:00",
-        "end": "2022-07-12 20:00",
-        "spawns": [
-            {
-                "id": 1,
-                "template": "BULBASAUR"
-            },
-            {
-                "id": 4,
-                "template": "CHARMANDER",
-                "costume": 11
-            },
-            {
-                "id": 7,
-                "template": "SQUIRTLE"
-            },
-            {
-                "id": 66,
-                "template": "MACHOP"
-            },
-            {
-                "id": 165,
-                "template": "LEDYBA"
-            },
-            {
-                "id": 280,
-                "template": "RALTS"
-            },
-            {
-                "id": 427,
-                "template": "BUNEARY"
-            },
-            {
-                "id": 543,
-                "template": "VENIPEDE"
-            },
-            {
-                "id": 650,
-                "template": "CHESPIN"
-            },
-            {
-                "id": 653,
-                "template": "FENNEKIN"
-            },
-            {
-                "id": 656,
-                "template": "FROAKIE"
-            },
-            {
-                "id": 659,
-                "template": "BUNNELBY"
-            },
-            {
-                "id": 667,
-                "template": "LITLEO"
-            },
-            {
-                "id": 731,
-                "template": "PIKIPEK"
-            },
-            {
-                "id": 444,
-                "template": "GABITE"
-            },
-            {
-                "id": 692,
-                "template": "CLAUNCHER"
-            },
-            {
-                "id": 694,
-                "template": "HELIOPTILE"
-            }
-        ],
-        "eggs": [],
-        "raids": [
-            {
-                "id": 147,
-                "template": "DRATINI"
-            },
-            {
-                "id": 201,
-                "template": "UNOWN_E",
-                "form": 5
-            },
-            {
-                "id": 513,
-                "template": "PANSEAR"
-            },
-            {
-                "id": 3,
-                "template": "VENUSAUR"
-            },
-            {
-                "id": 9,
-                "template": "BLASTOISE"
-            },
-            {
-                "id": 248,
-                "template": "TYRANITAR"
-            },
-            {
-                "id": 376,
-                "template": "METAGROSS"
-            },
-            {
-                "id": 144,
-                "template": "ARTICUNO"
-            },
-            {
-                "id": 145,
-                "template": "ZAPDOS"
-            },
-            {
-                "id": 6,
-                "template": "CHARIZARD",
-                "temp_evolution_id": 2
-            },
-            {
-                "id": 6,
-                "template": "CHARIZARD",
-                "temp_evolution_id": 3
-            }
-        ],
-        "shinies": [
-            {
-                "id": 4,
-                "template": "CHARMANDER",
-                "costume": 11
-            },
-            {
-                "id": 513,
-                "template": "PANSEAR"
-            },
-            {
-                "id": 514,
-                "template": "SIMISEAR"
-            }
-        ],
-        "bonuses": [],
-        "features": [],
-        "has_quests": true,
-        "has_spawnpoints": false
-    },
-    {
-        "name": "Zapdos Raid Hour",
-        "type": "raid-hour",
-        "start": "2022-07-13 18:00",
-        "end": "2022-07-13 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
-        "name": "Starly Community Day",
-        "type": "community-day",
-        "start": "2022-07-17 11:00",
-        "end": "2022-07-17 14:00",
-        "spawns": [
-            {
-                "id": 396,
-                "template": "STARLY"
-            }
-        ],
-        "eggs": [],
-        "raids": [
-            {
-                "id": 397,
-                "template": "STARAVIA"
-            }
-        ],
-        "shinies": [
-            {
-                "id": 396,
-                "template": "STARLY"
-            },
-            {
-                "id": 397,
-                "template": "STARAVIA"
-            },
-            {
-                "id": 398,
-                "template": "STARAPTOR"
-            }
-        ],
-        "bonuses": [
-            {
-                "text": "Increased Spawns"
-            },
-            {
-                "text": "3x Catch XP",
-                "template": "increased-xp",
-                "value": 3
-            },
-            {
-                "text": "3-hour Incense",
-                "template": "longer-incense",
-                "value": 3
-            },
-            {
-                "text": "3-hour Lures",
-                "template": "longer-lure",
-                "value": 3
-            },
-            {
-                "text": "2x Catch Candy",
-                "template": "increased-candy",
-                "value": 2
-            },
-            {
-                "text": "2x Chance to receive Starly XL Candy from catching Starly",
-                "value": 2
-            },
-            {
-                "text": "1 extra special trade can be made during the event and two hours after the event (maximum of 3 for the day)",
-                "value": 13
-            },
-            {
-                "text": "Trades made during the event and two hours after the event will require 50% less Stardust.",
-                "template": "increased-stardust",
-                "value": 50
-            }
-        ],
-        "features": [
-            "Trainer Battles: 16 damage",
-            "Gyms and raids: 25 damage"
-        ],
-        "has_quests": true,
-        "has_spawnpoints": true
-    },
-    {
-        "name": "Staryu Spotlight Hour",
-        "type": "spotlight-hour",
-        "start": "2022-07-19 18:00",
-        "end": "2022-07-19 19:00",
-        "spawns": [
-            {
-                "id": 120,
-                "template": "STARYU"
-            }
-        ],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": true
-    },
-    {
-        "name": "Moltres Raid Hour",
-        "type": "raid-hour",
-        "start": "2022-07-20 18:00",
-        "end": "2022-07-20 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
-        "name": "Pokémon GO World Championships Event",
-        "type": "event",
-        "start": null,
-        "end": null,
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
-        "name": "Pokémon GO Fest: Seattle",
-        "type": "event",
-        "start": "2022-07-22 18:00",
-        "end": "2022-07-25 04:00",
-        "spawns": [
-            {
-                "id": 176,
-                "template": "TOGETIC"
-            },
-            {
-                "id": 527,
-                "template": "WOOBAT"
-            },
-            {
-                "id": 627,
-                "template": "RUFFLET"
-            },
-            {
-                "id": 103,
-                "template": "EXEGGUTOR_ALOLA",
-                "form": 78
-            },
-            {
-                "id": 412,
-                "template": "BURMY_SANDY",
-                "form": 119
-            },
-            {
-                "id": 443,
-                "template": "GIBLE"
-            },
-            {
-                "id": 515,
-                "template": "PANPOUR"
-            },
-            {
-                "id": 96,
-                "template": "DROWZEE"
-            },
-            {
-                "id": 143,
-                "template": "SNORLAX"
-            },
-            {
-                "id": 216,
-                "template": "TEDDIURSA"
-            },
-            {
-                "id": 607,
-                "template": "LITWICK"
-            },
-            {
-                "id": 100,
-                "template": "VOLTORB"
-            },
-            {
-                "id": 415,
-                "template": "COMBEE"
-            },
-            {
-                "id": 590,
-                "template": "FOONGUS"
-            },
-            {
-                "id": 694,
-                "template": "HELIOPTILE"
-            }
-        ],
-        "eggs": [],
-        "raids": [
-            {
-                "id": 488,
-                "template": "CRESSELIA"
-            },
-            {
-                "id": 491,
-                "template": "DARKRAI"
-            }
-        ],
-        "shinies": [
-            {
-                "id": 415,
-                "template": "COMBEE"
-            },
-            {
-                "id": 416,
-                "template": "VESPIQUEN"
-            },
-            {
-                "id": 515,
-                "template": "PANPOUR"
-            },
-            {
-                "id": 516,
-                "template": "SIMIPOUR"
-            }
-        ],
-        "bonuses": [
-            {
-                "text": "Make up to six Special Trades"
-            },
-            {
-                "text": "Reduced Stardust cost for trades",
-                "template": "increased-stardust"
-            },
-            {
-                "text": "Up to 9 Free Raid Passes from spinning Photo Discs at Gyms",
-                "value": 9
-            },
-            {
-                "text": "Team GO Rocket Balloons will be appearing more often"
-            },
-            {
-                "text": "Team GO Rocket Grunts will earn you twice as many Mysterious Components"
-            },
-            {
-                "text": "1/2 Egg Hatch Distance",
-                "template": "reduced-hatch-distance",
-                "value": 12
-            },
-            {
-                "text": "Up to 12 Free Raid Passes by spinning Photo Discs at Gyms",
-                "value": 12
-            },
-            {
-                "text": "An additional 5,000 XP from completed raids",
-                "template": "increased-xp",
-                "value": 5000
-            },
-            {
-                "text": "6 Additional Candy from Pokémon in 5-star raids",
-                "template": "increased-candy",
-                "value": 65
-            },
-            {
-                "text": "3 Additional Candy XL from Pokémon in 5-star raids",
-                "value": 35
-            },
-            {
-                "text": "1/4 Egg Hatch Distance*",
-                "value": 14
-            },
-            {
-                "text": "2x Hatch XP",
-                "value": 2
-            },
-            {
-                "text": "2x Hatch Candy",
-                "value": 2
-            },
-            {
-                "text": "2x Hatch Stardust",
-                "value": 2
-            }
-        ],
-        "features": [],
-        "has_quests": true,
-        "has_spawnpoints": false
-    },
-    {
-        "name": "Meditite Spotlight Hour",
-        "type": "spotlight-hour",
-        "start": "2022-07-26 18:00",
-        "end": "2022-07-26 19:00",
-        "spawns": [
-            {
-                "id": 307,
-                "template": "MEDITITE"
-            }
-        ],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": true
-    },
-    {
         "name": "Dialga Raid Hour",
         "type": "raid-hour",
         "start": "2022-07-27 18:00",
@@ -580,10 +14,144 @@
         "has_spawnpoints": false
     },
     {
-        "name": "??? Event",
+        "name": "Hisuian Discoveries Event",
         "type": "event",
-        "start": "2022-07-27 10:00",
+        "start": null,
         "end": "2022-08-02 20:00",
+        "spawns": [
+            {
+                "id": 125,
+                "template": "ELECTABUZZ"
+            },
+            {
+                "id": 126,
+                "template": "MAGMAR"
+            },
+            {
+                "id": 224,
+                "template": "OCTILLERY"
+            },
+            {
+                "id": 443,
+                "template": "GIBLE"
+            },
+            {
+                "id": 515,
+                "template": "PANPOUR"
+            }
+        ],
+        "eggs": [
+            {
+                "id": 100,
+                "template": "VOLTORB"
+            },
+            {
+                "id": 211,
+                "template": "QWILFISH"
+            },
+            {
+                "id": 215,
+                "template": "SNEASEL"
+            }
+        ],
+        "raids": [
+            {
+                "id": 201,
+                "template": "UNOWN_S",
+                "form": 19
+            },
+            {
+                "id": 215,
+                "template": "SNEASEL"
+            },
+            {
+                "id": 315,
+                "template": "ROSELIA"
+            },
+            {
+                "id": 403,
+                "template": "SHINX"
+            },
+            {
+                "id": 515,
+                "template": "PANPOUR"
+            },
+            {
+                "id": 113,
+                "template": "CHANSEY"
+            },
+            {
+                "id": 176,
+                "template": "TOGETIC"
+            },
+            {
+                "id": 281,
+                "template": "KIRLIA"
+            },
+            {
+                "id": 340,
+                "template": "WHISCASH"
+            },
+            {
+                "id": 483,
+                "template": "DIALGA"
+            },
+            {
+                "id": 484,
+                "template": "PALKIA"
+            },
+            {
+                "id": 94,
+                "template": "GENGAR",
+                "temp_evolution_id": 1
+            },
+            {
+                "id": 460,
+                "template": "ABOMASNOW",
+                "temp_evolution_id": 1
+            }
+        ],
+        "shinies": [],
+        "bonuses": [
+            {
+                "text": "Friendship levels will increase faster than normal through opening Gifts, trading Pokémon, or battling together in raids, Gyms, or Trainer Battles*"
+            },
+            {
+                "text": "Trainers can open up to 45 Gifts",
+                "value": 45
+            },
+            {
+                "text": "Trainers can send up to 150 Gifts each day",
+                "value": 150
+            },
+            {
+                "text": "Trainers can hold up to 30 Gifts at a time",
+                "value": 30
+            }
+        ],
+        "features": [],
+        "has_quests": true,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Hisuian Voltorb Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2022-08-02 18:00",
+        "end": "2022-08-02 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": true
+    },
+    {
+        "name": "Palkia Raid Hour",
+        "type": "raid-hour",
+        "start": "2022-08-03 18:00",
+        "end": "2022-08-03 19:00",
         "spawns": [],
         "eggs": [],
         "raids": [],
@@ -677,24 +245,7 @@
                 "template": "DARKRAI"
             }
         ],
-        "shinies": [
-            {
-                "id": 511,
-                "template": "PANSAGE"
-            },
-            {
-                "id": 512,
-                "template": "SIMISAGE"
-            },
-            {
-                "id": 684,
-                "template": "SWIRLIX"
-            },
-            {
-                "id": 685,
-                "template": "SLURPUFF"
-            }
-        ],
+        "shinies": [],
         "bonuses": [
             {
                 "text": "Make up to six Special Trades"
@@ -758,24 +309,200 @@
         "has_spawnpoints": false
     },
     {
-        "name": "August Community Day",
-        "type": "community-day",
-        "start": "2022-08-13 00:00",
-        "end": "2022-08-13 23:59",
+        "name": "Nidoran♀ Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2022-08-09 18:00",
+        "end": "2022-08-09 19:00",
         "spawns": [],
         "eggs": [],
         "raids": [],
         "shinies": [],
         "bonuses": [],
         "features": [],
+        "has_quests": false,
+        "has_spawnpoints": true
+    },
+    {
+        "name": "Genesect Raid Hour",
+        "type": "raid-hour",
+        "start": "2022-08-17 18:00",
+        "end": "2022-08-17 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Galarian Zigzagoon Community Day",
+        "type": "community-day",
+        "start": "2022-08-13 11:00",
+        "end": "2022-08-13 14:00",
+        "spawns": [
+            {
+                "id": 264,
+                "template": "LINOONE_GALARIAN",
+                "form": 948
+            }
+        ],
+        "eggs": [],
+        "raids": [
+            {
+                "id": 264,
+                "template": "LINOONE_GALARIAN",
+                "form": 948
+            }
+        ],
+        "shinies": [],
+        "bonuses": [
+            {
+                "text": "Increased Spawns"
+            },
+            {
+                "text": "3x Catch Stardust",
+                "template": "increased-stardust",
+                "value": 3
+            },
+            {
+                "text": "3-hour Incense",
+                "template": "longer-incense",
+                "value": 3
+            },
+            {
+                "text": "3-hour Lures",
+                "template": "longer-lure",
+                "value": 3
+            },
+            {
+                "text": "2x Catch Candy",
+                "template": "increased-candy",
+                "value": 2
+            },
+            {
+                "text": "2× chance for Trainers level 31 and up to receive XL Candy from catching Pokemon",
+                "value": 231
+            },
+            {
+                "text": "One additional Special Trade can be made for a maximum of three for the day.*"
+            },
+            {
+                "text": "Trades made during the event and up to five hours afterward will require 50% less Stardust.*",
+                "value": 50
+            }
+        ],
+        "features": [
+            "Trainer Battles: 15 power and guaranteed to increase the user’s Defense and lower the opponent’s Defense.",
+            "Gyms and raids: 20 damage"
+        ],
         "has_quests": true,
         "has_spawnpoints": true
+    },
+    {
+        "name": "Joltik Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2022-08-16 18:00",
+        "end": "2022-08-16 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": true
+    },
+    {
+        "name": "Bug Out!",
+        "type": "event",
+        "start": "2022-08-10 10:00",
+        "end": "2022-08-16 20:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Nidoran♂ Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2022-08-23 18:00",
+        "end": "2022-08-23 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": true
+    },
+    {
+        "name": "Pokémon GO World Championships Event",
+        "type": "event",
+        "start": "2022-08-18 10:00",
+        "end": "2022-08-23 20:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Zacian Raid Hour",
+        "type": "raid-hour",
+        "start": "2022-08-24 18:00",
+        "end": "2022-08-24 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
     },
     {
         "name": "Pokémon GO Fest Bonus Finale Event",
         "type": "event",
         "start": "2022-08-27 10:00",
         "end": "2022-08-27 20:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Pidove Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2022-08-30 18:00",
+        "end": "2022-08-30 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": true
+    },
+    {
+        "name": "Zamazenta Raid Hour",
+        "type": "raid-hour",
+        "start": "2022-08-31 18:00",
+        "end": "2022-08-31 19:00",
         "spawns": [],
         "eggs": [],
         "raids": [],

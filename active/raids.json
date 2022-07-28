@@ -1,64 +1,59 @@
 {
     "1": [
         {
-            "id": 4,
-            "template": "CHARMANDER_NORMAL",
-            "form": 172
+            "id": 201,
+            "template": "UNOWN_S",
+            "form": 19
         },
         {
-            "id": 52,
-            "template": "MEOWTH_NORMAL",
-            "form": 63
+            "id": 215,
+            "template": "SNEASEL_NORMAL",
+            "form": 797
         },
         {
-            "id": 95,
-            "template": "ONIX_NORMAL",
-            "form": 902
+            "id": 315,
+            "template": "ROSELIA"
         },
         {
-            "id": 120,
-            "template": "STARYU"
+            "id": 403,
+            "template": "SHINX"
         },
         {
-            "id": 202,
-            "template": "WOBBUFFET_NORMAL",
-            "form": 602
+            "id": 515,
+            "template": "PANPOUR"
         }
     ],
     "3": [
         {
-            "id": 31,
-            "template": "NIDOQUEEN_NORMAL",
-            "form": 782
+            "id": 113,
+            "template": "CHANSEY"
         },
         {
-            "id": 34,
-            "template": "NIDOKING_NORMAL",
-            "form": 788
+            "id": 176,
+            "template": "TOGETIC"
         },
         {
-            "id": 40,
-            "template": "WIGGLYTUFF"
+            "id": 281,
+            "template": "KIRLIA_NORMAL",
+            "form": 295
         },
         {
-            "id": 210,
-            "template": "GRANBULL_NORMAL",
-            "form": 1256
+            "id": 340,
+            "template": "WHISCASH"
         }
     ],
     "5": [
         {
-            "id": 144,
-            "template": "ARTICUNO_NORMAL",
-            "form": 716
+            "id": 483,
+            "template": "DIALGA"
         }
     ],
     "6": [
         {
-            "id": 6,
-            "template": "CHARIZARD_NORMAL",
-            "form": 178,
-            "temp_evolution_id": 2
+            "id": 94,
+            "template": "GENGAR_NORMAL",
+            "form": 1044,
+            "temp_evolution_id": 1
         }
     ]
 }

@@ -1,5 +1,146 @@
 {
-    "event": [],
+    "event": [
+        {
+            "task": "Event: Catch 10 Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 46,
+                        "template": "PARAS"
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 54,
+                        "template": "PSYDUCK_NORMAL",
+                        "form": 286
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 81,
+                        "template": "MAGNEMITE_NORMAL",
+                        "form": 655
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Event: Use 5 Berries to help catch Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 155,
+                        "template": "CYNDAQUIL_NORMAL",
+                        "form": 1127
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 501,
+                        "template": "OSHAWOTT"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Event: Send 5 Gifts and add a sticker to each",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 412,
+                        "template": "BURMY_PLANT",
+                        "form": 118
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 412,
+                        "template": "BURMY_SANDY",
+                        "form": 119
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 412,
+                        "template": "BURMY_TRASH",
+                        "form": 120
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Event: Send 3 Gifts and add a sticker to each",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 35,
+                        "template": "CLEFAIRY"
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 548,
+                        "template": "PETILIL"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Event: Battle in a raid",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 223,
+                        "template": "REMORAID"
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 226,
+                        "template": "MANTINE"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Event: Win a raid",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 403,
+                        "template": "SHINX"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Event: Hatch an Egg",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 215,
+                        "template": "SNEASEL_NORMAL",
+                        "form": 797
+                    }
+                }
+            ]
+        }
+    ],
     "quests": [
         {
             "task": "Catch 5 Pokémon with Weather Boost",
@@ -527,7 +668,7 @@
             ]
         },
         {
-            "task": "Make 5 Great Throws in a row",
+            "task": "Make 5 Nice Curveball Throws in a row",
             "rewards": [
                 {
                     "type": "pokemon",
