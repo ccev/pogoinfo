@@ -44,15 +44,15 @@
     ],
     "5": [
         {
-            "id": 483,
-            "template": "DIALGA"
+            "id": 484,
+            "template": "PALKIA"
         }
     ],
     "6": [
         {
-            "id": 94,
-            "template": "GENGAR_NORMAL",
-            "form": 1044,
+            "id": 460,
+            "template": "ABOMASNOW_NORMAL",
+            "form": 935,
             "temp_evolution_id": 1
         }
     ]
