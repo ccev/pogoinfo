@@ -239,6 +239,19 @@
             ]
         },
         {
+            "task": "Catch 5 different species of Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 138,
+                        "template": "OMANYTE_NORMAL",
+                        "form": 740
+                    }
+                }
+            ]
+        },
+        {
             "task": "Catch a Dragon-type Pokémon",
             "rewards": [
                 {
@@ -287,19 +300,6 @@
                         "id": 111,
                         "template": "RHYHORN_NORMAL",
                         "form": 846
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Catch 5 different species of Pokémon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 138,
-                        "template": "OMANYTE_NORMAL",
-                        "form": 740
                     }
                 }
             ]
@@ -1096,6 +1096,37 @@
             ]
         },
         {
+            "task": "Spin 3 PokéStops or Gyms",
+            "rewards": [
+                {
+                    "type": "stardust",
+                    "amount": 500
+                },
+                {
+                    "type": "item",
+                    "amount": 6,
+                    "id": 701
+                },
+                {
+                    "type": "item",
+                    "amount": 2,
+                    "id": 705
+                },
+                {
+                    "type": "item",
+                    "amount": 5,
+                    "id": 2
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 185,
+                        "template": "SUDOWOODO"
+                    }
+                }
+            ]
+        },
+        {
             "task": "Take a snapshot of a wild Pokémon",
             "rewards": [
                 {
@@ -1137,37 +1168,6 @@
                     "reward": {
                         "id": 193,
                         "template": "YANMA"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Spin 3 PokéStops or Gyms",
-            "rewards": [
-                {
-                    "type": "stardust",
-                    "amount": 500
-                },
-                {
-                    "type": "item",
-                    "amount": 6,
-                    "id": 701
-                },
-                {
-                    "type": "item",
-                    "amount": 2,
-                    "id": 705
-                },
-                {
-                    "type": "item",
-                    "amount": 5,
-                    "id": 2
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 185,
-                        "template": "SUDOWOODO"
                     }
                 }
             ]
