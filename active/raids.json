@@ -1,29 +1,34 @@
 {
     "1": [
         {
-            "id": 201,
-            "template": "UNOWN_S",
-            "form": 19
+            "id": 63,
+            "template": "ABRA_NORMAL",
+            "form": 304
         },
         {
-            "id": 215,
-            "template": "SNEASEL_NORMAL",
-            "form": 797
+            "id": 66,
+            "template": "MACHOP_NORMAL",
+            "form": 809
         },
         {
-            "id": 315,
-            "template": "ROSELIA"
+            "id": 108,
+            "template": "LICKITUNG"
         },
         {
-            "id": 403,
-            "template": "SHINX"
+            "id": 339,
+            "template": "BARBOACH"
         },
         {
-            "id": 515,
-            "template": "PANPOUR"
+            "id": 436,
+            "template": "BRONZOR"
         }
     ],
     "3": [
+        {
+            "id": 64,
+            "template": "KADABRA_NORMAL",
+            "form": 307
+        },
         {
             "id": 113,
             "template": "CHANSEY"
@@ -33,13 +38,9 @@
             "template": "TOGETIC"
         },
         {
-            "id": 281,
-            "template": "KIRLIA_NORMAL",
-            "form": 295
-        },
-        {
-            "id": 340,
-            "template": "WHISCASH"
+            "id": 356,
+            "template": "DUSCLOPS_NORMAL",
+            "form": 917
         }
     ],
     "5": [
