@@ -147,14 +147,14 @@
                 ],
                 [
                     {
-                        "id": 127,
-                        "template": "PINSIR_NORMAL",
-                        "form": 898
-                    },
-                    {
                         "id": 205,
                         "template": "FORRETRESS_NORMAL",
                         "form": 1247
+                    },
+                    {
+                        "id": 127,
+                        "template": "PINSIR_NORMAL",
+                        "form": 898
                     },
                     {
                         "id": 212,
@@ -1014,13 +1014,13 @@
             "team": [
                 [
                     {
-                        "id": 203,
-                        "template": "GIRAFARIG"
-                    },
-                    {
                         "id": 63,
                         "template": "ABRA_NORMAL",
                         "form": 304
+                    },
+                    {
+                        "id": 203,
+                        "template": "GIRAFARIG"
                     }
                 ],
                 [
@@ -1570,14 +1570,14 @@
                         "form": 923
                     },
                     {
-                        "id": 354,
-                        "template": "BANETTE_NORMAL",
-                        "form": 911
-                    },
-                    {
                         "id": 477,
                         "template": "DUSKNOIR_NORMAL",
                         "form": 920
+                    },
+                    {
+                        "id": 354,
+                        "template": "BANETTE_NORMAL",
+                        "form": 911
                     }
                 ]
             ]
