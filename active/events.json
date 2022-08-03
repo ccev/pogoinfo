@@ -271,13 +271,70 @@
         "type": "event",
         "start": "2022-08-10 10:00",
         "end": "2022-08-16 20:00",
-        "spawns": [],
+        "spawns": [
+            {
+                "id": 204,
+                "template": "PINECO"
+            },
+            {
+                "id": 451,
+                "template": "SKORUPI"
+            },
+            {
+                "id": 557,
+                "template": "DWEBBLE"
+            }
+        ],
         "eggs": [],
-        "raids": [],
+        "raids": [
+            {
+                "id": 46,
+                "template": "PARAS"
+            },
+            {
+                "id": 204,
+                "template": "PINECO"
+            },
+            {
+                "id": 595,
+                "template": "JOLTIK"
+            },
+            {
+                "id": 49,
+                "template": "VENOMOTH"
+            },
+            {
+                "id": 127,
+                "template": "PINSIR"
+            },
+            {
+                "id": 205,
+                "template": "FORRETRESS"
+            },
+            {
+                "id": 213,
+                "template": "SHUCKLE"
+            },
+            {
+                "id": 649,
+                "template": "GENESECT_CHILL",
+                "form": 596
+            },
+            {
+                "id": 212,
+                "template": "SCIZOR"
+            }
+        ],
         "shinies": [],
-        "bonuses": [],
+        "bonuses": [
+            {
+                "text": "2× XP for successfully catching Pokémon with Nice Throws, Great Throws, and Excellent Throws",
+                "template": "increased-xp",
+                "value": 2
+            }
+        ],
         "features": [],
-        "has_quests": false,
+        "has_quests": true,
         "has_spawnpoints": false
     },
     {
