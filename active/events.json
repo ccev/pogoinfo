@@ -1,39 +1,89 @@
 [
     {
-        "name": "Palkia Raid Hour",
-        "type": "raid-hour",
-        "start": "2022-08-03 18:00",
-        "end": "2022-08-03 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Pokémon GO Fest: Sapporo",
         "type": "event",
         "start": "2022-08-05 01:00",
         "end": "2022-08-07 13:00",
         "spawns": [
             {
+                "id": 54,
+                "template": "PSYDUCK"
+            },
+            {
+                "id": 60,
+                "template": "POLIWAG"
+            },
+            {
                 "id": 96,
                 "template": "DROWZEE"
+            },
+            {
+                "id": 102,
+                "template": "EXEGGCUTE"
+            },
+            {
+                "id": 124,
+                "template": "JYNX"
             },
             {
                 "id": 143,
                 "template": "SNORLAX"
             },
             {
+                "id": 177,
+                "template": "NATU"
+            },
+            {
                 "id": 216,
                 "template": "TEDDIURSA"
             },
             {
+                "id": 293,
+                "template": "WHISMUR"
+            },
+            {
+                "id": 299,
+                "template": "NOSEPASS"
+            },
+            {
+                "id": 302,
+                "template": "SABLEYE"
+            },
+            {
+                "id": 337,
+                "template": "LUNATONE"
+            },
+            {
+                "id": 517,
+                "template": "MUNNA"
+            },
+            {
+                "id": 562,
+                "template": "YAMASK"
+            },
+            {
+                "id": 574,
+                "template": "GOTHITA"
+            },
+            {
+                "id": 577,
+                "template": "SOLOSIS"
+            },
+            {
                 "id": 607,
                 "template": "LITWICK"
+            },
+            {
+                "id": 13,
+                "template": "WEEDLE"
+            },
+            {
+                "id": 46,
+                "template": "PARAS"
+            },
+            {
+                "id": 69,
+                "template": "BELLSPROUT"
             },
             {
                 "id": 77,
@@ -41,16 +91,66 @@
                 "form": 2336
             },
             {
+                "id": 114,
+                "template": "TANGELA"
+            },
+            {
                 "id": 123,
                 "template": "SCYTHER"
+            },
+            {
+                "id": 165,
+                "template": "LEDYBA"
+            },
+            {
+                "id": 176,
+                "template": "TOGETIC"
+            },
+            {
+                "id": 183,
+                "template": "MARILL"
+            },
+            {
+                "id": 187,
+                "template": "HOPPIP"
+            },
+            {
+                "id": 191,
+                "template": "SUNKERN"
             },
             {
                 "id": 193,
                 "template": "YANMA"
             },
             {
+                "id": 209,
+                "template": "SNUBBULL"
+            },
+            {
+                "id": 265,
+                "template": "WURMPLE"
+            },
+            {
+                "id": 421,
+                "template": "CHERRIM_SUNNY",
+                "form": 95
+            },
+            {
                 "id": 511,
                 "template": "PANSAGE"
+            },
+            {
+                "id": 546,
+                "template": "COTTONEE"
+            },
+            {
+                "id": 684,
+                "template": "SWIRLIX"
+            },
+            {
+                "id": 27,
+                "template": "SANDSHREW_ALOLA",
+                "form": 52
             },
             {
                 "id": 37,
@@ -58,36 +158,178 @@
                 "form": 56
             },
             {
+                "id": 79,
+                "template": "SLOWPOKE"
+            },
+            {
+                "id": 98,
+                "template": "KRABBY"
+            },
+            {
+                "id": 116,
+                "template": "HORSEA"
+            },
+            {
+                "id": 120,
+                "template": "STARYU"
+            },
+            {
                 "id": 131,
                 "template": "LAPRAS"
+            },
+            {
+                "id": 211,
+                "template": "QWILFISH"
+            },
+            {
+                "id": 226,
+                "template": "MANTINE"
+            },
+            {
+                "id": 318,
+                "template": "CARVANHA"
             },
             {
                 "id": 361,
                 "template": "SNORUNT"
             },
             {
+                "id": 363,
+                "template": "SPHEAL"
+            },
+            {
+                "id": 366,
+                "template": "CLAMPERL"
+            },
+            {
+                "id": 459,
+                "template": "SNOVER"
+            },
+            {
                 "id": 515,
                 "template": "PANPOUR"
+            },
+            {
+                "id": 554,
+                "template": "DARUMAKA_GALARIAN",
+                "form": 2341
+            },
+            {
+                "id": 4,
+                "template": "CHARMANDER"
+            },
+            {
+                "id": 56,
+                "template": "MANKEY"
             },
             {
                 "id": 66,
                 "template": "MACHOP"
             },
             {
+                "id": 74,
+                "template": "GEODUDE_ALOLA",
+                "form": 68
+            },
+            {
+                "id": 106,
+                "template": "HITMONLEE"
+            },
+            {
+                "id": 107,
+                "template": "HITMONCHAN"
+            },
+            {
+                "id": 126,
+                "template": "MAGMAR"
+            },
+            {
+                "id": 155,
+                "template": "CYNDAQUIL"
+            },
+            {
+                "id": 218,
+                "template": "SLUGMA"
+            },
+            {
                 "id": 237,
                 "template": "HITMONTOP"
+            },
+            {
+                "id": 255,
+                "template": "TORCHIC"
+            },
+            {
+                "id": 296,
+                "template": "MAKUHITA"
+            },
+            {
+                "id": 304,
+                "template": "ARON"
+            },
+            {
+                "id": 307,
+                "template": "MEDITITE"
             },
             {
                 "id": 390,
                 "template": "CHIMCHAR"
             },
             {
+                "id": 453,
+                "template": "CROAGUNK"
+            },
+            {
                 "id": 513,
                 "template": "PANSEAR"
+            },
+            {
+                "id": 538,
+                "template": "THROH"
+            },
+            {
+                "id": 539,
+                "template": "SAWK"
+            },
+            {
+                "id": 667,
+                "template": "LITLEO"
             }
         ],
         "eggs": [],
         "raids": [
+            {
+                "id": 610,
+                "template": "AXEW"
+            },
+            {
+                "id": 744,
+                "template": "ROCKRUFF"
+            },
+            {
+                "id": 143,
+                "template": "SNORLAX"
+            },
+            {
+                "id": 373,
+                "template": "SALAMENCE"
+            },
+            {
+                "id": 621,
+                "template": "DRUDDIGON"
+            },
+            {
+                "id": 723,
+                "template": "DARTRIX"
+            },
+            {
+                "id": 726,
+                "template": "TORRACAT"
+            },
+            {
+                "id": 729,
+                "template": "BRIONNE"
+            },
             {
                 "id": 488,
                 "template": "CRESSELIA"
