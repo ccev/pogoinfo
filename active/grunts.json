@@ -547,13 +547,13 @@
                         "form": 855
                     },
                     {
+                        "id": 580,
+                        "template": "DUCKLETT"
+                    },
+                    {
                         "id": 396,
                         "template": "STARLY_NORMAL",
                         "form": 1658
-                    },
-                    {
-                        "id": 580,
-                        "template": "DUCKLETT"
                     }
                 ],
                 [
