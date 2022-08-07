@@ -399,14 +399,14 @@
             "team": [
                 [
                     {
-                        "id": 66,
-                        "template": "MACHOP_NORMAL",
-                        "form": 809
-                    },
-                    {
                         "id": 296,
                         "template": "MAKUHITA_NORMAL",
                         "form": 1451
+                    },
+                    {
+                        "id": 66,
+                        "template": "MACHOP_NORMAL",
+                        "form": 809
                     }
                 ],
                 [
@@ -495,14 +495,14 @@
                 ],
                 [
                     {
-                        "id": 38,
-                        "template": "NINETALES_NORMAL",
-                        "form": 57
-                    },
-                    {
                         "id": 157,
                         "template": "TYPHLOSION_NORMAL",
                         "form": 1133
+                    },
+                    {
+                        "id": 38,
+                        "template": "NINETALES_NORMAL",
+                        "form": 57
                     },
                     {
                         "id": 323,
@@ -726,14 +726,14 @@
                         "template": "CAMERUPT"
                     },
                     {
-                        "id": 76,
-                        "template": "GOLEM_NORMAL",
-                        "form": 71
-                    },
-                    {
                         "id": 450,
                         "template": "HIPPOWDON_NORMAL",
                         "form": 891
+                    },
+                    {
+                        "id": 76,
+                        "template": "GOLEM_NORMAL",
+                        "form": 71
                     }
                 ]
             ]
@@ -1101,14 +1101,14 @@
                         "form": 1568
                     },
                     {
-                        "id": 75,
-                        "template": "GRAVELER_NORMAL",
-                        "form": 69
-                    },
-                    {
                         "id": 347,
                         "template": "ANORITH_NORMAL",
                         "form": 1574
+                    },
+                    {
+                        "id": 75,
+                        "template": "GRAVELER_NORMAL",
+                        "form": 69
                     }
                 ],
                 [
