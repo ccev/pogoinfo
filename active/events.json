@@ -490,11 +490,20 @@
                 "value": 231
             },
             {
-                "text": "One additional Special Trade can be made for a maximum of three for the day.*"
+                "text": "2x Catch XP*",
+                "template": "increased-xp",
+                "value": 2
             },
             {
-                "text": "Trades made during the event and up to five hours afterward will require 50% less Stardust.*",
-                "value": 50
+                "text": "2x Transfer Candy*",
+                "value": 2
+            },
+            {
+                "text": "Two additional Special Trade can be made for a maximum of four for the day.*"
+            },
+            {
+                "text": "Trades made during the event and up to five hours afterward will require 75% less Stardust.*",
+                "value": 75
             }
         ],
         "features": [
@@ -544,8 +553,17 @@
                 "template": "PARAS"
             },
             {
+                "id": 201,
+                "template": "UNOWN_T",
+                "form": 20
+            },
+            {
                 "id": 204,
                 "template": "PINECO"
+            },
+            {
+                "id": 511,
+                "template": "PANSAGE"
             },
             {
                 "id": 595,
@@ -583,6 +601,14 @@
                 "text": "2× XP for successfully catching Pokémon with Nice Throws, Great Throws, and Excellent Throws",
                 "template": "increased-xp",
                 "value": 2
+            },
+            {
+                "text": "Additional Candy for successfully catching Pokémon with Nice Throws, Great Throws, and Excellent Throws",
+                "template": "increased-candy"
+            },
+            {
+                "text": "Increased chance for Trainers level 31 and up to receive Candy XL for successfully catching Pokémon with Nice Throws, Great Throws, and Excellent Throws",
+                "value": 31
             }
         ],
         "features": [],
