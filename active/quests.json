@@ -1,5 +1,43 @@
 {
-    "event": [],
+    "event": [
+        {
+            "task": "Event: Make 3 Nice Throws",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 48,
+                        "template": "VENONAT_NORMAL",
+                        "form": 259
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Event: Make 3 Great Throws in a row",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 46,
+                        "template": "PARAS"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Event: Make 2 Excellent Throws",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 290,
+                        "template": "NINCADA"
+                    }
+                }
+            ]
+        }
+    ],
     "quests": [
         {
             "task": "Catch 5 Pokémon with Weather Boost",
