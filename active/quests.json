@@ -165,6 +165,25 @@
             ]
         },
         {
+            "task": "Event: Trade a Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 616,
+                        "template": "SHELMET"
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 588,
+                        "template": "KARRABLAST"
+                    }
+                }
+            ]
+        },
+        {
             "task": "Event: Make 3 Great Throws",
             "rewards": [
                 {
@@ -196,25 +215,6 @@
                     "reward": {
                         "id": 193,
                         "template": "YANMA"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Event: Trade a Pokémon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 616,
-                        "template": "SHELMET"
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 588,
-                        "template": "KARRABLAST"
                     }
                 }
             ]
