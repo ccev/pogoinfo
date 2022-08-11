@@ -1,20 +1,30 @@
 {
     "event": [
         {
-            "task": "Event: Catch 10 Bug-type Pokémon",
+            "task": "Event: Catch 15 Pokémon",
             "rewards": [
                 {
                     "type": "pokemon",
                     "reward": {
-                        "id": 313,
-                        "template": "VOLBEAT"
+                        "id": 412,
+                        "template": "BURMY_PLANT",
+                        "form": 118
                     }
                 },
                 {
                     "type": "pokemon",
                     "reward": {
-                        "id": 314,
-                        "template": "ILLUMISE"
+                        "id": 412,
+                        "template": "BURMY_SANDY",
+                        "form": 119
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 412,
+                        "template": "BURMY_TRASH",
+                        "form": 120
                     }
                 }
             ]
@@ -35,6 +45,25 @@
                     "reward": {
                         "id": 401,
                         "template": "KRICKETOT"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Event: Make 3 Nice Throws in a row",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 266,
+                        "template": "SILCOON"
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 268,
+                        "template": "CASCOON"
                     }
                 }
             ]
@@ -79,85 +108,6 @@
             ]
         },
         {
-            "task": "Event: Use 10 Berries to help catch Pokémon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 415,
-                        "template": "COMBEE"
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 540,
-                        "template": "SEWADDLE"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Event: Make 2 Excellent Throws",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 290,
-                        "template": "NINCADA"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Event: Catch 15 Pokémon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 412,
-                        "template": "BURMY_PLANT",
-                        "form": 118
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 412,
-                        "template": "BURMY_SANDY",
-                        "form": 119
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 412,
-                        "template": "BURMY_TRASH",
-                        "form": 120
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Event: Make 3 Nice Throws in a row",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 266,
-                        "template": "SILCOON"
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 268,
-                        "template": "CASCOON"
-                    }
-                }
-            ]
-        },
-        {
             "task": "Event: Catch 10 Pokémon",
             "rewards": [
                 {
@@ -177,20 +127,39 @@
             ]
         },
         {
-            "task": "Event: Trade a Pokémon",
+            "task": "Event: Catch 10 Bug-type Pokémon",
             "rewards": [
                 {
                     "type": "pokemon",
                     "reward": {
-                        "id": 616,
-                        "template": "SHELMET"
+                        "id": 313,
+                        "template": "VOLBEAT"
                     }
                 },
                 {
                     "type": "pokemon",
                     "reward": {
-                        "id": 588,
-                        "template": "KARRABLAST"
+                        "id": 314,
+                        "template": "ILLUMISE"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Event: Use 10 Berries to help catch Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 415,
+                        "template": "COMBEE"
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 540,
+                        "template": "SEWADDLE"
                     }
                 }
             ]
@@ -208,6 +177,18 @@
             ]
         },
         {
+            "task": "Event: Make 2 Excellent Throws",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 290,
+                        "template": "NINCADA"
+                    }
+                }
+            ]
+        },
+        {
             "task": "Event: Take snapshots of 3 different Bug-type Pokémon that you caught",
             "rewards": [
                 {
@@ -215,6 +196,25 @@
                     "reward": {
                         "id": 193,
                         "template": "YANMA"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Event: Trade a Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 616,
+                        "template": "SHELMET"
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 588,
+                        "template": "KARRABLAST"
                     }
                 }
             ]
