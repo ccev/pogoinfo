@@ -558,14 +558,14 @@
                 ],
                 [
                     {
-                        "id": 397,
-                        "template": "STARAVIA_NORMAL",
-                        "form": 1661
-                    },
-                    {
                         "id": 42,
                         "template": "GOLBAT_NORMAL",
                         "form": 160
+                    },
+                    {
+                        "id": 397,
+                        "template": "STARAVIA_NORMAL",
+                        "form": 1661
                     }
                 ],
                 [
@@ -876,14 +876,14 @@
                 ],
                 [
                     {
-                        "id": 294,
-                        "template": "LOUDRED_NORMAL",
-                        "form": 1445
-                    },
-                    {
                         "id": 20,
                         "template": "RATICATE_NORMAL",
                         "form": 47
+                    },
+                    {
+                        "id": 294,
+                        "template": "LOUDRED_NORMAL",
+                        "form": 1445
                     },
                     {
                         "id": 399,
@@ -1101,14 +1101,14 @@
                         "form": 1568
                     },
                     {
-                        "id": 347,
-                        "template": "ANORITH_NORMAL",
-                        "form": 1574
-                    },
-                    {
                         "id": 75,
                         "template": "GRAVELER_NORMAL",
                         "form": 69
+                    },
+                    {
+                        "id": 347,
+                        "template": "ANORITH_NORMAL",
+                        "form": 1574
                     }
                 ],
                 [

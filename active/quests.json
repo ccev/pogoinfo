@@ -30,6 +30,58 @@
             ]
         },
         {
+            "task": "Event: Catch 10 Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 767,
+                        "template": "WIMPOD"
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 751,
+                        "template": "DEWPIDER"
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 543,
+                        "template": "VENIPEDE"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Event: Take snapshots of 3 different Bug-type Pokémon that you caught",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 193,
+                        "template": "YANMA"
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 167,
+                        "template": "SPINARAK"
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 165,
+                        "template": "LEDYBA"
+                    }
+                }
+            ]
+        },
+        {
             "task": "Event: Make 3 Nice Throws",
             "rewards": [
                 {
@@ -103,25 +155,6 @@
                         "id": 13,
                         "template": "WEEDLE_NORMAL",
                         "form": 616
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Event: Catch 10 Pokémon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 767,
-                        "template": "WIMPOD"
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 751,
-                        "template": "DEWPIDER"
                     }
                 }
             ]
@@ -203,18 +236,6 @@
                     "reward": {
                         "id": 290,
                         "template": "NINCADA"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Event: Take snapshots of 3 different Bug-type Pokémon that you caught",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 193,
-                        "template": "YANMA"
                     }
                 }
             ]
