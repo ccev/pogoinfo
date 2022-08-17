@@ -1,22 +1,21 @@
 {
     "1": [
         {
+            "id": 13,
+            "template": "WEEDLE_NORMAL",
+            "form": 616
+        },
+        {
             "id": 46,
             "template": "PARAS"
         },
         {
-            "id": 201,
-            "template": "UNOWN_T",
-            "form": 20
+            "id": 193,
+            "template": "YANMA"
         },
         {
-            "id": 204,
-            "template": "PINECO_NORMAL",
-            "form": 1244
-        },
-        {
-            "id": 511,
-            "template": "PANSAGE"
+            "id": 290,
+            "template": "NINCADA"
         },
         {
             "id": 595,
@@ -24,6 +23,10 @@
         }
     ],
     "3": [
+        {
+            "id": 12,
+            "template": "BUTTERFREE"
+        },
         {
             "id": 49,
             "template": "VENOMOTH_NORMAL",
@@ -38,11 +41,6 @@
             "id": 205,
             "template": "FORRETRESS_NORMAL",
             "form": 1247
-        },
-        {
-            "id": 213,
-            "template": "SHUCKLE_NORMAL",
-            "form": 827
         }
     ],
     "5": [
