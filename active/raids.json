@@ -1,60 +1,64 @@
 {
     "1": [
         {
-            "id": 13,
-            "template": "WEEDLE_NORMAL",
-            "form": 616
+            "id": 25,
+            "template": "PIKACHU_NORMAL",
+            "form": 598
         },
         {
-            "id": 46,
-            "template": "PARAS"
+            "id": 83,
+            "template": "FARFETCHD_GALARIAN",
+            "form": 2338
         },
         {
-            "id": 193,
-            "template": "YANMA"
+            "id": 183,
+            "template": "MARILL"
         },
         {
-            "id": 290,
-            "template": "NINCADA"
+            "id": 339,
+            "template": "BARBOACH"
         },
         {
-            "id": 595,
-            "template": "JOLTIK"
+            "id": 532,
+            "template": "TIMBURR"
+        },
+        {
+            "id": 559,
+            "template": "SCRAGGY"
         }
     ],
     "3": [
         {
-            "id": 12,
-            "template": "BUTTERFREE"
+            "id": 57,
+            "template": "PRIMEAPE"
         },
         {
-            "id": 49,
-            "template": "VENOMOTH_NORMAL",
-            "form": 262
+            "id": 108,
+            "template": "LICKITUNG"
         },
         {
-            "id": 127,
-            "template": "PINSIR_NORMAL",
-            "form": 898
-        },
-        {
-            "id": 205,
-            "template": "FORRETRESS_NORMAL",
-            "form": 1247
+            "id": 227,
+            "template": "SKARMORY_NORMAL",
+            "form": 1295
         }
     ],
     "5": [
         {
-            "id": 649,
-            "template": "GENESECT_CHILL",
-            "form": 596
+            "id": 888,
+            "template": "ZACIAN_HERO",
+            "form": 2577
+        },
+        {
+            "id": 889,
+            "template": "ZAMAZENTA_HERO",
+            "form": 2579
         }
     ],
     "6": [
         {
-            "id": 212,
-            "template": "SCIZOR_NORMAL",
-            "form": 250,
+            "id": 80,
+            "template": "SLOWBRO_NORMAL",
+            "form": 1020,
             "temp_evolution_id": 1
         }
     ]

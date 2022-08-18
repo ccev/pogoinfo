@@ -1,5 +1,97 @@
 {
-    "event": [],
+    "event": [
+        {
+            "task": "Event: Power up Pokémon 3 times",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 1,
+                        "template": "BULBASAUR_NORMAL",
+                        "form": 163
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 152,
+                        "template": "CHIKORITA_NORMAL",
+                        "form": 1118
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 258,
+                        "template": "MUDKIP_NORMAL",
+                        "form": 205
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Event: Power up Pokémon 7 times",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 374,
+                        "template": "BELDUM_NORMAL",
+                        "form": 764
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 129,
+                        "template": "MAGIKARP_NORMAL",
+                        "form": 253
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 92,
+                        "template": "GASTLY"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Event: Battle in GO Battle League",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 618,
+                        "template": "STUNFISK_GALARIAN",
+                        "form": 2345
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 263,
+                        "template": "ZIGZAGOON_GALARIAN",
+                        "form": 946
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Event: Battle a Challenger",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 25,
+                        "template": "PIKACHU_NORMAL",
+                        "form": 598
+                    }
+                }
+            ]
+        }
+    ],
     "quests": [
         {
             "task": "Catch 5 Pokémon with Weather Boost",

@@ -726,14 +726,14 @@
                         "template": "CAMERUPT"
                     },
                     {
-                        "id": 450,
-                        "template": "HIPPOWDON_NORMAL",
-                        "form": 891
-                    },
-                    {
                         "id": 76,
                         "template": "GOLEM_NORMAL",
                         "form": 71
+                    },
+                    {
+                        "id": 450,
+                        "template": "HIPPOWDON_NORMAL",
+                        "form": 891
                     }
                 ]
             ]
