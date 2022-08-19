@@ -1,14 +1,16 @@
 name: "last-nest-migration update"
 on:
   schedule:
-  - cron: "0 2 */14 * *"
+  - cron: "0 2 */1 * *"
 
 jobs:
   update-timestamp:
     runs-on: ubuntu-latest
     steps:
       - name: Get current time
-        uses: gerred/actions/current-time@master
-        id: current-time 
+        uses: mcpierce/github-commit-timestamp-tagger@master
+        id: current-timestamp
+        with:
+          base_version: "v1.0"
       - name: Set new Timestamp
-        run: "echo ${{ "{{ steps.current-time.outputs.time" }}}} > last-nest-migration-ts"
+        run: "echo ${{ steps.current-timestamp.outputs.tag_time }} > last-nest-migration-ts"
