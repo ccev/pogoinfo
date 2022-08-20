@@ -547,25 +547,25 @@
                         "form": 855
                     },
                     {
+                        "id": 580,
+                        "template": "DUCKLETT"
+                    },
+                    {
                         "id": 396,
                         "template": "STARLY_NORMAL",
                         "form": 1658
-                    },
-                    {
-                        "id": 580,
-                        "template": "DUCKLETT"
                     }
                 ],
                 [
                     {
-                        "id": 397,
-                        "template": "STARAVIA_NORMAL",
-                        "form": 1661
-                    },
-                    {
                         "id": 42,
                         "template": "GOLBAT_NORMAL",
                         "form": 160
+                    },
+                    {
+                        "id": 397,
+                        "template": "STARAVIA_NORMAL",
+                        "form": 1661
                     }
                 ],
                 [
@@ -1481,14 +1481,14 @@
                 ],
                 [
                     {
-                        "id": 70,
-                        "template": "WEEPINBELL_NORMAL",
-                        "form": 667
-                    },
-                    {
                         "id": 20,
                         "template": "RATICATE_NORMAL",
                         "form": 47
+                    },
+                    {
+                        "id": 70,
+                        "template": "WEEPINBELL_NORMAL",
+                        "form": 667
                     }
                 ],
                 [
@@ -1541,14 +1541,14 @@
                         "form": 923
                     },
                     {
-                        "id": 200,
-                        "template": "MISDREAVUS_NORMAL",
-                        "form": 719
-                    },
-                    {
                         "id": 355,
                         "template": "DUSKULL_NORMAL",
                         "form": 914
+                    },
+                    {
+                        "id": 200,
+                        "template": "MISDREAVUS_NORMAL",
+                        "form": 719
                     }
                 ],
                 [
@@ -1694,7 +1694,7 @@
         "active": false,
         "character": {
             "template": "CHARACTER_EVENT_NPC_2",
-            "gender": 1,
+            "gender": 0,
             "boss": false,
             "type": {}
         }
@@ -1712,7 +1712,7 @@
         "active": false,
         "character": {
             "template": "CHARACTER_EVENT_NPC_4",
-            "gender": 0,
+            "gender": 1,
             "boss": false,
             "type": {}
         }
@@ -1721,7 +1721,7 @@
         "active": false,
         "character": {
             "template": "CHARACTER_EVENT_NPC_5",
-            "gender": 0,
+            "gender": 1,
             "boss": false,
             "type": {}
         }
@@ -1739,7 +1739,7 @@
         "active": false,
         "character": {
             "template": "CHARACTER_EVENT_NPC_7",
-            "gender": 1,
+            "gender": 0,
             "boss": false,
             "type": {}
         }
