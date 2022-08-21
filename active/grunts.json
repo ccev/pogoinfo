@@ -212,14 +212,14 @@
                         "form": 613
                     },
                     {
-                        "id": 20,
-                        "template": "RATICATE_NORMAL",
-                        "form": 47
-                    },
-                    {
                         "id": 430,
                         "template": "HONCHKROW_NORMAL",
                         "form": 858
+                    },
+                    {
+                        "id": 20,
+                        "template": "RATICATE_NORMAL",
+                        "form": 47
                     }
                 ]
             ]
@@ -542,13 +542,13 @@
             "team": [
                 [
                     {
+                        "id": 580,
+                        "template": "DUCKLETT"
+                    },
+                    {
                         "id": 198,
                         "template": "MURKROW_NORMAL",
                         "form": 855
-                    },
-                    {
-                        "id": 580,
-                        "template": "DUCKLETT"
                     },
                     {
                         "id": 396,
