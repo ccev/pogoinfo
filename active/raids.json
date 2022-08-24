@@ -6,6 +6,11 @@
             "form": 809
         },
         {
+            "id": 207,
+            "template": "GLIGAR_NORMAL",
+            "form": 803
+        },
+        {
             "id": 333,
             "template": "SWABLU"
         },
@@ -32,6 +37,10 @@
         {
             "id": 308,
             "template": "MEDICHAM"
+        },
+        {
+            "id": 621,
+            "template": "DRUDDIGON"
         }
     ],
     "5": [
