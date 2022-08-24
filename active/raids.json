@@ -1,45 +1,37 @@
 {
     "1": [
         {
-            "id": 25,
-            "template": "PIKACHU_NORMAL",
-            "form": 598
+            "id": 66,
+            "template": "MACHOP_NORMAL",
+            "form": 809
         },
         {
-            "id": 83,
-            "template": "FARFETCHD_GALARIAN",
-            "form": 2338
-        },
-        {
-            "id": 183,
-            "template": "MARILL"
-        },
-        {
-            "id": 339,
-            "template": "BARBOACH"
+            "id": 333,
+            "template": "SWABLU"
         },
         {
             "id": 532,
             "template": "TIMBURR"
         },
         {
-            "id": 559,
-            "template": "SCRAGGY"
+            "id": 661,
+            "template": "FLETCHLING"
         }
     ],
     "3": [
         {
-            "id": 57,
-            "template": "PRIMEAPE"
+            "id": 143,
+            "template": "SNORLAX_NORMAL",
+            "form": 199
         },
         {
-            "id": 108,
-            "template": "LICKITUNG"
+            "id": 213,
+            "template": "SHUCKLE_NORMAL",
+            "form": 827
         },
         {
-            "id": 227,
-            "template": "SKARMORY_NORMAL",
-            "form": 1295
+            "id": 308,
+            "template": "MEDICHAM"
         }
     ],
     "5": [
