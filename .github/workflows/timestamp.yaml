@@ -2,15 +2,15 @@ name: "last-nest-migration update"
 on:
   schedule:
   - cron: "0 2 */1 * *"
-
 jobs:
   update-timestamp:
     runs-on: ubuntu-latest
     steps:
-      - name: Get current time
-        uses: mcpierce/github-commit-timestamp-tagger@master
-        id: create_tag
-        with:
-          base_version: "v1.0"
-      - name: Set new Timestamp
-        run: "echo ${{ steps.create_tag.outputs.tag_time }} > last-nest-migration-ts"
+    - name: timetag
+      id: create_tag
+      uses: mcpierce/github-commit-timestamp-tagger@master
+      with:
+        repo-token: "${{ secrets.GITHUB_TOKEN }}"
+        base_version: "v1.0"
+    - name: Set new Timestamp
+      run: "echo ${{ steps.create_tag.outputs.tag_time }} > last-nest-migration-ts"
