@@ -1,46 +1,43 @@
 {
     "1": [
         {
-            "id": 66,
-            "template": "MACHOP_NORMAL",
-            "form": 809
+            "id": 147,
+            "template": "DRATINI_NORMAL",
+            "form": 190
         },
         {
-            "id": 207,
-            "template": "GLIGAR_NORMAL",
-            "form": 803
+            "id": 399,
+            "template": "BIDOOF_NORMAL",
+            "form": 1667
         },
         {
-            "id": 333,
-            "template": "SWABLU"
+            "id": 599,
+            "template": "KLINK"
         },
         {
-            "id": 532,
-            "template": "TIMBURR"
-        },
-        {
-            "id": 661,
-            "template": "FLETCHLING"
+            "id": 744,
+            "template": "ROCKRUFF"
         }
     ],
     "3": [
         {
-            "id": 143,
-            "template": "SNORLAX_NORMAL",
-            "form": 199
+            "id": 112,
+            "template": "RHYDON_NORMAL",
+            "form": 849
         },
         {
-            "id": 213,
-            "template": "SHUCKLE_NORMAL",
-            "form": 827
+            "id": 113,
+            "template": "CHANSEY"
         },
         {
-            "id": 308,
-            "template": "MEDICHAM"
+            "id": 131,
+            "template": "LAPRAS_NORMAL",
+            "form": 322
         },
         {
-            "id": 621,
-            "template": "DRUDDIGON"
+            "id": 248,
+            "template": "TYRANITAR_NORMAL",
+            "form": 319
         }
     ],
     "5": [
@@ -57,9 +54,9 @@
     ],
     "6": [
         {
-            "id": 80,
-            "template": "SLOWBRO_NORMAL",
-            "form": 1020,
+            "id": 181,
+            "template": "AMPHAROS_NORMAL",
+            "form": 652,
             "temp_evolution_id": 1
         }
     ]
