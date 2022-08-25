@@ -1,0 +1,13 @@
+name: "last-nest-migration info update"
+on:
+  schedule:
+  - cron: "0 * * * *"
+jobs:
+  update-timestamp:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Timestamp
+      id: create_timestamp
+      run: echo TS=$(date +%s) >> $GITHUB_ENV
+    - name: Set new Timestamp
+      run: "echo ${{ env.TS }} > last-nest-migration-ts"
