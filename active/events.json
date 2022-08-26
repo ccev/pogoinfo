@@ -42,6 +42,50 @@
                 "template": "KARRABLAST"
             },
             {
+                "id": 201,
+                "template": "UNOWN_B",
+                "form": 2
+            },
+            {
+                "id": 201,
+                "template": "UNOWN_G",
+                "form": 7
+            },
+            {
+                "id": 201,
+                "template": "UNOWN_N",
+                "form": 14
+            },
+            {
+                "id": 201,
+                "template": "UNOWN_O",
+                "form": 15
+            },
+            {
+                "id": 201,
+                "template": "UNOWN_P",
+                "form": 16
+            },
+            {
+                "id": 201,
+                "template": "UNOWN_S",
+                "form": 19
+            },
+            {
+                "id": 201,
+                "template": "UNOWN_X",
+                "form": 24
+            },
+            {
+                "id": 122,
+                "template": "MR_MIME_GALARIAN",
+                "form": 2339
+            },
+            {
+                "id": 511,
+                "template": "PANSAGE"
+            },
+            {
                 "id": 66,
                 "template": "MACHOP"
             },
@@ -76,6 +120,14 @@
             {
                 "id": 610,
                 "template": "AXEW"
+            },
+            {
+                "id": 324,
+                "template": "TORKOAL"
+            },
+            {
+                "id": 513,
+                "template": "PANSEAR"
             },
             {
                 "id": 125,
@@ -117,6 +169,14 @@
             {
                 "id": 618,
                 "template": "STUNFISK"
+            },
+            {
+                "id": 599,
+                "template": "KLINK"
+            },
+            {
+                "id": 515,
+                "template": "PANPOUR"
             },
             {
                 "id": 1,
@@ -166,9 +226,43 @@
             {
                 "id": 690,
                 "template": "SKRELP"
+            },
+            {
+                "id": 357,
+                "template": "TROPIUS"
+            },
+            {
+                "id": 592,
+                "template": "FRILLISH"
             }
         ],
-        "eggs": [],
+        "eggs": [
+            {
+                "id": 122,
+                "template": "MR_MIME_GALARIAN",
+                "form": 2339
+            },
+            {
+                "id": 123,
+                "template": "SCYTHER"
+            },
+            {
+                "id": 307,
+                "template": "MEDITITE"
+            },
+            {
+                "id": 511,
+                "template": "PANSAGE"
+            },
+            {
+                "id": 527,
+                "template": "WOOBAT"
+            },
+            {
+                "id": 588,
+                "template": "KARRABLAST"
+            }
+        ],
         "raids": [
             {
                 "id": 25,
@@ -229,7 +323,7 @@
                 "text": "Spin Photo Discs at Gyms to earn up to nine free Daily Raid Passes"
             },
             {
-                "text": "Take up to five snapshots during the event for a surprise!"
+                "text": "Take up to five snapshots during the event to get photobombed by Shaymin Scarf Pikachu!"
             },
             {
                 "text": "Earn an extra 5,000 XP in raid rewards when you win an in-person raid!",
