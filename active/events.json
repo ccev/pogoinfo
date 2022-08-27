@@ -238,29 +238,56 @@
         ],
         "eggs": [
             {
-                "id": 122,
-                "template": "MR_MIME_GALARIAN",
-                "form": 2339
+                "id": 25,
+                "template": "PIKACHU"
             },
             {
-                "id": 123,
-                "template": "SCYTHER"
+                "id": 610,
+                "template": "AXEW"
             },
             {
-                "id": 307,
-                "template": "MEDITITE"
+                "id": 744,
+                "template": "ROCKRUFF"
             },
             {
-                "id": 511,
-                "template": "PANSAGE"
+                "id": 143,
+                "template": "SNORLAX"
             },
             {
-                "id": 527,
-                "template": "WOOBAT"
+                "id": 373,
+                "template": "SALAMENCE"
             },
             {
-                "id": 588,
-                "template": "KARRABLAST"
+                "id": 621,
+                "template": "DRUDDIGON"
+            },
+            {
+                "id": 723,
+                "template": "DARTRIX"
+            },
+            {
+                "id": 726,
+                "template": "TORRACAT"
+            },
+            {
+                "id": 729,
+                "template": "BRIONNE"
+            },
+            {
+                "id": 793,
+                "template": "NIHILEGO"
+            },
+            {
+                "id": 794,
+                "template": "BUZZWOLE"
+            },
+            {
+                "id": 795,
+                "template": "PHEROMOSA"
+            },
+            {
+                "id": 796,
+                "template": "XURKITREE"
             }
         ],
         "raids": [
