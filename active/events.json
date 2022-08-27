@@ -238,10 +238,6 @@
         ],
         "eggs": [
             {
-                "id": 25,
-                "template": "PIKACHU"
-            },
-            {
                 "id": 610,
                 "template": "AXEW"
             },
@@ -291,10 +287,6 @@
             }
         ],
         "raids": [
-            {
-                "id": 25,
-                "template": "PIKACHU"
-            },
             {
                 "id": 610,
                 "template": "AXEW"
