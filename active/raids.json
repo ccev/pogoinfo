@@ -1,13 +1,22 @@
 {
     "1": [
         {
-            "id": 25,
-            "template": "PIKACHU_NORMAL",
-            "form": 598
+            "id": 147,
+            "template": "DRATINI_NORMAL",
+            "form": 190
         },
         {
-            "id": 610,
-            "template": "AXEW"
+            "id": 399,
+            "template": "BIDOOF_NORMAL",
+            "form": 1667
+        },
+        {
+            "id": 532,
+            "template": "TIMBURR"
+        },
+        {
+            "id": 599,
+            "template": "KLINK"
         },
         {
             "id": 744,
@@ -16,48 +25,35 @@
     ],
     "3": [
         {
-            "id": 143,
-            "template": "SNORLAX_NORMAL",
-            "form": 199
+            "id": 112,
+            "template": "RHYDON_NORMAL",
+            "form": 849
         },
         {
-            "id": 373,
-            "template": "SALAMENCE_NORMAL",
-            "form": 761
+            "id": 113,
+            "template": "CHANSEY"
         },
         {
-            "id": 621,
-            "template": "DRUDDIGON"
+            "id": 131,
+            "template": "LAPRAS_NORMAL",
+            "form": 322
         },
         {
-            "id": 723,
-            "template": "DARTRIX"
-        },
-        {
-            "id": 726,
-            "template": "TORRACAT"
-        },
-        {
-            "id": 729,
-            "template": "BRIONNE"
+            "id": 248,
+            "template": "TYRANITAR_NORMAL",
+            "form": 319
         }
     ],
     "5": [
         {
-            "id": 793,
-            "template": "NIHILEGO"
+            "id": 888,
+            "template": "ZACIAN_HERO",
+            "form": 2577
         },
         {
-            "id": 794,
-            "template": "BUZZWOLE"
-        },
-        {
-            "id": 795,
-            "template": "PHEROMOSA"
-        },
-        {
-            "id": 796,
-            "template": "XURKITREE"
+            "id": 889,
+            "template": "ZAMAZENTA_HERO",
+            "form": 2579
         }
     ],
     "6": [
