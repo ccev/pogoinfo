@@ -320,6 +320,34 @@
         "has_spawnpoints": false
     },
     {
+        "name": "Munna Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2022-09-06 18:00",
+        "end": "2022-09-06 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": true
+    },
+    {
+        "name": "Ralts Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2022-09-20 18:00",
+        "end": "2022-09-20 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": true
+    },
+    {
         "name": "September Community Day",
         "type": "community-day",
         "start": "2022-09-18 11:00",
@@ -331,6 +359,20 @@
         "bonuses": [],
         "features": [],
         "has_quests": true,
+        "has_spawnpoints": true
+    },
+    {
+        "name": "Minccino Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2022-09-27 18:00",
+        "end": "2022-09-27 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
         "has_spawnpoints": true
     },
     {
