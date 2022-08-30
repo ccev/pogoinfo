@@ -306,20 +306,6 @@
         "has_spawnpoints": false
     },
     {
-        "name": "Unannounced September Event",
-        "type": "event",
-        "start": "2022-09-11 10:00",
-        "end": null,
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Munna Spotlight Hour",
         "type": "spotlight-hour",
         "start": "2022-09-06 18:00",
@@ -334,10 +320,24 @@
         "has_spawnpoints": true
     },
     {
+        "name": "Unannounced September Event",
+        "type": "event",
+        "start": "2022-09-11 10:00",
+        "end": null,
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
         "name": "Ralts Spotlight Hour",
         "type": "spotlight-hour",
-        "start": "2022-09-20 18:00",
-        "end": "2022-09-20 19:00",
+        "start": "2022-09-13 18:00",
+        "end": "2022-09-13 19:00",
         "spawns": [],
         "eggs": [],
         "raids": [],
@@ -359,6 +359,20 @@
         "bonuses": [],
         "features": [],
         "has_quests": true,
+        "has_spawnpoints": true
+    },
+    {
+        "name": "Aron Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2022-09-20 18:00",
+        "end": "2022-09-20 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
         "has_spawnpoints": true
     },
     {
