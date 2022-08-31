@@ -28,284 +28,6 @@
         "has_spawnpoints": false
     },
     {
-        "name": "Season of GO",
-        "type": "event",
-        "start": null,
-        "end": "2022-09-01 10:00",
-        "spawns": [
-            {
-                "id": 19,
-                "template": "RATTATA"
-            },
-            {
-                "id": 109,
-                "template": "KOFFING"
-            },
-            {
-                "id": 190,
-                "template": "AIPOM"
-            },
-            {
-                "id": 436,
-                "template": "BRONZOR"
-            },
-            {
-                "id": 453,
-                "template": "CROAGUNK"
-            },
-            {
-                "id": 504,
-                "template": "PATRAT"
-            },
-            {
-                "id": 618,
-                "template": "STUNFISK_GALARIAN",
-                "form": 2345
-            },
-            {
-                "id": 43,
-                "template": "ODDISH"
-            },
-            {
-                "id": 70,
-                "template": "WEEPINBELL"
-            },
-            {
-                "id": 114,
-                "template": "TANGELA"
-            },
-            {
-                "id": 213,
-                "template": "SHUCKLE"
-            },
-            {
-                "id": 285,
-                "template": "SHROOMISH"
-            },
-            {
-                "id": 420,
-                "template": "CHERUBI"
-            },
-            {
-                "id": 734,
-                "template": "YUNGOOS"
-            },
-            {
-                "id": 27,
-                "template": "SANDSHREW"
-            },
-            {
-                "id": 95,
-                "template": "ONIX"
-            },
-            {
-                "id": 231,
-                "template": "PHANPY"
-            },
-            {
-                "id": 304,
-                "template": "ARON"
-            },
-            {
-                "id": 328,
-                "template": "TRAPINCH"
-            },
-            {
-                "id": 449,
-                "template": "HIPPOPOTAS"
-            },
-            {
-                "id": 622,
-                "template": "GOLETT"
-            },
-            {
-                "id": 72,
-                "template": "TENTACOOL"
-            },
-            {
-                "id": 98,
-                "template": "KRABBY"
-            },
-            {
-                "id": 116,
-                "template": "HORSEA"
-            },
-            {
-                "id": 194,
-                "template": "WOOPER"
-            },
-            {
-                "id": 341,
-                "template": "CORPHISH"
-            },
-            {
-                "id": 363,
-                "template": "SPHEAL"
-            },
-            {
-                "id": 751,
-                "template": "DEWPIDER"
-            }
-        ],
-        "eggs": [
-            {
-                "id": 60,
-                "template": "POLIWAG"
-            },
-            {
-                "id": 81,
-                "template": "MAGNEMITE"
-            },
-            {
-                "id": 129,
-                "template": "MAGIKARP"
-            },
-            {
-                "id": 307,
-                "template": "MEDITITE"
-            },
-            {
-                "id": 731,
-                "template": "PIKIPEK"
-            },
-            {
-                "id": 734,
-                "template": "YUNGOOS"
-            },
-            {
-                "id": 759,
-                "template": "STUFFUL"
-            },
-            {
-                "id": 175,
-                "template": "TOGEPI"
-            },
-            {
-                "id": 227,
-                "template": "SKARMORY"
-            },
-            {
-                "id": 360,
-                "template": "WYNAUT"
-            },
-            {
-                "id": 436,
-                "template": "BRONZOR"
-            },
-            {
-                "id": 722,
-                "template": "ROWLET"
-            },
-            {
-                "id": 725,
-                "template": "LITTEN"
-            },
-            {
-                "id": 728,
-                "template": "POPPLIO"
-            },
-            {
-                "id": 447,
-                "template": "RIOLU"
-            },
-            {
-                "id": 587,
-                "template": "EMOLGA"
-            },
-            {
-                "id": 610,
-                "template": "AXEW"
-            },
-            {
-                "id": 627,
-                "template": "RUFFLET"
-            },
-            {
-                "id": 704,
-                "template": "GOOMY"
-            },
-            {
-                "id": 714,
-                "template": "NOIBAT"
-            },
-            {
-                "id": 782,
-                "template": "JANGMO_O"
-            },
-            {
-                "id": 408,
-                "template": "CRANIDOS"
-            },
-            {
-                "id": 410,
-                "template": "SHIELDON"
-            },
-            {
-                "id": 440,
-                "template": "HAPPINY"
-            },
-            {
-                "id": 446,
-                "template": "MUNCHLAX"
-            },
-            {
-                "id": 524,
-                "template": "ROGGENROLA"
-            },
-            {
-                "id": 147,
-                "template": "DRATINI"
-            },
-            {
-                "id": 371,
-                "template": "BAGON"
-            },
-            {
-                "id": 374,
-                "template": "BELDUM"
-            },
-            {
-                "id": 633,
-                "template": "DEINO"
-            }
-        ],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [
-            {
-                "text": "Increased friendship bonus damage for Raids"
-            },
-            {
-                "text": "1-hour Lure Modules",
-                "template": "longer-lure",
-                "value": 1
-            },
-            {
-                "text": "One extra Special Trade per day"
-            },
-            {
-                "text": "One extra Pokémon Candy when trading Pokémon",
-                "template": "increased-candy"
-            },
-            {
-                "text": "Guaranteed Candy XL when trading Pokémon"
-            },
-            {
-                "text": "Guaranteed Gifts from PokéStop spins"
-            },
-            {
-                "text": "Increased Damage for Pokémon participating in raids remotely"
-            },
-            {
-                "text": "Increased Incense effectiveness while moving",
-                "template": "longer-incense"
-            }
-        ],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Munna Spotlight Hour",
         "type": "spotlight-hour",
         "start": "2022-09-06 18:00",
@@ -320,10 +42,38 @@
         "has_spawnpoints": true
     },
     {
-        "name": "Unannounced September Event",
+        "name": "Deoxys Raid Hour",
+        "type": "raid-hour",
+        "start": "2022-09-07 18:00",
+        "end": "2022-09-07 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Clefairy Commotion",
         "type": "event",
-        "start": "2022-09-11 10:00",
-        "end": null,
+        "start": "2022-09-10 18:00",
+        "end": "2022-09-10 21:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Psychic Spectacular 2022",
+        "type": "event",
+        "start": "2022-09-06 10:00",
+        "end": "2022-09-12 20:00",
         "spawns": [],
         "eggs": [],
         "raids": [],
@@ -348,10 +98,24 @@
         "has_spawnpoints": true
     },
     {
+        "name": "??? Raid Hour",
+        "type": "raid-hour",
+        "start": "2022-09-21 18:00",
+        "end": "2022-09-21 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
         "name": "September Community Day",
         "type": "community-day",
-        "start": "2022-09-18 11:00",
-        "end": "2022-09-18 14:00",
+        "start": "2022-09-18 14:00",
+        "end": "2022-09-18 17:00",
         "spawns": [],
         "eggs": [],
         "raids": [],
@@ -376,6 +140,20 @@
         "has_spawnpoints": true
     },
     {
+        "name": "Test Your Mettle",
+        "type": "event",
+        "start": "2022-09-16 10:00",
+        "end": "2022-09-21 20:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
         "name": "Minccino Spotlight Hour",
         "type": "spotlight-hour",
         "start": "2022-09-27 18:00",
@@ -388,6 +166,48 @@
         "features": [],
         "has_quests": false,
         "has_spawnpoints": true
+    },
+    {
+        "name": "Yveltal Raid Hour",
+        "type": "raid-hour",
+        "start": "2022-09-28 18:00",
+        "end": "2022-09-28 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "GO Battle Day: Guzma",
+        "type": "event",
+        "start": "2022-10-01 00:00",
+        "end": "2022-10-01 23:59",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": true,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Fashion Week",
+        "type": "event",
+        "start": "2022-09-27 10:00",
+        "end": "2022-10-03 20:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
     },
     {
         "name": "October Community Day",
@@ -416,6 +236,20 @@
         "features": [],
         "has_quests": true,
         "has_spawnpoints": true
+    },
+    {
+        "name": "GO Battle Day: Miltank",
+        "type": "event",
+        "start": "2022-11-06 00:00",
+        "end": "2022-11-06 23:59",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": true,
+        "has_spawnpoints": false
     },
     {
         "name": "November Community Day",
