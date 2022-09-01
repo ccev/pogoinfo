@@ -1,59 +1,67 @@
 {
     "1": [
         {
-            "id": 147,
-            "template": "DRATINI_NORMAL",
-            "form": 190
+            "id": 280,
+            "template": "RALTS_NORMAL",
+            "form": 292
         },
         {
-            "id": 399,
-            "template": "BIDOOF_NORMAL",
-            "form": 1667
+            "id": 403,
+            "template": "SHINX"
         },
         {
-            "id": 532,
-            "template": "TIMBURR"
+            "id": 574,
+            "template": "GOTHITA"
         },
         {
-            "id": 599,
-            "template": "KLINK"
+            "id": 577,
+            "template": "SOLOSIS"
         },
         {
-            "id": 744,
-            "template": "ROCKRUFF"
+            "id": 677,
+            "template": "ESPURR"
         }
     ],
     "3": [
         {
-            "id": 112,
-            "template": "RHYDON_NORMAL",
-            "form": 849
+            "id": 26,
+            "template": "RAICHU_ALOLA",
+            "form": 50
         },
         {
-            "id": 113,
-            "template": "CHANSEY"
+            "id": 110,
+            "template": "WEEZING_GALARIAN",
+            "form": 944
         },
         {
-            "id": 131,
-            "template": "LAPRAS_NORMAL",
-            "form": 322
+            "id": 135,
+            "template": "JOLTEON"
         },
         {
-            "id": 248,
-            "template": "TYRANITAR_NORMAL",
-            "form": 319
+            "id": 203,
+            "template": "GIRAFARIG"
         }
     ],
     "5": [
         {
-            "id": 888,
-            "template": "ZACIAN_HERO",
-            "form": 2577
+            "id": 386,
+            "template": "DEOXYS_NORMAL",
+            "form": 33
         },
         {
-            "id": 889,
-            "template": "ZAMAZENTA_HERO",
-            "form": 2579
+            "id": 386,
+            "template": "DEOXYS_SPEED",
+            "form": 36
+        },
+        {
+            "id": 386,
+            "template": "DEOXYS_ATTACK",
+            "form": 34
+        },
+        {
+            "id": 386,
+            "template": "DEOXYS_DEFENSE",
+            "form": 35
         }
     ],
     "6": [
