@@ -79,14 +79,14 @@
                         "form": 256
                     },
                     {
-                        "id": 143,
-                        "template": "SNORLAX_NORMAL",
-                        "form": 199
-                    },
-                    {
                         "id": 149,
                         "template": "DRAGONITE_NORMAL",
                         "form": 196
+                    },
+                    {
+                        "id": 143,
+                        "template": "SNORLAX_NORMAL",
+                        "form": 199
                     }
                 ]
             ]
@@ -152,14 +152,14 @@
                         "form": 898
                     },
                     {
-                        "id": 212,
-                        "template": "SCIZOR_NORMAL",
-                        "form": 250
-                    },
-                    {
                         "id": 205,
                         "template": "FORRETRESS_NORMAL",
                         "form": 1247
+                    },
+                    {
+                        "id": 212,
+                        "template": "SCIZOR_NORMAL",
+                        "form": 250
                     }
                 ]
             ]
@@ -399,26 +399,26 @@
             "team": [
                 [
                     {
-                        "id": 296,
-                        "template": "MAKUHITA_NORMAL",
-                        "form": 1451
-                    },
-                    {
                         "id": 66,
                         "template": "MACHOP_NORMAL",
                         "form": 809
+                    },
+                    {
+                        "id": 296,
+                        "template": "MAKUHITA_NORMAL",
+                        "form": 1451
                     }
                 ],
                 [
                     {
-                        "id": 106,
-                        "template": "HITMONLEE_NORMAL",
-                        "form": 713
-                    },
-                    {
                         "id": 107,
                         "template": "HITMONCHAN_NORMAL",
                         "form": 277
+                    },
+                    {
+                        "id": 106,
+                        "template": "HITMONLEE_NORMAL",
+                        "form": 713
                     }
                 ],
                 [
@@ -650,13 +650,13 @@
                 ],
                 [
                     {
+                        "id": 591,
+                        "template": "AMOONGUSS"
+                    },
+                    {
                         "id": 332,
                         "template": "CACTURNE_NORMAL",
                         "form": 613
-                    },
-                    {
-                        "id": 591,
-                        "template": "AMOONGUSS"
                     },
                     {
                         "id": 154,
@@ -722,6 +722,11 @@
                 ],
                 [
                     {
+                        "id": 450,
+                        "template": "HIPPOWDON_NORMAL",
+                        "form": 891
+                    },
+                    {
                         "id": 323,
                         "template": "CAMERUPT"
                     },
@@ -729,11 +734,6 @@
                         "id": 76,
                         "template": "GOLEM_NORMAL",
                         "form": 71
-                    },
-                    {
-                        "id": 450,
-                        "template": "HIPPOWDON_NORMAL",
-                        "form": 891
                     }
                 ]
             ]
@@ -1373,14 +1373,14 @@
                         "form": 1364
                     },
                     {
-                        "id": 9,
-                        "template": "BLASTOISE_NORMAL",
-                        "form": 187
-                    },
-                    {
                         "id": 131,
                         "template": "LAPRAS_NORMAL",
                         "form": 322
+                    },
+                    {
+                        "id": 9,
+                        "template": "BLASTOISE_NORMAL",
+                        "form": 187
                     }
                 ],
                 [
@@ -1625,14 +1625,14 @@
                 ],
                 [
                     {
-                        "id": 181,
-                        "template": "AMPHAROS_NORMAL",
-                        "form": 652
-                    },
-                    {
                         "id": 125,
                         "template": "ELECTABUZZ_NORMAL",
                         "form": 640
+                    },
+                    {
+                        "id": 181,
+                        "template": "AMPHAROS_NORMAL",
+                        "form": 652
                     },
                     {
                         "id": 405,
