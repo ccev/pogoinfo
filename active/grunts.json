@@ -147,14 +147,14 @@
                 ],
                 [
                     {
-                        "id": 127,
-                        "template": "PINSIR_NORMAL",
-                        "form": 898
-                    },
-                    {
                         "id": 212,
                         "template": "SCIZOR_NORMAL",
                         "form": 250
+                    },
+                    {
+                        "id": 127,
+                        "template": "PINSIR_NORMAL",
+                        "form": 898
                     },
                     {
                         "id": 205,
@@ -212,14 +212,14 @@
                         "form": 613
                     },
                     {
-                        "id": 20,
-                        "template": "RATICATE_NORMAL",
-                        "form": 47
-                    },
-                    {
                         "id": 430,
                         "template": "HONCHKROW_NORMAL",
                         "form": 858
+                    },
+                    {
+                        "id": 20,
+                        "template": "RATICATE_NORMAL",
+                        "form": 47
                     }
                 ]
             ]
@@ -411,14 +411,14 @@
                 ],
                 [
                     {
-                        "id": 106,
-                        "template": "HITMONLEE_NORMAL",
-                        "form": 713
-                    },
-                    {
                         "id": 107,
                         "template": "HITMONCHAN_NORMAL",
                         "form": 277
+                    },
+                    {
+                        "id": 106,
+                        "template": "HITMONLEE_NORMAL",
+                        "form": 713
                     }
                 ],
                 [
@@ -558,14 +558,14 @@
                 ],
                 [
                     {
-                        "id": 42,
-                        "template": "GOLBAT_NORMAL",
-                        "form": 160
-                    },
-                    {
                         "id": 397,
                         "template": "STARAVIA_NORMAL",
                         "form": 1661
+                    },
+                    {
+                        "id": 42,
+                        "template": "GOLBAT_NORMAL",
+                        "form": 160
                     }
                 ],
                 [
@@ -722,6 +722,11 @@
                 ],
                 [
                     {
+                        "id": 76,
+                        "template": "GOLEM_NORMAL",
+                        "form": 71
+                    },
+                    {
                         "id": 323,
                         "template": "CAMERUPT"
                     },
@@ -729,11 +734,6 @@
                         "id": 450,
                         "template": "HIPPOWDON_NORMAL",
                         "form": 891
-                    },
-                    {
-                        "id": 76,
-                        "template": "GOLEM_NORMAL",
-                        "form": 71
                     }
                 ]
             ]
@@ -1311,14 +1311,14 @@
                 ],
                 [
                     {
-                        "id": 373,
-                        "template": "SALAMENCE_NORMAL",
-                        "form": 761
-                    },
-                    {
                         "id": 303,
                         "template": "MAWILE_NORMAL",
                         "form": 833
+                    },
+                    {
+                        "id": 373,
+                        "template": "SALAMENCE_NORMAL",
+                        "form": 761
                     },
                     {
                         "id": 6,
