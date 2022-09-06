@@ -23,6 +23,31 @@
                     }
                 }
             ]
+        },
+        {
+            "task": "Event: Spin 5 PokéStops or Gyms",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 343,
+                        "template": "BALTOY"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Event: Spin 15 PokéStops or Gyms",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 97,
+                        "template": "HYPNO_NORMAL",
+                        "form": 217
+                    }
+                }
+            ]
         }
     ],
     "quests": [
