@@ -1,19 +1,5 @@
 [
     {
-        "name": "Deoxys Raid Hour",
-        "type": "raid-hour",
-        "start": "2022-09-07 18:00",
-        "end": "2022-09-07 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Clefairy Commotion",
         "type": "event",
         "start": "2022-09-10 18:00",
