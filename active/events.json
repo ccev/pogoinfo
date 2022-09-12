@@ -1,19 +1,5 @@
 [
     {
-        "name": "Clefairy Commotion",
-        "type": "event",
-        "start": "2022-09-10 18:00",
-        "end": "2022-09-10 21:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Psychic Spectacular 2022",
         "type": "event",
         "start": "2022-09-06 10:00",
