@@ -1,55 +1,5 @@
 {
-    "event": [
-        {
-            "task": "Event: Make 5 Curveball Throws",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 605,
-                        "template": "ELGYEM"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Event: Make 5 Curveball Throws in a row",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 358,
-                        "template": "CHIMECHO"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Event: Spin 5 PokéStops or Gyms",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 343,
-                        "template": "BALTOY"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Event: Spin 15 PokéStops or Gyms",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 97,
-                        "template": "HYPNO_NORMAL",
-                        "form": 217
-                    }
-                }
-            ]
-        }
-    ],
+    "event": [],
     "quests": [
         {
             "task": "Catch 5 Pokémon with Weather Boost",

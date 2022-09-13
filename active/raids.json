@@ -1,65 +1,53 @@
 {
     "1": [
         {
-            "id": 201,
-            "template": "UNOWN_E",
-            "form": 5
+            "id": 155,
+            "template": "CYNDAQUIL_NORMAL",
+            "form": 1127
         },
         {
-            "id": 201,
-            "template": "UNOWN_P",
-            "form": 16
+            "id": 322,
+            "template": "NUMEL"
         },
         {
-            "id": 201,
-            "template": "UNOWN_S",
-            "form": 19
+            "id": 554,
+            "template": "DARUMAKA_NORMAL",
+            "form": 2063
         },
         {
-            "id": 677,
-            "template": "ESPURR"
+            "id": 599,
+            "template": "KLINK"
+        },
+        {
+            "id": 744,
+            "template": "ROCKRUFF"
         }
     ],
     "3": [
         {
-            "id": 26,
-            "template": "RAICHU_ALOLA",
-            "form": 50
+            "id": 110,
+            "template": "WEEZING_GALARIAN",
+            "form": 944
         },
         {
-            "id": 202,
-            "template": "WOBBUFFET_NORMAL",
-            "form": 602
+            "id": 227,
+            "template": "SKARMORY_NORMAL",
+            "form": 1295
         },
         {
-            "id": 203,
-            "template": "GIRAFARIG"
-        },
-        {
-            "id": 765,
-            "template": "ORANGURU"
+            "id": 303,
+            "template": "MAWILE_NORMAL",
+            "form": 833
         }
     ],
     "5": [
         {
-            "id": 386,
-            "template": "DEOXYS_NORMAL",
-            "form": 33
+            "id": 797,
+            "template": "CELESTEELA"
         },
         {
-            "id": 386,
-            "template": "DEOXYS_SPEED",
-            "form": 36
-        },
-        {
-            "id": 386,
-            "template": "DEOXYS_ATTACK",
-            "form": 34
-        },
-        {
-            "id": 386,
-            "template": "DEOXYS_DEFENSE",
-            "form": 35
+            "id": 798,
+            "template": "KARTANA"
         }
     ],
     "6": [
