@@ -79,14 +79,14 @@
                         "form": 256
                     },
                     {
-                        "id": 149,
-                        "template": "DRAGONITE_NORMAL",
-                        "form": 196
-                    },
-                    {
                         "id": 143,
                         "template": "SNORLAX_NORMAL",
                         "form": 199
+                    },
+                    {
+                        "id": 149,
+                        "template": "DRAGONITE_NORMAL",
+                        "form": 196
                     }
                 ]
             ]
@@ -399,14 +399,14 @@
             "team": [
                 [
                     {
-                        "id": 66,
-                        "template": "MACHOP_NORMAL",
-                        "form": 809
-                    },
-                    {
                         "id": 296,
                         "template": "MAKUHITA_NORMAL",
                         "form": 1451
+                    },
+                    {
+                        "id": 66,
+                        "template": "MACHOP_NORMAL",
+                        "form": 809
                     }
                 ],
                 [
@@ -650,13 +650,13 @@
                 ],
                 [
                     {
-                        "id": 591,
-                        "template": "AMOONGUSS"
-                    },
-                    {
                         "id": 332,
                         "template": "CACTURNE_NORMAL",
                         "form": 613
+                    },
+                    {
+                        "id": 591,
+                        "template": "AMOONGUSS"
                     },
                     {
                         "id": 154,
@@ -958,14 +958,14 @@
                 ],
                 [
                     {
-                        "id": 110,
-                        "template": "WEEZING_NORMAL",
-                        "form": 706
-                    },
-                    {
                         "id": 89,
                         "template": "MUK_NORMAL",
                         "form": 75
+                    },
+                    {
+                        "id": 110,
+                        "template": "WEEZING_NORMAL",
+                        "form": 706
                     }
                 ]
             ]
@@ -1259,14 +1259,14 @@
                         "form": 169
                     },
                     {
-                        "id": 169,
-                        "template": "CROBAT_NORMAL",
-                        "form": 202
-                    },
-                    {
                         "id": 139,
                         "template": "OMASTAR_NORMAL",
                         "form": 743
+                    },
+                    {
+                        "id": 169,
+                        "template": "CROBAT_NORMAL",
+                        "form": 202
                     }
                 ],
                 [
@@ -1373,14 +1373,14 @@
                         "form": 1364
                     },
                     {
-                        "id": 131,
-                        "template": "LAPRAS_NORMAL",
-                        "form": 322
-                    },
-                    {
                         "id": 9,
                         "template": "BLASTOISE_NORMAL",
                         "form": 187
+                    },
+                    {
+                        "id": 131,
+                        "template": "LAPRAS_NORMAL",
+                        "form": 322
                     }
                 ],
                 [
