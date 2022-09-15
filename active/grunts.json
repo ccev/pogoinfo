@@ -722,13 +722,13 @@
                 ],
                 [
                     {
+                        "id": 323,
+                        "template": "CAMERUPT"
+                    },
+                    {
                         "id": 76,
                         "template": "GOLEM_NORMAL",
                         "form": 71
-                    },
-                    {
-                        "id": 323,
-                        "template": "CAMERUPT"
                     },
                     {
                         "id": 450,
@@ -898,14 +898,14 @@
                         "form": 47
                     },
                     {
-                        "id": 217,
-                        "template": "URSARING_NORMAL",
-                        "form": 1268
-                    },
-                    {
                         "id": 400,
                         "template": "BIBAREL_NORMAL",
                         "form": 1670
+                    },
+                    {
+                        "id": 217,
+                        "template": "URSARING_NORMAL",
+                        "form": 1268
                     }
                 ]
             ]
@@ -958,14 +958,14 @@
                 ],
                 [
                     {
-                        "id": 89,
-                        "template": "MUK_NORMAL",
-                        "form": 75
-                    },
-                    {
                         "id": 110,
                         "template": "WEEZING_NORMAL",
                         "form": 706
+                    },
+                    {
+                        "id": 89,
+                        "template": "MUK_NORMAL",
+                        "form": 75
                     }
                 ]
             ]
@@ -1630,13 +1630,13 @@
                         "form": 652
                     },
                     {
+                        "id": 405,
+                        "template": "LUXRAY"
+                    },
+                    {
                         "id": 125,
                         "template": "ELECTABUZZ_NORMAL",
                         "form": 640
-                    },
-                    {
-                        "id": 405,
-                        "template": "LUXRAY"
                     }
                 ]
             ]
