@@ -1,5 +1,18 @@
 {
-    "event": [],
+    "event": [
+        {
+            "task": "Event: Power up a Steel-type Pokémon 5 times",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 777,
+                        "template": "TOGEDEMARU"
+                    }
+                }
+            ]
+        }
+    ],
     "quests": [
         {
             "task": "Catch 5 Pokémon with Weather Boost",
