@@ -152,14 +152,14 @@
                         "form": 250
                     },
                     {
-                        "id": 205,
-                        "template": "FORRETRESS_NORMAL",
-                        "form": 1247
-                    },
-                    {
                         "id": 127,
                         "template": "PINSIR_NORMAL",
                         "form": 898
+                    },
+                    {
+                        "id": 205,
+                        "template": "FORRETRESS_NORMAL",
+                        "form": 1247
                     }
                 ]
             ]
@@ -428,14 +428,14 @@
                         "form": 812
                     },
                     {
-                        "id": 106,
-                        "template": "HITMONLEE_NORMAL",
-                        "form": 713
-                    },
-                    {
                         "id": 107,
                         "template": "HITMONCHAN_NORMAL",
                         "form": 277
+                    },
+                    {
+                        "id": 106,
+                        "template": "HITMONLEE_NORMAL",
+                        "form": 713
                     }
                 ]
             ]
@@ -958,14 +958,14 @@
                 ],
                 [
                     {
-                        "id": 89,
-                        "template": "MUK_NORMAL",
-                        "form": 75
-                    },
-                    {
                         "id": 110,
                         "template": "WEEZING_NORMAL",
                         "form": 706
+                    },
+                    {
+                        "id": 89,
+                        "template": "MUK_NORMAL",
+                        "form": 75
                     }
                 ]
             ]
@@ -1373,14 +1373,14 @@
                         "form": 1364
                     },
                     {
-                        "id": 9,
-                        "template": "BLASTOISE_NORMAL",
-                        "form": 187
-                    },
-                    {
                         "id": 131,
                         "template": "LAPRAS_NORMAL",
                         "form": 322
+                    },
+                    {
+                        "id": 9,
+                        "template": "BLASTOISE_NORMAL",
+                        "form": 187
                     }
                 ],
                 [
