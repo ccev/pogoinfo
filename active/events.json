@@ -180,13 +180,68 @@
         "type": "event",
         "start": "2022-09-27 10:00",
         "end": "2022-10-03 20:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
+        "spawns": [
+            {
+                "id": 281,
+                "template": "KIRLIA",
+                "costume": 16
+            },
+            {
+                "id": 359,
+                "template": "ABSOL"
+            }
+        ],
+        "eggs": [
+            {
+                "id": 238,
+                "template": "SMOOCHUM",
+                "costume": 16
+            },
+            {
+                "id": 453,
+                "template": "CROAGUNK"
+            }
+        ],
+        "raids": [
+            {
+                "id": 453,
+                "template": "CROAGUNK"
+            },
+            {
+                "id": 559,
+                "template": "SCRAGGY"
+            },
+            {
+                "id": 676,
+                "template": "FURFROU"
+            },
+            {
+                "id": 281,
+                "template": "KIRLIA",
+                "costume": 16
+            },
+            {
+                "id": 359,
+                "template": "ABSOL"
+            },
+            {
+                "id": 747,
+                "template": "MAREANIE"
+            },
+            {
+                "id": 717,
+                "template": "YVELTAL"
+            },
+            {
+                "id": 428,
+                "template": "LOPUNNY",
+                "temp_evolution_id": 1
+            }
+        ],
         "shinies": [],
         "bonuses": [],
         "features": [],
-        "has_quests": false,
+        "has_quests": true,
         "has_spawnpoints": false
     },
     {
