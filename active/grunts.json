@@ -898,14 +898,14 @@
                         "form": 47
                     },
                     {
-                        "id": 400,
-                        "template": "BIBAREL_NORMAL",
-                        "form": 1670
-                    },
-                    {
                         "id": 217,
                         "template": "URSARING_NORMAL",
                         "form": 1268
+                    },
+                    {
+                        "id": 400,
+                        "template": "BIBAREL_NORMAL",
+                        "form": 1670
                     }
                 ]
             ]
@@ -1259,14 +1259,14 @@
                         "form": 169
                     },
                     {
-                        "id": 169,
-                        "template": "CROBAT_NORMAL",
-                        "form": 202
-                    },
-                    {
                         "id": 139,
                         "template": "OMASTAR_NORMAL",
                         "form": 743
+                    },
+                    {
+                        "id": 169,
+                        "template": "CROBAT_NORMAL",
+                        "form": 202
                     }
                 ],
                 [
@@ -1630,13 +1630,13 @@
                         "form": 652
                     },
                     {
-                        "id": 405,
-                        "template": "LUXRAY"
-                    },
-                    {
                         "id": 125,
                         "template": "ELECTABUZZ_NORMAL",
                         "form": 640
+                    },
+                    {
+                        "id": 405,
+                        "template": "LUXRAY"
                     }
                 ]
             ]
