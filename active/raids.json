@@ -52,9 +52,9 @@
     ],
     "6": [
         {
-            "id": 65,
-            "template": "ALAKAZAM_NORMAL",
-            "form": 310,
+            "id": 306,
+            "template": "AGGRON_NORMAL",
+            "form": 1475,
             "temp_evolution_id": 1
         }
     ]
