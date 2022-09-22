@@ -1,33 +1,33 @@
 {
     "1": [
         {
-            "id": 123,
-            "template": "SCYTHER_NORMAL",
-            "form": 247
+            "id": 155,
+            "template": "CYNDAQUIL_NORMAL",
+            "form": 1127
         },
         {
-            "id": 374,
-            "template": "BELDUM_NORMAL",
-            "form": 764
+            "id": 322,
+            "template": "NUMEL"
         },
         {
-            "id": 410,
-            "template": "SHIELDON"
+            "id": 554,
+            "template": "DARUMAKA_NORMAL",
+            "form": 2063
         },
         {
             "id": 599,
             "template": "KLINK"
         },
         {
-            "id": 777,
-            "template": "TOGEDEMARU"
+            "id": 744,
+            "template": "ROCKRUFF"
         }
     ],
     "3": [
         {
-            "id": 82,
-            "template": "MAGNETON_NORMAL",
-            "form": 658
+            "id": 110,
+            "template": "WEEZING_GALARIAN",
+            "form": 944
         },
         {
             "id": 227,
@@ -38,11 +38,6 @@
             "id": 303,
             "template": "MAWILE_NORMAL",
             "form": 833
-        },
-        {
-            "id": 305,
-            "template": "LAIRON_NORMAL",
-            "form": 1472
         }
     ],
     "5": [
@@ -57,9 +52,9 @@
     ],
     "6": [
         {
-            "id": 306,
-            "template": "AGGRON_NORMAL",
-            "form": 1475,
+            "id": 65,
+            "template": "ALAKAZAM_NORMAL",
+            "form": 310,
             "temp_evolution_id": 1
         }
     ]
