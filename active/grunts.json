@@ -399,14 +399,14 @@
             "team": [
                 [
                     {
-                        "id": 66,
-                        "template": "MACHOP_NORMAL",
-                        "form": 809
-                    },
-                    {
                         "id": 296,
                         "template": "MAKUHITA_NORMAL",
                         "form": 1451
+                    },
+                    {
+                        "id": 66,
+                        "template": "MACHOP_NORMAL",
+                        "form": 809
                     }
                 ],
                 [
