@@ -1,31 +1,6 @@
 {
     "event": [
         {
-            "task": "Event: Make 5 Great Throws",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 747,
-                        "template": "MAREANIE"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Event: Catch 5 Pokémon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 198,
-                        "template": "MURKROW_NORMAL",
-                        "form": 855
-                    }
-                }
-            ]
-        },
-        {
             "task": "Event: Take a snapshot of Glameow in the wild",
             "rewards": [
                 {
@@ -45,25 +20,26 @@
             ]
         },
         {
-            "task": "Event: Take a snapshot of Blitzle in the wild",
+            "task": "Event: Catch 5 Pokémon",
             "rewards": [
                 {
                     "type": "pokemon",
                     "reward": {
-                        "id": 676,
-                        "template": "FURFROU"
+                        "id": 198,
+                        "template": "MURKROW_NORMAL",
+                        "form": 855
                     }
                 }
             ]
         },
         {
-            "task": "Event: Take 3 snapshots of wild Pokémon",
+            "task": "Event: Catch 15 Pokémon",
             "rewards": [
                 {
                     "type": "pokemon",
                     "reward": {
-                        "id": 676,
-                        "template": "FURFROU"
+                        "id": 453,
+                        "template": "CROAGUNK"
                     }
                 }
             ]
@@ -93,6 +69,18 @@
             ]
         },
         {
+            "task": "Event: Make 5 Great Throws",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 747,
+                        "template": "MAREANIE"
+                    }
+                }
+            ]
+        },
+        {
             "task": "Event: Use 10 Berries to help catch Pokémon",
             "rewards": [
                 {
@@ -100,6 +88,42 @@
                     "reward": {
                         "id": 522,
                         "template": "BLITZLE"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Event: Take a snapshot of Blitzle in the wild",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 676,
+                        "template": "FURFROU"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Event: Take 3 snapshots of wild Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 676,
+                        "template": "FURFROU"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Event: Make 3 Great Curveball Throws",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 747,
+                        "template": "MAREANIE"
                     }
                 }
             ]
