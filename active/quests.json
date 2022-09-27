@@ -20,6 +20,30 @@
             ]
         },
         {
+            "task": "Event: Take a snapshot of Blitzle in the wild",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 676,
+                        "template": "FURFROU"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Event: Take 3 snapshots of wild Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 676,
+                        "template": "FURFROU"
+                    }
+                }
+            ]
+        },
+        {
             "task": "Event: Catch 5 Pokémon",
             "rewards": [
                 {
@@ -57,6 +81,18 @@
             ]
         },
         {
+            "task": "Event: Make 3 Great Curveball Throws in a row",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 747,
+                        "template": "MAREANIE"
+                    }
+                }
+            ]
+        },
+        {
             "task": "Event: Make 3 Great Throws",
             "rewards": [
                 {
@@ -88,42 +124,6 @@
                     "reward": {
                         "id": 522,
                         "template": "BLITZLE"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Event: Take a snapshot of Blitzle in the wild",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 676,
-                        "template": "FURFROU"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Event: Take 3 snapshots of wild Pokémon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 676,
-                        "template": "FURFROU"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Event: Make 3 Great Curveball Throws",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 747,
-                        "template": "MAREANIE"
                     }
                 }
             ]
