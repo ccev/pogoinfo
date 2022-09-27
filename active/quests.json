@@ -1,5 +1,110 @@
 {
-    "event": [],
+    "event": [
+        {
+            "task": "Event: Make 5 Great Throws",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 747,
+                        "template": "MAREANIE"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Event: Catch 5 Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 198,
+                        "template": "MURKROW_NORMAL",
+                        "form": 855
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Event: Take a snapshot of Glameow in the wild",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 676,
+                        "template": "FURFROU"
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 431,
+                        "template": "GLAMEOW"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Event: Take a snapshot of Blitzle in the wild",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 676,
+                        "template": "FURFROU"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Event: Take 3 snapshots of wild Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 676,
+                        "template": "FURFROU"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Event: Make 3 Nice Throws",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 300,
+                        "template": "SKITTY"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Event: Make 3 Great Throws",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 133,
+                        "template": "EEVEE"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Event: Use 10 Berries to help catch Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 522,
+                        "template": "BLITZLE"
+                    }
+                }
+            ]
+        }
+    ],
     "quests": [
         {
             "task": "Catch 5 Pokémon with Weather Boost",
@@ -1110,18 +1215,6 @@
             ]
         },
         {
-            "task": "Take 2 snapshots of wild Steel-type Pokémon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 436,
-                        "template": "BRONZOR"
-                    }
-                }
-            ]
-        },
-        {
             "task": "Hatch 2 Eggs",
             "rewards": [
                 {
@@ -1130,6 +1223,18 @@
                         "id": 374,
                         "template": "BELDUM_NORMAL",
                         "form": 764
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Take 2 snapshots of wild Steel-type Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 436,
+                        "template": "BRONZOR"
                     }
                 }
             ]

@@ -1,60 +1,57 @@
 {
     "1": [
         {
-            "id": 155,
-            "template": "CYNDAQUIL_NORMAL",
-            "form": 1127
+            "id": 50,
+            "template": "DIGLETT_NORMAL",
+            "form": 59
         },
         {
-            "id": 322,
-            "template": "NUMEL"
+            "id": 403,
+            "template": "SHINX"
         },
         {
-            "id": 554,
-            "template": "DARUMAKA_NORMAL",
-            "form": 2063
+            "id": 453,
+            "template": "CROAGUNK"
         },
         {
-            "id": 599,
-            "template": "KLINK"
+            "id": 559,
+            "template": "SCRAGGY"
         },
         {
-            "id": 744,
-            "template": "ROCKRUFF"
+            "id": 676,
+            "template": "FURFROU"
         }
     ],
     "3": [
         {
-            "id": 110,
-            "template": "WEEZING_GALARIAN",
-            "form": 944
+            "id": 12,
+            "template": "BUTTERFREE"
         },
         {
-            "id": 227,
-            "template": "SKARMORY_NORMAL",
-            "form": 1295
+            "id": 281,
+            "template": "KIRLIA_NORMAL",
+            "form": 295
         },
         {
-            "id": 303,
-            "template": "MAWILE_NORMAL",
-            "form": 833
+            "id": 359,
+            "template": "ABSOL_NORMAL",
+            "form": 830
+        },
+        {
+            "id": 747,
+            "template": "MAREANIE"
         }
     ],
     "5": [
         {
-            "id": 797,
-            "template": "CELESTEELA"
-        },
-        {
-            "id": 798,
-            "template": "KARTANA"
+            "id": 717,
+            "template": "YVELTAL"
         }
     ],
     "6": [
         {
-            "id": 306,
-            "template": "AGGRON_NORMAL",
-            "form": 1475,
+            "id": 428,
+            "template": "LOPUNNY",
             "temp_evolution_id": 1
         }
     ]
