@@ -1,19 +1,5 @@
 [
     {
-        "name": "Minccino Spotlight Hour",
-        "type": "spotlight-hour",
-        "start": "2022-09-27 18:00",
-        "end": "2022-09-27 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": true
-    },
-    {
         "name": "Yveltal Raid Hour",
         "type": "raid-hour",
         "start": "2022-10-05 18:00",
@@ -143,13 +129,123 @@
         "type": "event",
         "start": "2022-10-05 10:00",
         "end": "2022-10-11 20:00",
-        "spawns": [],
+        "spawns": [
+            {
+                "id": 79,
+                "template": "SLOWPOKE"
+            },
+            {
+                "id": 95,
+                "template": "ONIX"
+            },
+            {
+                "id": 123,
+                "template": "SCYTHER"
+            },
+            {
+                "id": 137,
+                "template": "PORYGON"
+            },
+            {
+                "id": 191,
+                "template": "SUNKERN"
+            },
+            {
+                "id": 82,
+                "template": "MAGNETON"
+            },
+            {
+                "id": 112,
+                "template": "RHYDON"
+            },
+            {
+                "id": 176,
+                "template": "TOGETIC"
+            },
+            {
+                "id": 221,
+                "template": "PILOSWINE"
+            },
+            {
+                "id": 716,
+                "template": "XERNEAS"
+            },
+            {
+                "id": 717,
+                "template": "YVELTAL"
+            },
+            {
+                "id": 310,
+                "template": "MANECTRIC",
+                "temp_evolution_id": 1
+            },
+            {
+                "id": 428,
+                "template": "LOPUNNY",
+                "temp_evolution_id": 1
+            }
+        ],
         "eggs": [],
-        "raids": [],
+        "raids": [
+            {
+                "id": 79,
+                "template": "SLOWPOKE"
+            },
+            {
+                "id": 95,
+                "template": "ONIX"
+            },
+            {
+                "id": 123,
+                "template": "SCYTHER"
+            },
+            {
+                "id": 137,
+                "template": "PORYGON"
+            },
+            {
+                "id": 191,
+                "template": "SUNKERN"
+            },
+            {
+                "id": 82,
+                "template": "MAGNETON"
+            },
+            {
+                "id": 112,
+                "template": "RHYDON"
+            },
+            {
+                "id": 176,
+                "template": "TOGETIC"
+            },
+            {
+                "id": 221,
+                "template": "PILOSWINE"
+            },
+            {
+                "id": 716,
+                "template": "XERNEAS"
+            },
+            {
+                "id": 717,
+                "template": "YVELTAL"
+            },
+            {
+                "id": 310,
+                "template": "MANECTRIC",
+                "temp_evolution_id": 1
+            },
+            {
+                "id": 428,
+                "template": "LOPUNNY",
+                "temp_evolution_id": 1
+            }
+        ],
         "shinies": [],
         "bonuses": [],
         "features": [],
-        "has_quests": false,
+        "has_quests": true,
         "has_spawnpoints": false
     },
     {
