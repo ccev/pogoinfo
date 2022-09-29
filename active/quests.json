@@ -44,6 +44,18 @@
             ]
         },
         {
+            "task": "Event: Take a snapshot of your buddy",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 676,
+                        "template": "FURFROU"
+                    }
+                }
+            ]
+        },
+        {
             "task": "Event: Catch 5 Pokémon",
             "rewards": [
                 {
@@ -124,18 +136,6 @@
                     "reward": {
                         "id": 522,
                         "template": "BLITZLE"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Event: Take a snapshot of your buddy",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 676,
-                        "template": "FURFROU"
                     }
                 }
             ]
