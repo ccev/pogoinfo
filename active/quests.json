@@ -220,6 +220,27 @@
             ]
         },
         {
+            "task": "Catch 5 Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 41,
+                        "template": "ZUBAT_NORMAL",
+                        "form": 157
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 216,
+                        "template": "TEDDIURSA_NORMAL",
+                        "form": 1265
+                    }
+                }
+            ]
+        },
+        {
             "task": "Catch a Dragon-type Pokémon",
             "rewards": [
                 {
@@ -255,19 +276,6 @@
                         "id": 371,
                         "template": "BAGON_NORMAL",
                         "form": 755
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Catch 5 Pokémon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 41,
-                        "template": "ZUBAT_NORMAL",
-                        "form": 157
                     }
                 }
             ]
@@ -1078,6 +1086,26 @@
             ]
         },
         {
+            "task": "Hatch an Egg",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 226,
+                        "template": "MANTINE"
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 44,
+                        "template": "GLOOM_NORMAL",
+                        "form": 268
+                    }
+                }
+            ]
+        },
+        {
             "task": "Evolve a Pokémon",
             "rewards": [
                 {
@@ -1136,26 +1164,6 @@
             ]
         },
         {
-            "task": "Hatch an Egg",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 226,
-                        "template": "MANTINE"
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 44,
-                        "template": "GLOOM_NORMAL",
-                        "form": 268
-                    }
-                }
-            ]
-        },
-        {
             "task": "Spin 3 PokéStops or Gyms",
             "rewards": [
                 {
@@ -1200,8 +1208,16 @@
             ]
         },
         {
-            "task": "Take 2 snapshots of wild Steel-type Pokémon",
-            "rewards": []
+            "task": "Take 2 snapshots of wild Ghost-type Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 425,
+                        "template": "DRIFLOON"
+                    }
+                }
+            ]
         }
     ],
     "ar": [
