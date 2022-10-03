@@ -594,6 +594,19 @@
             ]
         },
         {
+            "task": "Make 3 Excellent Throws in a row",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 443,
+                        "template": "GIBLE_NORMAL",
+                        "form": 861
+                    }
+                }
+            ]
+        },
+        {
             "task": "Make 3 Excellent Throws",
             "rewards": [
                 {
@@ -656,19 +669,6 @@
                     "reward": {
                         "id": 327,
                         "template": "SPINDA"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Make 3 Excellent Throws in a row",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 443,
-                        "template": "GIBLE_NORMAL",
-                        "form": 861
                     }
                 }
             ]
@@ -828,6 +828,30 @@
             ]
         },
         {
+            "task": "Win a raid",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 686,
+                        "template": "INKAY"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Battle in GO Battle League",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 168,
+                        "template": "ARIADOS"
+                    }
+                }
+            ]
+        },
+        {
             "task": "Win a three-star raid or higher",
             "rewards": [
                 {
@@ -849,18 +873,6 @@
             ]
         },
         {
-            "task": "Win a raid",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 686,
-                        "template": "INKAY"
-                    }
-                }
-            ]
-        },
-        {
             "task": "Win 5 raids",
             "rewards": [
                 {
@@ -874,20 +886,16 @@
             ]
         },
         {
-            "task": "Battle in GO Battle League",
+            "task": "Trade a Pokémon",
             "rewards": [
                 {
                     "type": "pokemon",
                     "reward": {
-                        "id": 168,
-                        "template": "ARIADOS"
+                        "id": 93,
+                        "template": "HAUNTER"
                     }
                 }
             ]
-        },
-        {
-            "task": "Defeat 2 Team GO Rocket Grunts",
-            "rewards": []
         },
         {
             "task": "Send 3 Gifts to friends",
@@ -940,13 +948,14 @@
             ]
         },
         {
-            "task": "Trade a Pokémon",
+            "task": "Battle alongside your buddy while it's adventuring with you",
             "rewards": [
                 {
                     "type": "pokemon",
                     "reward": {
-                        "id": 93,
-                        "template": "HAUNTER"
+                        "id": 200,
+                        "template": "MISDREAVUS_NORMAL",
+                        "form": 719
                     }
                 }
             ]
@@ -960,19 +969,6 @@
                         "id": 618,
                         "template": "STUNFISK_NORMAL",
                         "form": 2246
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Battle alongside your buddy while it's adventuring with you",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 200,
-                        "template": "MISDREAVUS_NORMAL",
-                        "form": 719
                     }
                 }
             ]
@@ -1006,35 +1002,6 @@
             ]
         },
         {
-            "task": "Power up Pokémon 5 times",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 152,
-                        "template": "CHIKORITA_NORMAL",
-                        "form": 1118
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 155,
-                        "template": "CYNDAQUIL_NORMAL",
-                        "form": 1127
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 158,
-                        "template": "TOTODILE_NORMAL",
-                        "form": 1136
-                    }
-                }
-            ]
-        },
-        {
             "task": "Power up Pokémon 3 times",
             "rewards": [
                 {
@@ -1059,6 +1026,35 @@
                         "id": 7,
                         "template": "SQUIRTLE_NORMAL",
                         "form": 181
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Power up Pokémon 5 times",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 152,
+                        "template": "CHIKORITA_NORMAL",
+                        "form": 1118
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 155,
+                        "template": "CYNDAQUIL_NORMAL",
+                        "form": 1127
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 158,
+                        "template": "TOTODILE_NORMAL",
+                        "form": 1136
                     }
                 }
             ]
@@ -1113,6 +1109,19 @@
                     "reward": {
                         "id": 133,
                         "template": "EEVEE"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Spin 5 PokéStops or Gyms",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 280,
+                        "template": "RALTS_NORMAL",
+                        "form": 292
                     }
                 }
             ]
@@ -1190,19 +1199,6 @@
                     "reward": {
                         "id": 185,
                         "template": "SUDOWOODO"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Spin 5 PokéStops or Gyms",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 280,
-                        "template": "RALTS_NORMAL",
-                        "form": 292
                     }
                 }
             ]
