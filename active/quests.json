@@ -840,6 +840,19 @@
             ]
         },
         {
+            "task": "Win 5 raids",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 142,
+                        "template": "AERODACTYL_NORMAL",
+                        "form": 1110
+                    }
+                }
+            ]
+        },
+        {
             "task": "Battle in GO Battle League",
             "rewards": [
                 {
@@ -868,19 +881,6 @@
                         "id": 140,
                         "template": "KABUTO_NORMAL",
                         "form": 1104
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Win 5 raids",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 142,
-                        "template": "AERODACTYL_NORMAL",
-                        "form": 1110
                     }
                 }
             ]
