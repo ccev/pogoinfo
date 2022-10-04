@@ -1,45 +1,50 @@
 {
     "1": [
         {
-            "id": 50,
-            "template": "DIGLETT_NORMAL",
-            "form": 59
+            "id": 52,
+            "template": "MEOWTH_ALOLA",
+            "form": 64
         },
         {
-            "id": 403,
-            "template": "SHINX"
+            "id": 198,
+            "template": "MURKROW_NORMAL",
+            "form": 855
         },
         {
-            "id": 453,
-            "template": "CROAGUNK"
+            "id": 261,
+            "template": "POOCHYENA_NORMAL",
+            "form": 1367
+        },
+        {
+            "id": 318,
+            "template": "CARVANHA_NORMAL",
+            "form": 734
         },
         {
             "id": 559,
             "template": "SCRAGGY"
-        },
-        {
-            "id": 676,
-            "template": "FURFROU"
         }
     ],
     "3": [
         {
-            "id": 12,
-            "template": "BUTTERFREE"
+            "id": 110,
+            "template": "WEEZING_GALARIAN",
+            "form": 944
         },
         {
-            "id": 281,
-            "template": "KIRLIA_NORMAL",
-            "form": 295
+            "id": 248,
+            "template": "TYRANITAR_NORMAL",
+            "form": 319
+        },
+        {
+            "id": 303,
+            "template": "MAWILE_NORMAL",
+            "form": 833
         },
         {
             "id": 359,
             "template": "ABSOL_NORMAL",
             "form": 830
-        },
-        {
-            "id": 747,
-            "template": "MAREANIE"
         }
     ],
     "5": [
