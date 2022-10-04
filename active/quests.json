@@ -1,146 +1,5 @@
 {
-    "event": [
-        {
-            "task": "Event: Take a snapshot of Glameow in the wild",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 676,
-                        "template": "FURFROU"
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 431,
-                        "template": "GLAMEOW"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Event: Take a snapshot of Blitzle in the wild",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 676,
-                        "template": "FURFROU"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Event: Take 3 snapshots of wild Pokémon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 676,
-                        "template": "FURFROU"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Event: Take a snapshot of your buddy",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 676,
-                        "template": "FURFROU"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Event: Catch 5 Pokémon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 198,
-                        "template": "MURKROW_NORMAL",
-                        "form": 855
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Event: Catch 15 Pokémon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 453,
-                        "template": "CROAGUNK"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Event: Make 3 Nice Throws",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 300,
-                        "template": "SKITTY"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Event: Make 3 Great Curveball Throws in a row",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 747,
-                        "template": "MAREANIE"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Event: Make 3 Great Throws",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 133,
-                        "template": "EEVEE"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Event: Make 5 Great Throws",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 747,
-                        "template": "MAREANIE"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Event: Use 10 Berries to help catch Pokémon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 522,
-                        "template": "BLITZLE"
-                    }
-                }
-            ]
-        }
-    ],
+    "event": [],
     "quests": [
         {
             "task": "Catch 5 Pokémon with Weather Boost",
@@ -220,6 +79,19 @@
             ]
         },
         {
+            "task": "Catch 7 Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 129,
+                        "template": "MAGIKARP_NORMAL",
+                        "form": 253
+                    }
+                }
+            ]
+        },
+        {
             "task": "Catch 5 Pokémon",
             "rewards": [
                 {
@@ -236,6 +108,13 @@
                         "id": 216,
                         "template": "TEDDIURSA_NORMAL",
                         "form": 1265
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 527,
+                        "template": "WOOBAT"
                     }
                 }
             ]
@@ -276,19 +155,6 @@
                         "id": 371,
                         "template": "BAGON_NORMAL",
                         "form": 755
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Catch 7 Pokémon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 129,
-                        "template": "MAGIKARP_NORMAL",
-                        "form": 253
                     }
                 }
             ]
@@ -607,7 +473,7 @@
             ]
         },
         {
-            "task": "Make 3 Excellent Throws",
+            "task": "Make 3 Excellent Curveball Throws",
             "rewards": [
                 {
                     "type": "pokemon",
@@ -828,6 +694,27 @@
             ]
         },
         {
+            "task": "Win a three-star raid or higher",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 138,
+                        "template": "OMANYTE_NORMAL",
+                        "form": 740
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 140,
+                        "template": "KABUTO_NORMAL",
+                        "form": 1104
+                    }
+                }
+            ]
+        },
+        {
             "task": "Win a raid",
             "rewards": [
                 {
@@ -860,27 +747,6 @@
                     "reward": {
                         "id": 168,
                         "template": "ARIADOS"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Win a three-star raid or higher",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 138,
-                        "template": "OMANYTE_NORMAL",
-                        "form": 740
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 140,
-                        "template": "KABUTO_NORMAL",
-                        "form": 1104
                     }
                 }
             ]
@@ -1100,6 +966,39 @@
             ]
         },
         {
+            "task": "Take a snapshot of a wild Pokémon",
+            "rewards": [
+                {
+                    "type": "item",
+                    "amount": 1,
+                    "id": 1102
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 198,
+                        "template": "MURKROW_NORMAL",
+                        "form": 855
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 187,
+                        "template": "HOPPIP_NORMAL",
+                        "form": 1205
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 193,
+                        "template": "YANMA"
+                    }
+                }
+            ]
+        },
+        {
             "task": "Hatch an Egg",
             "rewards": [
                 {
@@ -1158,34 +1057,13 @@
             ]
         },
         {
-            "task": "Take a snapshot of a wild Pokémon",
+            "task": "Take 2 snapshots of Ghost-type Pokémon",
             "rewards": [
                 {
-                    "type": "item",
-                    "amount": 1,
-                    "id": 1102
-                },
-                {
                     "type": "pokemon",
                     "reward": {
-                        "id": 198,
-                        "template": "MURKROW_NORMAL",
-                        "form": 855
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 187,
-                        "template": "HOPPIP_NORMAL",
-                        "form": 1205
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 193,
-                        "template": "YANMA"
+                        "id": 425,
+                        "template": "DRIFLOON"
                     }
                 }
             ]
@@ -1217,18 +1095,6 @@
                     "reward": {
                         "id": 185,
                         "template": "SUDOWOODO"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Take 2 snapshots of wild Ghost-type Pokémon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 425,
-                        "template": "DRIFLOON"
                     }
                 }
             ]
