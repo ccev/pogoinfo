@@ -128,7 +128,17 @@
                 {
                     "type": "item",
                     "amount": 1,
+                    "id": 1103
+                },
+                {
+                    "type": "item",
+                    "amount": 1,
                     "id": 1104
+                },
+                {
+                    "type": "item",
+                    "amount": 1,
+                    "id": 1105
                 },
                 {
                     "type": "item",
@@ -1062,34 +1072,6 @@
             ]
         },
         {
-            "task": "Power up Pokémon 7 times",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 252,
-                        "template": "TREECKO"
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 255,
-                        "template": "TORCHIC_NORMAL",
-                        "form": 1358
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 258,
-                        "template": "MUDKIP_NORMAL",
-                        "form": 205
-                    }
-                }
-            ]
-        },
-        {
             "task": "Power up Pokémon 5 times",
             "rewards": [
                 {
@@ -1114,6 +1096,34 @@
                         "id": 158,
                         "template": "TOTODILE_NORMAL",
                         "form": 1136
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Power up Pokémon 7 times",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 252,
+                        "template": "TREECKO"
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 255,
+                        "template": "TORCHIC_NORMAL",
+                        "form": 1358
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 258,
+                        "template": "MUDKIP_NORMAL",
+                        "form": 205
                     }
                 }
             ]
