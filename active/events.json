@@ -358,16 +358,38 @@
         "has_spawnpoints": false
     },
     {
-        "name": "November Community Day Classic",
+        "name": "Dratini Community Day Classic",
         "type": "community-day",
-        "start": "2022-11-05 11:00",
-        "end": "2022-11-05 14:00",
+        "start": "2022-11-05 14:00",
+        "end": "2022-11-05 17:00",
         "spawns": [],
         "eggs": [],
         "raids": [],
         "shinies": [],
-        "bonuses": [],
-        "features": [],
+        "bonuses": [
+            {
+                "text": "Increased Spawns"
+            },
+            {
+                "text": "3x Catch Stardust",
+                "template": "increased-stardust",
+                "value": 3
+            },
+            {
+                "text": "3-hour Incense",
+                "template": "longer-incense",
+                "value": 3
+            },
+            {
+                "text": "3-hour Lures",
+                "template": "longer-lure",
+                "value": 3
+            }
+        ],
+        "features": [
+            "Trainer Battles: 150 power and decreases the user’s Attack.",
+            "Gyms and raids: 150 power"
+        ],
         "has_quests": true,
         "has_spawnpoints": true
     },
