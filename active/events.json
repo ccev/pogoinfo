@@ -1,33 +1,5 @@
 [
     {
-        "name": "Purrloin Spotlight Hour",
-        "type": "spotlight-hour",
-        "start": "2022-10-04 18:00",
-        "end": "2022-10-04 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": true
-    },
-    {
-        "name": "Yveltal Raid Hour",
-        "type": "raid-hour",
-        "start": "2022-10-05 18:00",
-        "end": "2022-10-05 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Haunter Spotlight Hour",
         "type": "spotlight-hour",
         "start": "2022-10-11 18:00",
@@ -247,13 +219,86 @@
         "type": "event",
         "start": "2022-10-14 10:00",
         "end": "2022-10-17 20:00",
-        "spawns": [],
+        "spawns": [
+            {
+                "id": 77,
+                "template": "PONYTA_GALARIAN",
+                "form": 2336
+            },
+            {
+                "id": 777,
+                "template": "TOGEDEMARU"
+            }
+        ],
         "eggs": [],
-        "raids": [],
+        "raids": [
+            {
+                "id": 77,
+                "template": "PONYTA_GALARIAN",
+                "form": 2336
+            },
+            {
+                "id": 554,
+                "template": "DARUMAKA"
+            },
+            {
+                "id": 702,
+                "template": "DEDENNE"
+            },
+            {
+                "id": 755,
+                "template": "MORELULL"
+            },
+            {
+                "id": 26,
+                "template": "RAICHU_ALOLA",
+                "form": 50
+            },
+            {
+                "id": 110,
+                "template": "WEEZING_GALARIAN",
+                "form": 944
+            },
+            {
+                "id": 303,
+                "template": "MAWILE"
+            },
+            {
+                "id": 628,
+                "template": "BRAVIARY"
+            },
+            {
+                "id": 716,
+                "template": "XERNEAS"
+            },
+            {
+                "id": 310,
+                "template": "MANECTRIC",
+                "temp_evolution_id": 1
+            }
+        ],
         "shinies": [],
-        "bonuses": [],
+        "bonuses": [
+            {
+                "text": "You’ll have an increased chance of encountering Shiny Chinchou!"
+            },
+            {
+                "text": "2× XP for catching Pokémon",
+                "template": "increased-xp",
+                "value": 2
+            },
+            {
+                "text": "2× Candy for catching Pokémon",
+                "template": "increased-candy",
+                "value": 2
+            },
+            {
+                "text": "Incense activated during the event will last for two hours",
+                "template": "longer-incense"
+            }
+        ],
         "features": [],
-        "has_quests": false,
+        "has_quests": true,
         "has_spawnpoints": false
     },
     {
