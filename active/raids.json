@@ -48,14 +48,21 @@
     ],
     "5": [
         {
-            "id": 717,
-            "template": "YVELTAL"
+            "id": 716,
+            "template": "XERNEAS"
         }
     ],
     "6": [
         {
-            "id": 428,
-            "template": "LOPUNNY",
+            "id": 130,
+            "template": "GYARADOS_NORMAL",
+            "form": 256,
+            "temp_evolution_id": 1
+        },
+        {
+            "id": 310,
+            "template": "MANECTRIC_NORMAL",
+            "form": 1487,
             "temp_evolution_id": 1
         }
     ]
