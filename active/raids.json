@@ -54,12 +54,6 @@
     ],
     "6": [
         {
-            "id": 130,
-            "template": "GYARADOS_NORMAL",
-            "form": 256,
-            "temp_evolution_id": 1
-        },
-        {
             "id": 310,
             "template": "MANECTRIC_NORMAL",
             "form": 1487,
