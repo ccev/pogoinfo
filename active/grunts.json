@@ -152,14 +152,14 @@
                         "form": 250
                     },
                     {
-                        "id": 205,
-                        "template": "FORRETRESS_NORMAL",
-                        "form": 1247
-                    },
-                    {
                         "id": 127,
                         "template": "PINSIR_NORMAL",
                         "form": 898
+                    },
+                    {
+                        "id": 205,
+                        "template": "FORRETRESS_NORMAL",
+                        "form": 1247
                     }
                 ]
             ]
@@ -650,13 +650,13 @@
                 ],
                 [
                     {
+                        "id": 591,
+                        "template": "AMOONGUSS"
+                    },
+                    {
                         "id": 332,
                         "template": "CACTURNE_NORMAL",
                         "form": 613
-                    },
-                    {
-                        "id": 591,
-                        "template": "AMOONGUSS"
                     },
                     {
                         "id": 154,
@@ -898,14 +898,14 @@
                         "form": 47
                     },
                     {
-                        "id": 400,
-                        "template": "BIBAREL_NORMAL",
-                        "form": 1670
-                    },
-                    {
                         "id": 217,
                         "template": "URSARING_NORMAL",
                         "form": 1268
+                    },
+                    {
+                        "id": 400,
+                        "template": "BIBAREL_NORMAL",
+                        "form": 1670
                     }
                 ]
             ]
@@ -1259,14 +1259,14 @@
                         "form": 169
                     },
                     {
-                        "id": 139,
-                        "template": "OMASTAR_NORMAL",
-                        "form": 743
-                    },
-                    {
                         "id": 169,
                         "template": "CROBAT_NORMAL",
                         "form": 202
+                    },
+                    {
+                        "id": 139,
+                        "template": "OMASTAR_NORMAL",
+                        "form": 743
                     }
                 ],
                 [
@@ -1316,14 +1316,14 @@
                         "form": 833
                     },
                     {
-                        "id": 6,
-                        "template": "CHARIZARD_NORMAL",
-                        "form": 178
-                    },
-                    {
                         "id": 373,
                         "template": "SALAMENCE_NORMAL",
                         "form": 761
+                    },
+                    {
+                        "id": 6,
+                        "template": "CHARIZARD_NORMAL",
+                        "form": 178
                     }
                 ],
                 [
@@ -1373,14 +1373,14 @@
                         "form": 1364
                     },
                     {
-                        "id": 9,
-                        "template": "BLASTOISE_NORMAL",
-                        "form": 187
-                    },
-                    {
                         "id": 131,
                         "template": "LAPRAS_NORMAL",
                         "form": 322
+                    },
+                    {
+                        "id": 9,
+                        "template": "BLASTOISE_NORMAL",
+                        "form": 187
                     }
                 ],
                 [
