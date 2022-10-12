@@ -1,49 +1,45 @@
 {
     "1": [
         {
-            "id": 79,
-            "template": "SLOWPOKE_NORMAL",
-            "form": 1017
+            "id": 37,
+            "template": "VULPIX_ALOLA",
+            "form": 56
         },
         {
-            "id": 95,
-            "template": "ONIX_NORMAL",
-            "form": 902
+            "id": 39,
+            "template": "JIGGLYPUFF"
         },
         {
-            "id": 123,
-            "template": "SCYTHER_NORMAL",
-            "form": 247
+            "id": 682,
+            "template": "SPRITZEE"
         },
         {
-            "id": 137,
-            "template": "PORYGON_NORMAL",
-            "form": 677
+            "id": 684,
+            "template": "SWIRLIX"
         },
         {
-            "id": 191,
-            "template": "SUNKERN"
+            "id": 702,
+            "template": "DEDENNE"
         }
     ],
     "3": [
         {
-            "id": 82,
-            "template": "MAGNETON_NORMAL",
-            "form": 658
-        },
-        {
-            "id": 112,
-            "template": "RHYDON_NORMAL",
-            "form": 849
+            "id": 110,
+            "template": "WEEZING_GALARIAN",
+            "form": 944
         },
         {
             "id": 176,
             "template": "TOGETIC"
         },
         {
-            "id": 221,
-            "template": "PILOSWINE_NORMAL",
-            "form": 1280
+            "id": 184,
+            "template": "AZUMARILL"
+        },
+        {
+            "id": 303,
+            "template": "MAWILE_NORMAL",
+            "form": 833
         }
     ],
     "5": [
