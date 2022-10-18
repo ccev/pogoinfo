@@ -1,92 +1,5 @@
 [
     {
-        "name": "Festival of Lights",
-        "type": "event",
-        "start": "2022-10-14 10:00",
-        "end": "2022-10-17 20:00",
-        "spawns": [
-            {
-                "id": 77,
-                "template": "PONYTA_GALARIAN",
-                "form": 2336
-            },
-            {
-                "id": 777,
-                "template": "TOGEDEMARU"
-            }
-        ],
-        "eggs": [],
-        "raids": [
-            {
-                "id": 77,
-                "template": "PONYTA_GALARIAN",
-                "form": 2336
-            },
-            {
-                "id": 554,
-                "template": "DARUMAKA"
-            },
-            {
-                "id": 702,
-                "template": "DEDENNE"
-            },
-            {
-                "id": 755,
-                "template": "MORELULL"
-            },
-            {
-                "id": 26,
-                "template": "RAICHU_ALOLA",
-                "form": 50
-            },
-            {
-                "id": 110,
-                "template": "WEEZING_GALARIAN",
-                "form": 944
-            },
-            {
-                "id": 303,
-                "template": "MAWILE"
-            },
-            {
-                "id": 628,
-                "template": "BRAVIARY"
-            },
-            {
-                "id": 716,
-                "template": "XERNEAS"
-            },
-            {
-                "id": 310,
-                "template": "MANECTRIC",
-                "temp_evolution_id": 1
-            }
-        ],
-        "shinies": [],
-        "bonuses": [
-            {
-                "text": "You’ll have an increased chance of encountering Shiny Chinchou!"
-            },
-            {
-                "text": "2× XP for catching Pokémon",
-                "template": "increased-xp",
-                "value": 2
-            },
-            {
-                "text": "2× Candy for catching Pokémon",
-                "template": "increased-candy",
-                "value": 2
-            },
-            {
-                "text": "Incense activated during the event will last for two hours",
-                "template": "longer-incense"
-            }
-        ],
-        "features": [],
-        "has_quests": true,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Misdreavus Spotlight Hour",
         "type": "spotlight-hour",
         "start": "2022-10-18 18:00",
@@ -260,6 +173,75 @@
             {
                 "text": "Trainers level 31 and above will receive one guaranteed Candy XL when walking with their buddy.",
                 "value": 31
+            }
+        ],
+        "features": [],
+        "has_quests": true,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Día de Muertos",
+        "type": "event",
+        "start": "2022-11-01 10:00",
+        "end": "2022-11-02 20:00",
+        "spawns": [
+            {
+                "id": 355,
+                "template": "DUSKULL"
+            },
+            {
+                "id": 425,
+                "template": "DRIFLOON"
+            },
+            {
+                "id": 562,
+                "template": "YAMASK"
+            }
+        ],
+        "eggs": [],
+        "raids": [
+            {
+                "id": 355,
+                "template": "DUSKULL"
+            },
+            {
+                "id": 149,
+                "template": "DRAGONITE"
+            },
+            {
+                "id": 302,
+                "template": "SABLEYE"
+            },
+            {
+                "id": 621,
+                "template": "DRUDDIGON"
+            },
+            {
+                "id": 487,
+                "template": "GIRATINA_ORIGIN",
+                "form": 91
+            },
+            {
+                "id": 354,
+                "template": "BANETTE"
+            }
+        ],
+        "shinies": [],
+        "bonuses": [
+            {
+                "text": "Lure Modules activated during the event will last for 90 minutes",
+                "template": "longer-lure",
+                "value": 90
+            },
+            {
+                "text": "Incense (excluding Daily Adventure Incense) activated during the event will last for 90 minutes",
+                "template": "longer-incense",
+                "value": 90
+            },
+            {
+                "text": "2× Catch Candy",
+                "template": "increased-candy",
+                "value": 2
             }
         ],
         "features": [],
