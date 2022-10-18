@@ -1,5 +1,88 @@
 {
-    "event": [],
+    "event": [
+        {
+            "task": "Event: Send 5 Gifts and add a sticker to each",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 126,
+                        "template": "MAGMAR_NORMAL",
+                        "form": 634
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 125,
+                        "template": "ELECTABUZZ_NORMAL",
+                        "form": 640
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Event: Hatch an Egg",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 77,
+                        "template": "PONYTA_GALARIAN",
+                        "form": 2336
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Event: Catch 5 Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 170,
+                        "template": "CHINCHOU"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Event: Catch 10 Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 522,
+                        "template": "BLITZLE"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Event: Catch 15 Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 755,
+                        "template": "MORELULL"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Event: Power up Pokémon 5 times",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 702,
+                        "template": "DEDENNE"
+                    }
+                }
+            ]
+        }
+    ],
     "quests": [
         {
             "task": "Catch 5 Pokémon with Weather Boost",

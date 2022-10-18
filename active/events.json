@@ -1,68 +1,5 @@
 [
     {
-        "name": "Litwick Community Day",
-        "type": "community-day",
-        "start": "2022-10-15 14:00",
-        "end": "2022-10-15 17:00",
-        "spawns": [
-            {
-                "id": 608,
-                "template": "LAMPENT"
-            }
-        ],
-        "eggs": [],
-        "raids": [
-            {
-                "id": 608,
-                "template": "LAMPENT"
-            }
-        ],
-        "shinies": [],
-        "bonuses": [
-            {
-                "text": "Increased Spawns"
-            },
-            {
-                "text": "3x Catch XP",
-                "template": "increased-xp",
-                "value": 3
-            },
-            {
-                "text": "3-hour Incense",
-                "template": "longer-incense",
-                "value": 3
-            },
-            {
-                "text": "3-hour Lures",
-                "template": "longer-lure",
-                "value": 3
-            },
-            {
-                "text": "2x Catch Candy",
-                "template": "increased-candy",
-                "value": 2
-            },
-            {
-                "text": "2x Chance to receive Candy XL from catching Pokémon",
-                "value": 2
-            },
-            {
-                "text": "One additional Special Trade can be made for a maximum of two for the day*"
-            },
-            {
-                "text": "Trades made will require 50% less Stardust*",
-                "template": "increased-stardust",
-                "value": 50
-            }
-        ],
-        "features": [
-            "Trainer Battles: 140 power",
-            "Gyms and raids: 140 power"
-        ],
-        "has_quests": true,
-        "has_spawnpoints": true
-    },
-    {
         "name": "Festival of Lights",
         "type": "event",
         "start": "2022-10-14 10:00",
@@ -212,13 +149,28 @@
         "end": "2022-10-27 20:00",
         "spawns": [
             {
-                "id": 302,
-                "template": "SABLEYE"
+                "id": 562,
+                "template": "YAMASK"
             },
             {
-                "id": 509,
-                "template": "PURRLOIN"
+                "id": 562,
+                "template": "YAMASK_GALARIAN",
+                "form": 2344
             },
+            {
+                "id": 622,
+                "template": "GOLETT"
+            },
+            {
+                "id": 708,
+                "template": "PHANTUMP"
+            },
+            {
+                "id": 714,
+                "template": "NOIBAT"
+            }
+        ],
+        "eggs": [
             {
                 "id": 562,
                 "template": "YAMASK"
@@ -229,36 +181,18 @@
                 "form": 2344
             },
             {
+                "id": 622,
+                "template": "GOLETT"
+            },
+            {
                 "id": 708,
                 "template": "PHANTUMP"
             },
             {
-                "id": 94,
-                "template": "GENGAR"
-            },
-            {
-                "id": 197,
-                "template": "UMBREON"
-            },
-            {
-                "id": 426,
-                "template": "DRIFBLIM"
-            },
-            {
-                "id": 452,
-                "template": "DRAPION"
-            },
-            {
-                "id": 487,
-                "template": "GIRATINA_ALTERED",
-                "form": 90
-            },
-            {
-                "id": 354,
-                "template": "BANETTE"
+                "id": 714,
+                "template": "NOIBAT"
             }
         ],
-        "eggs": [],
         "raids": [
             {
                 "id": 302,
@@ -383,15 +317,60 @@
         "has_spawnpoints": false
     },
     {
-        "name": "November Community Day",
+        "name": "Teddiursa Community Day",
         "type": "community-day",
-        "start": "2022-11-12 11:00",
-        "end": "2022-11-12 14:00",
-        "spawns": [],
+        "start": "2022-11-12 14:00",
+        "end": "2022-11-12 17:00",
+        "spawns": [
+            {
+                "id": 216,
+                "template": "TEDDIURSA"
+            }
+        ],
         "eggs": [],
-        "raids": [],
+        "raids": [
+            {
+                "id": 216,
+                "template": "TEDDIURSA"
+            }
+        ],
         "shinies": [],
-        "bonuses": [],
+        "bonuses": [
+            {
+                "text": "Increased Spawns"
+            },
+            {
+                "text": "3x Catch Stardust",
+                "template": "increased-stardust",
+                "value": 3
+            },
+            {
+                "text": "3-hour Incense",
+                "template": "longer-incense",
+                "value": 3
+            },
+            {
+                "text": "3-hour Lures",
+                "template": "longer-lure",
+                "value": 3
+            },
+            {
+                "text": "2x Catch Candy",
+                "template": "increased-candy",
+                "value": 2
+            },
+            {
+                "text": "2x Chance to receive Candy XL from catching Pokémon",
+                "value": 2
+            },
+            {
+                "text": "One additional Special Trade can be made for a maximum of two for the day*"
+            },
+            {
+                "text": "Trades made will require 50% less Stardust*",
+                "value": 50
+            }
+        ],
         "features": [],
         "has_quests": true,
         "has_spawnpoints": true
