@@ -1,19 +1,5 @@
 [
     {
-        "name": "Misdreavus Spotlight Hour",
-        "type": "spotlight-hour",
-        "start": "2022-10-18 18:00",
-        "end": "2022-10-18 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": true
-    },
-    {
         "name": "Xerneas Raid Hour",
         "type": "raid-hour",
         "start": "2022-10-19 18:00",
@@ -62,6 +48,14 @@
         "end": "2022-10-27 20:00",
         "spawns": [
             {
+                "id": 302,
+                "template": "SABLEYE"
+            },
+            {
+                "id": 509,
+                "template": "PURRLOIN"
+            },
+            {
                 "id": 562,
                 "template": "YAMASK"
             },
@@ -71,20 +65,45 @@
                 "form": 2344
             },
             {
-                "id": 622,
-                "template": "GOLETT"
-            },
-            {
                 "id": 708,
                 "template": "PHANTUMP"
             },
             {
-                "id": 714,
-                "template": "NOIBAT"
+                "id": 94,
+                "template": "GENGAR"
+            },
+            {
+                "id": 197,
+                "template": "UMBREON"
+            },
+            {
+                "id": 426,
+                "template": "DRIFBLIM"
+            },
+            {
+                "id": 452,
+                "template": "DRAPION"
+            },
+            {
+                "id": 487,
+                "template": "GIRATINA_ALTERED",
+                "form": 90
+            },
+            {
+                "id": 354,
+                "template": "BANETTE"
             }
         ],
         "eggs": [
             {
+                "id": 302,
+                "template": "SABLEYE"
+            },
+            {
+                "id": 509,
+                "template": "PURRLOIN"
+            },
+            {
                 "id": 562,
                 "template": "YAMASK"
             },
@@ -94,16 +113,33 @@
                 "form": 2344
             },
             {
-                "id": 622,
-                "template": "GOLETT"
-            },
-            {
                 "id": 708,
                 "template": "PHANTUMP"
             },
             {
-                "id": 714,
-                "template": "NOIBAT"
+                "id": 94,
+                "template": "GENGAR"
+            },
+            {
+                "id": 197,
+                "template": "UMBREON"
+            },
+            {
+                "id": 426,
+                "template": "DRIFBLIM"
+            },
+            {
+                "id": 452,
+                "template": "DRAPION"
+            },
+            {
+                "id": 487,
+                "template": "GIRATINA_ALTERED",
+                "form": 90
+            },
+            {
+                "id": 354,
+                "template": "BANETTE"
             }
         ],
         "raids": [
