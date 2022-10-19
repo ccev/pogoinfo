@@ -1,5 +1,55 @@
 {
-    "event": [],
+    "event": [
+        {
+            "task": "Event: Catch 5 Ghost-type Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 353,
+                        "template": "SHUPPET_NORMAL",
+                        "form": 908
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 355,
+                        "template": "DUSKULL_NORMAL",
+                        "form": 914
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Event: Spin 5 PokéStops or Gyms",
+            "rewards": [
+                {
+                    "type": "energy",
+                    "reward": {
+                        "id": 94,
+                        "template": "GENGAR_NORMAL",
+                        "form": 1044
+                    },
+                    "amount": 20
+                }
+            ]
+        },
+        {
+            "task": "Event: Spin 10 PokéStops or Gyms",
+            "rewards": [
+                {
+                    "type": "energy",
+                    "reward": {
+                        "id": 359,
+                        "template": "ABSOL_NORMAL",
+                        "form": 830
+                    },
+                    "amount": 20
+                }
+            ]
+        }
+    ],
     "quests": [
         {
             "task": "Catch 5 Pokémon with Weather Boost",
