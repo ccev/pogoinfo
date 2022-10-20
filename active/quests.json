@@ -22,6 +22,32 @@
             ]
         },
         {
+            "task": "Event: Catch 10 Ghost-type Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 562,
+                        "template": "YAMASK_NORMAL",
+                        "form": 2084
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Event: Catch 25 Ghost-type Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 562,
+                        "template": "YAMASK_GALARIAN",
+                        "form": 2344
+                    }
+                }
+            ]
+        },
+        {
             "task": "Event: Spin 5 PokéStops or Gyms",
             "rewards": [
                 {
