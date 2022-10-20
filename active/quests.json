@@ -35,18 +35,6 @@
             ]
         },
         {
-            "task": "Event: Walk 5 km",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 708,
-                        "template": "PHANTUMP"
-                    }
-                }
-            ]
-        },
-        {
             "task": "Event: Catch 25 Ghost-type Pokémon",
             "rewards": [
                 {
@@ -55,6 +43,18 @@
                         "id": 562,
                         "template": "YAMASK_GALARIAN",
                         "form": 2344
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Event: Walk 5 km",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 708,
+                        "template": "PHANTUMP"
                     }
                 }
             ]
