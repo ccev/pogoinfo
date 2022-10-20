@@ -35,6 +35,18 @@
             ]
         },
         {
+            "task": "Event: Walk 5 km",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 708,
+                        "template": "PHANTUMP"
+                    }
+                }
+            ]
+        },
+        {
             "task": "Event: Catch 25 Ghost-type Pokémon",
             "rewards": [
                 {
