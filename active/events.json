@@ -186,6 +186,20 @@
         "has_spawnpoints": false
     },
     {
+        "name": "Cempasúchil Crown Duskull Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2022-11-01 18:00",
+        "end": "2022-11-01 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": true
+    },
+    {
         "name": "Día de Muertos",
         "type": "event",
         "start": "2022-11-01 10:00",
@@ -305,6 +319,20 @@
         "has_spawnpoints": false
     },
     {
+        "name": "Croagunk Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2022-11-08 18:00",
+        "end": "2022-11-08 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": true
+    },
+    {
         "name": "Teddiursa Community Day",
         "type": "community-day",
         "start": "2022-11-12 14:00",
@@ -361,6 +389,48 @@
         ],
         "features": [],
         "has_quests": true,
+        "has_spawnpoints": true
+    },
+    {
+        "name": "Porygon Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2022-11-15 18:00",
+        "end": "2022-11-15 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": true
+    },
+    {
+        "name": "Petilil Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2022-11-22 18:00",
+        "end": "2022-11-22 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": true
+    },
+    {
+        "name": "Hoothoot Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2022-11-29 18:00",
+        "end": "2022-11-29 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
         "has_spawnpoints": true
     },
     {
