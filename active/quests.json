@@ -1,35 +1,39 @@
 {
     "event": [
         {
-            "task": "Event: Walk 2 km",
+            "task": "Event: Make a Nice Curveball Throw",
             "rewards": [
                 {
                     "type": "pokemon",
                     "reward": {
-                        "id": 25,
-                        "template": "PIKACHU_NORMAL",
-                        "form": 598
+                        "id": 315,
+                        "template": "ROSELIA"
                     }
                 },
                 {
                     "type": "pokemon",
                     "reward": {
-                        "id": 393,
-                        "template": "PIPLUP"
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 37,
-                        "template": "VULPIX_NORMAL",
-                        "form": 55
+                        "id": 607,
+                        "template": "LITWICK"
                     }
                 }
             ]
         },
         {
-            "task": "Event: Catch 5 Ghost-type Pokémon",
+            "task": "Event: Make a Great Throw",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 104,
+                        "template": "CUBONE_NORMAL",
+                        "form": 224
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Event: Make 3 Great Curveball Throws in a row",
             "rewards": [
                 {
                     "type": "pokemon",
@@ -38,80 +42,19 @@
                         "template": "DUSKULL_NORMAL",
                         "form": 914
                     }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 353,
-                        "template": "SHUPPET_NORMAL",
-                        "form": 908
-                    }
                 }
             ]
         },
         {
-            "task": "Event: Walk 5 km",
+            "task": "Event: Win a Gym battle",
             "rewards": [
                 {
                     "type": "pokemon",
                     "reward": {
-                        "id": 708,
-                        "template": "PHANTUMP"
+                        "id": 229,
+                        "template": "HOUNDOOM_NORMAL",
+                        "form": 232
                     }
-                }
-            ]
-        },
-        {
-            "task": "Event: Catch 10 Ghost-type Pokémon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 562,
-                        "template": "YAMASK_NORMAL",
-                        "form": 2084
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Event: Catch 25 Ghost-type Pokémon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 562,
-                        "template": "YAMASK_GALARIAN",
-                        "form": 2344
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Event: Spin 5 PokéStops or Gyms",
-            "rewards": [
-                {
-                    "type": "energy",
-                    "reward": {
-                        "id": 94,
-                        "template": "GENGAR_NORMAL",
-                        "form": 1044
-                    },
-                    "amount": 20
-                }
-            ]
-        },
-        {
-            "task": "Event: Spin 10 PokéStops or Gyms",
-            "rewards": [
-                {
-                    "type": "energy",
-                    "reward": {
-                        "id": 359,
-                        "template": "ABSOL_NORMAL",
-                        "form": 830
-                    },
-                    "amount": 20
                 }
             ]
         }

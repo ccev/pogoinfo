@@ -200,6 +200,20 @@
         "has_spawnpoints": true
     },
     {
+        "name": "Origin Forme Giratina Raid Hour",
+        "type": "raid-hour",
+        "start": "2022-11-02 18:00",
+        "end": "2022-11-02 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
         "name": "Día de Muertos",
         "type": "event",
         "start": "2022-11-01 10:00",
@@ -333,6 +347,20 @@
         "has_spawnpoints": true
     },
     {
+        "name": "Guzzlord Raid Hour",
+        "type": "raid-hour",
+        "start": "2022-11-16 18:00",
+        "end": "2022-11-16 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
         "name": "Teddiursa Community Day",
         "type": "community-day",
         "start": "2022-11-12 14:00",
@@ -406,6 +434,20 @@
         "has_spawnpoints": true
     },
     {
+        "name": "Greedy Gluttons Event",
+        "type": "event",
+        "start": "2022-11-09 10:00",
+        "end": "2022-11-17 20:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
         "name": "Petilil Spotlight Hour",
         "type": "spotlight-hour",
         "start": "2022-11-22 18:00",
@@ -418,6 +460,48 @@
         "features": [],
         "has_quests": false,
         "has_spawnpoints": true
+    },
+    {
+        "name": "Nihilego Raid Hour",
+        "type": "raid-hour",
+        "start": "2022-11-23 18:00",
+        "end": "2022-11-23 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Unannounced Event",
+        "type": "event",
+        "start": "2022-11-27 11:00",
+        "end": "2022-11-27 17:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Astral Eclipse Event",
+        "type": "event",
+        "start": "2022-11-23 10:00",
+        "end": "2022-11-28 20:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
     },
     {
         "name": "Hoothoot Spotlight Hour",
