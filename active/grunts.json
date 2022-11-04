@@ -1,4 +1,13 @@
 {
+    "0": {
+        "active": false,
+        "character": {
+            "template": "CHARACTER_WILLOWB",
+            "gender": 0,
+            "boss": false,
+            "type": {}
+        }
+    },
     "1": {
         "active": false,
         "character": {
