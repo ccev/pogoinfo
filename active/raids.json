@@ -1,9 +1,27 @@
 {
     "1": [
         {
+            "id": 200,
+            "template": "MISDREAVUS_NORMAL",
+            "form": 719
+        },
+        {
             "id": 355,
             "template": "DUSKULL_NORMAL",
             "form": 914
+        },
+        {
+            "id": 371,
+            "template": "BAGON_NORMAL",
+            "form": 755
+        },
+        {
+            "id": 425,
+            "template": "DRIFLOON"
+        },
+        {
+            "id": 622,
+            "template": "GOLETT"
         }
     ],
     "3": [
