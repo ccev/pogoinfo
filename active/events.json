@@ -157,11 +157,21 @@
         "end": "2022-11-17 20:00",
         "spawns": [],
         "eggs": [],
-        "raids": [],
+        "raids": [
+            {
+                "id": 799,
+                "template": "GUZZLORD"
+            },
+            {
+                "id": 130,
+                "template": "GYARADOS",
+                "temp_evolution_id": 1
+            }
+        ],
         "shinies": [],
         "bonuses": [],
         "features": [],
-        "has_quests": false,
+        "has_quests": true,
         "has_spawnpoints": false
     },
     {
