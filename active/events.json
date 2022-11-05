@@ -28,10 +28,7 @@
                 "value": 3
             }
         ],
-        "features": [
-            "Trainer Battles: 150 power and decreases the user’s Attack.",
-            "Gyms and raids: 150 power"
-        ],
+        "features": [],
         "has_quests": true,
         "has_spawnpoints": true
     },
@@ -157,21 +154,11 @@
         "end": "2022-11-17 20:00",
         "spawns": [],
         "eggs": [],
-        "raids": [
-            {
-                "id": 799,
-                "template": "GUZZLORD"
-            },
-            {
-                "id": 130,
-                "template": "GYARADOS",
-                "temp_evolution_id": 1
-            }
-        ],
+        "raids": [],
         "shinies": [],
         "bonuses": [],
         "features": [],
-        "has_quests": true,
+        "has_quests": false,
         "has_spawnpoints": false
     },
     {
