@@ -85,26 +85,6 @@
             ]
         },
         {
-            "task": "Use 5 Pinap Berries while catching Pokémon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 415,
-                        "template": "COMBEE"
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 14,
-                        "template": "KAKUNA_NORMAL",
-                        "form": 619
-                    }
-                }
-            ]
-        },
-        {
             "task": "Catch a Dragon-type Pokémon",
             "rewards": [
                 {
@@ -140,6 +120,26 @@
                         "id": 371,
                         "template": "BAGON_NORMAL",
                         "form": 755
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Use 5 Pinap Berries while catching Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 415,
+                        "template": "COMBEE"
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 14,
+                        "template": "KAKUNA_NORMAL",
+                        "form": 619
                     }
                 }
             ]
