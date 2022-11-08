@@ -1,57 +1,55 @@
 {
     "1": [
         {
-            "id": 200,
-            "template": "MISDREAVUS_NORMAL",
-            "form": 719
+            "id": 56,
+            "template": "MANKEY"
         },
         {
-            "id": 355,
-            "template": "DUSKULL_NORMAL",
-            "form": 914
+            "id": 220,
+            "template": "SWINUB_NORMAL",
+            "form": 1277
         },
         {
-            "id": 371,
-            "template": "BAGON_NORMAL",
-            "form": 755
+            "id": 325,
+            "template": "SPOINK"
         },
         {
-            "id": 425,
-            "template": "DRIFLOON"
-        },
-        {
-            "id": 622,
-            "template": "GOLETT"
+            "id": 498,
+            "template": "TEPIG"
         }
     ],
     "3": [
         {
-            "id": 149,
-            "template": "DRAGONITE_NORMAL",
-            "form": 196
+            "id": 143,
+            "template": "SNORLAX_NORMAL",
+            "form": 199
         },
         {
-            "id": 302,
-            "template": "SABLEYE_NORMAL",
-            "form": 923
+            "id": 303,
+            "template": "MAWILE_NORMAL",
+            "form": 833
         },
         {
-            "id": 621,
-            "template": "DRUDDIGON"
+            "id": 317,
+            "template": "SWALOT"
+        },
+        {
+            "id": 319,
+            "template": "SHARPEDO_NORMAL",
+            "form": 737
         }
     ],
     "5": [
         {
-            "id": 487,
-            "template": "GIRATINA_ORIGIN",
-            "form": 91
+            "id": 799,
+            "template": "GUZZLORD"
         }
     ],
     "6": [
         {
-            "id": 354,
-            "template": "BANETTE_NORMAL",
-            "form": 911,
+            "id": 130,
+            "template": "GYARADOS_NORMAL",
+            "form": 256,
             "temp_evolution_id": 1
         }
     ]

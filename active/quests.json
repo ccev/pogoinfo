@@ -1,5 +1,15 @@
 {
-    "event": [],
+    "event": [
+        {
+            "task": "Event: Give your buddy 15 treats",
+            "rewards": [
+                {
+                    "type": "stardust",
+                    "amount": 1000
+                }
+            ]
+        }
+    ],
     "quests": [
         {
             "task": "Catch 5 Pokémon with Weather Boost",

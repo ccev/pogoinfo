@@ -105,13 +105,87 @@
         "type": "event",
         "start": "2022-11-09 10:00",
         "end": "2022-11-17 20:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
+        "spawns": [
+            {
+                "id": 108,
+                "template": "LICKITUNG"
+            },
+            {
+                "id": 143,
+                "template": "SNORLAX"
+            },
+            {
+                "id": 317,
+                "template": "SWALOT"
+            }
+        ],
+        "eggs": [
+            {
+                "id": 420,
+                "template": "CHERUBI"
+            },
+            {
+                "id": 443,
+                "template": "GIBLE"
+            },
+            {
+                "id": 446,
+                "template": "MUNCHLAX"
+            }
+        ],
+        "raids": [
+            {
+                "id": 56,
+                "template": "MANKEY"
+            },
+            {
+                "id": 220,
+                "template": "SWINUB"
+            },
+            {
+                "id": 325,
+                "template": "SPOINK"
+            },
+            {
+                "id": 498,
+                "template": "TEPIG"
+            },
+            {
+                "id": 143,
+                "template": "SNORLAX"
+            },
+            {
+                "id": 303,
+                "template": "MAWILE"
+            },
+            {
+                "id": 317,
+                "template": "SWALOT"
+            },
+            {
+                "id": 319,
+                "template": "SHARPEDO"
+            },
+            {
+                "id": 799,
+                "template": "GUZZLORD"
+            },
+            {
+                "id": 130,
+                "template": "GYARADOS",
+                "temp_evolution_id": 1
+            }
+        ],
         "shinies": [],
-        "bonuses": [],
+        "bonuses": [
+            {
+                "text": "1/2 Hatch Distance for the first three Eggs hatched during the event using the Pokémon GO Egg hatching widget.",
+                "template": "reduced-hatch-distance",
+                "value": 12
+            }
+        ],
         "features": [],
-        "has_quests": false,
+        "has_quests": true,
         "has_spawnpoints": false
     },
     {
