@@ -44,6 +44,21 @@
                     "amount": 1000
                 }
             ]
+        },
+        {
+            "task": "Event: Walk 1 km",
+            "rewards": [
+                {
+                    "type": "item",
+                    "amount": 3,
+                    "id": 701
+                },
+                {
+                    "type": "item",
+                    "amount": 2,
+                    "id": 705
+                }
+            ]
         }
     ],
     "quests": [
