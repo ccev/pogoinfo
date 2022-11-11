@@ -161,14 +161,14 @@
                         "form": 898
                     },
                     {
-                        "id": 205,
-                        "template": "FORRETRESS_NORMAL",
-                        "form": 1247
-                    },
-                    {
                         "id": 212,
                         "template": "SCIZOR_NORMAL",
                         "form": 250
+                    },
+                    {
+                        "id": 205,
+                        "template": "FORRETRESS_NORMAL",
+                        "form": 1247
                     }
                 ]
             ]
