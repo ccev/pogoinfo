@@ -59,6 +59,16 @@
                     "id": 705
                 }
             ]
+        },
+        {
+            "task": "Event: Defeat 2 Team GO Rocket Grunts",
+            "rewards": [
+                {
+                    "type": "item",
+                    "amount": 1,
+                    "id": 0
+                }
+            ]
         }
     ],
     "quests": [
