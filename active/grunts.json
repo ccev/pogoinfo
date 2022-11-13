@@ -426,7 +426,7 @@
         }
     },
     "20": {
-        "active": false,
+        "active": true,
         "character": {
             "template": "CHARACTER_FLYING_GRUNT_FEMALE",
             "gender": 0,
@@ -435,6 +435,21 @@
                 "id": 3,
                 "name": "FLYING"
             }
+        },
+        "lineup": {
+            "rewards": [
+                0
+            ],
+            "team": [
+                [
+                    {
+                        "id": 177,
+                        "template": "NATU"
+                    }
+                ],
+                [],
+                []
+            ]
         }
     },
     "21": {
@@ -1145,6 +1160,11 @@
                         "id": 464,
                         "template": "RHYPERIOR_NORMAL",
                         "form": 852
+                    },
+                    {
+                        "id": 208,
+                        "template": "STEELIX_NORMAL",
+                        "form": 905
                     }
                 ],
                 [
