@@ -1,9 +1,9 @@
 [
     {
-        "name": "Petilil Spotlight Hour",
-        "type": "spotlight-hour",
-        "start": "2022-11-22 18:00",
-        "end": "2022-11-22 19:00",
+        "name": "Nihilego Raid Hour",
+        "type": "raid-hour",
+        "start": "2022-11-30 18:00",
+        "end": "2022-11-30 19:00",
         "spawns": [],
         "eggs": [],
         "raids": [],
@@ -11,13 +11,13 @@
         "bonuses": [],
         "features": [],
         "has_quests": false,
-        "has_spawnpoints": true
+        "has_spawnpoints": false
     },
     {
-        "name": "Nihilego Raid Hour",
-        "type": "raid-hour",
-        "start": "2022-11-30 18:00",
-        "end": "2022-11-30 19:00",
+        "name": "Collection Challenge: Nihilego - ON THE GO NEWS",
+        "type": "event",
+        "start": "2022-11-26 19:00",
+        "end": "2022-11-26 23:59",
         "spawns": [],
         "eggs": [],
         "raids": [],
