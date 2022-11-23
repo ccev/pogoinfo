@@ -1,72 +1,23 @@
 {
     "event": [
         {
-            "task": "Event: Use 3 Berries to help catch Pokémon",
+            "task": "Event: Catch 5 Psychic-type Pokémon",
             "rewards": [
                 {
                     "type": "pokemon",
                     "reward": {
-                        "id": 420,
-                        "template": "CHERUBI"
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 684,
-                        "template": "SWIRLIX"
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 102,
-                        "template": "EXEGGCUTE_NORMAL",
-                        "form": 729
+                        "id": 120,
+                        "template": "STARYU"
                     }
                 }
             ]
         },
         {
-            "task": "Event: Give your buddy 15 treats",
+            "task": "Event: Catch 5 Staryu",
             "rewards": [
                 {
                     "type": "stardust",
                     "amount": 1000
-                }
-            ]
-        },
-        {
-            "task": "Event: Use 15 Berries to help catch Pokémon",
-            "rewards": [
-                {
-                    "type": "stardust",
-                    "amount": 1000
-                }
-            ]
-        },
-        {
-            "task": "Event: Walk 1 km",
-            "rewards": [
-                {
-                    "type": "item",
-                    "amount": 3,
-                    "id": 701
-                },
-                {
-                    "type": "item",
-                    "amount": 2,
-                    "id": 705
-                }
-            ]
-        },
-        {
-            "task": "Event: Defeat 2 Team GO Rocket Grunts",
-            "rewards": [
-                {
-                    "type": "item",
-                    "amount": 1,
-                    "id": 0
                 }
             ]
         }

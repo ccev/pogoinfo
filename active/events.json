@@ -1,121 +1,5 @@
 [
     {
-        "name": "Porygon Spotlight Hour",
-        "type": "spotlight-hour",
-        "start": "2022-11-15 18:00",
-        "end": "2022-11-15 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": true
-    },
-    {
-        "name": "Guzzlord Raid Hour",
-        "type": "raid-hour",
-        "start": "2022-11-16 18:00",
-        "end": "2022-11-16 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
-        "name": "Greedy Gluttons Event",
-        "type": "event",
-        "start": "2022-11-09 10:00",
-        "end": "2022-11-17 20:00",
-        "spawns": [
-            {
-                "id": 108,
-                "template": "LICKITUNG"
-            },
-            {
-                "id": 143,
-                "template": "SNORLAX"
-            },
-            {
-                "id": 317,
-                "template": "SWALOT"
-            }
-        ],
-        "eggs": [
-            {
-                "id": 420,
-                "template": "CHERUBI"
-            },
-            {
-                "id": 443,
-                "template": "GIBLE"
-            },
-            {
-                "id": 446,
-                "template": "MUNCHLAX"
-            }
-        ],
-        "raids": [
-            {
-                "id": 56,
-                "template": "MANKEY"
-            },
-            {
-                "id": 220,
-                "template": "SWINUB"
-            },
-            {
-                "id": 325,
-                "template": "SPOINK"
-            },
-            {
-                "id": 498,
-                "template": "TEPIG"
-            },
-            {
-                "id": 143,
-                "template": "SNORLAX"
-            },
-            {
-                "id": 303,
-                "template": "MAWILE"
-            },
-            {
-                "id": 317,
-                "template": "SWALOT"
-            },
-            {
-                "id": 319,
-                "template": "SHARPEDO"
-            },
-            {
-                "id": 799,
-                "template": "GUZZLORD"
-            },
-            {
-                "id": 130,
-                "template": "GYARADOS",
-                "temp_evolution_id": 1
-            }
-        ],
-        "shinies": [],
-        "bonuses": [
-            {
-                "text": "1/2 Hatch Distance for the first three Eggs hatched during the event using the Pokémon GO Egg hatching widget.",
-                "template": "reduced-hatch-distance",
-                "value": 12
-            }
-        ],
-        "features": [],
-        "has_quests": true,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Petilil Spotlight Hour",
         "type": "spotlight-hour",
         "start": "2022-11-22 18:00",
@@ -144,17 +28,62 @@
         "has_spawnpoints": false
     },
     {
-        "name": "Unannounced Event",
+        "name": "Ultra Beast Arrival: Global",
         "type": "event",
         "start": "2022-11-27 11:00",
         "end": "2022-11-27 17:00",
         "spawns": [],
         "eggs": [],
-        "raids": [],
+        "raids": [
+            {
+                "id": 793,
+                "template": "NIHILEGO"
+            },
+            {
+                "id": 794,
+                "template": "BUZZWOLE"
+            },
+            {
+                "id": 799,
+                "template": "GUZZLORD"
+            },
+            {
+                "id": 796,
+                "template": "XURKITREE"
+            },
+            {
+                "id": 795,
+                "template": "PHEROMOSA"
+            },
+            {
+                "id": 798,
+                "template": "KARTANA"
+            },
+            {
+                "id": 797,
+                "template": "CELESTEELA"
+            }
+        ],
         "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
+        "bonuses": [
+            {
+                "text": "1.25× more XP for winning Raid Battles against Ultra Beasts",
+                "template": "increased-xp",
+                "value": 125
+            },
+            {
+                "text": "Increased chance to receive Rare Candy XL from in-person Raid Battles",
+                "template": "increased-candy"
+            },
+            {
+                "text": "Receive up to five additional free Raid Passes by spinning Gym Photo Discs during the event and up to two hours afterward"
+            }
+        ],
+        "features": [
+            "50,000 Trainers referred: all Trainers will receive a Lure Module via a bundle in the in-game shop.",
+            "100,00 Trainers referred: all Trainers will be able to use Beast Balls when facing Ultra Beasts during Ultra Beast Arrival: Global."
+        ],
+        "has_quests": true,
         "has_spawnpoints": false
     },
     {
@@ -162,13 +91,89 @@
         "type": "event",
         "start": "2022-11-23 10:00",
         "end": "2022-11-28 20:00",
-        "spawns": [],
+        "spawns": [
+            {
+                "id": 425,
+                "template": "DRIFLOON"
+            },
+            {
+                "id": 592,
+                "template": "FRILLISH"
+            },
+            {
+                "id": 686,
+                "template": "INKAY"
+            },
+            {
+                "id": 744,
+                "template": "ROCKRUFF"
+            },
+            {
+                "id": 73,
+                "template": "TENTACRUEL"
+            },
+            {
+                "id": 621,
+                "template": "DRUDDIGON"
+            },
+            {
+                "id": 628,
+                "template": "BRAVIARY"
+            },
+            {
+                "id": 793,
+                "template": "NIHILEGO"
+            },
+            {
+                "id": 229,
+                "template": "HOUNDOOM",
+                "temp_evolution_id": 1
+            }
+        ],
         "eggs": [],
-        "raids": [],
+        "raids": [
+            {
+                "id": 425,
+                "template": "DRIFLOON"
+            },
+            {
+                "id": 592,
+                "template": "FRILLISH"
+            },
+            {
+                "id": 686,
+                "template": "INKAY"
+            },
+            {
+                "id": 744,
+                "template": "ROCKRUFF"
+            },
+            {
+                "id": 73,
+                "template": "TENTACRUEL"
+            },
+            {
+                "id": 621,
+                "template": "DRUDDIGON"
+            },
+            {
+                "id": 628,
+                "template": "BRAVIARY"
+            },
+            {
+                "id": 793,
+                "template": "NIHILEGO"
+            },
+            {
+                "id": 229,
+                "template": "HOUNDOOM",
+                "temp_evolution_id": 1
+            }
+        ],
         "shinies": [],
         "bonuses": [],
         "features": [],
-        "has_quests": false,
+        "has_quests": true,
         "has_spawnpoints": false
     },
     {
@@ -489,5 +494,75 @@
         "features": [],
         "has_quests": true,
         "has_spawnpoints": false
+    },
+    {
+        "name": "Unannounced Event",
+        "type": "event",
+        "start": "2022-12-24 10:00",
+        "end": "2022-12-25 20:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "December Community Day",
+        "type": "community-day",
+        "start": "2022-12-17 14:00",
+        "end": "2022-12-18 17:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": true,
+        "has_spawnpoints": true
+    },
+    {
+        "name": "January Community Day",
+        "type": "community-day",
+        "start": "2023-01-07 14:00",
+        "end": "2023-01-07 17:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": true,
+        "has_spawnpoints": true
+    },
+    {
+        "name": "Janaury Community Day Classic",
+        "type": "community-day",
+        "start": "2023-01-21 14:00",
+        "end": "2023-01-21 17:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": true,
+        "has_spawnpoints": true
+    },
+    {
+        "name": "February Community Day",
+        "type": "community-day",
+        "start": "2023-02-05 14:00",
+        "end": "2023-02-05 17:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": true,
+        "has_spawnpoints": true
     }
 ]

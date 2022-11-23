@@ -1,56 +1,54 @@
 {
     "1": [
         {
-            "id": 56,
-            "template": "MANKEY"
+            "id": 425,
+            "template": "DRIFLOON"
         },
         {
-            "id": 220,
-            "template": "SWINUB_NORMAL",
-            "form": 1277
+            "id": 592,
+            "template": "FRILLISH_NORMAL",
+            "form": 2168
         },
         {
-            "id": 325,
-            "template": "SPOINK"
+            "id": 686,
+            "template": "INKAY"
         },
         {
-            "id": 498,
-            "template": "TEPIG"
+            "id": 744,
+            "template": "ROCKRUFF"
         }
     ],
     "3": [
         {
-            "id": 143,
-            "template": "SNORLAX_NORMAL",
-            "form": 199
+            "id": 73,
+            "template": "TENTACRUEL"
         },
         {
-            "id": 303,
-            "template": "MAWILE_NORMAL",
-            "form": 833
+            "id": 621,
+            "template": "DRUDDIGON"
         },
         {
-            "id": 317,
-            "template": "SWALOT"
-        },
-        {
-            "id": 319,
-            "template": "SHARPEDO_NORMAL",
-            "form": 737
+            "template": "UNSET"
         }
     ],
     "5": [
         {
-            "id": 799,
-            "template": "GUZZLORD"
+            "id": 793,
+            "template": "NIHILEGO"
+        },
+        {
+            "template": "UNSET"
         }
     ],
     "6": [
         {
-            "id": 130,
-            "template": "GYARADOS_NORMAL",
-            "form": 256,
+            "id": 229,
+            "template": "HOUNDOOM_NORMAL",
+            "form": 232,
             "temp_evolution_id": 1
+        },
+        {
+            "template": "UNSET"
         }
     ]
 }
