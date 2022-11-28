@@ -1,64 +1,5 @@
 [
     {
-        "name": "Ultra Beast Arrival: Global",
-        "type": "event",
-        "start": "2022-11-27 11:00",
-        "end": "2022-11-27 17:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [
-            {
-                "id": 793,
-                "template": "NIHILEGO"
-            },
-            {
-                "id": 794,
-                "template": "BUZZWOLE"
-            },
-            {
-                "id": 799,
-                "template": "GUZZLORD"
-            },
-            {
-                "id": 796,
-                "template": "XURKITREE"
-            },
-            {
-                "id": 795,
-                "template": "PHEROMOSA"
-            },
-            {
-                "id": 798,
-                "template": "KARTANA"
-            },
-            {
-                "id": 797,
-                "template": "CELESTEELA"
-            }
-        ],
-        "shinies": [],
-        "bonuses": [
-            {
-                "text": "1.25× more XP for winning Raid Battles against Ultra Beasts",
-                "template": "increased-xp",
-                "value": 125
-            },
-            {
-                "text": "Increased chance to receive Rare Candy XL from in-person Raid Battles",
-                "template": "increased-candy"
-            },
-            {
-                "text": "Receive up to five additional free Raid Passes by spinning Gym Photo Discs during the event and up to two hours afterward"
-            }
-        ],
-        "features": [
-            "50,000 Trainers referred: all Trainers will receive a Lure Module via a bundle in the in-game shop.",
-            "100,000 Trainers referred: all Trainers will be able to use Beast Balls when facing Ultra Beasts during Ultra Beast Arrival: Global."
-        ],
-        "has_quests": true,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Astral Eclipse Event",
         "type": "event",
         "start": "2022-11-23 10:00",
@@ -496,10 +437,66 @@
         "has_spawnpoints": false
     },
     {
-        "name": "Unannounced Event",
+        "name": "Wooper Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2022-12-06 18:00",
+        "end": "2022-12-06 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": true
+    },
+    {
+        "name": "Virizion Raid Hour",
+        "type": "raid-hour",
+        "start": "2022-12-07 18:00",
+        "end": "2022-12-07 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Mythic Blade",
         "type": "event",
-        "start": "2022-12-24 10:00",
-        "end": "2022-12-25 20:00",
+        "start": "2022-12-06 10:00",
+        "end": "2022-12-11 20:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Spheal Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2022-12-13 18:00",
+        "end": "2022-12-13 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": true
+    },
+    {
+        "name": "Terrakion Raid Hour",
+        "type": "raid-hour",
+        "start": "2022-12-14 18:00",
+        "end": "2022-12-14 19:00",
         "spawns": [],
         "eggs": [],
         "raids": [],
@@ -522,6 +519,90 @@
         "features": [],
         "has_quests": true,
         "has_spawnpoints": true
+    },
+    {
+        "name": "Bergmite Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2022-12-20 18:00",
+        "end": "2022-12-20 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": true
+    },
+    {
+        "name": "Cobalion Raid Hour",
+        "type": "raid-hour",
+        "start": "2022-12-21 18:00",
+        "end": "2022-12-21 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Winter Holiday - Part 1",
+        "type": "event",
+        "start": "2022-12-23 10:00",
+        "end": "2022-12-31 20:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Winter Wonderland",
+        "type": "event",
+        "start": "2022-12-24 10:00",
+        "end": "2022-12-25 20:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Cubchoo Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2022-12-27 18:00",
+        "end": "2022-12-27 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": true
+    },
+    {
+        "name": "Kyurem Raid Hour",
+        "type": "raid-hour",
+        "start": "2022-12-28 18:00",
+        "end": "2022-12-28 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
     },
     {
         "name": "January Community Day",
