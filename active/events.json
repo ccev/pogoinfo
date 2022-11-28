@@ -645,5 +645,269 @@
         "features": [],
         "has_quests": true,
         "has_spawnpoints": true
+    },
+    {
+        "name": "Season 9: Mythical Wishes",
+        "type": "season",
+        "start": "2022-12-01 10:00",
+        "end": "2023-03-01 10:00",
+        "spawns": [
+            {
+                "id": 16,
+                "template": "PIDGEY"
+            },
+            {
+                "id": 52,
+                "template": "MEOWTH"
+            },
+            {
+                "id": 88,
+                "template": "GRIMER_ALOLA",
+                "form": 74
+            },
+            {
+                "id": 210,
+                "template": "GRANBULL"
+            },
+            {
+                "id": 316,
+                "template": "GULPIN"
+            },
+            {
+                "id": 504,
+                "template": "PATRAT"
+            },
+            {
+                "id": 506,
+                "template": "LILLIPUP"
+            },
+            {
+                "id": 48,
+                "template": "VENONAT"
+            },
+            {
+                "id": 71,
+                "template": "VICTREEBEL"
+            },
+            {
+                "id": 123,
+                "template": "SCYTHER"
+            },
+            {
+                "id": 546,
+                "template": "COTTONEE"
+            },
+            {
+                "id": 755,
+                "template": "MORELULL"
+            },
+            {
+                "id": 77,
+                "template": "PONYTA"
+            },
+            {
+                "id": 112,
+                "template": "RHYDON"
+            },
+            {
+                "id": 247,
+                "template": "PUPITAR"
+            },
+            {
+                "id": 296,
+                "template": "MAKUHITA"
+            },
+            {
+                "id": 529,
+                "template": "DRILBUR"
+            },
+            {
+                "id": 566,
+                "template": "ARCHEN"
+            },
+            {
+                "id": 627,
+                "template": "RUFFLET"
+            },
+            {
+                "id": 61,
+                "template": "POLIWHIRL"
+            },
+            {
+                "id": 118,
+                "template": "GOLDEEN"
+            },
+            {
+                "id": 134,
+                "template": "VAPOREON"
+            },
+            {
+                "id": 366,
+                "template": "CLAMPERL"
+            },
+            {
+                "id": 564,
+                "template": "TIRTOUGA"
+            },
+            {
+                "id": 686,
+                "template": "INKAY"
+            },
+            {
+                "id": 747,
+                "template": "MAREANIE"
+            }
+        ],
+        "eggs": [
+            {
+                "id": 238,
+                "template": "SMOOCHUM"
+            },
+            {
+                "id": 298,
+                "template": "AZURILL"
+            },
+            {
+                "id": 406,
+                "template": "BUDEW"
+            },
+            {
+                "id": 458,
+                "template": "MANTYKE"
+            },
+            {
+                "id": 712,
+                "template": "BERGMITE"
+            },
+            {
+                "id": 433,
+                "template": "CHINGLING"
+            },
+            {
+                "id": 459,
+                "template": "SNOVER"
+            },
+            {
+                "id": 722,
+                "template": "ROWLET"
+            },
+            {
+                "id": 725,
+                "template": "LITTEN"
+            },
+            {
+                "id": 728,
+                "template": "POPPLIO"
+            },
+            {
+                "id": 747,
+                "template": "MAREANIE"
+            },
+            {
+                "id": 564,
+                "template": "TIRTOUGA"
+            },
+            {
+                "id": 566,
+                "template": "ARCHEN"
+            },
+            {
+                "id": 714,
+                "template": "NOIBAT"
+            },
+            {
+                "id": 744,
+                "template": "ROCKRUFF"
+            },
+            {
+                "id": 777,
+                "template": "TOGEDEMARU"
+            },
+            {
+                "id": 782,
+                "template": "JANGMO_O"
+            },
+            {
+                "id": 403,
+                "template": "SHINX"
+            },
+            {
+                "id": 408,
+                "template": "CRANIDOS"
+            },
+            {
+                "id": 410,
+                "template": "SHIELDON"
+            },
+            {
+                "id": 440,
+                "template": "HAPPINY"
+            },
+            {
+                "id": 371,
+                "template": "BAGON"
+            },
+            {
+                "id": 374,
+                "template": "BELDUM"
+            },
+            {
+                "id": 443,
+                "template": "GIBLE"
+            },
+            {
+                "id": 633,
+                "template": "DEINO"
+            }
+        ],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [
+            {
+                "text": "Guaranteed Gifts from PokéStop spins"
+            },
+            {
+                "text": "Increased Incense effectiveness while moving",
+                "template": "longer-incense"
+            },
+            {
+                "text": "Increased damage for Pokémon participating in raids remotely"
+            },
+            {
+                "text": "Trainers level 31+ receive a guaranteed 1 XL Candy for each trade",
+                "template": "increased-candy",
+                "value": 311
+            },
+            {
+                "text": "All Trainers receive 1 additional Candy for each trade",
+                "value": 1
+            },
+            {
+                "text": "Trainers can open 40 Gifts daily",
+                "value": 40
+            },
+            {
+                "text": "Trainers can send 125 Gifts daily.",
+                "value": 125
+            },
+            {
+                "text": "1/2 Hatch Distance when Eggs are placed into Incubators during the event period",
+                "template": "reduced-hatch-distance",
+                "value": 12
+            },
+            {
+                "text": "2× XP for catching Pokémon",
+                "template": "increased-xp",
+                "value": 2
+            },
+            {
+                "text": "2× Stardust for catching Pokémon.",
+                "template": "increased-stardust",
+                "value": 2
+            }
+        ],
+        "features": [],
+        "has_quests": true,
+        "has_spawnpoints": false
     }
 ]
