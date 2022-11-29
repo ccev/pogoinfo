@@ -1,27 +1,5 @@
 {
-    "event": [
-        {
-            "task": "Event: Catch 5 Psychic-type Pokémon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 120,
-                        "template": "STARYU"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Event: Catch 5 Staryu",
-            "rewards": [
-                {
-                    "type": "stardust",
-                    "amount": 1000
-                }
-            ]
-        }
-    ],
+    "event": [],
     "quests": [
         {
             "task": "Catch 5 Pokémon with Weather Boost",
