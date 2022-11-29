@@ -529,6 +529,20 @@
         "has_spawnpoints": true
     },
     {
+        "name": "GO Battle Day: Steven Stone",
+        "type": "event",
+        "start": "2023-01-14 00:00",
+        "end": "2023-01-15 23:59",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": true,
+        "has_spawnpoints": false
+    },
+    {
         "name": "Janaury Community Day Classic",
         "type": "community-day",
         "start": "2023-01-21 14:00",
@@ -555,6 +569,20 @@
         "features": [],
         "has_quests": true,
         "has_spawnpoints": true
+    },
+    {
+        "name": "GO Battle Day: Vulpix",
+        "type": "event",
+        "start": "2023-02-12 00:00",
+        "end": "2023-02-12 23:59",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": true,
+        "has_spawnpoints": false
     },
     {
         "name": "Season 9: Mythical Wishes",
@@ -813,6 +841,30 @@
             {
                 "text": "2× Stardust for catching Pokémon.",
                 "template": "increased-stardust",
+                "value": 2
+            },
+            {
+                "text": "1/2 Hatch Distance when Eggs are placed into Incubators during the event period",
+                "value": 12
+            },
+            {
+                "text": "2× Stardust for catching Pokémon",
+                "value": 2
+            },
+            {
+                "text": "2× Daily Adventure Incense duration",
+                "value": 2
+            },
+            {
+                "text": "2× Daily Adventure Incense duration",
+                "value": 2
+            },
+            {
+                "text": "2× XP for catching Pokémon",
+                "value": 2
+            },
+            {
+                "text": "2× Candy for catching Pokémon",
                 "value": 2
             }
         ],
