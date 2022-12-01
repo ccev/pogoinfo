@@ -1,19 +1,5 @@
 [
     {
-        "name": "Nihilego Raid Hour",
-        "type": "raid-hour",
-        "start": "2022-11-30 18:00",
-        "end": "2022-11-30 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Collection Challenge: Nihilego - ON THE GO NEWS",
         "type": "event",
         "start": "2022-11-27 04:00",
