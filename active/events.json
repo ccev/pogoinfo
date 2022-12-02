@@ -32,13 +32,55 @@
         "type": "event",
         "start": "2022-12-06 10:00",
         "end": "2022-12-11 20:00",
-        "spawns": [],
+        "spawns": [
+            {
+                "id": 62,
+                "template": "POLIWRATH"
+            },
+            {
+                "id": 739,
+                "template": "CRABRAWLER"
+            }
+        ],
         "eggs": [],
-        "raids": [],
+        "raids": [
+            {
+                "id": 307,
+                "template": "MEDITITE"
+            },
+            {
+                "id": 418,
+                "template": "BUIZEL"
+            },
+            {
+                "id": 532,
+                "template": "TIMBURR"
+            },
+            {
+                "id": 535,
+                "template": "TYMPOLE"
+            },
+            {
+                "id": 62,
+                "template": "POLIWRATH"
+            },
+            {
+                "id": 142,
+                "template": "AERODACTYL"
+            },
+            {
+                "id": 227,
+                "template": "SKARMORY"
+            },
+            {
+                "id": 286,
+                "template": "BRELOOM"
+            }
+        ],
         "shinies": [],
         "bonuses": [],
         "features": [],
-        "has_quests": false,
+        "has_quests": true,
         "has_spawnpoints": false
     },
     {
@@ -303,6 +345,10 @@
                 "template": "COTTONEE"
             },
             {
+                "id": 753,
+                "template": "FOMANTIS"
+            },
+            {
                 "id": 755,
                 "template": "MORELULL"
             },
@@ -365,6 +411,14 @@
         ],
         "eggs": [
             {
+                "id": 129,
+                "template": "MAGIKARP"
+            },
+            {
+                "id": 172,
+                "template": "PICHU"
+            },
+            {
                 "id": 238,
                 "template": "SMOOCHUM"
             },
@@ -385,8 +439,40 @@
                 "template": "BERGMITE"
             },
             {
+                "id": 731,
+                "template": "PIKIPEK"
+            },
+            {
+                "id": 734,
+                "template": "YUNGOOS"
+            },
+            {
+                "id": 753,
+                "template": "FOMANTIS"
+            },
+            {
+                "id": 767,
+                "template": "WIMPOD"
+            },
+            {
+                "id": 175,
+                "template": "TOGEPI"
+            },
+            {
+                "id": 236,
+                "template": "TYROGUE"
+            },
+            {
                 "id": 433,
                 "template": "CHINGLING"
+            },
+            {
+                "id": 436,
+                "template": "BRONZOR"
+            },
+            {
+                "id": 439,
+                "template": "MIME_JR"
             },
             {
                 "id": 459,
@@ -409,12 +495,28 @@
                 "template": "MAREANIE"
             },
             {
+                "id": 447,
+                "template": "RIOLU"
+            },
+            {
                 "id": 564,
                 "template": "TIRTOUGA"
             },
             {
                 "id": 566,
                 "template": "ARCHEN"
+            },
+            {
+                "id": 610,
+                "template": "AXEW"
+            },
+            {
+                "id": 677,
+                "template": "ESPURR"
+            },
+            {
+                "id": 704,
+                "template": "GOOMY"
             },
             {
                 "id": 714,
