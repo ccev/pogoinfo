@@ -2,35 +2,6 @@
     "event": [],
     "quests": [
         {
-            "task": "Catch 5 Pokémon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 220,
-                        "template": "SWINUB_NORMAL",
-                        "form": 1277
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 363,
-                        "template": "SPHEAL_NORMAL",
-                        "form": 1598
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 90,
-                        "template": "SHELLDER_NORMAL",
-                        "form": 876
-                    }
-                }
-            ]
-        },
-        {
             "task": "Catch 5 Pokémon with Weather Boost",
             "rewards": [
                 {
@@ -82,6 +53,35 @@
                         "id": 459,
                         "template": "SNOVER_NORMAL",
                         "form": 932
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Catch 5 Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 220,
+                        "template": "SWINUB_NORMAL",
+                        "form": 1277
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 363,
+                        "template": "SPHEAL_NORMAL",
+                        "form": 1598
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 90,
+                        "template": "SHELLDER_NORMAL",
+                        "form": 876
                     }
                 }
             ]
@@ -808,6 +808,31 @@
             ]
         },
         {
+            "task": "Earn 2 Candies walking with your buddy",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 659,
+                        "template": "BUNNELBY"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Earn 3 Candies walking with your buddy",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 618,
+                        "template": "STUNFISK_NORMAL",
+                        "form": 2246
+                    }
+                }
+            ]
+        },
+        {
             "task": "Earn 5 hearts with your buddy",
             "rewards": [
                 {
@@ -840,31 +865,6 @@
                         "id": 67,
                         "template": "MACHOKE_NORMAL",
                         "form": 812
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Earn 2 Candies walking with your buddy",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 659,
-                        "template": "BUNNELBY"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Earn 3 Candies walking with your buddy",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 618,
-                        "template": "STUNFISK_NORMAL",
-                        "form": 2246
                     }
                 }
             ]
@@ -988,6 +988,28 @@
             ]
         },
         {
+            "task": "Power up Pokémon 5 times",
+            "rewards": [
+                {
+                    "type": "energy",
+                    "reward": {
+                        "id": 15,
+                        "template": "BEEDRILL_NORMAL",
+                        "form": 622
+                    },
+                    "amount": 10
+                },
+                {
+                    "type": "energy",
+                    "reward": {
+                        "id": 18,
+                        "template": "PIDGEOT"
+                    },
+                    "amount": 10
+                }
+            ]
+        },
+        {
             "task": "Power up Pokémon 10 times",
             "rewards": [
                 {
@@ -998,19 +1020,6 @@
                         "form": 935
                     },
                     "amount": 25
-                }
-            ]
-        },
-        {
-            "task": "Power up Pokémon 5 times",
-            "rewards": [
-                {
-                    "type": "energy",
-                    "reward": {
-                        "id": 18,
-                        "template": "PIDGEOT"
-                    },
-                    "amount": 10
                 }
             ]
         },
@@ -1043,6 +1052,25 @@
                     "reward": {
                         "id": 193,
                         "template": "YANMA"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Hatch an Egg",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 226,
+                        "template": "MANTINE"
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 615,
+                        "template": "CRYOGONAL"
                     }
                 }
             ]
@@ -1091,20 +1119,14 @@
             ]
         },
         {
-            "task": "Hatch an Egg",
+            "task": "Take 5 snapshots of a wild Pokémon",
             "rewards": [
                 {
                     "type": "pokemon",
                     "reward": {
-                        "id": 226,
-                        "template": "MANTINE"
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 615,
-                        "template": "CRYOGONAL"
+                        "id": 280,
+                        "template": "RALTS_NORMAL",
+                        "form": 292
                     }
                 }
             ]
@@ -1131,19 +1153,6 @@
                         "id": 374,
                         "template": "BELDUM_NORMAL",
                         "form": 764
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Take 5 snapshots of a wild Pokémon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 280,
-                        "template": "RALTS_NORMAL",
-                        "form": 292
                     }
                 }
             ]

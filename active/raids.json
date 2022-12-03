@@ -53,6 +53,23 @@
     ],
     "6": [
         {
+            "id": 254,
+            "template": "SCEPTILE",
+            "temp_evolution_id": 1
+        },
+        {
+            "id": 257,
+            "template": "BLAZIKEN_NORMAL",
+            "form": 1364,
+            "temp_evolution_id": 1
+        },
+        {
+            "id": 260,
+            "template": "SWAMPERT_NORMAL",
+            "form": 211,
+            "temp_evolution_id": 1
+        },
+        {
             "id": 460,
             "template": "ABOMASNOW_NORMAL",
             "form": 935,

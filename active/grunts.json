@@ -654,13 +654,13 @@
                 ],
                 [
                     {
+                        "id": 591,
+                        "template": "AMOONGUSS"
+                    },
+                    {
                         "id": 154,
                         "template": "MEGANIUM_NORMAL",
                         "form": 1124
-                    },
-                    {
-                        "id": 591,
-                        "template": "AMOONGUSS"
                     },
                     {
                         "id": 332,
@@ -869,14 +869,14 @@
                 ],
                 [
                     {
-                        "id": 399,
-                        "template": "BIDOOF_NORMAL",
-                        "form": 1667
-                    },
-                    {
                         "id": 20,
                         "template": "RATICATE_NORMAL",
                         "form": 47
+                    },
+                    {
+                        "id": 399,
+                        "template": "BIDOOF_NORMAL",
+                        "form": 1667
                     },
                     {
                         "id": 294,
@@ -1124,13 +1124,13 @@
             "team": [
                 [
                     {
+                        "id": 320,
+                        "template": "WAILMER"
+                    },
+                    {
                         "id": 158,
                         "template": "TOTODILE_NORMAL",
                         "form": 1136
-                    },
-                    {
-                        "id": 320,
-                        "template": "WAILMER"
                     }
                 ],
                 [
@@ -1225,14 +1225,14 @@
                         "template": "AMOONGUSS"
                     },
                     {
-                        "id": 169,
-                        "template": "CROBAT_NORMAL",
-                        "form": 202
-                    },
-                    {
                         "id": 127,
                         "template": "PINSIR_NORMAL",
                         "form": 898
+                    },
+                    {
+                        "id": 169,
+                        "template": "CROBAT_NORMAL",
+                        "form": 202
                     }
                 ],
                 [
@@ -1578,13 +1578,13 @@
                 ],
                 [
                     {
-                        "id": 405,
-                        "template": "LUXRAY"
-                    },
-                    {
                         "id": 181,
                         "template": "AMPHAROS_NORMAL",
                         "form": 652
+                    },
+                    {
+                        "id": 405,
+                        "template": "LUXRAY"
                     },
                     {
                         "id": 125,
