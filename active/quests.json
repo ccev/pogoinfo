@@ -87,26 +87,6 @@
             ]
         },
         {
-            "task": "Use 5 Nanab Berries while catching Pokémon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 13,
-                        "template": "WEEDLE_NORMAL",
-                        "form": 616
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 265,
-                        "template": "WURMPLE"
-                    }
-                }
-            ]
-        },
-        {
             "task": "Catch a Dragon-type Pokémon",
             "rewards": [
                 {
@@ -142,6 +122,26 @@
                         "id": 371,
                         "template": "BAGON_NORMAL",
                         "form": 755
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Use 5 Nanab Berries while catching Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 13,
+                        "template": "WEEDLE_NORMAL",
+                        "form": 616
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 265,
+                        "template": "WURMPLE"
                     }
                 }
             ]
