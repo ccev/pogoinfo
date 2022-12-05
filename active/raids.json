@@ -1,65 +1,55 @@
 {
     "1": [
         {
-            "id": 56,
-            "template": "MANKEY"
+            "id": 307,
+            "template": "MEDITITE"
         },
         {
-            "id": 215,
-            "template": "SNEASEL_NORMAL",
-            "form": 797
+            "id": 418,
+            "template": "BUIZEL"
         },
         {
-            "id": 220,
-            "template": "SWINUB_NORMAL",
-            "form": 1277
+            "id": 532,
+            "template": "TIMBURR"
         },
         {
-            "id": 453,
-            "template": "CROAGUNK"
-        },
-        {
-            "id": 599,
-            "template": "KLINK"
+            "id": 535,
+            "template": "TYMPOLE"
         }
     ],
     "3": [
         {
-            "id": 297,
-            "template": "HARIYAMA_NORMAL",
-            "form": 1454
+            "id": 62,
+            "template": "POLIWRATH_NORMAL",
+            "form": 241
         },
         {
-            "id": 303,
-            "template": "MAWILE_NORMAL",
-            "form": 833
+            "id": 142,
+            "template": "AERODACTYL_NORMAL",
+            "form": 1110
         },
         {
-            "id": 308,
-            "template": "MEDICHAM"
+            "id": 227,
+            "template": "SKARMORY_NORMAL",
+            "form": 1295
         },
         {
-            "template": "UNSET"
+            "id": 286,
+            "template": "BRELOOM"
         }
     ],
     "5": [
         {
             "id": 640,
             "template": "VIRIZION"
-        },
-        {
-            "template": "UNSET"
         }
     ],
     "6": [
         {
-            "id": 460,
-            "template": "ABOMASNOW_NORMAL",
-            "form": 935,
+            "id": 306,
+            "template": "AGGRON_NORMAL",
+            "form": 1475,
             "temp_evolution_id": 1
-        },
-        {
-            "template": "UNSET"
         }
     ]
 }
