@@ -29,6 +29,19 @@
             ]
         },
         {
+            "task": "Event: Catch 15 Fighting-type Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 83,
+                        "template": "FARFETCHD_GALARIAN",
+                        "form": 2338
+                    }
+                }
+            ]
+        },
+        {
             "task": "Event: Power up Pokémon 15 times",
             "rewards": [
                 {
