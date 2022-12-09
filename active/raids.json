@@ -50,6 +50,11 @@
             "template": "AGGRON_NORMAL",
             "form": 1475,
             "temp_evolution_id": 1
+        },
+        {
+            "id": 720,
+            "template": "HOOPA_UNBOUND",
+            "form": 2652
         }
     ]
 }

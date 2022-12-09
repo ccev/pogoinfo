@@ -555,12 +555,12 @@
                         "form": 1658
                     },
                     {
-                        "id": 580,
-                        "template": "DUCKLETT"
-                    },
-                    {
                         "id": 177,
                         "template": "NATU"
+                    },
+                    {
+                        "id": 580,
+                        "template": "DUCKLETT"
                     }
                 ],
                 [
@@ -715,14 +715,14 @@
                 ],
                 [
                     {
-                        "id": 50,
-                        "template": "DIGLETT_NORMAL",
-                        "form": 59
-                    },
-                    {
                         "id": 449,
                         "template": "HIPPOPOTAS_NORMAL",
                         "form": 888
+                    },
+                    {
+                        "id": 50,
+                        "template": "DIGLETT_NORMAL",
+                        "form": 59
                     }
                 ],
                 [
@@ -1526,14 +1526,14 @@
                 ],
                 [
                     {
-                        "id": 477,
-                        "template": "DUSKNOIR_NORMAL",
-                        "form": 920
-                    },
-                    {
                         "id": 354,
                         "template": "BANETTE_NORMAL",
                         "form": 911
+                    },
+                    {
+                        "id": 477,
+                        "template": "DUSKNOIR_NORMAL",
+                        "form": 920
                     },
                     {
                         "id": 623,
