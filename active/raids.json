@@ -1,20 +1,26 @@
 {
     "1": [
         {
-            "id": 307,
-            "template": "MEDITITE"
+            "id": 106,
+            "template": "HITMONLEE_NORMAL",
+            "form": 713
         },
         {
-            "id": 418,
-            "template": "BUIZEL"
+            "id": 107,
+            "template": "HITMONCHAN_NORMAL",
+            "form": 277
+        },
+        {
+            "id": 237,
+            "template": "HITMONTOP"
         },
         {
             "id": 532,
             "template": "TIMBURR"
         },
         {
-            "id": 535,
-            "template": "TYMPOLE"
+            "id": 619,
+            "template": "MIENFOO"
         }
     ],
     "3": [
@@ -24,18 +30,18 @@
             "form": 241
         },
         {
-            "id": 142,
-            "template": "AERODACTYL_NORMAL",
-            "form": 1110
-        },
-        {
-            "id": 227,
-            "template": "SKARMORY_NORMAL",
-            "form": 1295
+            "id": 248,
+            "template": "TYRANITAR_NORMAL",
+            "form": 319
         },
         {
             "id": 286,
             "template": "BRELOOM"
+        },
+        {
+            "id": 303,
+            "template": "MAWILE_NORMAL",
+            "form": 833
         }
     ],
     "5": [
