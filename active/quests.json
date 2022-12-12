@@ -867,7 +867,7 @@
             ]
         },
         {
-            "task": "Give your buddy 3 treats. ",
+            "task": "Feed your buddy 3 times",
             "rewards": [
                 {
                     "type": "pokemon",

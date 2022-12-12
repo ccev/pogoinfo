@@ -656,13 +656,13 @@
                 ],
                 [
                     {
-                        "id": 591,
-                        "template": "AMOONGUSS"
-                    },
-                    {
                         "id": 154,
                         "template": "MEGANIUM_NORMAL",
                         "form": 1124
+                    },
+                    {
+                        "id": 591,
+                        "template": "AMOONGUSS"
                     },
                     {
                         "id": 332,
@@ -889,14 +889,14 @@
                 ],
                 [
                     {
-                        "id": 217,
-                        "template": "URSARING_NORMAL",
-                        "form": 1268
-                    },
-                    {
                         "id": 20,
                         "template": "RATICATE_NORMAL",
                         "form": 47
+                    },
+                    {
+                        "id": 217,
+                        "template": "URSARING_NORMAL",
+                        "form": 1268
                     },
                     {
                         "id": 400,
@@ -1526,14 +1526,14 @@
                 ],
                 [
                     {
-                        "id": 354,
-                        "template": "BANETTE_NORMAL",
-                        "form": 911
-                    },
-                    {
                         "id": 477,
                         "template": "DUSKNOIR_NORMAL",
                         "form": 920
+                    },
+                    {
+                        "id": 354,
+                        "template": "BANETTE_NORMAL",
+                        "form": 911
                     },
                     {
                         "id": 623,
