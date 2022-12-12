@@ -1562,13 +1562,13 @@
             "team": [
                 [
                     {
-                        "id": 403,
-                        "template": "SHINX"
-                    },
-                    {
                         "id": 179,
                         "template": "MAREEP_NORMAL",
                         "form": 646
+                    },
+                    {
+                        "id": 403,
+                        "template": "SHINX"
                     }
                 ],
                 [
@@ -1585,13 +1585,13 @@
                 ],
                 [
                     {
+                        "id": 405,
+                        "template": "LUXRAY"
+                    },
+                    {
                         "id": 181,
                         "template": "AMPHAROS_NORMAL",
                         "form": 652
-                    },
-                    {
-                        "id": 405,
-                        "template": "LUXRAY"
                     },
                     {
                         "id": 125,
