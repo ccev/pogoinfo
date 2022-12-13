@@ -88,14 +88,14 @@
                         "form": 256
                     },
                     {
-                        "id": 143,
-                        "template": "SNORLAX_NORMAL",
-                        "form": 199
-                    },
-                    {
                         "id": 149,
                         "template": "DRAGONITE_NORMAL",
                         "form": 196
+                    },
+                    {
+                        "id": 143,
+                        "template": "SNORLAX_NORMAL",
+                        "form": 199
                     }
                 ]
             ]
@@ -508,13 +508,13 @@
                         "form": 1133
                     },
                     {
+                        "id": 323,
+                        "template": "CAMERUPT"
+                    },
+                    {
                         "id": 38,
                         "template": "NINETALES_NORMAL",
                         "form": 57
-                    },
-                    {
-                        "id": 323,
-                        "template": "CAMERUPT"
                     }
                 ]
             ]
@@ -656,13 +656,13 @@
                 ],
                 [
                     {
+                        "id": 591,
+                        "template": "AMOONGUSS"
+                    },
+                    {
                         "id": 154,
                         "template": "MEGANIUM_NORMAL",
                         "form": 1124
-                    },
-                    {
-                        "id": 591,
-                        "template": "AMOONGUSS"
                     },
                     {
                         "id": 332,
@@ -1227,13 +1227,13 @@
                 ],
                 [
                     {
+                        "id": 591,
+                        "template": "AMOONGUSS"
+                    },
+                    {
                         "id": 127,
                         "template": "PINSIR_NORMAL",
                         "form": 898
-                    },
-                    {
-                        "id": 591,
-                        "template": "AMOONGUSS"
                     },
                     {
                         "id": 169,
