@@ -1,5 +1,32 @@
 {
-    "event": [],
+    "event": [
+        {
+            "task": "Event: Open 5 Gifts",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 37,
+                        "template": "VULPIX_ALOLA",
+                        "form": 56
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Event: Catch 5 different species of Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 363,
+                        "template": "SPHEAL_NORMAL",
+                        "form": 1598
+                    }
+                }
+            ]
+        }
+    ],
     "quests": [
         {
             "task": "Catch 5 Pokémon with Weather Boost",

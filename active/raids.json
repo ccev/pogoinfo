@@ -1,60 +1,61 @@
 {
     "1": [
         {
-            "id": 106,
-            "template": "HITMONLEE_NORMAL",
-            "form": 713
+            "id": 25,
+            "template": "PIKACHU_NORMAL",
+            "form": 598
         },
         {
-            "id": 107,
-            "template": "HITMONCHAN_NORMAL",
-            "form": 277
+            "id": 37,
+            "template": "VULPIX_ALOLA",
+            "form": 56
         },
         {
-            "id": 237,
-            "template": "HITMONTOP"
+            "id": 363,
+            "template": "SPHEAL_NORMAL",
+            "form": 1598
         },
         {
-            "id": 532,
-            "template": "TIMBURR"
+            "id": 554,
+            "template": "DARUMAKA_GALARIAN",
+            "form": 2341
         },
         {
-            "id": 619,
-            "template": "MIENFOO"
+            "id": 712,
+            "template": "BERGMITE"
         }
     ],
     "3": [
         {
-            "id": 62,
-            "template": "POLIWRATH_NORMAL",
-            "form": 241
+            "id": 91,
+            "template": "CLOYSTER_NORMAL",
+            "form": 879
         },
         {
-            "id": 248,
-            "template": "TYRANITAR_NORMAL",
-            "form": 319
+            "id": 131,
+            "template": "LAPRAS_NORMAL",
+            "form": 322
         },
         {
-            "id": 286,
-            "template": "BRELOOM"
+            "id": 234,
+            "template": "STANTLER_NORMAL",
+            "form": 941
         },
         {
-            "id": 303,
-            "template": "MAWILE_NORMAL",
-            "form": 833
+            "id": 471,
+            "template": "GLACEON"
         }
     ],
     "5": [
         {
-            "id": 639,
-            "template": "TERRAKION"
+            "id": 638,
+            "template": "COBALION"
         }
     ],
     "6": [
         {
-            "id": 306,
-            "template": "AGGRON_NORMAL",
-            "form": 1475,
+            "id": 362,
+            "template": "GLALIE",
             "temp_evolution_id": 1
         }
     ]
