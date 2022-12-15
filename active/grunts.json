@@ -156,14 +156,14 @@
                 ],
                 [
                     {
-                        "id": 212,
-                        "template": "SCIZOR_NORMAL",
-                        "form": 250
-                    },
-                    {
                         "id": 127,
                         "template": "PINSIR_NORMAL",
                         "form": 898
+                    },
+                    {
+                        "id": 212,
+                        "template": "SCIZOR_NORMAL",
+                        "form": 250
                     },
                     {
                         "id": 205,
@@ -221,14 +221,14 @@
                         "form": 613
                     },
                     {
-                        "id": 430,
-                        "template": "HONCHKROW_NORMAL",
-                        "form": 858
-                    },
-                    {
                         "id": 20,
                         "template": "RATICATE_NORMAL",
                         "form": 47
+                    },
+                    {
+                        "id": 430,
+                        "template": "HONCHKROW_NORMAL",
+                        "form": 858
                     }
                 ]
             ]
@@ -508,13 +508,13 @@
                         "form": 1133
                     },
                     {
+                        "id": 323,
+                        "template": "CAMERUPT"
+                    },
+                    {
                         "id": 38,
                         "template": "NINETALES_NORMAL",
                         "form": 57
-                    },
-                    {
-                        "id": 323,
-                        "template": "CAMERUPT"
                     }
                 ]
             ]
@@ -550,13 +550,13 @@
             "team": [
                 [
                     {
+                        "id": 580,
+                        "template": "DUCKLETT"
+                    },
+                    {
                         "id": 396,
                         "template": "STARLY_NORMAL",
                         "form": 1658
-                    },
-                    {
-                        "id": 580,
-                        "template": "DUCKLETT"
                     },
                     {
                         "id": 177,
@@ -889,14 +889,14 @@
                 ],
                 [
                     {
-                        "id": 20,
-                        "template": "RATICATE_NORMAL",
-                        "form": 47
-                    },
-                    {
                         "id": 217,
                         "template": "URSARING_NORMAL",
                         "form": 1268
+                    },
+                    {
+                        "id": 20,
+                        "template": "RATICATE_NORMAL",
+                        "form": 47
                     },
                     {
                         "id": 400,
@@ -1227,14 +1227,14 @@
                 ],
                 [
                     {
-                        "id": 127,
-                        "template": "PINSIR_NORMAL",
-                        "form": 898
-                    },
-                    {
                         "id": 169,
                         "template": "CROBAT_NORMAL",
                         "form": 202
+                    },
+                    {
+                        "id": 127,
+                        "template": "PINSIR_NORMAL",
+                        "form": 898
                     },
                     {
                         "id": 591,

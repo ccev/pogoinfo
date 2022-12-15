@@ -22,7 +22,7 @@
             ]
         },
         {
-            "task": "Event: Catch 7 Ice-Type Pokémon",
+            "task": "Event: Catch 7 Ice-type Pokémon",
             "rewards": [
                 {
                     "type": "pokemon",
@@ -37,6 +37,19 @@
                     "reward": {
                         "id": 86,
                         "template": "SEEL"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Event: Open 5 Gifts",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 37,
+                        "template": "VULPIX_ALOLA",
+                        "form": 56
                     }
                 }
             ]
@@ -88,7 +101,32 @@
             ]
         },
         {
-            "task": "Event: Catch 5 Ice-Type Pokémon",
+            "task": "Event: Hatch an Egg",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 215,
+                        "template": "SNEASEL_NORMAL",
+                        "form": 797
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Event: Win a raid",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 471,
+                        "template": "GLACEON"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Event: Catch 5 Ice-type Pokémon",
             "rewards": [
                 {
                     "type": "item",
@@ -99,32 +137,6 @@
                     "type": "item",
                     "amount": 5,
                     "id": 1
-                }
-            ]
-        },
-        {
-            "task": "Event: Open 5 Gifts",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 37,
-                        "template": "VULPIX_ALOLA",
-                        "form": 56
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Event: Hatch an Egg",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 215,
-                        "template": "SNEASEL_NORMAL",
-                        "form": 797
-                    }
                 }
             ]
         }
