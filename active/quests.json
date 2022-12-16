@@ -135,8 +135,18 @@
                 },
                 {
                     "type": "item",
+                    "amount": 3,
+                    "id": 705
+                },
+                {
+                    "type": "item",
                     "amount": 5,
                     "id": 1
+                },
+                {
+                    "type": "item",
+                    "amount": 3,
+                    "id": 3
                 }
             ]
         }
