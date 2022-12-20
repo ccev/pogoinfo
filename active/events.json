@@ -163,9 +163,18 @@
         "eggs": [],
         "raids": [],
         "shinies": [],
-        "bonuses": [],
+        "bonuses": [
+            {
+                "text": "One extra Special Trade per day"
+            },
+            {
+                "text": "Daily Adventure Incense activated during the event will last for 30 minutes",
+                "template": "longer-incense",
+                "value": 30
+            }
+        ],
         "features": [],
-        "has_quests": false,
+        "has_quests": true,
         "has_spawnpoints": false
     },
     {
@@ -201,13 +210,137 @@
         "type": "event",
         "start": "2022-12-23 10:00",
         "end": "2022-12-31 20:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
+        "spawns": [
+            {
+                "id": 27,
+                "template": "SANDSHREW_ALOLA",
+                "form": 52
+            },
+            {
+                "id": 234,
+                "template": "STANTLER"
+            },
+            {
+                "id": 615,
+                "template": "CRYOGONAL"
+            }
+        ],
+        "eggs": [
+            {
+                "id": 37,
+                "template": "VULPIX_ALOLA",
+                "form": 56
+            },
+            {
+                "id": 133,
+                "template": "EEVEE"
+            },
+            {
+                "id": 554,
+                "template": "DARUMAKA_GALARIAN",
+                "form": 2341
+            },
+            {
+                "id": 712,
+                "template": "BERGMITE"
+            },
+            {
+                "id": 91,
+                "template": "CLOYSTER"
+            },
+            {
+                "id": 131,
+                "template": "LAPRAS"
+            },
+            {
+                "id": 234,
+                "template": "STANTLER",
+                "costume": 8
+            },
+            {
+                "id": 471,
+                "template": "GLACEON"
+            },
+            {
+                "id": 646,
+                "template": "KYUREM_NORMAL",
+                "form": 146
+            },
+            {
+                "id": 362,
+                "template": "GLALIE"
+            }
+        ],
+        "raids": [
+            {
+                "id": 37,
+                "template": "VULPIX_ALOLA",
+                "form": 56
+            },
+            {
+                "id": 133,
+                "template": "EEVEE"
+            },
+            {
+                "id": 554,
+                "template": "DARUMAKA_GALARIAN",
+                "form": 2341
+            },
+            {
+                "id": 712,
+                "template": "BERGMITE"
+            },
+            {
+                "id": 91,
+                "template": "CLOYSTER"
+            },
+            {
+                "id": 131,
+                "template": "LAPRAS"
+            },
+            {
+                "id": 234,
+                "template": "STANTLER",
+                "costume": 8
+            },
+            {
+                "id": 471,
+                "template": "GLACEON"
+            },
+            {
+                "id": 646,
+                "template": "KYUREM_NORMAL",
+                "form": 146
+            },
+            {
+                "id": 362,
+                "template": "GLALIE"
+            }
+        ],
         "shinies": [],
-        "bonuses": [],
+        "bonuses": [
+            {
+                "text": "Trainers can hold up to 40 Gifts until the end of the event",
+                "value": 40
+            },
+            {
+                "text": "1/2 Hatch Distance when Eggs are placed into Incubators during the event period",
+                "template": "reduced-hatch-distance",
+                "value": 12
+            },
+            {
+                "text": "2× XP for catching Pokémon",
+                "template": "increased-xp",
+                "value": 2
+            },
+            {
+                "text": "2× Stardust for catching Pokémon.",
+                "template": "increased-stardust",
+                "value": 2
+            }
+        ],
         "features": [],
-        "has_quests": false,
+        "has_quests": true,
         "has_spawnpoints": false
     },
     {
