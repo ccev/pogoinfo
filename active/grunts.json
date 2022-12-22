@@ -877,26 +877,26 @@
                         "form": 47
                     },
                     {
-                        "id": 399,
-                        "template": "BIDOOF_NORMAL",
-                        "form": 1667
-                    },
-                    {
                         "id": 294,
                         "template": "LOUDRED_NORMAL",
                         "form": 1445
+                    },
+                    {
+                        "id": 399,
+                        "template": "BIDOOF_NORMAL",
+                        "form": 1667
                     }
                 ],
                 [
                     {
-                        "id": 217,
-                        "template": "URSARING_NORMAL",
-                        "form": 1268
-                    },
-                    {
                         "id": 20,
                         "template": "RATICATE_NORMAL",
                         "form": 47
+                    },
+                    {
+                        "id": 217,
+                        "template": "URSARING_NORMAL",
+                        "form": 1268
                     },
                     {
                         "id": 400,

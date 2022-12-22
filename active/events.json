@@ -314,6 +314,174 @@
         "has_spawnpoints": false
     },
     {
+        "name": "Pokémon GO New Year’s 2023 Event",
+        "type": "event",
+        "start": "2022-12-31 20:00",
+        "end": "2023-01-04 20:00",
+        "spawns": [
+            {
+                "id": 1,
+                "template": "BULBASAUR",
+                "costume": 11
+            },
+            {
+                "id": 4,
+                "template": "CHARMANDER",
+                "costume": 11
+            },
+            {
+                "id": 7,
+                "template": "SQUIRTLE",
+                "costume": 11
+            },
+            {
+                "id": 163,
+                "template": "HOOTHOOT"
+            },
+            {
+                "id": 20,
+                "template": "RATICATE",
+                "costume": 11
+            },
+            {
+                "id": 33,
+                "template": "NIDORINO",
+                "costume": 11
+            },
+            {
+                "id": 94,
+                "template": "GENGAR",
+                "costume": 11
+            },
+            {
+                "id": 202,
+                "template": "WOBBUFFET",
+                "costume": 11
+            },
+            {
+                "id": 643,
+                "template": "RESHIRAM"
+            },
+            {
+                "id": 208,
+                "template": "STEELIX"
+            }
+        ],
+        "eggs": [
+            {
+                "id": 1,
+                "template": "BULBASAUR",
+                "costume": 11
+            },
+            {
+                "id": 4,
+                "template": "CHARMANDER",
+                "costume": 11
+            },
+            {
+                "id": 7,
+                "template": "SQUIRTLE",
+                "costume": 11
+            },
+            {
+                "id": 163,
+                "template": "HOOTHOOT"
+            },
+            {
+                "id": 20,
+                "template": "RATICATE",
+                "costume": 11
+            },
+            {
+                "id": 33,
+                "template": "NIDORINO",
+                "costume": 11
+            },
+            {
+                "id": 94,
+                "template": "GENGAR",
+                "costume": 11
+            },
+            {
+                "id": 202,
+                "template": "WOBBUFFET",
+                "costume": 11
+            },
+            {
+                "id": 643,
+                "template": "RESHIRAM"
+            },
+            {
+                "id": 208,
+                "template": "STEELIX"
+            }
+        ],
+        "raids": [
+            {
+                "id": 1,
+                "template": "BULBASAUR",
+                "costume": 11
+            },
+            {
+                "id": 4,
+                "template": "CHARMANDER",
+                "costume": 11
+            },
+            {
+                "id": 7,
+                "template": "SQUIRTLE",
+                "costume": 11
+            },
+            {
+                "id": 163,
+                "template": "HOOTHOOT"
+            },
+            {
+                "id": 20,
+                "template": "RATICATE",
+                "costume": 11
+            },
+            {
+                "id": 33,
+                "template": "NIDORINO",
+                "costume": 11
+            },
+            {
+                "id": 94,
+                "template": "GENGAR",
+                "costume": 11
+            },
+            {
+                "id": 202,
+                "template": "WOBBUFFET",
+                "costume": 11
+            },
+            {
+                "id": 643,
+                "template": "RESHIRAM"
+            },
+            {
+                "id": 208,
+                "template": "STEELIX"
+            }
+        ],
+        "shinies": [],
+        "bonuses": [
+            {
+                "text": "1/2 Egg Hatch Distance when Eggs are placed in an Incubator during the event period.*",
+                "template": "reduced-hatch-distance",
+                "value": 12
+            },
+            {
+                "text": "1/4 Hatch Distance for the first three Eggs hatched during the event using the Pokémon GO Egg hatching widget.*",
+                "value": 14
+            }
+        ],
+        "features": [],
+        "has_quests": true,
+        "has_spawnpoints": false
+    },
+    {
         "name": "Chespin Community Day",
         "type": "community-day",
         "start": "2023-01-07 14:00",

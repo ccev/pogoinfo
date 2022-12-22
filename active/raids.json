@@ -6,14 +6,13 @@
             "form": 598
         },
         {
-            "id": 37,
-            "template": "VULPIX_ALOLA",
-            "form": 56
+            "id": 27,
+            "template": "SANDSHREW_ALOLA",
+            "form": 52
         },
         {
-            "id": 363,
-            "template": "SPHEAL_NORMAL",
-            "form": 1598
+            "id": 133,
+            "template": "EEVEE"
         },
         {
             "id": 554,
@@ -21,8 +20,9 @@
             "form": 2341
         },
         {
-            "id": 712,
-            "template": "BERGMITE"
+            "id": 613,
+            "template": "CUBCHOO_NORMAL",
+            "form": 2231
         }
     ],
     "3": [
@@ -37,9 +37,9 @@
             "form": 322
         },
         {
-            "id": 234,
-            "template": "STANTLER_NORMAL",
-            "form": 941
+            "id": 225,
+            "template": "DELIBIRD_NORMAL",
+            "form": 938
         },
         {
             "id": 471,
@@ -48,8 +48,9 @@
     ],
     "5": [
         {
-            "id": 638,
-            "template": "COBALION"
+            "id": 646,
+            "template": "KYUREM_NORMAL",
+            "form": 146
         }
     ],
     "6": [
