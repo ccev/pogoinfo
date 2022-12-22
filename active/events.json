@@ -1,19 +1,5 @@
 [
     {
-        "name": "Cobalion Raid Hour",
-        "type": "raid-hour",
-        "start": "2022-12-21 18:00",
-        "end": "2022-12-21 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Winter Holiday - Part 1",
         "type": "event",
         "start": "2022-12-15 10:00",
@@ -239,9 +225,8 @@
                 "template": "LAPRAS"
             },
             {
-                "id": 234,
-                "template": "STANTLER",
-                "costume": 8
+                "id": 225,
+                "template": "DELIBIRD"
             },
             {
                 "id": 471,
@@ -285,9 +270,8 @@
                 "template": "LAPRAS"
             },
             {
-                "id": 234,
-                "template": "STANTLER",
-                "costume": 8
+                "id": 225,
+                "template": "DELIBIRD"
             },
             {
                 "id": 471,
