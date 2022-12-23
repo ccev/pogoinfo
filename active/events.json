@@ -199,9 +199,9 @@
         ],
         "eggs": [
             {
-                "id": 37,
-                "template": "VULPIX_ALOLA",
-                "form": 56
+                "id": 27,
+                "template": "SANDSHREW_ALOLA",
+                "form": 52
             },
             {
                 "id": 133,
@@ -213,8 +213,8 @@
                 "form": 2341
             },
             {
-                "id": 712,
-                "template": "BERGMITE"
+                "id": 613,
+                "template": "CUBCHOO"
             },
             {
                 "id": 91,
@@ -244,9 +244,9 @@
         ],
         "raids": [
             {
-                "id": 37,
-                "template": "VULPIX_ALOLA",
-                "form": 56
+                "id": 27,
+                "template": "SANDSHREW_ALOLA",
+                "form": 52
             },
             {
                 "id": 133,
@@ -258,8 +258,8 @@
                 "form": 2341
             },
             {
-                "id": 712,
-                "template": "BERGMITE"
+                "id": 613,
+                "template": "CUBCHOO"
             },
             {
                 "id": 91,
