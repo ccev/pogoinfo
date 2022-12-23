@@ -18,6 +18,35 @@
                         "template": "STANTLER_NORMAL",
                         "form": 941
                     }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 613,
+                        "template": "CUBCHOO_NORMAL",
+                        "form": 2231
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Event: Open 5 Gifts",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 37,
+                        "template": "VULPIX_ALOLA",
+                        "form": 56
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 27,
+                        "template": "SANDSHREW_ALOLA",
+                        "form": 52
+                    }
                 }
             ]
         },
@@ -37,19 +66,6 @@
                     "reward": {
                         "id": 86,
                         "template": "SEEL"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Event: Open 5 Gifts",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 37,
-                        "template": "VULPIX_ALOLA",
-                        "form": 56
                     }
                 }
             ]
