@@ -90,10 +90,31 @@
             "task": "Event: Send 3 Gifts and add a sticker to each",
             "rewards": [
                 {
+                    "type": "energy",
+                    "reward": {
+                        "id": 460,
+                        "template": "ABOMASNOW_NORMAL",
+                        "form": 935
+                    },
+                    "amount": 25
+                },
+                {
                     "type": "pokemon",
                     "reward": {
                         "id": 739,
                         "template": "CRABRAWLER"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Event: Win a raid",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 471,
+                        "template": "GLACEON"
                     }
                 }
             ]
@@ -107,18 +128,6 @@
                         "id": 215,
                         "template": "SNEASEL_NORMAL",
                         "form": 797
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Event: Win a raid",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 471,
-                        "template": "GLACEON"
                     }
                 }
             ]
@@ -140,6 +149,11 @@
                     "type": "item",
                     "amount": 5,
                     "id": 1
+                },
+                {
+                    "type": "item",
+                    "amount": 3,
+                    "id": 3
                 }
             ]
         }

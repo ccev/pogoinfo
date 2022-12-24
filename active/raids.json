@@ -44,6 +44,9 @@
         {
             "id": 471,
             "template": "GLACEON"
+        },
+        {
+            "template": "UNSET"
         }
     ],
     "5": [
@@ -51,6 +54,9 @@
             "id": 646,
             "template": "KYUREM_NORMAL",
             "form": 146
+        },
+        {
+            "template": "UNSET"
         }
     ],
     "6": [
@@ -58,6 +64,9 @@
             "id": 362,
             "template": "GLALIE",
             "temp_evolution_id": 1
+        },
+        {
+            "template": "UNSET"
         }
     ]
 }
