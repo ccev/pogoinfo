@@ -108,18 +108,6 @@
             ]
         },
         {
-            "task": "Event: Win a raid",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 471,
-                        "template": "GLACEON"
-                    }
-                }
-            ]
-        },
-        {
             "task": "Event: Hatch an Egg",
             "rewards": [
                 {
@@ -128,6 +116,18 @@
                         "id": 215,
                         "template": "SNEASEL_NORMAL",
                         "form": 797
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Event: Win a raid",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 471,
+                        "template": "GLACEON"
                     }
                 }
             ]
