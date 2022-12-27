@@ -1,28 +1,5 @@
 [
     {
-        "name": "Winter Wonderland",
-        "type": "event",
-        "start": "2022-12-24 10:00",
-        "end": "2022-12-25 20:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [
-            {
-                "text": "One extra Special Trade per day"
-            },
-            {
-                "text": "Daily Adventure Incense activated during the event will last for 30 minutes",
-                "template": "longer-incense",
-                "value": 30
-            }
-        ],
-        "features": [],
-        "has_quests": true,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Cubchoo Spotlight Hour",
         "type": "spotlight-hour",
         "start": "2022-12-27 18:00",
