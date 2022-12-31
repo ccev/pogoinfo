@@ -1,159 +1,20 @@
 {
     "event": [
         {
-            "task": "Event: Catch 5 different species of Pokémon",
+            "task": "Event: Hatch an egg",
             "rewards": [
                 {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 613,
-                        "template": "CUBCHOO_NORMAL",
-                        "form": 2231
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 225,
-                        "template": "DELIBIRD_NORMAL",
-                        "form": 938
-                    }
+                    "type": "stardust",
+                    "amount": 1000
                 }
             ]
         },
         {
-            "task": "Event: Send 5 Gifts to friends",
+            "task": "Event: Hatch 2 eggs",
             "rewards": [
                 {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 25,
-                        "template": "PIKACHU_NORMAL",
-                        "form": 598
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 133,
-                        "template": "EEVEE"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Event: Catch 7 Ice-type Pokémon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 90,
-                        "template": "SHELLDER_NORMAL",
-                        "form": 876
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 86,
-                        "template": "SEEL"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Event: Open 5 Gifts",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 27,
-                        "template": "SANDSHREW_ALOLA",
-                        "form": 52
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Event: Catch 10 different species of Pokémon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 124,
-                        "template": "JYNX"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Event: Send 3 Gifts and add a sticker to each",
-            "rewards": [
-                {
-                    "type": "energy",
-                    "reward": {
-                        "id": 460,
-                        "template": "ABOMASNOW_NORMAL",
-                        "form": 935
-                    },
-                    "amount": 25
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 739,
-                        "template": "CRABRAWLER"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Event: Hatch an Egg",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 215,
-                        "template": "SNEASEL_NORMAL",
-                        "form": 797
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Event: Win a raid",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 471,
-                        "template": "GLACEON"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Event: Catch 5 Ice-type Pokémon",
-            "rewards": [
-                {
-                    "type": "item",
-                    "amount": 3,
-                    "id": 701
-                },
-                {
-                    "type": "item",
-                    "amount": 3,
-                    "id": 705
-                },
-                {
-                    "type": "item",
-                    "amount": 5,
-                    "id": 1
-                },
-                {
-                    "type": "item",
-                    "amount": 3,
-                    "id": 3
+                    "type": "stardust",
+                    "amount": 2023
                 }
             ]
         }
