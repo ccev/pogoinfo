@@ -1,63 +1,56 @@
 {
     "1": [
         {
+            "id": 1,
+            "template": "BULBASAUR_NORMAL",
+            "form": 163
+        },
+        {
+            "id": 4,
+            "template": "CHARMANDER_NORMAL",
+            "form": 172
+        },
+        {
+            "id": 7,
+            "template": "SQUIRTLE_NORMAL",
+            "form": 181
+        },
+        {
             "id": 25,
             "template": "PIKACHU_NORMAL",
             "form": 598
         },
         {
-            "id": 27,
-            "template": "SANDSHREW_ALOLA",
-            "form": 52
-        },
-        {
-            "id": 133,
-            "template": "EEVEE"
-        },
-        {
-            "id": 554,
-            "template": "DARUMAKA_GALARIAN",
-            "form": 2341
-        },
-        {
-            "id": 613,
-            "template": "CUBCHOO_NORMAL",
-            "form": 2231
+            "id": 163,
+            "template": "HOOTHOOT"
         }
     ],
     "3": [
         {
-            "id": 91,
-            "template": "CLOYSTER_NORMAL",
-            "form": 879
+            "id": 20,
+            "template": "RATICATE_NORMAL",
+            "form": 47
         },
         {
-            "id": 131,
-            "template": "LAPRAS_NORMAL",
-            "form": 322
+            "id": 33,
+            "template": "NIDORINO_NORMAL",
+            "form": 785
         },
         {
-            "id": 225,
-            "template": "DELIBIRD_NORMAL",
-            "form": 938
+            "id": 94,
+            "template": "GENGAR_NORMAL",
+            "form": 1044
         },
         {
-            "id": 471,
-            "template": "GLACEON"
+            "id": 202,
+            "template": "WOBBUFFET_NORMAL",
+            "form": 602
         }
     ],
     "5": [
         {
-            "id": 646,
-            "template": "KYUREM_NORMAL",
-            "form": 146
-        }
-    ],
-    "6": [
-        {
-            "id": 362,
-            "template": "GLALIE",
-            "temp_evolution_id": 1
+            "id": 643,
+            "template": "RESHIRAM"
         }
     ]
 }
