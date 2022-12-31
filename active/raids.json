@@ -52,5 +52,13 @@
             "id": 643,
             "template": "RESHIRAM"
         }
+    ],
+    "6": [
+        {
+            "id": 208,
+            "template": "STEELIX_NORMAL",
+            "form": 905,
+            "temp_evolution_id": 1
+        }
     ]
 }
