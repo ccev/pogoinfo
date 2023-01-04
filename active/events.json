@@ -1,19 +1,5 @@
 [
     {
-        "name": "Alolan Sandshrew Spotlight Hour",
-        "type": "spotlight-hour",
-        "start": "2023-01-03 18:00",
-        "end": "2023-01-03 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": true
-    },
-    {
         "name": "Reshiram Raid Hour",
         "type": "raid-hour",
         "start": "2023-01-04 18:00",
