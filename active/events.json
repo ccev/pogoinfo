@@ -291,13 +291,73 @@
         "type": "event",
         "start": "2023-01-10 08:00",
         "end": "2023-01-16 22:00",
-        "spawns": [],
+        "spawns": [
+            {
+                "id": 704,
+                "template": "GOOMY"
+            },
+            {
+                "id": 714,
+                "template": "NOIBAT"
+            }
+        ],
         "eggs": [],
-        "raids": [],
+        "raids": [
+            {
+                "id": 39,
+                "template": "JIGGLYPUFF"
+            },
+            {
+                "id": 183,
+                "template": "MARILL"
+            },
+            {
+                "id": 610,
+                "template": "AXEW"
+            },
+            {
+                "id": 633,
+                "template": "DEINO"
+            },
+            {
+                "id": 303,
+                "template": "MAWILE"
+            },
+            {
+                "id": 621,
+                "template": "DRUDDIGON"
+            },
+            {
+                "id": 702,
+                "template": "DEDENNE"
+            },
+            {
+                "id": 644,
+                "template": "ZEKROM"
+            },
+            {
+                "id": 373,
+                "template": "SALAMENCE"
+            }
+        ],
         "shinies": [],
-        "bonuses": [],
+        "bonuses": [
+            {
+                "text": "2× XP for successfully catching Pokémon with Nice Throws, Great Throws, and Excellent Throws",
+                "template": "increased-xp",
+                "value": 2
+            },
+            {
+                "text": "Additional Candy for successfully catching Pokémon with Nice Throws, Great Throws, and Excellent Throws",
+                "template": "increased-candy"
+            },
+            {
+                "text": "Increased chance for Trainers level 31 and up to receive Candy XL for successfully catching Pokémon with Nice Throws, Great Throws, and Excellent Throws",
+                "value": 31
+            }
+        ],
         "features": [],
-        "has_quests": false,
+        "has_quests": true,
         "has_spawnpoints": false
     },
     {
@@ -329,7 +389,7 @@
         "has_spawnpoints": false
     },
     {
-        "name": "January Community Day Classic",
+        "name": "Larvitar Community Day Classic",
         "type": "community-day",
         "start": "2023-01-21 14:00",
         "end": "2023-01-21 17:00",
@@ -337,7 +397,26 @@
         "eggs": [],
         "raids": [],
         "shinies": [],
-        "bonuses": [],
+        "bonuses": [
+            {
+                "text": "Increased Spawns"
+            },
+            {
+                "text": "3x Catch XP",
+                "template": "increased-xp",
+                "value": 3
+            },
+            {
+                "text": "3-hour Incense",
+                "template": "longer-incense",
+                "value": 3
+            },
+            {
+                "text": "3-hour Lures",
+                "template": "longer-lure",
+                "value": 3
+            }
+        ],
         "features": [],
         "has_quests": true,
         "has_spawnpoints": true
