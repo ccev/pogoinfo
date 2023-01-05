@@ -1,50 +1,47 @@
 {
     "1": [
         {
-            "id": 1,
-            "template": "BULBASAUR_NORMAL",
-            "form": 163
+            "id": 46,
+            "template": "PARAS"
         },
         {
-            "id": 4,
-            "template": "CHARMANDER_NORMAL",
-            "form": 172
+            "id": 63,
+            "template": "ABRA_NORMAL",
+            "form": 304
         },
         {
-            "id": 7,
-            "template": "SQUIRTLE_NORMAL",
-            "form": 181
+            "id": 403,
+            "template": "SHINX"
         },
         {
-            "id": 25,
-            "template": "PIKACHU_NORMAL",
-            "form": 598
+            "id": 436,
+            "template": "BRONZOR"
         },
         {
-            "id": 163,
-            "template": "HOOTHOOT"
+            "id": 529,
+            "template": "DRILBUR"
         }
     ],
     "3": [
         {
-            "id": 20,
-            "template": "RATICATE_NORMAL",
-            "form": 47
+            "id": 31,
+            "template": "NIDOQUEEN_NORMAL",
+            "form": 782
         },
         {
-            "id": 33,
-            "template": "NIDORINO_NORMAL",
-            "form": 785
+            "id": 34,
+            "template": "NIDOKING_NORMAL",
+            "form": 788
         },
         {
-            "id": 94,
-            "template": "GENGAR_NORMAL",
-            "form": 1044
+            "id": 105,
+            "template": "MAROWAK_ALOLA",
+            "form": 80
         },
         {
-            "id": 202,
-            "template": "WOBBUFFET_NORMAL",
-            "form": 602
+            "id": 186,
+            "template": "POLITOED_NORMAL",
+            "form": 244
         }
     ],
     "5": [
