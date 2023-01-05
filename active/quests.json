@@ -1,24 +1,5 @@
 {
-    "event": [
-        {
-            "task": "Event: Hatch an egg",
-            "rewards": [
-                {
-                    "type": "stardust",
-                    "amount": 1000
-                }
-            ]
-        },
-        {
-            "task": "Event: Hatch 2 eggs",
-            "rewards": [
-                {
-                    "type": "stardust",
-                    "amount": 2023
-                }
-            ]
-        }
-    ],
+    "event": [],
     "quests": [
         {
             "task": "Catch 5 Pokémon with Weather Boost",
@@ -541,6 +522,19 @@
             ]
         },
         {
+            "task": "Make 3 Excellent Throws in a row",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 443,
+                        "template": "GIBLE_NORMAL",
+                        "form": 861
+                    }
+                }
+            ]
+        },
+        {
             "task": "Make an Excellent Throw",
             "rewards": [
                 {
@@ -567,19 +561,6 @@
                     "reward": {
                         "id": 587,
                         "template": "EMOLGA"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Make 3 Excellent Throws in a row",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 443,
-                        "template": "GIBLE_NORMAL",
-                        "form": 861
                     }
                 }
             ]
