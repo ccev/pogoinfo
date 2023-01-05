@@ -836,6 +836,35 @@
             ]
         },
         {
+            "task": "Power up Pokémon 3 times",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 1,
+                        "template": "BULBASAUR_NORMAL",
+                        "form": 163
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 4,
+                        "template": "CHARMANDER_NORMAL",
+                        "form": 172
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 7,
+                        "template": "SQUIRTLE_NORMAL",
+                        "form": 181
+                    }
+                }
+            ]
+        },
+        {
             "task": "Power up Pokémon 5 times",
             "rewards": [
                 {
@@ -888,35 +917,6 @@
                         "id": 258,
                         "template": "MUDKIP_NORMAL",
                         "form": 205
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Power up Pokémon 3 times",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 1,
-                        "template": "BULBASAUR_NORMAL",
-                        "form": 163
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 4,
-                        "template": "CHARMANDER_NORMAL",
-                        "form": 172
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 7,
-                        "template": "SQUIRTLE_NORMAL",
-                        "form": 181
                     }
                 }
             ]
