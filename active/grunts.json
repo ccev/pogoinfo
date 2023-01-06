@@ -503,6 +503,11 @@
                 ],
                 [
                     {
+                        "id": 157,
+                        "template": "TYPHLOSION_NORMAL",
+                        "form": 1133
+                    },
+                    {
                         "id": 323,
                         "template": "CAMERUPT"
                     },
@@ -510,11 +515,6 @@
                         "id": 38,
                         "template": "NINETALES_NORMAL",
                         "form": 57
-                    },
-                    {
-                        "id": 157,
-                        "template": "TYPHLOSION_NORMAL",
-                        "form": 1133
                     }
                 ]
             ]
@@ -550,13 +550,13 @@
             "team": [
                 [
                     {
-                        "id": 580,
-                        "template": "DUCKLETT"
-                    },
-                    {
                         "id": 396,
                         "template": "STARLY_NORMAL",
                         "form": 1658
+                    },
+                    {
+                        "id": 580,
+                        "template": "DUCKLETT"
                     },
                     {
                         "id": 177,
@@ -1287,14 +1287,14 @@
                         "form": 761
                     },
                     {
-                        "id": 398,
-                        "template": "STARAPTOR_NORMAL",
-                        "form": 1664
-                    },
-                    {
                         "id": 6,
                         "template": "CHARIZARD_NORMAL",
                         "form": 178
+                    },
+                    {
+                        "id": 398,
+                        "template": "STARAPTOR_NORMAL",
+                        "form": 1664
                     }
                 ],
                 [
