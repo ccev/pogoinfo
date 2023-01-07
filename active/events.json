@@ -57,7 +57,12 @@
         ],
         "features": [
             "Trainer Battles: 100 power",
-            "Gyms and raids: 100 power"
+            "Gyms and raids: 100 power",
+            "The invisible Kecleon on the photodisc can be seen at a distance. It doesn’t have to be in spin range.",
+            "Kecleon is available at the same stops for all Trainers.",
+            "The PokéStops that have Kecleon are believed to change every two hours.",
+            "During that 2 hour window, Kecleon can reappear at the same stop when the spin cooldown is up.",
+            "A PokéStop that has a Grunt can have Kecleon on it but you need to defeat the Grunt first."
         ],
         "has_quests": true,
         "has_spawnpoints": true
