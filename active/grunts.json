@@ -88,14 +88,14 @@
                         "form": 256
                     },
                     {
-                        "id": 143,
-                        "template": "SNORLAX_NORMAL",
-                        "form": 199
-                    },
-                    {
                         "id": 149,
                         "template": "DRAGONITE_NORMAL",
                         "form": 196
+                    },
+                    {
+                        "id": 143,
+                        "template": "SNORLAX_NORMAL",
+                        "form": 199
                     }
                 ]
             ]
@@ -193,13 +193,13 @@
             "team": [
                 [
                     {
+                        "id": 509,
+                        "template": "PURRLOIN"
+                    },
+                    {
                         "id": 19,
                         "template": "RATTATA_NORMAL",
                         "form": 45
-                    },
-                    {
-                        "id": 509,
-                        "template": "PURRLOIN"
                     }
                 ],
                 [
@@ -442,14 +442,14 @@
                         "form": 815
                     },
                     {
-                        "id": 107,
-                        "template": "HITMONCHAN_NORMAL",
-                        "form": 277
-                    },
-                    {
                         "id": 106,
                         "template": "HITMONLEE_NORMAL",
                         "form": 713
+                    },
+                    {
+                        "id": 107,
+                        "template": "HITMONCHAN_NORMAL",
+                        "form": 277
                     }
                 ]
             ]
@@ -1227,14 +1227,14 @@
                 ],
                 [
                     {
-                        "id": 127,
-                        "template": "PINSIR_NORMAL",
-                        "form": 898
-                    },
-                    {
                         "id": 169,
                         "template": "CROBAT_NORMAL",
                         "form": 202
+                    },
+                    {
+                        "id": 127,
+                        "template": "PINSIR_NORMAL",
+                        "form": 898
                     },
                     {
                         "id": 591,
@@ -1287,14 +1287,14 @@
                         "form": 761
                     },
                     {
-                        "id": 398,
-                        "template": "STARAPTOR_NORMAL",
-                        "form": 1664
-                    },
-                    {
                         "id": 6,
                         "template": "CHARIZARD_NORMAL",
                         "form": 178
+                    },
+                    {
+                        "id": 398,
+                        "template": "STARAPTOR_NORMAL",
+                        "form": 1664
                     }
                 ],
                 [
@@ -1339,14 +1339,14 @@
                 ],
                 [
                     {
-                        "id": 332,
-                        "template": "CACTURNE_NORMAL",
-                        "form": 613
-                    },
-                    {
                         "id": 330,
                         "template": "FLYGON_NORMAL",
                         "form": 752
+                    },
+                    {
+                        "id": 332,
+                        "template": "CACTURNE_NORMAL",
+                        "form": 613
                     },
                     {
                         "id": 430,
@@ -1585,13 +1585,13 @@
                 ],
                 [
                     {
-                        "id": 405,
-                        "template": "LUXRAY"
-                    },
-                    {
                         "id": 181,
                         "template": "AMPHAROS_NORMAL",
                         "form": 652
+                    },
+                    {
+                        "id": 405,
+                        "template": "LUXRAY"
                     },
                     {
                         "id": 125,
