@@ -1,60 +1,48 @@
 {
     "1": [
         {
-            "id": 46,
-            "template": "PARAS"
+            "id": 39,
+            "template": "JIGGLYPUFF"
         },
         {
-            "id": 63,
-            "template": "ABRA_NORMAL",
-            "form": 304
+            "id": 183,
+            "template": "MARILL"
         },
         {
-            "id": 403,
-            "template": "SHINX"
+            "id": 610,
+            "template": "AXEW"
         },
         {
-            "id": 436,
-            "template": "BRONZOR"
-        },
-        {
-            "id": 529,
-            "template": "DRILBUR"
+            "id": 633,
+            "template": "DEINO"
         }
     ],
     "3": [
         {
-            "id": 31,
-            "template": "NIDOQUEEN_NORMAL",
-            "form": 782
+            "id": 303,
+            "template": "MAWILE_NORMAL",
+            "form": 833
         },
         {
-            "id": 34,
-            "template": "NIDOKING_NORMAL",
-            "form": 788
+            "id": 621,
+            "template": "DRUDDIGON"
         },
         {
-            "id": 105,
-            "template": "MAROWAK_ALOLA",
-            "form": 80
-        },
-        {
-            "id": 186,
-            "template": "POLITOED_NORMAL",
-            "form": 244
+            "id": 702,
+            "template": "DEDENNE"
         }
     ],
     "5": [
         {
-            "id": 643,
-            "template": "RESHIRAM"
+            "id": 644,
+            "template": "ZEKROM"
         }
     ],
     "6": [
         {
-            "id": 208,
-            "template": "STEELIX_NORMAL",
-            "form": 905,
+            "id": 373,
+            "template": "SALAMENCE_NORMAL",
+            "form": 761,
             "temp_evolution_id": 1
         }
     ]

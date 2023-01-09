@@ -715,14 +715,14 @@
                 ],
                 [
                     {
-                        "id": 50,
-                        "template": "DIGLETT_NORMAL",
-                        "form": 59
-                    },
-                    {
                         "id": 449,
                         "template": "HIPPOPOTAS_NORMAL",
                         "form": 888
+                    },
+                    {
+                        "id": 50,
+                        "template": "DIGLETT_NORMAL",
+                        "form": 59
                     }
                 ],
                 [

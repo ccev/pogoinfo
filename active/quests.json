@@ -1,5 +1,31 @@
 {
-    "event": [],
+    "event": [
+        {
+            "task": "Event: Make 3 Nice Throws",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 147,
+                        "template": "DRATINI_NORMAL",
+                        "form": 190
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Event: Make 3 Great Throws",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 35,
+                        "template": "CLEFAIRY"
+                    }
+                }
+            ]
+        }
+    ],
     "quests": [
         {
             "task": "Catch 5 Pokémon with Weather Boost",
