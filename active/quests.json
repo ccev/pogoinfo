@@ -24,6 +24,55 @@
                     }
                 }
             ]
+        },
+        {
+            "task": "Event: Catch 5 Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 702,
+                        "template": "DEDENNE"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Event: Catch 5 Fairy-type Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 371,
+                        "template": "BAGON_NORMAL",
+                        "form": 755
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Event: Catch 30 Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 704,
+                        "template": "GOOMY"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Event: Win 3 raids",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 704,
+                        "template": "GOOMY"
+                    }
+                }
+            ]
         }
     ],
     "quests": [

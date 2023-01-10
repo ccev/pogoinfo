@@ -193,13 +193,13 @@
             "team": [
                 [
                     {
-                        "id": 509,
-                        "template": "PURRLOIN"
-                    },
-                    {
                         "id": 19,
                         "template": "RATTATA_NORMAL",
                         "form": 45
+                    },
+                    {
+                        "id": 509,
+                        "template": "PURRLOIN"
                     }
                 ],
                 [
@@ -442,14 +442,14 @@
                         "form": 815
                     },
                     {
-                        "id": 106,
-                        "template": "HITMONLEE_NORMAL",
-                        "form": 713
-                    },
-                    {
                         "id": 107,
                         "template": "HITMONCHAN_NORMAL",
                         "form": 277
+                    },
+                    {
+                        "id": 106,
+                        "template": "HITMONLEE_NORMAL",
+                        "form": 713
                     }
                 ]
             ]
@@ -715,14 +715,14 @@
                 ],
                 [
                     {
-                        "id": 449,
-                        "template": "HIPPOPOTAS_NORMAL",
-                        "form": 888
-                    },
-                    {
                         "id": 50,
                         "template": "DIGLETT_NORMAL",
                         "form": 59
+                    },
+                    {
+                        "id": 449,
+                        "template": "HIPPOPOTAS_NORMAL",
+                        "form": 888
                     }
                 ],
                 [
@@ -782,14 +782,14 @@
                         "form": 879
                     },
                     {
-                        "id": 131,
-                        "template": "LAPRAS_NORMAL",
-                        "form": 322
-                    },
-                    {
                         "id": 460,
                         "template": "ABOMASNOW_NORMAL",
                         "form": 935
+                    },
+                    {
+                        "id": 131,
+                        "template": "LAPRAS_NORMAL",
+                        "form": 322
                     }
                 ]
             ]
