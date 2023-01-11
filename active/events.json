@@ -1,19 +1,5 @@
 [
     {
-        "name": "Swirlix Spotlight Hour",
-        "type": "spotlight-hour",
-        "start": "2023-01-10 18:00",
-        "end": "2023-01-10 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": true
-    },
-    {
         "name": "Zekrom Raid Hour",
         "type": "raid-hour",
         "start": "2023-01-11 18:00",
