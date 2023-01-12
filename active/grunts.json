@@ -71,14 +71,14 @@
                         "form": 241
                     },
                     {
-                        "id": 143,
-                        "template": "SNORLAX_NORMAL",
-                        "form": 199
-                    },
-                    {
                         "id": 282,
                         "template": "GARDEVOIR_NORMAL",
                         "form": 298
+                    },
+                    {
+                        "id": 143,
+                        "template": "SNORLAX_NORMAL",
+                        "form": 199
                     }
                 ],
                 [
@@ -582,14 +582,14 @@
                         "form": 196
                     },
                     {
-                        "id": 130,
-                        "template": "GYARADOS_NORMAL",
-                        "form": 256
-                    },
-                    {
                         "id": 169,
                         "template": "CROBAT_NORMAL",
                         "form": 202
+                    },
+                    {
+                        "id": 130,
+                        "template": "GYARADOS_NORMAL",
+                        "form": 256
                     }
                 ]
             ]

@@ -1,19 +1,5 @@
 [
     {
-        "name": "Zekrom Raid Hour",
-        "type": "raid-hour",
-        "start": "2023-01-11 18:00",
-        "end": "2023-01-11 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
         "name": "GO Battle Day: Steven Stone",
         "type": "event",
         "start": "2023-01-14 00:00",
