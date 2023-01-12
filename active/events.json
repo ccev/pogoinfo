@@ -153,13 +153,124 @@
         "type": "event",
         "start": "2023-01-19 10:00",
         "end": "2023-01-23 20:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
+        "spawns": [
+            {
+                "id": 136,
+                "template": "FLAREON"
+            },
+            {
+                "id": 554,
+                "template": "DARUMAKA"
+            }
+        ],
+        "eggs": [
+            {
+                "id": 433,
+                "template": "CHINGLING"
+            },
+            {
+                "id": 447,
+                "template": "RIOLU"
+            },
+            {
+                "id": 554,
+                "template": "DARUMAKA"
+            },
+            {
+                "id": 554,
+                "template": "DARUMAKA_GALARIAN",
+                "form": 2341
+            },
+            {
+                "id": 559,
+                "template": "SCRAGGY"
+            }
+        ],
+        "raids": [
+            {
+                "id": 100,
+                "template": "VOLTORB"
+            },
+            {
+                "id": 403,
+                "template": "SHINX"
+            },
+            {
+                "id": 554,
+                "template": "DARUMAKA"
+            },
+            {
+                "id": 554,
+                "template": "DARUMAKA_GALARIAN",
+                "form": 2341
+            },
+            {
+                "id": 136,
+                "template": "FLAREON"
+            },
+            {
+                "id": 213,
+                "template": "SHUCKLE"
+            },
+            {
+                "id": 257,
+                "template": "BLAZIKEN"
+            },
+            {
+                "id": 621,
+                "template": "DRUDDIGON"
+            },
+            {
+                "id": 660,
+                "template": "DIGGERSBY"
+            },
+            {
+                "id": 378,
+                "template": "REGICE"
+            },
+            {
+                "id": 428,
+                "template": "LOPUNNY",
+                "temp_evolution_id": 1
+            }
+        ],
         "shinies": [],
-        "bonuses": [],
+        "bonuses": [
+            {
+                "text": "Increased chance to encounter Shiny Darumaka!"
+            },
+            {
+                "text": "Increased chance for Lucky Pokémon in trades.",
+                "template": "increased-lucky-chance"
+            },
+            {
+                "text": "Increased chance to become Lucky Friends."
+            },
+            {
+                "text": "2× Stardust from opening Gifts.",
+                "template": "increased-stardust",
+                "value": 2
+            },
+            {
+                "text": "One additional Special Trade can be made for a maximum of two per day."
+            },
+            {
+                "text": "1/2 Hatch Distance when Eggs are placed into Incubators during the event period",
+                "template": "reduced-hatch-distance",
+                "value": 12
+            },
+            {
+                "text": "2× Stardust for catching Pokémon",
+                "value": 2
+            },
+            {
+                "text": "2× Daily Adventure Incense duration",
+                "template": "longer-incense",
+                "value": 2
+            }
+        ],
         "features": [],
-        "has_quests": false,
+        "has_quests": true,
         "has_spawnpoints": false
     },
     {
