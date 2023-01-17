@@ -1,23 +1,38 @@
 {
     "1": [
         {
-            "id": 39,
-            "template": "JIGGLYPUFF"
+            "id": 35,
+            "template": "CLEFAIRY"
         },
         {
-            "id": 183,
-            "template": "MARILL"
+            "id": 147,
+            "template": "DRATINI_NORMAL",
+            "form": 190
         },
         {
-            "id": 610,
-            "template": "AXEW"
+            "id": 443,
+            "template": "GIBLE_NORMAL",
+            "form": 861
         },
         {
-            "id": 633,
-            "template": "DEINO"
+            "id": 531,
+            "template": "AUDINO"
+        },
+        {
+            "id": 702,
+            "template": "DEDENNE"
         }
     ],
     "3": [
+        {
+            "id": 149,
+            "template": "DRAGONITE_NORMAL",
+            "form": 196
+        },
+        {
+            "id": 176,
+            "template": "TOGETIC"
+        },
         {
             "id": 303,
             "template": "MAWILE_NORMAL",
@@ -26,10 +41,6 @@
         {
             "id": 621,
             "template": "DRUDDIGON"
-        },
-        {
-            "id": 702,
-            "template": "DEDENNE"
         }
     ],
     "5": [
