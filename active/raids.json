@@ -1,42 +1,41 @@
 {
     "1": [
         {
-            "id": 35,
-            "template": "CLEFAIRY"
+            "id": 37,
+            "template": "VULPIX_NORMAL",
+            "form": 55
         },
         {
-            "id": 147,
-            "template": "DRATINI_NORMAL",
-            "form": 190
+            "id": 37,
+            "template": "VULPIX_ALOLA",
+            "form": 56
         },
         {
-            "id": 443,
-            "template": "GIBLE_NORMAL",
-            "form": 861
+            "id": 403,
+            "template": "SHINX"
         },
         {
-            "id": 531,
-            "template": "AUDINO"
+            "id": 427,
+            "template": "BUNEARY"
         },
         {
-            "id": 702,
-            "template": "DEDENNE"
+            "id": 659,
+            "template": "BUNNELBY"
         }
     ],
     "3": [
         {
-            "id": 149,
-            "template": "DRAGONITE_NORMAL",
-            "form": 196
+            "id": 40,
+            "template": "WIGGLYTUFF"
         },
         {
-            "id": 176,
-            "template": "TOGETIC"
+            "id": 213,
+            "template": "SHUCKLE_NORMAL",
+            "form": 827
         },
         {
-            "id": 303,
-            "template": "MAWILE_NORMAL",
-            "form": 833
+            "id": 419,
+            "template": "FLOATZEL"
         },
         {
             "id": 621,
@@ -45,15 +44,14 @@
     ],
     "5": [
         {
-            "id": 644,
-            "template": "ZEKROM"
+            "id": 378,
+            "template": "REGICE"
         }
     ],
     "6": [
         {
-            "id": 373,
-            "template": "SALAMENCE_NORMAL",
-            "form": 761,
+            "id": 428,
+            "template": "LOPUNNY",
             "temp_evolution_id": 1
         }
     ]
