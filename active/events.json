@@ -1,19 +1,5 @@
 [
     {
-        "name": "Seedot Spotlight Hour",
-        "type": "spotlight-hour",
-        "start": "2023-01-17 18:00",
-        "end": "2023-01-17 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": true
-    },
-    {
         "name": "Regice Raid Hour",
         "type": "raid-hour",
         "start": "2023-01-18 18:00",
