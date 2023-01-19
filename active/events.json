@@ -1,19 +1,5 @@
 [
     {
-        "name": "Regice Raid Hour",
-        "type": "raid-hour",
-        "start": "2023-01-18 18:00",
-        "end": "2023-01-18 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Larvitar Community Day Classic",
         "type": "community-day",
         "start": "2023-01-21 14:00",
