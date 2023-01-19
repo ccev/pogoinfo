@@ -193,13 +193,13 @@
             "team": [
                 [
                     {
-                        "id": 509,
-                        "template": "PURRLOIN"
-                    },
-                    {
                         "id": 19,
                         "template": "RATTATA_NORMAL",
                         "form": 45
+                    },
+                    {
+                        "id": 509,
+                        "template": "PURRLOIN"
                     }
                 ],
                 [
@@ -1585,13 +1585,13 @@
                 ],
                 [
                     {
+                        "id": 405,
+                        "template": "LUXRAY"
+                    },
+                    {
                         "id": 181,
                         "template": "AMPHAROS_NORMAL",
                         "form": 652
-                    },
-                    {
-                        "id": 405,
-                        "template": "LUXRAY"
                     },
                     {
                         "id": 125,
