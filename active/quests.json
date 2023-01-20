@@ -6,6 +6,33 @@
                 {
                     "type": "pokemon",
                     "reward": {
+                        "id": 653,
+                        "template": "FENNEKIN"
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 255,
+                        "template": "TORCHIC_NORMAL",
+                        "form": 1358
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 725,
+                        "template": "LITTEN"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Event: Open 3 Gifts",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
                         "id": 4,
                         "template": "CHARMANDER_NORMAL",
                         "form": 172
@@ -33,13 +60,6 @@
                         "id": 498,
                         "template": "TEPIG"
                     }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 725,
-                        "template": "LITTEN"
-                    }
                 }
             ]
         },
@@ -60,26 +80,6 @@
                         "id": 554,
                         "template": "DARUMAKA_NORMAL",
                         "form": 2063
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Event: Open 3 Gifts",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 653,
-                        "template": "FENNEKIN"
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 255,
-                        "template": "TORCHIC_NORMAL",
-                        "form": 1358
                     }
                 }
             ]
