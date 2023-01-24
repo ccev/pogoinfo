@@ -1,27 +1,32 @@
 {
     "1": [
         {
-            "template": "UNSET"
+            "id": 37,
+            "template": "VULPIX_NORMAL",
+            "form": 55
+        },
+        {
+            "id": 37,
+            "template": "VULPIX_ALOLA",
+            "form": 56
         },
         {
             "id": 403,
             "template": "SHINX"
         },
         {
-            "id": 554,
-            "template": "DARUMAKA_NORMAL",
-            "form": 2063
+            "id": 427,
+            "template": "BUNEARY"
         },
         {
-            "id": 554,
-            "template": "DARUMAKA_GALARIAN",
-            "form": 2341
+            "id": 659,
+            "template": "BUNNELBY"
         }
     ],
     "3": [
         {
-            "id": 136,
-            "template": "FLAREON"
+            "id": 40,
+            "template": "WIGGLYTUFF"
         },
         {
             "id": 213,
@@ -29,29 +34,18 @@
             "form": 827
         },
         {
-            "id": 257,
-            "template": "BLAZIKEN_NORMAL",
-            "form": 1364
+            "id": 419,
+            "template": "FLOATZEL"
         },
         {
             "id": 621,
             "template": "DRUDDIGON"
-        },
-        {
-            "id": 660,
-            "template": "DIGGERSBY"
-        },
-        {
-            "template": "UNSET"
         }
     ],
     "5": [
         {
             "id": 378,
             "template": "REGICE"
-        },
-        {
-            "template": "UNSET"
         }
     ],
     "6": [
@@ -59,9 +53,6 @@
             "id": 428,
             "template": "LOPUNNY",
             "temp_evolution_id": 1
-        },
-        {
-            "template": "UNSET"
         }
     ]
 }
