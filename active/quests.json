@@ -1,128 +1,5 @@
 {
-    "event": [
-        {
-            "task": "Event: Open 3 Gifts",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 4,
-                        "template": "CHARMANDER_NORMAL",
-                        "form": 172
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 390,
-                        "template": "CHIMCHAR_NORMAL",
-                        "form": 818
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 155,
-                        "template": "CYNDAQUIL_NORMAL",
-                        "form": 1127
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 498,
-                        "template": "TEPIG"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Event: Open 3 Gifts",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 653,
-                        "template": "FENNEKIN"
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 255,
-                        "template": "TORCHIC_NORMAL",
-                        "form": 1358
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 725,
-                        "template": "LITTEN"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Event: Catch 25 Pokémon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 554,
-                        "template": "DARUMAKA_GALARIAN",
-                        "form": 2341
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 554,
-                        "template": "DARUMAKA_NORMAL",
-                        "form": 2063
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Event: Trade a Pokémon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 46,
-                        "template": "PARAS"
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 415,
-                        "template": "COMBEE"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Event: Send 3 Gifts and add a sticker to each",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 659,
-                        "template": "BUNNELBY"
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 427,
-                        "template": "BUNEARY"
-                    }
-                }
-            ]
-        }
-    ],
+    "event": [],
     "quests": [
         {
             "task": "Catch 5 Pokémon with Weather Boost",
@@ -1084,6 +961,15 @@
                     "reward": {
                         "id": 18,
                         "template": "PIDGEOT"
+                    },
+                    "amount": 10
+                },
+                {
+                    "type": "energy",
+                    "reward": {
+                        "id": 15,
+                        "template": "BEEDRILL_NORMAL",
+                        "form": 622
                     },
                     "amount": 10
                 }
