@@ -1,57 +1,61 @@
 {
     "1": [
         {
-            "id": 37,
-            "template": "VULPIX_NORMAL",
-            "form": 55
+            "id": 25,
+            "template": "PIKACHU_NORMAL",
+            "form": 598
         },
         {
-            "id": 37,
-            "template": "VULPIX_ALOLA",
-            "form": 56
+            "id": 299,
+            "template": "NOSEPASS_NORMAL",
+            "form": 1460
         },
         {
-            "id": 403,
-            "template": "SHINX"
+            "id": 595,
+            "template": "JOLTIK"
         },
         {
-            "id": 427,
-            "template": "BUNEARY"
+            "id": 599,
+            "template": "KLINK"
         },
         {
-            "id": 659,
-            "template": "BUNNELBY"
+            "id": 702,
+            "template": "DEDENNE"
         }
     ],
     "3": [
         {
-            "id": 40,
-            "template": "WIGGLYTUFF"
+            "id": 82,
+            "template": "MAGNETON_NORMAL",
+            "form": 658
         },
         {
-            "id": 213,
-            "template": "SHUCKLE_NORMAL",
-            "form": 827
+            "id": 125,
+            "template": "ELECTABUZZ_NORMAL",
+            "form": 640
         },
         {
-            "id": 419,
-            "template": "FLOATZEL"
+            "id": 126,
+            "template": "MAGMAR_NORMAL",
+            "form": 634
         },
         {
-            "id": 621,
-            "template": "DRUDDIGON"
+            "id": 281,
+            "template": "KIRLIA_NORMAL",
+            "form": 295
         }
     ],
     "5": [
         {
-            "id": 378,
-            "template": "REGICE"
+            "id": 785,
+            "template": "TAPU_KOKO"
         }
     ],
     "6": [
         {
-            "id": 428,
-            "template": "LOPUNNY",
+            "id": 142,
+            "template": "AERODACTYL_NORMAL",
+            "form": 1110,
             "temp_evolution_id": 1
         }
     ]
