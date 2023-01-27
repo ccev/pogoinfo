@@ -88,14 +88,14 @@
                         "form": 256
                     },
                     {
-                        "id": 143,
-                        "template": "SNORLAX_NORMAL",
-                        "form": 199
-                    },
-                    {
                         "id": 149,
                         "template": "DRAGONITE_NORMAL",
                         "form": 196
+                    },
+                    {
+                        "id": 143,
+                        "template": "SNORLAX_NORMAL",
+                        "form": 199
                     }
                 ]
             ]
@@ -156,11 +156,6 @@
                 ],
                 [
                     {
-                        "id": 127,
-                        "template": "PINSIR_NORMAL",
-                        "form": 898
-                    },
-                    {
                         "id": 205,
                         "template": "FORRETRESS_NORMAL",
                         "form": 1247
@@ -169,6 +164,11 @@
                         "id": 212,
                         "template": "SCIZOR_NORMAL",
                         "form": 250
+                    },
+                    {
+                        "id": 127,
+                        "template": "PINSIR_NORMAL",
+                        "form": 898
                     }
                 ]
             ]
@@ -877,14 +877,14 @@
                         "form": 47
                     },
                     {
-                        "id": 294,
-                        "template": "LOUDRED_NORMAL",
-                        "form": 1445
-                    },
-                    {
                         "id": 399,
                         "template": "BIDOOF_NORMAL",
                         "form": 1667
+                    },
+                    {
+                        "id": 294,
+                        "template": "LOUDRED_NORMAL",
+                        "form": 1445
                     }
                 ],
                 [
@@ -931,13 +931,13 @@
                         "form": 776
                     },
                     {
+                        "id": 590,
+                        "template": "FOONGUS"
+                    },
+                    {
                         "id": 41,
                         "template": "ZUBAT_NORMAL",
                         "form": 157
-                    },
-                    {
-                        "id": 590,
-                        "template": "FOONGUS"
                     }
                 ],
                 [
@@ -1514,14 +1514,14 @@
                 ],
                 [
                     {
-                        "id": 354,
-                        "template": "BANETTE_NORMAL",
-                        "form": 911
-                    },
-                    {
                         "id": 356,
                         "template": "DUSCLOPS_NORMAL",
                         "form": 917
+                    },
+                    {
+                        "id": 354,
+                        "template": "BANETTE_NORMAL",
+                        "form": 911
                     }
                 ],
                 [

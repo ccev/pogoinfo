@@ -1,5 +1,62 @@
 {
-    "event": [],
+    "event": [
+        {
+            "task": "Event: Catch 5 Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 312,
+                        "template": "MINUN"
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 311,
+                        "template": "PLUSLE"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Event: Power up Pokémon 3 times",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 100,
+                        "template": "VOLTORB_NORMAL",
+                        "form": 1047
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Event: Power up Pokémon 5 times",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 694,
+                        "template": "HELIOPTILE"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Event: Walk 3 km",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 587,
+                        "template": "EMOLGA"
+                    }
+                }
+            ]
+        }
+    ],
     "quests": [
         {
             "task": "Catch 5 Pokémon with Weather Boost",
