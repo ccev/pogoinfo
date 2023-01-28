@@ -156,6 +156,11 @@
                 ],
                 [
                     {
+                        "id": 127,
+                        "template": "PINSIR_NORMAL",
+                        "form": 898
+                    },
+                    {
                         "id": 205,
                         "template": "FORRETRESS_NORMAL",
                         "form": 1247
@@ -164,11 +169,6 @@
                         "id": 212,
                         "template": "SCIZOR_NORMAL",
                         "form": 250
-                    },
-                    {
-                        "id": 127,
-                        "template": "PINSIR_NORMAL",
-                        "form": 898
                     }
                 ]
             ]
@@ -193,13 +193,13 @@
             "team": [
                 [
                     {
+                        "id": 509,
+                        "template": "PURRLOIN"
+                    },
+                    {
                         "id": 19,
                         "template": "RATTATA_NORMAL",
                         "form": 45
-                    },
-                    {
-                        "id": 509,
-                        "template": "PURRLOIN"
                     }
                 ],
                 [
