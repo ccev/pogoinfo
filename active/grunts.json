@@ -88,14 +88,14 @@
                         "form": 256
                     },
                     {
-                        "id": 149,
-                        "template": "DRAGONITE_NORMAL",
-                        "form": 196
-                    },
-                    {
                         "id": 143,
                         "template": "SNORLAX_NORMAL",
                         "form": 199
+                    },
+                    {
+                        "id": 149,
+                        "template": "DRAGONITE_NORMAL",
+                        "form": 196
                     }
                 ]
             ]
@@ -877,14 +877,14 @@
                         "form": 47
                     },
                     {
-                        "id": 399,
-                        "template": "BIDOOF_NORMAL",
-                        "form": 1667
-                    },
-                    {
                         "id": 294,
                         "template": "LOUDRED_NORMAL",
                         "form": 1445
+                    },
+                    {
+                        "id": 399,
+                        "template": "BIDOOF_NORMAL",
+                        "form": 1667
                     }
                 ],
                 [
