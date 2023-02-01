@@ -45,15 +45,15 @@
     ],
     "5": [
         {
-            "id": 785,
-            "template": "TAPU_KOKO"
+            "id": 379,
+            "template": "REGISTEEL"
         }
     ],
     "6": [
         {
-            "id": 142,
-            "template": "AERODACTYL_NORMAL",
-            "form": 1110,
+            "id": 94,
+            "template": "GENGAR_NORMAL",
+            "form": 1044,
             "temp_evolution_id": 1
         }
     ]
