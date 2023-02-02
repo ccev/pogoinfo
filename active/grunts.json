@@ -1065,13 +1065,13 @@
                         "template": "NATU"
                     },
                     {
+                        "id": 325,
+                        "template": "SPOINK"
+                    },
+                    {
                         "id": 63,
                         "template": "ABRA_NORMAL",
                         "form": 304
-                    },
-                    {
-                        "id": 325,
-                        "template": "SPOINK"
                     }
                 ],
                 [
@@ -1495,6 +1495,11 @@
                         "id": 34,
                         "template": "NIDOKING_NORMAL",
                         "form": 788
+                    },
+                    {
+                        "id": 445,
+                        "template": "GARCHOMP_NORMAL",
+                        "form": 867
                     }
                 ],
                 [
