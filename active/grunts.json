@@ -302,6 +302,11 @@
                 ],
                 [
                     {
+                        "id": 330,
+                        "template": "FLYGON_NORMAL",
+                        "form": 752
+                    },
+                    {
                         "id": 149,
                         "template": "DRAGONITE_NORMAL",
                         "form": 196
@@ -310,11 +315,6 @@
                         "id": 148,
                         "template": "DRAGONAIR_NORMAL",
                         "form": 193
-                    },
-                    {
-                        "id": 330,
-                        "template": "FLYGON_NORMAL",
-                        "form": 752
                     }
                 ]
             ]
