@@ -84,6 +84,62 @@
     ],
     "quests": [
         {
+            "task": "Catch 5 Pokémon with Weather Boost",
+            "rewards": [
+                {
+                    "type": "stardust",
+                    "amount": 200
+                },
+                {
+                    "type": "item",
+                    "amount": 3,
+                    "id": 701
+                },
+                {
+                    "type": "item",
+                    "amount": 1,
+                    "id": 705
+                },
+                {
+                    "type": "item",
+                    "amount": 5,
+                    "id": 1
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 60,
+                        "template": "POLIWAG_NORMAL",
+                        "form": 235
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 37,
+                        "template": "VULPIX_NORMAL",
+                        "form": 55
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 449,
+                        "template": "HIPPOPOTAS_NORMAL",
+                        "form": 888
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 459,
+                        "template": "SNOVER_NORMAL",
+                        "form": 932
+                    }
+                }
+            ]
+        },
+        {
             "task": "Catch 5 Pokémon",
             "rewards": [
                 {
@@ -179,62 +235,6 @@
                         "id": 110,
                         "template": "WEEZING_NORMAL",
                         "form": 706
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Catch 5 Pokémon with Weather Boost",
-            "rewards": [
-                {
-                    "type": "stardust",
-                    "amount": 200
-                },
-                {
-                    "type": "item",
-                    "amount": 3,
-                    "id": 701
-                },
-                {
-                    "type": "item",
-                    "amount": 1,
-                    "id": 705
-                },
-                {
-                    "type": "item",
-                    "amount": 5,
-                    "id": 1
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 60,
-                        "template": "POLIWAG_NORMAL",
-                        "form": 235
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 37,
-                        "template": "VULPIX_NORMAL",
-                        "form": 55
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 449,
-                        "template": "HIPPOPOTAS_NORMAL",
-                        "form": 888
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 459,
-                        "template": "SNOVER_NORMAL",
-                        "form": 932
                     }
                 }
             ]
@@ -562,6 +562,19 @@
             ]
         },
         {
+            "task": "Make 2 Excellent Throws",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 143,
+                        "template": "SNORLAX_NORMAL",
+                        "form": 199
+                    }
+                }
+            ]
+        },
+        {
             "task": "Make 3 Great Throws in a row",
             "rewards": [
                 {
@@ -611,19 +624,6 @@
                     "reward": {
                         "id": 327,
                         "template": "SPINDA"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Make 2 Excellent Throws",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 143,
-                        "template": "SNORLAX_NORMAL",
-                        "form": 199
                     }
                 }
             ]
@@ -817,6 +817,18 @@
             ]
         },
         {
+            "task": "Battle in GO Battle League",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 108,
+                        "template": "LICKITUNG"
+                    }
+                }
+            ]
+        },
+        {
             "task": "Win 5 raids",
             "rewards": [
                 {
@@ -825,18 +837,6 @@
                         "id": 142,
                         "template": "AERODACTYL_NORMAL",
                         "form": 1110
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Battle in GO Battle League",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 108,
-                        "template": "LICKITUNG"
                     }
                 }
             ]
@@ -1163,6 +1163,19 @@
             ]
         },
         {
+            "task": "Spin 5 PokéStops or Gyms",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 280,
+                        "template": "RALTS_NORMAL",
+                        "form": 292
+                    }
+                }
+            ]
+        },
+        {
             "task": "Hatch 2 Eggs",
             "rewards": [
                 {
@@ -1185,19 +1198,6 @@
                     "reward": {
                         "id": 366,
                         "template": "CLAMPERL"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Spin 5 PokéStops or Gyms",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 280,
-                        "template": "RALTS_NORMAL",
-                        "form": 292
                     }
                 }
             ]
