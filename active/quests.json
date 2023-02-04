@@ -549,6 +549,18 @@
             ]
         },
         {
+            "task": "Make 5 Great Curveball Throws in a row",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 327,
+                        "template": "SPINDA"
+                    }
+                }
+            ]
+        },
+        {
             "task": "Make 3 Excellent Throws in a row",
             "rewards": [
                 {
@@ -612,18 +624,6 @@
                         "id": 95,
                         "template": "ONIX_NORMAL",
                         "form": 902
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Make 5 Great Curveball Throws in a row",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 327,
-                        "template": "SPINDA"
                     }
                 }
             ]
@@ -817,7 +817,7 @@
             ]
         },
         {
-            "task": "Battle in GO Battle League",
+            "task": "Win in the GO Battle League",
             "rewards": [
                 {
                     "type": "pokemon",
@@ -862,18 +862,6 @@
             ]
         },
         {
-            "task": "Earn 3 hearts with your buddy",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 431,
-                        "template": "GLAMEOW"
-                    }
-                }
-            ]
-        },
-        {
             "task": "Trade a Pokémon",
             "rewards": [
                 {
@@ -893,6 +881,18 @@
                     "reward": {
                         "id": 659,
                         "template": "BUNNELBY"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Earn 3 hearts with your buddy",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 431,
+                        "template": "GLAMEOW"
                     }
                 }
             ]
@@ -1016,6 +1016,15 @@
                         "form": 178
                     },
                     "amount": 10
+                },
+                {
+                    "type": "energy",
+                    "reward": {
+                        "id": 3,
+                        "template": "VENUSAUR_NORMAL",
+                        "form": 169
+                    },
+                    "amount": 10
                 }
             ]
         },
@@ -1084,6 +1093,33 @@
                     "reward": {
                         "id": 193,
                         "template": "YANMA"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Hatch 2 Eggs",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 374,
+                        "template": "BELDUM_NORMAL",
+                        "form": 764
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 349,
+                        "template": "FEEBAS"
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 366,
+                        "template": "CLAMPERL"
                     }
                 }
             ]
@@ -1171,33 +1207,6 @@
                         "id": 280,
                         "template": "RALTS_NORMAL",
                         "form": 292
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Hatch 2 Eggs",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 374,
-                        "template": "BELDUM_NORMAL",
-                        "form": 764
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 349,
-                        "template": "FEEBAS"
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 366,
-                        "template": "CLAMPERL"
                     }
                 }
             ]
