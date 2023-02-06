@@ -826,18 +826,6 @@
             ]
         },
         {
-            "task": "Win in the GO Battle League",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 108,
-                        "template": "LICKITUNG"
-                    }
-                }
-            ]
-        },
-        {
             "task": "Win 5 raids",
             "rewards": [
                 {
@@ -846,6 +834,18 @@
                         "id": 142,
                         "template": "AERODACTYL_NORMAL",
                         "form": 1110
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Win in the GO Battle League",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 108,
+                        "template": "LICKITUNG"
                     }
                 }
             ]
@@ -895,18 +895,6 @@
             ]
         },
         {
-            "task": "Earn 3 hearts with your buddy",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 431,
-                        "template": "GLAMEOW"
-                    }
-                }
-            ]
-        },
-        {
             "task": "Earn 3 Candies walking with your buddy",
             "rewards": [
                 {
@@ -915,6 +903,18 @@
                         "id": 618,
                         "template": "STUNFISK_NORMAL",
                         "form": 2246
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Earn 3 hearts with your buddy",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 431,
+                        "template": "GLAMEOW"
                     }
                 }
             ]

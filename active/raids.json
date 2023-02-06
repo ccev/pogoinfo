@@ -1,52 +1,54 @@
 {
     "1": [
         {
-            "id": 88,
-            "template": "GRIMER_ALOLA",
-            "form": 74
-        },
-        {
-            "id": 403,
-            "template": "SHINX"
+            "id": 123,
+            "template": "SCYTHER_NORMAL",
+            "form": 247
         },
         {
             "id": 436,
             "template": "BRONZOR"
         },
         {
+            "id": 595,
+            "template": "JOLTIK"
+        },
+        {
             "id": 599,
             "template": "KLINK"
         },
         {
-            "id": 694,
-            "template": "HELIOPTILE"
+            "id": 702,
+            "template": "DEDENNE"
         }
     ],
     "3": [
         {
-            "id": 49,
-            "template": "VENOMOTH_NORMAL",
-            "form": 262
+            "id": 82,
+            "template": "MAGNETON_NORMAL",
+            "form": 658
         },
         {
-            "id": 110,
-            "template": "WEEZING_GALARIAN",
-            "form": 944
+            "id": 281,
+            "template": "KIRLIA_NORMAL",
+            "form": 295
         },
         {
-            "id": 135,
-            "template": "JOLTEON"
+            "id": 375,
+            "template": "METANG_NORMAL",
+            "form": 767
         },
         {
-            "id": 303,
-            "template": "MAWILE_NORMAL",
-            "form": 833
+            "template": "UNSET"
         }
     ],
     "5": [
         {
             "id": 379,
             "template": "REGISTEEL"
+        },
+        {
+            "template": "UNSET"
         }
     ],
     "6": [
@@ -55,6 +57,9 @@
             "template": "GENGAR_NORMAL",
             "form": 1044,
             "temp_evolution_id": 1
+        },
+        {
+            "template": "UNSET"
         }
     ]
 }
