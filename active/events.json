@@ -201,9 +201,9 @@
                 "template": "longer-lure"
             },
             {
-                "text": "1/2 Hatch Distance when Eggs are placed into Incubators during the event period",
-                "template": "reduced-hatch-distance",
-                "value": 12
+                "text": "2x XP for catching Pokémon",
+                "template": "increased-xp",
+                "value": 2
             },
             {
                 "text": "2× Candy for catching Pokémon",

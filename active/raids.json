@@ -1,65 +1,59 @@
 {
     "1": [
         {
-            "id": 123,
-            "template": "SCYTHER_NORMAL",
-            "form": 247
+            "id": 113,
+            "template": "CHANSEY"
         },
         {
-            "id": 436,
-            "template": "BRONZOR"
+            "id": 403,
+            "template": "SHINX"
         },
         {
-            "id": 595,
-            "template": "JOLTIK"
+            "id": 676,
+            "template": "FURFROU"
         },
         {
-            "id": 599,
-            "template": "KLINK"
-        },
-        {
-            "id": 702,
-            "template": "DEDENNE"
+            "id": 677,
+            "template": "ESPURR"
         }
     ],
     "3": [
         {
-            "id": 82,
-            "template": "MAGNETON_NORMAL",
-            "form": 658
+            "id": 31,
+            "template": "NIDOQUEEN_NORMAL",
+            "form": 782
         },
         {
-            "id": 281,
-            "template": "KIRLIA_NORMAL",
-            "form": 295
+            "id": 34,
+            "template": "NIDOKING_NORMAL",
+            "form": 788
         },
         {
-            "id": 375,
-            "template": "METANG_NORMAL",
-            "form": 767
+            "id": 108,
+            "template": "LICKITUNG"
         },
         {
-            "template": "UNSET"
+            "id": 241,
+            "template": "MILTANK"
+        },
+        {
+            "id": 475,
+            "template": "GALLADE_NORMAL",
+            "form": 301
         }
     ],
     "5": [
         {
-            "id": 379,
-            "template": "REGISTEEL"
-        },
-        {
-            "template": "UNSET"
+            "id": 786,
+            "template": "TAPU_LELE"
         }
     ],
     "6": [
         {
-            "id": 94,
-            "template": "GENGAR_NORMAL",
-            "form": 1044,
+            "id": 282,
+            "template": "GARDEVOIR_NORMAL",
+            "form": 298,
             "temp_evolution_id": 1
-        },
-        {
-            "template": "UNSET"
         }
     ]
 }
