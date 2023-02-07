@@ -702,6 +702,34 @@
         "has_spawnpoints": false
     },
     {
+        "name": "Unannounced Event - March 5",
+        "type": "event",
+        "start": "2023-03-05 00:00",
+        "end": "2023-03-05 00:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Unannounced Event - March 11",
+        "type": "event",
+        "start": "2023-03-11 00:00",
+        "end": "2023-03-11 00:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
         "name": "March Community Day",
         "type": "community-day",
         "start": "2023-03-18 14:00",
@@ -716,6 +744,20 @@
         "has_spawnpoints": true
     },
     {
+        "name": "Unannounced Event - April 9",
+        "type": "event",
+        "start": "2023-04-09 00:00",
+        "end": "2023-04-09 00:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
         "name": "April Community Day",
         "type": "community-day",
         "start": "2023-04-15 14:00",
@@ -728,6 +770,20 @@
         "features": [],
         "has_quests": true,
         "has_spawnpoints": true
+    },
+    {
+        "name": "Unannounced Event - April 23",
+        "type": "event",
+        "start": "2023-04-23 00:00",
+        "end": "2023-04-23 00:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
     },
     {
         "name": "April Community Day Classic",
@@ -756,5 +812,19 @@
         "features": [],
         "has_quests": true,
         "has_spawnpoints": true
+    },
+    {
+        "name": "Unannounced Event - May 27",
+        "type": "event",
+        "start": null,
+        "end": "2023-05-28 00:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
     }
 ]
