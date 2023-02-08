@@ -1,25 +1,6 @@
 {
     "event": [
         {
-            "task": "Event: Open 5 Gifts",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 755,
-                        "template": "MORELULL"
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 415,
-                        "template": "COMBEE"
-                    }
-                }
-            ]
-        },
-        {
             "task": "Event: Spin 10 PokéStops or Gyms",
             "rewards": [
                 {
@@ -41,6 +22,73 @@
                     "reward": {
                         "id": 594,
                         "template": "ALOMOMOLA"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Event: Earn 3 hearts with your buddy",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 280,
+                        "template": "RALTS_NORMAL",
+                        "form": 292
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 133,
+                        "template": "EEVEE"
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 25,
+                        "template": "PIKACHU_NORMAL",
+                        "form": 598
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Event: Open 5 Gifts",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 755,
+                        "template": "MORELULL"
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 415,
+                        "template": "COMBEE"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Event: Spin 5 PokéStops or Gyms",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 667,
+                        "template": "LITLEO"
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 449,
+                        "template": "HIPPOPOTAS_NORMAL",
+                        "form": 888
                     }
                 }
             ]
@@ -71,41 +119,13 @@
             ]
         },
         {
-            "task": "Event: Earn 3 hearts with your buddy",
+            "task": "Event: Make 5 Great Curveball Throws in a row",
             "rewards": [
                 {
                     "type": "pokemon",
                     "reward": {
-                        "id": 280,
-                        "template": "RALTS_NORMAL",
-                        "form": 292
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 133,
-                        "template": "EEVEE"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Event: Spin 5 PokéStops or Gyms",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 667,
-                        "template": "LITLEO"
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 449,
-                        "template": "HIPPOPOTAS_NORMAL",
-                        "form": 888
+                        "id": 327,
+                        "template": "SPINDA"
                     }
                 }
             ]
@@ -251,19 +271,6 @@
                         "id": 103,
                         "template": "EXEGGUTOR_NORMAL",
                         "form": 77
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Defeat 3 Team GO Rocket Grunts",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 110,
-                        "template": "WEEZING_NORMAL",
-                        "form": 706
                     }
                 }
             ]
@@ -837,6 +844,19 @@
                         "id": 140,
                         "template": "KABUTO_NORMAL",
                         "form": 1104
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Defeat 3 Team GO Rocket Grunts",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 110,
+                        "template": "WEEZING_NORMAL",
+                        "form": 706
                     }
                 }
             ]
