@@ -1,19 +1,5 @@
 [
     {
-        "name": "Pidgey Spotlight Hour",
-        "type": "spotlight-hour",
-        "start": "2023-02-07 18:00",
-        "end": "2023-02-07 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": true
-    },
-    {
         "name": "Tapu Lele Raid Hour",
         "type": "raid-hour",
         "start": "2023-02-08 18:00",
