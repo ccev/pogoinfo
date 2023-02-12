@@ -1,24 +1,5 @@
 [
     {
-        "name": "Luvdisc Limited Research",
-        "type": "event",
-        "start": "2023-02-11 14:00",
-        "end": "2023-02-11 17:00",
-        "spawns": [
-            {
-                "id": 594,
-                "template": "ALOMOMOLA"
-            }
-        ],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": true,
-        "has_spawnpoints": false
-    },
-    {
         "name": "GO Battle Day: Vulpix",
         "type": "event",
         "start": "2023-02-12 00:00",
