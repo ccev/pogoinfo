@@ -218,14 +218,14 @@
                 ],
                 [
                     {
-                        "id": 434,
-                        "template": "STUNKY_NORMAL",
-                        "form": 791
-                    },
-                    {
                         "id": 20,
                         "template": "RATICATE_NORMAL",
                         "form": 47
+                    },
+                    {
+                        "id": 434,
+                        "template": "STUNKY_NORMAL",
+                        "form": 791
                     },
                     {
                         "id": 198,
@@ -362,14 +362,14 @@
                 ],
                 [
                     {
-                        "id": 281,
-                        "template": "KIRLIA_NORMAL",
-                        "form": 295
-                    },
-                    {
                         "id": 209,
                         "template": "SNUBBULL_NORMAL",
                         "form": 1253
+                    },
+                    {
+                        "id": 281,
+                        "template": "KIRLIA_NORMAL",
+                        "form": 295
                     },
                     {
                         "id": 210,
@@ -379,14 +379,14 @@
                 ],
                 [
                     {
-                        "id": 210,
-                        "template": "GRANBULL_NORMAL",
-                        "form": 1256
-                    },
-                    {
                         "id": 281,
                         "template": "KIRLIA_NORMAL",
                         "form": 295
+                    },
+                    {
+                        "id": 210,
+                        "template": "GRANBULL_NORMAL",
+                        "form": 1256
                     }
                 ]
             ]
@@ -589,14 +589,14 @@
                 ],
                 [
                     {
-                        "id": 42,
-                        "template": "GOLBAT_NORMAL",
-                        "form": 160
-                    },
-                    {
                         "id": 397,
                         "template": "STARAVIA_NORMAL",
                         "form": 1661
+                    },
+                    {
+                        "id": 42,
+                        "template": "GOLBAT_NORMAL",
+                        "form": 160
                     },
                     {
                         "id": 178,
@@ -694,13 +694,13 @@
                 ],
                 [
                     {
-                        "id": 591,
-                        "template": "AMOONGUSS"
-                    },
-                    {
                         "id": 154,
                         "template": "MEGANIUM_NORMAL",
                         "form": 1124
+                    },
+                    {
+                        "id": 591,
+                        "template": "AMOONGUSS"
                     },
                     {
                         "id": 332,
@@ -1379,6 +1379,11 @@
                 ],
                 [
                     {
+                        "id": 346,
+                        "template": "CRADILY_NORMAL",
+                        "form": 1571
+                    },
+                    {
                         "id": 208,
                         "template": "STEELIX_NORMAL",
                         "form": 905
@@ -1387,11 +1392,6 @@
                         "id": 169,
                         "template": "CROBAT_NORMAL",
                         "form": 202
-                    },
-                    {
-                        "id": 346,
-                        "template": "CRADILY_NORMAL",
-                        "form": 1571
                     }
                 ],
                 [
