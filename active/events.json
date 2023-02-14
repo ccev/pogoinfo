@@ -1,19 +1,5 @@
 [
     {
-        "name": "GO Battle Day: Vulpix",
-        "type": "event",
-        "start": "2023-02-12 00:00",
-        "end": "2023-02-12 23:59",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": true,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Woobat Spotlight Hour",
         "type": "spotlight-hour",
         "start": "2023-02-14 18:00",
