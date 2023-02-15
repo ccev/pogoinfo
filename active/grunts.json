@@ -218,6 +218,11 @@
                 ],
                 [
                     {
+                        "id": 198,
+                        "template": "MURKROW_NORMAL",
+                        "form": 855
+                    },
+                    {
                         "id": 20,
                         "template": "RATICATE_NORMAL",
                         "form": 47
@@ -226,11 +231,6 @@
                         "id": 434,
                         "template": "STUNKY_NORMAL",
                         "form": 791
-                    },
-                    {
-                        "id": 198,
-                        "template": "MURKROW_NORMAL",
-                        "form": 855
                     }
                 ],
                 [
@@ -696,13 +696,13 @@
                 ],
                 [
                     {
+                        "id": 591,
+                        "template": "AMOONGUSS"
+                    },
+                    {
                         "id": 154,
                         "template": "MEGANIUM_NORMAL",
                         "form": 1124
-                    },
-                    {
-                        "id": 591,
-                        "template": "AMOONGUSS"
                     },
                     {
                         "id": 332,
