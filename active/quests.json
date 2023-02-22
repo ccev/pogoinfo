@@ -7,6 +7,16 @@
                     "type": "item",
                     "amount": 10,
                     "id": 1
+                },
+                {
+                    "type": "item",
+                    "amount": 5,
+                    "id": 2
+                },
+                {
+                    "type": "item",
+                    "amount": 2,
+                    "id": 3
                 }
             ]
         },
@@ -17,6 +27,46 @@
                     "type": "item",
                     "amount": 5,
                     "id": 2
+                },
+                {
+                    "type": "item",
+                    "amount": 2,
+                    "id": 3
+                }
+            ]
+        },
+        {
+            "task": "Event: Catch a Torchic",
+            "rewards": [
+                {
+                    "type": "item",
+                    "amount": 10,
+                    "id": 1
+                },
+                {
+                    "type": "item",
+                    "amount": 5,
+                    "id": 2
+                },
+                {
+                    "type": "item",
+                    "amount": 2,
+                    "id": 3
+                }
+            ]
+        },
+        {
+            "task": "Event: Catch 3 Pokémon originally discovered in the Hoenn region",
+            "rewards": [
+                {
+                    "type": "item",
+                    "amount": 10,
+                    "id": 701
+                },
+                {
+                    "type": "item",
+                    "amount": 10,
+                    "id": 705
                 }
             ]
         }
