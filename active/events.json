@@ -1,19 +1,5 @@
 [
     {
-        "name": "Jigglypuff Spotlight Hour",
-        "type": "spotlight-hour",
-        "start": "2023-02-21 18:00",
-        "end": "2023-02-21 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": true
-    },
-    {
         "name": "Rayquaza Raid Hour",
         "type": "raid-hour",
         "start": "2023-02-22 18:00",
