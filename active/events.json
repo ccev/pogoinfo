@@ -97,11 +97,7 @@
                 "value": 2
             }
         ],
-        "features": [
-            "Trainer Battles: 50 power. This move decreases your opponent’s Attack stat when used.",
-            "Gyms and raids: 35 power",
-            "Absol"
-        ],
+        "features": [],
         "has_quests": true,
         "has_spawnpoints": false
     },
