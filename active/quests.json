@@ -1,5 +1,26 @@
 {
-    "event": [],
+    "event": [
+        {
+            "task": "Event: Catch a Mudkip",
+            "rewards": [
+                {
+                    "type": "item",
+                    "amount": 10,
+                    "id": 1
+                }
+            ]
+        },
+        {
+            "task": "Event: Catch a Treecko",
+            "rewards": [
+                {
+                    "type": "item",
+                    "amount": 5,
+                    "id": 2
+                }
+            ]
+        }
+    ],
     "quests": [
         {
             "task": "Catch 5 Pokémon with Weather Boost",
