@@ -434,14 +434,14 @@
                         "form": 1451
                     },
                     {
-                        "id": 107,
-                        "template": "HITMONCHAN_NORMAL",
-                        "form": 277
-                    },
-                    {
                         "id": 106,
                         "template": "HITMONLEE_NORMAL",
                         "form": 713
+                    },
+                    {
+                        "id": 107,
+                        "template": "HITMONCHAN_NORMAL",
+                        "form": 277
                     }
                 ],
                 [
@@ -705,14 +705,14 @@
                         "template": "AMOONGUSS"
                     },
                     {
-                        "id": 332,
-                        "template": "CACTURNE_NORMAL",
-                        "form": 613
-                    },
-                    {
                         "id": 154,
                         "template": "MEGANIUM_NORMAL",
                         "form": 1124
+                    },
+                    {
+                        "id": 332,
+                        "template": "CACTURNE_NORMAL",
+                        "form": 613
                     }
                 ]
             ]
@@ -753,14 +753,14 @@
                         "form": 67
                     },
                     {
-                        "id": 50,
-                        "template": "DIGLETT_NORMAL",
-                        "form": 59
-                    },
-                    {
                         "id": 449,
                         "template": "HIPPOPOTAS_NORMAL",
                         "form": 888
+                    },
+                    {
+                        "id": 50,
+                        "template": "DIGLETT_NORMAL",
+                        "form": 59
                     }
                 ],
                 [
