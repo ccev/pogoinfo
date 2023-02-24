@@ -385,14 +385,14 @@
                 ],
                 [
                     {
-                        "id": 281,
-                        "template": "KIRLIA_NORMAL",
-                        "form": 295
-                    },
-                    {
                         "id": 210,
                         "template": "GRANBULL_NORMAL",
                         "form": 1256
+                    },
+                    {
+                        "id": 281,
+                        "template": "KIRLIA_NORMAL",
+                        "form": 295
                     }
                 ]
             ]
@@ -510,14 +510,14 @@
                         "template": "NUMEL"
                     },
                     {
-                        "id": 37,
-                        "template": "VULPIX_NORMAL",
-                        "form": 55
-                    },
-                    {
                         "id": 155,
                         "template": "CYNDAQUIL_NORMAL",
                         "form": 1127
+                    },
+                    {
+                        "id": 37,
+                        "template": "VULPIX_NORMAL",
+                        "form": 55
                     }
                 ],
                 [
@@ -925,12 +925,12 @@
             "team": [
                 [
                     {
-                        "id": 519,
-                        "template": "PIDOVE"
-                    },
-                    {
                         "id": 504,
                         "template": "PATRAT"
+                    },
+                    {
+                        "id": 519,
+                        "template": "PIDOVE"
                     },
                     {
                         "id": 293,
@@ -1170,14 +1170,14 @@
                         "form": 1568
                     },
                     {
-                        "id": 347,
-                        "template": "ANORITH_NORMAL",
-                        "form": 1574
-                    },
-                    {
                         "id": 75,
                         "template": "GRAVELER_NORMAL",
                         "form": 69
+                    },
+                    {
+                        "id": 347,
+                        "template": "ANORITH_NORMAL",
+                        "form": 1574
                     }
                 ],
                 [
