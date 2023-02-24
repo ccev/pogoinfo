@@ -202,13 +202,13 @@
             "team": [
                 [
                     {
-                        "id": 509,
-                        "template": "PURRLOIN"
-                    },
-                    {
                         "id": 19,
                         "template": "RATTATA_NORMAL",
                         "form": 45
+                    },
+                    {
+                        "id": 509,
+                        "template": "PURRLOIN"
                     },
                     {
                         "id": 198,
@@ -812,14 +812,14 @@
             "team": [
                 [
                     {
-                        "id": 27,
-                        "template": "SANDSHREW_NORMAL",
-                        "form": 51
-                    },
-                    {
                         "id": 37,
                         "template": "VULPIX_NORMAL",
                         "form": 55
+                    },
+                    {
+                        "id": 27,
+                        "template": "SANDSHREW_NORMAL",
+                        "form": 51
                     },
                     {
                         "id": 220,

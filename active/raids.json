@@ -15,40 +15,34 @@
             "form": 205
         }
     ],
-    "3": [
-        {
-            "id": 253,
-            "template": "GROVYLE"
-        },
-        {
-            "id": 256,
-            "template": "COMBUSKEN_NORMAL",
-            "form": 1361
-        },
-        {
-            "id": 259,
-            "template": "MARSHTOMP_NORMAL",
-            "form": 208
-        }
-    ],
     "5": [
         {
-            "id": 384,
-            "template": "RAYQUAZA"
-        }
-    ],
-    "6": [
-        {
-            "id": 380,
-            "template": "LATIAS_NORMAL",
-            "form": 1631,
-            "temp_evolution_id": 1
+            "id": 386,
+            "template": "DEOXYS_NORMAL",
+            "form": 33
         },
         {
-            "id": 381,
-            "template": "LATIOS_NORMAL",
-            "form": 1634,
-            "temp_evolution_id": 1
+            "id": 386,
+            "template": "DEOXYS_SPEED",
+            "form": 36
+        },
+        {
+            "id": 386,
+            "template": "DEOXYS_ATTACK",
+            "form": 34
+        },
+        {
+            "id": 386,
+            "template": "DEOXYS_DEFENSE",
+            "form": 35
+        }
+    ],
+    "8": [
+        {
+            "template": "UNSET"
+        },
+        {
+            "template": "UNSET"
         }
     ]
 }
