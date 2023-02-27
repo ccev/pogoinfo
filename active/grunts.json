@@ -235,14 +235,14 @@
                 ],
                 [
                     {
-                        "id": 332,
-                        "template": "CACTURNE_NORMAL",
-                        "form": 613
-                    },
-                    {
                         "id": 20,
                         "template": "RATICATE_NORMAL",
                         "form": 47
+                    },
+                    {
+                        "id": 332,
+                        "template": "CACTURNE_NORMAL",
+                        "form": 613
                     },
                     {
                         "id": 430,
@@ -705,14 +705,14 @@
                         "template": "AMOONGUSS"
                     },
                     {
-                        "id": 154,
-                        "template": "MEGANIUM_NORMAL",
-                        "form": 1124
-                    },
-                    {
                         "id": 332,
                         "template": "CACTURNE_NORMAL",
                         "form": 613
+                    },
+                    {
+                        "id": 154,
+                        "template": "MEGANIUM_NORMAL",
+                        "form": 1124
                     }
                 ]
             ]
@@ -846,14 +846,14 @@
                 ],
                 [
                     {
-                        "id": 91,
-                        "template": "CLOYSTER_NORMAL",
-                        "form": 879
-                    },
-                    {
                         "id": 460,
                         "template": "ABOMASNOW_NORMAL",
                         "form": 935
+                    },
+                    {
+                        "id": 91,
+                        "template": "CLOYSTER_NORMAL",
+                        "form": 879
                     },
                     {
                         "id": 131,
@@ -1500,6 +1500,11 @@
                 ],
                 [
                     {
+                        "id": 34,
+                        "template": "NIDOKING_NORMAL",
+                        "form": 788
+                    },
+                    {
                         "id": 91,
                         "template": "CLOYSTER_NORMAL",
                         "form": 879
@@ -1508,11 +1513,6 @@
                         "id": 445,
                         "template": "GARCHOMP_NORMAL",
                         "form": 867
-                    },
-                    {
-                        "id": 34,
-                        "template": "NIDOKING_NORMAL",
-                        "form": 788
                     }
                 ],
                 [
