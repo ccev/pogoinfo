@@ -362,20 +362,6 @@
         "has_spawnpoints": false
     },
     {
-        "name": "Unannounced Event - March 5",
-        "type": "event",
-        "start": "2023-03-05 00:00",
-        "end": "2023-03-05 00:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Unannounced Event - March 11",
         "type": "event",
         "start": "2023-03-11 00:00",
