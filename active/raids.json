@@ -1,69 +1,62 @@
 {
     "1": [
         {
-            "id": 318,
-            "template": "CARVANHA_NORMAL",
-            "form": 734
+            "id": 185,
+            "template": "SUDOWOODO"
         },
         {
-            "id": 345,
-            "template": "LILEEP_NORMAL",
-            "form": 1568
+            "id": 220,
+            "template": "SWINUB_NORMAL",
+            "form": 1277
         },
         {
-            "id": 347,
-            "template": "ANORITH_NORMAL",
-            "form": 1574
+            "id": 299,
+            "template": "NOSEPASS_NORMAL",
+            "form": 1460
         },
         {
-            "id": 363,
-            "template": "SPHEAL_NORMAL",
-            "form": 1598
+            "id": 408,
+            "template": "CRANIDOS"
         },
         {
-            "id": 366,
-            "template": "CLAMPERL"
+            "id": 557,
+            "template": "DWEBBLE"
         }
     ],
     "3": [
         {
-            "id": 303,
-            "template": "MAWILE_NORMAL",
-            "form": 833
+            "id": 42,
+            "template": "GOLBAT_NORMAL",
+            "form": 160
         },
         {
-            "id": 308,
-            "template": "MEDICHAM"
+            "id": 75,
+            "template": "GRAVELER_ALOLA",
+            "form": 70
         },
         {
-            "id": 372,
-            "template": "SHELGON_NORMAL",
-            "form": 758
+            "id": 135,
+            "template": "JOLTEON"
         },
         {
-            "id": 375,
-            "template": "METANG_NORMAL",
-            "form": 767
+            "id": 398,
+            "template": "STARAPTOR_NORMAL",
+            "form": 1664
         }
     ],
     "5": [
         {
-            "id": 384,
-            "template": "RAYQUAZA"
+            "id": 641,
+            "template": "TORNADUS_INCARNATE",
+            "form": 140
         }
     ],
     "6": [
         {
-            "id": 380,
-            "template": "LATIAS_NORMAL",
-            "form": 1631,
-            "temp_evolution_id": 1
-        },
-        {
-            "id": 381,
-            "template": "LATIOS_NORMAL",
-            "form": 1634,
-            "temp_evolution_id": 1
+            "id": 6,
+            "template": "CHARIZARD_NORMAL",
+            "form": 178,
+            "temp_evolution_id": 3
         }
     ]
 }

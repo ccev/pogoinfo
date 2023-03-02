@@ -385,14 +385,14 @@
                 ],
                 [
                     {
-                        "id": 210,
-                        "template": "GRANBULL_NORMAL",
-                        "form": 1256
-                    },
-                    {
                         "id": 281,
                         "template": "KIRLIA_NORMAL",
                         "form": 295
+                    },
+                    {
+                        "id": 210,
+                        "template": "GRANBULL_NORMAL",
+                        "form": 1256
                     }
                 ]
             ]
@@ -753,14 +753,14 @@
                         "form": 67
                     },
                     {
-                        "id": 449,
-                        "template": "HIPPOPOTAS_NORMAL",
-                        "form": 888
-                    },
-                    {
                         "id": 50,
                         "template": "DIGLETT_NORMAL",
                         "form": 59
+                    },
+                    {
+                        "id": 449,
+                        "template": "HIPPOPOTAS_NORMAL",
+                        "form": 888
                     }
                 ],
                 [
