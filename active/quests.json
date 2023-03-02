@@ -123,19 +123,6 @@
             ]
         },
         {
-            "task": "Use 3 Pinap Berries to help catch Pokémon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 88,
-                        "template": "GRIMER_NORMAL",
-                        "form": 73
-                    }
-                }
-            ]
-        },
-        {
             "task": "Catch 5 Water-type Pokémon",
             "rewards": [
                 {
@@ -144,6 +131,19 @@
                         "id": 90,
                         "template": "SHELLDER_NORMAL",
                         "form": 876
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Use 3 Pinap Berries to help catch Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 88,
+                        "template": "GRIMER_NORMAL",
+                        "form": 73
                     }
                 }
             ]
@@ -675,6 +675,27 @@
             ]
         },
         {
+            "task": "Win a three-star raid or higher",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 138,
+                        "template": "OMANYTE_NORMAL",
+                        "form": 740
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 140,
+                        "template": "KABUTO_NORMAL",
+                        "form": 1104
+                    }
+                }
+            ]
+        },
+        {
             "task": "Win a raid",
             "rewards": [
                 {
@@ -696,27 +717,6 @@
                         "id": 95,
                         "template": "ONIX_NORMAL",
                         "form": 902
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Win a three-star raid or higher",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 138,
-                        "template": "OMANYTE_NORMAL",
-                        "form": 740
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 140,
-                        "template": "KABUTO_NORMAL",
-                        "form": 1104
                     }
                 }
             ]
@@ -792,18 +792,6 @@
             ]
         },
         {
-            "task": "Earn 5 hearts with your buddy",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 527,
-                        "template": "WOOBAT"
-                    }
-                }
-            ]
-        },
-        {
             "task": "Earn 3 Candies walking with your buddy",
             "rewards": [
                 {
@@ -824,6 +812,18 @@
                     "reward": {
                         "id": 320,
                         "template": "WAILMER"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Earn 5 hearts with your buddy",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 527,
+                        "template": "WOOBAT"
                     }
                 }
             ]
