@@ -521,6 +521,19 @@
             ]
         },
         {
+            "task": "Make 3 Excellent Throws in a row",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 443,
+                        "template": "GIBLE_NORMAL",
+                        "form": 861
+                    }
+                }
+            ]
+        },
+        {
             "task": "Make 5 Curveball Throws in a row",
             "rewards": [
                 {
@@ -548,19 +561,6 @@
                         "id": 52,
                         "template": "MEOWTH_ALOLA",
                         "form": 64
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Make 3 Excellent Throws in a row",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 443,
-                        "template": "GIBLE_NORMAL",
-                        "form": 861
                     }
                 }
             ]
@@ -730,19 +730,6 @@
             ]
         },
         {
-            "task": "Battle in GO Battle League",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 95,
-                        "template": "ONIX_NORMAL",
-                        "form": 902
-                    }
-                }
-            ]
-        },
-        {
             "task": "Win 5 raids",
             "rewards": [
                 {
@@ -751,6 +738,19 @@
                         "id": 142,
                         "template": "AERODACTYL_NORMAL",
                         "form": 1110
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Battle in GO Battle League",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 95,
+                        "template": "ONIX_NORMAL",
+                        "form": 902
                     }
                 }
             ]
