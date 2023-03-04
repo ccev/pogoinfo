@@ -4,18 +4,8 @@
         "type": "event",
         "start": "2023-03-05 10:00",
         "end": "2023-03-05 20:00",
-        "spawns": [
-            {
-                "id": 236,
-                "template": "TYROGUE"
-            }
-        ],
-        "eggs": [
-            {
-                "id": 236,
-                "template": "TYROGUE"
-            }
-        ],
+        "spawns": [],
+        "eggs": [],
         "raids": [],
         "shinies": [],
         "bonuses": [
