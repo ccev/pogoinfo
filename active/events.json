@@ -1,28 +1,5 @@
 [
     {
-        "name": "Catch Mastery Event",
-        "type": "event",
-        "start": "2023-03-05 10:00",
-        "end": "2023-03-05 20:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [
-            {
-                "text": "You’ll have an increased chance of encountering Shiny Hitmonlee, Shiny Hitmonchan, and Shiny Hitmontop"
-            },
-            {
-                "text": "2× XP for successfully catching Pokémon with Nice Throws, Great Throws, Excellent Throws, and Curveball Throws",
-                "template": "increased-xp",
-                "value": 2
-            }
-        ],
-        "features": [],
-        "has_quests": true,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Eevee Spotlight Hour",
         "type": "spotlight-hour",
         "start": "2023-03-07 18:00",
