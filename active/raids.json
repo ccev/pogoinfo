@@ -1,62 +1,54 @@
 {
     "1": [
         {
-            "id": 185,
-            "template": "SUDOWOODO"
+            "id": 677,
+            "template": "ESPURR"
         },
         {
-            "id": 220,
-            "template": "SWINUB_NORMAL",
-            "form": 1277
+            "id": 744,
+            "template": "ROCKRUFF"
         },
         {
-            "id": 299,
-            "template": "NOSEPASS_NORMAL",
-            "form": 1460
+            "id": 747,
+            "template": "MAREANIE"
         },
         {
-            "id": 408,
-            "template": "CRANIDOS"
-        },
-        {
-            "id": 557,
-            "template": "DWEBBLE"
+            "id": 779,
+            "template": "BRUXISH"
         }
     ],
     "3": [
         {
-            "id": 42,
-            "template": "GOLBAT_NORMAL",
-            "form": 160
+            "id": 103,
+            "template": "EXEGGUTOR_NORMAL",
+            "form": 77
         },
         {
-            "id": 75,
-            "template": "GRAVELER_ALOLA",
-            "form": 70
+            "id": 103,
+            "template": "EXEGGUTOR_ALOLA",
+            "form": 78
         },
         {
-            "id": 135,
-            "template": "JOLTEON"
+            "id": 615,
+            "template": "CRYOGONAL"
         },
         {
-            "id": 398,
-            "template": "STARAPTOR_NORMAL",
-            "form": 1664
+            "id": 621,
+            "template": "DRUDDIGON"
         }
     ],
     "5": [
         {
-            "id": 641,
-            "template": "TORNADUS_INCARNATE",
-            "form": 140
+            "id": 250,
+            "template": "HO_OH_NORMAL",
+            "form": 1343
         }
     ],
     "6": [
         {
-            "id": 6,
-            "template": "CHARIZARD_NORMAL",
-            "form": 178,
-            "temp_evolution_id": 3
+            "id": 308,
+            "template": "MEDICHAM",
+            "temp_evolution_id": 1
         }
     ]
 }

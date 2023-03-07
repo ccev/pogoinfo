@@ -368,14 +368,14 @@
                 ],
                 [
                     {
-                        "id": 209,
-                        "template": "SNUBBULL_NORMAL",
-                        "form": 1253
-                    },
-                    {
                         "id": 281,
                         "template": "KIRLIA_NORMAL",
                         "form": 295
+                    },
+                    {
+                        "id": 209,
+                        "template": "SNUBBULL_NORMAL",
+                        "form": 1253
                     },
                     {
                         "id": 210,
@@ -753,14 +753,14 @@
                         "form": 67
                     },
                     {
-                        "id": 449,
-                        "template": "HIPPOPOTAS_NORMAL",
-                        "form": 888
-                    },
-                    {
                         "id": 50,
                         "template": "DIGLETT_NORMAL",
                         "form": 59
+                    },
+                    {
+                        "id": 449,
+                        "template": "HIPPOPOTAS_NORMAL",
+                        "form": 888
                     }
                 ],
                 [
@@ -846,14 +846,14 @@
                 ],
                 [
                     {
-                        "id": 91,
-                        "template": "CLOYSTER_NORMAL",
-                        "form": 879
-                    },
-                    {
                         "id": 460,
                         "template": "ABOMASNOW_NORMAL",
                         "form": 935
+                    },
+                    {
+                        "id": 91,
+                        "template": "CLOYSTER_NORMAL",
+                        "form": 879
                     },
                     {
                         "id": 131,
@@ -1505,14 +1505,14 @@
                         "form": 788
                     },
                     {
-                        "id": 91,
-                        "template": "CLOYSTER_NORMAL",
-                        "form": 879
-                    },
-                    {
                         "id": 445,
                         "template": "GARCHOMP_NORMAL",
                         "form": 867
+                    },
+                    {
+                        "id": 91,
+                        "template": "CLOYSTER_NORMAL",
+                        "form": 879
                     }
                 ],
                 [
@@ -1639,13 +1639,13 @@
                         "form": 911
                     },
                     {
+                        "id": 623,
+                        "template": "GOLURK"
+                    },
+                    {
                         "id": 477,
                         "template": "DUSKNOIR_NORMAL",
                         "form": 920
-                    },
-                    {
-                        "id": 623,
-                        "template": "GOLURK"
                     }
                 ]
             ]
