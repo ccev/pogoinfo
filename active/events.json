@@ -539,6 +539,71 @@
                 "template": "MAREANIE"
             },
             {
+                "id": 27,
+                "template": "SANDSHREW_ALOLA",
+                "form": 52
+            },
+            {
+                "id": 37,
+                "template": "VULPIX_ALOLA",
+                "form": 56
+            },
+            {
+                "id": 50,
+                "template": "DIGLETT_ALOLA",
+                "form": 60
+            },
+            {
+                "id": 52,
+                "template": "MEOWTH_ALOLA",
+                "form": 64
+            },
+            {
+                "id": 52,
+                "template": "MEOWTH_GALARIAN",
+                "form": 2335
+            },
+            {
+                "id": 74,
+                "template": "GEODUDE_ALOLA",
+                "form": 68
+            },
+            {
+                "id": 77,
+                "template": "PONYTA_GALARIAN",
+                "form": 2336
+            },
+            {
+                "id": 79,
+                "template": "SLOWPOKE_GALARIAN",
+                "form": 2582
+            },
+            {
+                "id": 83,
+                "template": "FARFETCHD_GALARIAN",
+                "form": 2338
+            },
+            {
+                "id": 88,
+                "template": "GRIMER_ALOLA",
+                "form": 74
+            },
+            {
+                "id": 263,
+                "template": "ZIGZAGOON_GALARIAN",
+                "form": 946
+            },
+            {
+                "id": 554,
+                "template": "DARUMAKA_GALARIAN",
+                "form": 2341
+            },
+            {
+                "id": 618,
+                "template": "STUNFISK_GALARIAN",
+                "form": 2345
+            },
+            {
                 "id": 447,
                 "template": "RIOLU"
             },
@@ -593,6 +658,10 @@
             {
                 "id": 440,
                 "template": "HAPPINY"
+            },
+            {
+                "id": 446,
+                "template": "MUNCHLAX"
             },
             {
                 "id": 592,

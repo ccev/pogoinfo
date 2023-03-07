@@ -1639,13 +1639,13 @@
                         "form": 911
                     },
                     {
-                        "id": 623,
-                        "template": "GOLURK"
-                    },
-                    {
                         "id": 477,
                         "template": "DUSKNOIR_NORMAL",
                         "form": 920
+                    },
+                    {
+                        "id": 623,
+                        "template": "GOLURK"
                     }
                 ]
             ]
