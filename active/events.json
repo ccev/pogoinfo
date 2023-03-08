@@ -104,7 +104,7 @@
         "shinies": [],
         "bonuses": [
             {
-                "text": "Lure Modules activated during the event will last for three hours",
+                "text": "Lure Modules activated during the event will last for three hours*",
                 "template": "longer-lure"
             },
             {
