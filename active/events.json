@@ -1,33 +1,5 @@
 [
     {
-        "name": "Eevee Spotlight Hour",
-        "type": "spotlight-hour",
-        "start": "2023-03-07 18:00",
-        "end": "2023-03-07 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": true
-    },
-    {
-        "name": "Ho-Oh Raid Hour",
-        "type": "raid-hour",
-        "start": "2023-03-15 18:00",
-        "end": "2023-03-15 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Rowlet Spotlight Hour",
         "type": "spotlight-hour",
         "start": "2023-03-14 18:00",
@@ -113,6 +85,20 @@
         ],
         "features": [],
         "has_quests": true,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Ho-Oh Raid Hour",
+        "type": "raid-hour",
+        "start": "2023-03-15 18:00",
+        "end": "2023-03-15 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
         "has_spawnpoints": false
     },
     {
@@ -539,19 +525,9 @@
                 "template": "MAREANIE"
             },
             {
-                "id": 27,
-                "template": "SANDSHREW_ALOLA",
-                "form": 52
-            },
-            {
                 "id": 37,
                 "template": "VULPIX_ALOLA",
                 "form": 56
-            },
-            {
-                "id": 50,
-                "template": "DIGLETT_ALOLA",
-                "form": 60
             },
             {
                 "id": 52,
@@ -562,11 +538,6 @@
                 "id": 52,
                 "template": "MEOWTH_GALARIAN",
                 "form": 2335
-            },
-            {
-                "id": 74,
-                "template": "GEODUDE_ALOLA",
-                "form": 68
             },
             {
                 "id": 77,
@@ -584,9 +555,16 @@
                 "form": 2338
             },
             {
-                "id": 88,
-                "template": "GRIMER_ALOLA",
-                "form": 74
+                "id": 100,
+                "template": "VOLTORB"
+            },
+            {
+                "id": 211,
+                "template": "QWILFISH"
+            },
+            {
+                "id": 215,
+                "template": "SNEASEL"
             },
             {
                 "id": 263,
