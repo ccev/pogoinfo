@@ -1330,14 +1330,14 @@
                 ],
                 [
                     {
-                        "id": 3,
-                        "template": "VENUSAUR_NORMAL",
-                        "form": 169
-                    },
-                    {
                         "id": 127,
                         "template": "PINSIR_NORMAL",
                         "form": 898
+                    },
+                    {
+                        "id": 3,
+                        "template": "VENUSAUR_NORMAL",
+                        "form": 169
                     },
                     {
                         "id": 139,
