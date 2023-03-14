@@ -231,17 +231,66 @@
         "has_spawnpoints": false
     },
     {
-        "name": "Let's GO! + Team GO Rocket Takeover",
+        "name": "Let's GO!",
         "type": "event",
         "start": "2023-03-21 10:00",
         "end": "2023-03-29 20:00",
-        "spawns": [],
+        "spawns": [
+            {
+                "id": 568,
+                "template": "TRUBBISH"
+            },
+            {
+                "id": 618,
+                "template": "STUNFISK_GALARIAN",
+                "form": 2345
+            },
+            {
+                "id": 704,
+                "template": "GOOMY"
+            }
+        ],
         "eggs": [],
-        "raids": [],
+        "raids": [
+            {
+                "id": 642,
+                "template": "THUNDURUS_INCARNATE",
+                "form": 142
+            },
+            {
+                "id": 249,
+                "template": "LUGIA"
+            },
+            {
+                "id": 3,
+                "template": "VENUSAUR",
+                "temp_evolution_id": 1
+            },
+            {
+                "id": 65,
+                "template": "ALAKAZAM",
+                "temp_evolution_id": 1
+            }
+        ],
         "shinies": [],
-        "bonuses": [],
+        "bonuses": [
+            {
+                "text": "Reduced waiting time for opening the Mystery Box"
+            },
+            {
+                "text": "2× Candy for transferring Pokémon",
+                "template": "increased-candy",
+                "value": 2
+            },
+            {
+                "text": "Increased chance of finding XXS and XXL Meltan"
+            },
+            {
+                "text": "Increased chance of finding Ditto disguised as other Pokémon"
+            }
+        ],
         "features": [],
-        "has_quests": false,
+        "has_quests": true,
         "has_spawnpoints": false
     },
     {
