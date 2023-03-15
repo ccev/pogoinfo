@@ -1,40 +1,50 @@
 {
     "1": [
         {
-            "id": 677,
-            "template": "ESPURR"
+            "id": 4,
+            "template": "CHARMANDER_NORMAL",
+            "form": 172
         },
         {
-            "id": 744,
-            "template": "ROCKRUFF"
+            "id": 58,
+            "template": "GROWLITHE_NORMAL",
+            "form": 280
         },
         {
-            "id": 747,
-            "template": "MAREANIE"
+            "id": 77,
+            "template": "PONYTA_NORMAL",
+            "form": 1011
         },
         {
-            "id": 779,
-            "template": "BRUXISH"
+            "id": 255,
+            "template": "TORCHIC_NORMAL",
+            "form": 1358
+        },
+        {
+            "id": 322,
+            "template": "NUMEL"
         }
     ],
     "3": [
         {
-            "id": 103,
-            "template": "EXEGGUTOR_NORMAL",
-            "form": 77
+            "id": 75,
+            "template": "GRAVELER_ALOLA",
+            "form": 70
         },
         {
-            "id": 103,
-            "template": "EXEGGUTOR_ALOLA",
-            "form": 78
+            "id": 105,
+            "template": "MAROWAK_ALOLA",
+            "form": 80
         },
         {
-            "id": 615,
-            "template": "CRYOGONAL"
+            "id": 112,
+            "template": "RHYDON_NORMAL",
+            "form": 849
         },
         {
-            "id": 621,
-            "template": "DRUDDIGON"
+            "id": 138,
+            "template": "OMANYTE_NORMAL",
+            "form": 740
         }
     ],
     "5": [
