@@ -240,14 +240,14 @@
                         "form": 47
                     },
                     {
-                        "id": 430,
-                        "template": "HONCHKROW_NORMAL",
-                        "form": 858
-                    },
-                    {
                         "id": 332,
                         "template": "CACTURNE_NORMAL",
                         "form": 613
+                    },
+                    {
+                        "id": 430,
+                        "template": "HONCHKROW_NORMAL",
+                        "form": 858
                     }
                 ]
             ]
@@ -368,14 +368,14 @@
                 ],
                 [
                     {
-                        "id": 209,
-                        "template": "SNUBBULL_NORMAL",
-                        "form": 1253
-                    },
-                    {
                         "id": 281,
                         "template": "KIRLIA_NORMAL",
                         "form": 295
+                    },
+                    {
+                        "id": 209,
+                        "template": "SNUBBULL_NORMAL",
+                        "form": 1253
                     },
                     {
                         "id": 210,
@@ -446,14 +446,14 @@
                 ],
                 [
                     {
-                        "id": 106,
-                        "template": "HITMONLEE_NORMAL",
-                        "form": 713
-                    },
-                    {
                         "id": 107,
                         "template": "HITMONCHAN_NORMAL",
                         "form": 277
+                    },
+                    {
+                        "id": 106,
+                        "template": "HITMONLEE_NORMAL",
+                        "form": 713
                     }
                 ],
                 [
@@ -677,14 +677,14 @@
                         "form": 265
                     },
                     {
-                        "id": 331,
-                        "template": "CACNEA_NORMAL",
-                        "form": 610
-                    },
-                    {
                         "id": 152,
                         "template": "CHIKORITA_NORMAL",
                         "form": 1118
+                    },
+                    {
+                        "id": 331,
+                        "template": "CACNEA_NORMAL",
+                        "form": 610
                     }
                 ],
                 [
@@ -940,14 +940,14 @@
                 ],
                 [
                     {
-                        "id": 19,
-                        "template": "RATTATA_NORMAL",
-                        "form": 45
-                    },
-                    {
                         "id": 20,
                         "template": "RATICATE_NORMAL",
                         "form": 47
+                    },
+                    {
+                        "id": 19,
+                        "template": "RATTATA_NORMAL",
+                        "form": 45
                     },
                     {
                         "id": 294,
@@ -994,13 +994,13 @@
             "team": [
                 [
                     {
+                        "id": 590,
+                        "template": "FOONGUS"
+                    },
+                    {
                         "id": 41,
                         "template": "ZUBAT_NORMAL",
                         "form": 157
-                    },
-                    {
-                        "id": 590,
-                        "template": "FOONGUS"
                     }
                 ],
                 [
@@ -1500,6 +1500,11 @@
                 ],
                 [
                     {
+                        "id": 445,
+                        "template": "GARCHOMP_NORMAL",
+                        "form": 867
+                    },
+                    {
                         "id": 34,
                         "template": "NIDOKING_NORMAL",
                         "form": 788
@@ -1508,11 +1513,6 @@
                         "id": 91,
                         "template": "CLOYSTER_NORMAL",
                         "form": 879
-                    },
-                    {
-                        "id": 445,
-                        "template": "GARCHOMP_NORMAL",
-                        "form": 867
                     }
                 ],
                 [
@@ -1702,12 +1702,12 @@
                         "form": 652
                     },
                     {
-                        "id": 523,
-                        "template": "ZEBSTRIKA"
-                    },
-                    {
                         "id": 405,
                         "template": "LUXRAY"
+                    },
+                    {
+                        "id": 523,
+                        "template": "ZEBSTRIKA"
                     }
                 ]
             ]
