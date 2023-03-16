@@ -596,14 +596,14 @@
                 ],
                 [
                     {
-                        "id": 42,
-                        "template": "GOLBAT_NORMAL",
-                        "form": 160
-                    },
-                    {
                         "id": 397,
                         "template": "STARAVIA_NORMAL",
                         "form": 1661
+                    },
+                    {
+                        "id": 42,
+                        "template": "GOLBAT_NORMAL",
+                        "form": 160
                     },
                     {
                         "id": 178,
@@ -1639,13 +1639,13 @@
                         "form": 911
                     },
                     {
-                        "id": 623,
-                        "template": "GOLURK"
-                    },
-                    {
                         "id": 477,
                         "template": "DUSKNOIR_NORMAL",
                         "form": 920
+                    },
+                    {
+                        "id": 623,
+                        "template": "GOLURK"
                     }
                 ]
             ]
