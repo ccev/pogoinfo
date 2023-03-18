@@ -596,14 +596,14 @@
                 ],
                 [
                     {
-                        "id": 397,
-                        "template": "STARAVIA_NORMAL",
-                        "form": 1661
-                    },
-                    {
                         "id": 42,
                         "template": "GOLBAT_NORMAL",
                         "form": 160
+                    },
+                    {
+                        "id": 397,
+                        "template": "STARAVIA_NORMAL",
+                        "form": 1661
                     },
                     {
                         "id": 178,
@@ -1443,14 +1443,14 @@
                 ],
                 [
                     {
-                        "id": 330,
-                        "template": "FLYGON_NORMAL",
-                        "form": 752
-                    },
-                    {
                         "id": 319,
                         "template": "SHARPEDO_NORMAL",
                         "form": 737
+                    },
+                    {
+                        "id": 330,
+                        "template": "FLYGON_NORMAL",
+                        "form": 752
                     },
                     {
                         "id": 131,
