@@ -368,14 +368,14 @@
                 ],
                 [
                     {
-                        "id": 209,
-                        "template": "SNUBBULL_NORMAL",
-                        "form": 1253
-                    },
-                    {
                         "id": 281,
                         "template": "KIRLIA_NORMAL",
                         "form": 295
+                    },
+                    {
+                        "id": 209,
+                        "template": "SNUBBULL_NORMAL",
+                        "form": 1253
                     },
                     {
                         "id": 210,
@@ -385,14 +385,14 @@
                 ],
                 [
                     {
-                        "id": 281,
-                        "template": "KIRLIA_NORMAL",
-                        "form": 295
-                    },
-                    {
                         "id": 210,
                         "template": "GRANBULL_NORMAL",
                         "form": 1256
+                    },
+                    {
+                        "id": 281,
+                        "template": "KIRLIA_NORMAL",
+                        "form": 295
                     }
                 ]
             ]
@@ -446,14 +446,14 @@
                 ],
                 [
                     {
-                        "id": 106,
-                        "template": "HITMONLEE_NORMAL",
-                        "form": 713
-                    },
-                    {
                         "id": 107,
                         "template": "HITMONCHAN_NORMAL",
                         "form": 277
+                    },
+                    {
+                        "id": 106,
+                        "template": "HITMONLEE_NORMAL",
+                        "form": 713
                     }
                 ],
                 [
@@ -522,26 +522,26 @@
                 ],
                 [
                     {
-                        "id": 126,
-                        "template": "MAGMAR_NORMAL",
-                        "form": 634
-                    },
-                    {
                         "id": 156,
                         "template": "QUILAVA_NORMAL",
                         "form": 1130
+                    },
+                    {
+                        "id": 126,
+                        "template": "MAGMAR_NORMAL",
+                        "form": 634
                     }
                 ],
                 [
                     {
-                        "id": 157,
-                        "template": "TYPHLOSION_NORMAL",
-                        "form": 1133
-                    },
-                    {
                         "id": 38,
                         "template": "NINETALES_NORMAL",
                         "form": 57
+                    },
+                    {
+                        "id": 157,
+                        "template": "TYPHLOSION_NORMAL",
+                        "form": 1133
                     },
                     {
                         "id": 323,
@@ -596,14 +596,14 @@
                 ],
                 [
                     {
-                        "id": 42,
-                        "template": "GOLBAT_NORMAL",
-                        "form": 160
-                    },
-                    {
                         "id": 397,
                         "template": "STARAVIA_NORMAL",
                         "form": 1661
+                    },
+                    {
+                        "id": 42,
+                        "template": "GOLBAT_NORMAL",
+                        "form": 160
                     },
                     {
                         "id": 178,
@@ -929,25 +929,25 @@
                         "template": "PATRAT"
                     },
                     {
+                        "id": 519,
+                        "template": "PIDOVE"
+                    },
+                    {
                         "id": 293,
                         "template": "WHISMUR_NORMAL",
                         "form": 1442
-                    },
-                    {
-                        "id": 519,
-                        "template": "PIDOVE"
                     }
                 ],
                 [
                     {
-                        "id": 19,
-                        "template": "RATTATA_NORMAL",
-                        "form": 45
-                    },
-                    {
                         "id": 20,
                         "template": "RATICATE_NORMAL",
                         "form": 47
+                    },
+                    {
+                        "id": 19,
+                        "template": "RATTATA_NORMAL",
+                        "form": 45
                     },
                     {
                         "id": 294,
@@ -994,13 +994,13 @@
             "team": [
                 [
                     {
+                        "id": 590,
+                        "template": "FOONGUS"
+                    },
+                    {
                         "id": 41,
                         "template": "ZUBAT_NORMAL",
                         "form": 157
-                    },
-                    {
-                        "id": 590,
-                        "template": "FOONGUS"
                     }
                 ],
                 [
@@ -1500,6 +1500,11 @@
                 ],
                 [
                     {
+                        "id": 445,
+                        "template": "GARCHOMP_NORMAL",
+                        "form": 867
+                    },
+                    {
                         "id": 34,
                         "template": "NIDOKING_NORMAL",
                         "form": 788
@@ -1508,11 +1513,6 @@
                         "id": 91,
                         "template": "CLOYSTER_NORMAL",
                         "form": 879
-                    },
-                    {
-                        "id": 445,
-                        "template": "GARCHOMP_NORMAL",
-                        "form": 867
                     }
                 ],
                 [
@@ -1702,12 +1702,12 @@
                         "form": 652
                     },
                     {
-                        "id": 523,
-                        "template": "ZEBSTRIKA"
-                    },
-                    {
                         "id": 405,
                         "template": "LUXRAY"
+                    },
+                    {
+                        "id": 523,
+                        "template": "ZEBSTRIKA"
                     }
                 ]
             ]
