@@ -54,7 +54,8 @@
         {
             "id": 3,
             "template": "VENUSAUR_NORMAL",
-            "form": 169
+            "form": 169,
+            "temp_evolution_id": 1
         }
     ]
 }

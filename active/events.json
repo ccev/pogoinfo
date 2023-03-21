@@ -78,6 +78,42 @@
         "eggs": [],
         "raids": [
             {
+                "id": 179,
+                "template": "MAREEP"
+            },
+            {
+                "id": 582,
+                "template": "VANILLITE"
+            },
+            {
+                "id": 587,
+                "template": "EMOLGA"
+            },
+            {
+                "id": 613,
+                "template": "CUBCHOO"
+            },
+            {
+                "id": 702,
+                "template": "DEDENNE"
+            },
+            {
+                "id": 26,
+                "template": "RAICHU"
+            },
+            {
+                "id": 87,
+                "template": "DEWGONG"
+            },
+            {
+                "id": 221,
+                "template": "PILOSWINE"
+            },
+            {
+                "id": 603,
+                "template": "EELEKTRIK"
+            },
+            {
                 "id": 642,
                 "template": "THUNDURUS_INCARNATE",
                 "form": 142

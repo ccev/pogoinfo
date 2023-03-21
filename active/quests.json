@@ -9,6 +9,40 @@
                         "id": 513,
                         "template": "PANSEAR"
                     }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 515,
+                        "template": "PANPOUR"
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 511,
+                        "template": "PANSAGE"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Event: Catch 10 Pokémon",
+            "rewards": [
+                {
+                    "type": "item",
+                    "amount": 10,
+                    "id": 1
+                }
+            ]
+        },
+        {
+            "task": "Event: Catch 20 Pokémon",
+            "rewards": [
+                {
+                    "type": "item",
+                    "amount": 15,
+                    "id": 2
                 }
             ]
         }
