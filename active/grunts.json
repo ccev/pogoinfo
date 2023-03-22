@@ -83,6 +83,11 @@
                 ],
                 [
                     {
+                        "id": 143,
+                        "template": "SNORLAX_NORMAL",
+                        "form": 199
+                    },
+                    {
                         "id": 149,
                         "template": "DRAGONITE_NORMAL",
                         "form": 196
@@ -91,11 +96,6 @@
                         "id": 130,
                         "template": "GYARADOS_NORMAL",
                         "form": 256
-                    },
-                    {
-                        "id": 143,
-                        "template": "SNORLAX_NORMAL",
-                        "form": 199
                     }
                 ]
             ]
@@ -522,14 +522,14 @@
                 ],
                 [
                     {
-                        "id": 156,
-                        "template": "QUILAVA_NORMAL",
-                        "form": 1130
-                    },
-                    {
                         "id": 126,
                         "template": "MAGMAR_NORMAL",
                         "form": 634
+                    },
+                    {
+                        "id": 156,
+                        "template": "QUILAVA_NORMAL",
+                        "form": 1130
                     }
                 ],
                 [
