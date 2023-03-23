@@ -1443,14 +1443,14 @@
                 ],
                 [
                     {
-                        "id": 330,
-                        "template": "FLYGON_NORMAL",
-                        "form": 752
-                    },
-                    {
                         "id": 319,
                         "template": "SHARPEDO_NORMAL",
                         "form": 737
+                    },
+                    {
+                        "id": 330,
+                        "template": "FLYGON_NORMAL",
+                        "form": 752
                     },
                     {
                         "id": 131,
