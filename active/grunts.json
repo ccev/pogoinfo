@@ -223,14 +223,14 @@
                         "form": 855
                     },
                     {
-                        "id": 20,
-                        "template": "RATICATE_NORMAL",
-                        "form": 47
-                    },
-                    {
                         "id": 434,
                         "template": "STUNKY_NORMAL",
                         "form": 791
+                    },
+                    {
+                        "id": 20,
+                        "template": "RATICATE_NORMAL",
+                        "form": 47
                     }
                 ],
                 [
@@ -1702,12 +1702,12 @@
                         "form": 652
                     },
                     {
-                        "id": 405,
-                        "template": "LUXRAY"
-                    },
-                    {
                         "id": 523,
                         "template": "ZEBSTRIKA"
+                    },
+                    {
+                        "id": 405,
+                        "template": "LUXRAY"
                     }
                 ]
             ]
