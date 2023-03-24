@@ -1,16 +1,16 @@
 [
     {
-        "name": "Thundurus Raid Hour",
-        "type": "raid-hour",
-        "start": "2023-03-22 18:00",
-        "end": "2023-03-22 19:00",
+        "name": "GO Battle Day: Palmer",
+        "type": "event",
+        "start": "2023-03-25 00:00",
+        "end": "2023-03-25 23:59",
         "spawns": [],
         "eggs": [],
         "raids": [],
         "shinies": [],
         "bonuses": [],
         "features": [],
-        "has_quests": false,
+        "has_quests": true,
         "has_spawnpoints": false
     },
     {
@@ -249,6 +249,20 @@
         "features": [],
         "has_quests": true,
         "has_spawnpoints": true
+    },
+    {
+        "name": "GO Battle Day: Stardust",
+        "type": "event",
+        "start": "2023-05-14 00:00",
+        "end": "2023-05-14 23:59",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": true,
+        "has_spawnpoints": false
     },
     {
         "name": "May Community Day",
