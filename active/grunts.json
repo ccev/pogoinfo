@@ -260,6 +260,11 @@
                         "id": 88,
                         "template": "GRIMER_NORMAL",
                         "form": 73
+                    },
+                    {
+                        "id": 19,
+                        "template": "RATTATA_NORMAL",
+                        "form": 45
                     }
                 ],
                 [
@@ -1561,14 +1566,14 @@
                 ],
                 [
                     {
-                        "id": 70,
-                        "template": "WEEPINBELL_NORMAL",
-                        "form": 667
-                    },
-                    {
                         "id": 20,
                         "template": "RATICATE_NORMAL",
                         "form": 47
+                    },
+                    {
+                        "id": 70,
+                        "template": "WEEPINBELL_NORMAL",
+                        "form": 667
                     }
                 ],
                 [
@@ -1621,13 +1626,13 @@
                         "form": 908
                     },
                     {
-                        "id": 425,
-                        "template": "DRIFLOON"
-                    },
-                    {
                         "id": 355,
                         "template": "DUSKULL_NORMAL",
                         "form": 914
+                    },
+                    {
+                        "id": 425,
+                        "template": "DRIFLOON"
                     }
                 ],
                 [
