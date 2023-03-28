@@ -39,7 +39,9 @@
             "form": 301
         },
         {
-            "template": "UNSET"
+            "id": 628,
+            "template": "BRAVIARY_NORMAL",
+            "form": 2276
         }
     ],
     "5": [
@@ -47,9 +49,6 @@
             "id": 249,
             "template": "LUGIA_NORMAL",
             "form": 1340
-        },
-        {
-            "template": "UNSET"
         }
     ],
     "6": [
@@ -58,9 +57,6 @@
             "template": "ALAKAZAM_NORMAL",
             "form": 310,
             "temp_evolution_id": 1
-        },
-        {
-            "template": "UNSET"
         }
     ]
 }
