@@ -127,20 +127,6 @@
         "has_spawnpoints": false
     },
     {
-        "name": "Unannounced Event - April 9",
-        "type": "event",
-        "start": "2023-04-09 00:00",
-        "end": "2023-04-09 00:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Togetic Community Day",
         "type": "community-day",
         "start": "2023-04-15 14:00",
