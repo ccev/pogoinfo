@@ -127,6 +127,56 @@
         "has_spawnpoints": false
     },
     {
+        "name": "Spring into Spring 2023",
+        "type": "event",
+        "start": null,
+        "end": "2023-04-10 20:00",
+        "spawns": [],
+        "eggs": [
+            {
+                "id": 447,
+                "template": "RIOLU"
+            }
+        ],
+        "raids": [
+            {
+                "id": 249,
+                "template": "LUGIA"
+            },
+            {
+                "id": 645,
+                "template": "LANDORUS_INCARNATE",
+                "form": 144
+            },
+            {
+                "id": 428,
+                "template": "LOPUNNY",
+                "temp_evolution_id": 1
+            }
+        ],
+        "shinies": [],
+        "bonuses": [
+            {
+                "text": "2x Hatch Candy",
+                "template": "increased-candy",
+                "value": 2
+            },
+            {
+                "text": "1/2 Egg Hatch Distance",
+                "template": "reduced-hatch-distance",
+                "value": 12
+            },
+            {
+                "text": "1-Hour Lucky Eggs",
+                "template": "longer-lucky-egg",
+                "value": 1
+            }
+        ],
+        "features": [],
+        "has_quests": true,
+        "has_spawnpoints": false
+    },
+    {
         "name": "Togetic Community Day",
         "type": "community-day",
         "start": "2023-04-15 14:00",
