@@ -30,13 +30,13 @@
             "form": 307
         },
         {
-            "id": 326,
-            "template": "GRUMPIG"
+            "id": 282,
+            "template": "GARDEVOIR_NORMAL",
+            "form": 298
         },
         {
-            "id": 475,
-            "template": "GALLADE_NORMAL",
-            "form": 301
+            "id": 326,
+            "template": "GRUMPIG"
         },
         {
             "id": 628,
