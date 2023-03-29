@@ -1,19 +1,5 @@
 [
     {
-        "name": "Popplio Spotlight Hour",
-        "type": "spotlight-hour",
-        "start": "2023-03-28 18:00",
-        "end": "2023-03-28 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": true
-    },
-    {
         "name": "Lugia Raid Hour",
         "type": "raid-hour",
         "start": "2023-04-05 18:00",
@@ -143,24 +129,88 @@
     {
         "name": "Spring into Spring 2023",
         "type": "event",
-        "start": null,
+        "start": "2023-04-04 10:00",
         "end": "2023-04-10 20:00",
-        "spawns": [],
+        "spawns": [
+            {
+                "id": 113,
+                "template": "CHANSEY"
+            },
+            {
+                "id": 176,
+                "template": "TOGETIC"
+            }
+        ],
         "eggs": [
+            {
+                "id": 133,
+                "template": "EEVEE"
+            },
+            {
+                "id": 172,
+                "template": "PICHU"
+            },
+            {
+                "id": 175,
+                "template": "TOGEPI",
+                "costume": 12
+            },
+            {
+                "id": 298,
+                "template": "AZURILL"
+            },
+            {
+                "id": 440,
+                "template": "HAPPINY",
+                "costume": 7
+            },
+            {
+                "id": 446,
+                "template": "MUNCHLAX"
+            },
             {
                 "id": 447,
                 "template": "RIOLU"
+            },
+            {
+                "id": 742,
+                "template": "CUTIEFLY"
             }
         ],
         "raids": [
             {
-                "id": 249,
-                "template": "LUGIA"
+                "id": 39,
+                "template": "JIGGLYPUFF"
             },
             {
-                "id": 645,
-                "template": "LANDORUS_INCARNATE",
-                "form": 144
+                "id": 133,
+                "template": "EEVEE"
+            },
+            {
+                "id": 742,
+                "template": "CUTIEFLY"
+            },
+            {
+                "id": 103,
+                "template": "EXEGGUTOR"
+            },
+            {
+                "id": 103,
+                "template": "EXEGGUTOR_ALOLA",
+                "form": 78
+            },
+            {
+                "id": 113,
+                "template": "CHANSEY",
+                "costume": 7
+            },
+            {
+                "id": 176,
+                "template": "TOGETIC"
+            },
+            {
+                "id": 249,
+                "template": "LUGIA"
             },
             {
                 "id": 428,
