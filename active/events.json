@@ -1,23 +1,5 @@
 [
     {
-        "name": "April Fowl’s Day: Pidgey Pandemonium",
-        "type": "event",
-        "start": "2023-04-01 13:00",
-        "end": "2023-04-01 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [
-            {
-                "text": "Increased chance of finding XXS and XXL Pidgey during this event!"
-            }
-        ],
-        "features": [],
-        "has_quests": true,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Exeggcute Spotlight Hour",
         "type": "spotlight-hour",
         "start": "2023-04-04 18:00",
@@ -313,7 +295,7 @@
         "has_spawnpoints": false
     },
     {
-        "name": "Pokémon Spotlight Hour",
+        "name": "Tangela Spotlight Hour",
         "type": "spotlight-hour",
         "start": "2023-04-25 18:00",
         "end": "2023-04-25 19:00",
