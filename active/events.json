@@ -53,7 +53,8 @@
         "spawns": [
             {
                 "id": 113,
-                "template": "CHANSEY"
+                "template": "CHANSEY",
+                "costume": 7
             },
             {
                 "id": 176,
