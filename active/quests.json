@@ -111,16 +111,17 @@
             ]
         },
         {
-            "task": "Catch 5 Pokémon",
-            "rewards": []
-        },
-        {
-            "task": "Catch 5 Water-type Pokémon",
-            "rewards": []
-        },
-        {
             "task": "Catch 10 Grass-type Pokémon",
             "rewards": [
+                {
+                    "type": "energy",
+                    "reward": {
+                        "id": 3,
+                        "template": "VENUSAUR_NORMAL",
+                        "form": 169
+                    },
+                    "amount": 10
+                },
                 {
                     "type": "stardust",
                     "amount": 500
@@ -313,14 +314,6 @@
             ]
         },
         {
-            "task": "Catch 2 Shadow Pokémon",
-            "rewards": []
-        },
-        {
-            "task": "Use 3 Pinap Berries to help catch Pokémon",
-            "rewards": []
-        },
-        {
             "task": "Use 5 Berries to help catch Pokémon",
             "rewards": [
                 {
@@ -466,18 +459,6 @@
             ]
         },
         {
-            "task": "Make 5 Great Curveball Throws in a row",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 327,
-                        "template": "SPINDA"
-                    }
-                }
-            ]
-        },
-        {
             "task": "Make 3 Excellent Throws in a row",
             "rewards": [
                 {
@@ -486,6 +467,18 @@
                         "id": 443,
                         "template": "GIBLE_NORMAL",
                         "form": 861
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Make 5 Great Curveball Throws in a row",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 327,
+                        "template": "SPINDA"
                     }
                 }
             ]
@@ -683,8 +676,17 @@
             "rewards": []
         },
         {
-            "task": "Battle in GO Battle League",
-            "rewards": []
+            "task": "Earn 3 Candies walking with your buddy",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 618,
+                        "template": "STUNFISK_NORMAL",
+                        "form": 2246
+                    }
+                }
+            ]
         },
         {
             "task": "Earn 2 Candies walking with your buddy",
@@ -699,32 +701,7 @@
             ]
         },
         {
-            "task": "Earn 3 Candies walking with your buddy",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 618,
-                        "template": "STUNFISK_NORMAL",
-                        "form": 2246
-                    }
-                }
-            ]
-        },
-        {
             "task": "Trade a Pokémon",
-            "rewards": []
-        },
-        {
-            "task": "Send 3 Gifts and add a sticker to each",
-            "rewards": []
-        },
-        {
-            "task": "Earn 5 Candies walking with your buddy",
-            "rewards": []
-        },
-        {
-            "task": "Earn 5 hearts with your buddy",
             "rewards": []
         },
         {
@@ -752,6 +729,35 @@
                         "id": 7,
                         "template": "SQUIRTLE_NORMAL",
                         "form": 181
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Power up Pokémon 5 times",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 152,
+                        "template": "CHIKORITA_NORMAL",
+                        "form": 1118
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 155,
+                        "template": "CYNDAQUIL_NORMAL",
+                        "form": 1127
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 158,
+                        "template": "TOTODILE_NORMAL",
+                        "form": 1136
                     }
                 }
             ]
@@ -788,35 +794,6 @@
             "task": "Power up Pokémon 5 times",
             "rewards": [
                 {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 152,
-                        "template": "CHIKORITA_NORMAL",
-                        "form": 1118
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 155,
-                        "template": "CYNDAQUIL_NORMAL",
-                        "form": 1127
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 158,
-                        "template": "TOTODILE_NORMAL",
-                        "form": 1136
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Power up Pokémon 5 times",
-            "rewards": [
-                {
                     "type": "energy",
                     "reward": {
                         "id": 3,
@@ -835,10 +812,6 @@
                     "amount": 10
                 }
             ]
-        },
-        {
-            "task": "Power up Pokémon 15 times",
-            "rewards": []
         },
         {
             "task": "Power up Pokémon 5 times",
@@ -957,10 +930,6 @@
                     }
                 }
             ]
-        },
-        {
-            "task": "Take 3 snapshots of wild Water-type Pokémon",
-            "rewards": []
         }
     ],
     "ar": [
