@@ -1,47 +1,41 @@
 {
     "1": [
         {
-            "id": 79,
-            "template": "SLOWPOKE_NORMAL",
-            "form": 1017
+            "id": 25,
+            "template": "PIKACHU_NORMAL",
+            "form": 598
         },
         {
-            "id": 92,
-            "template": "GASTLY"
+            "id": 39,
+            "template": "JIGGLYPUFF"
         },
         {
-            "id": 215,
-            "template": "SNEASEL_NORMAL",
-            "form": 797
+            "id": 133,
+            "template": "EEVEE"
         },
         {
-            "id": 527,
-            "template": "WOOBAT"
-        },
-        {
-            "id": 607,
-            "template": "LITWICK"
+            "id": 742,
+            "template": "CUTIEFLY"
         }
     ],
     "3": [
         {
-            "id": 64,
-            "template": "KADABRA_NORMAL",
-            "form": 307
+            "id": 103,
+            "template": "EXEGGUTOR_NORMAL",
+            "form": 77
         },
         {
-            "id": 282,
-            "template": "GARDEVOIR_NORMAL",
-            "form": 298
+            "id": 103,
+            "template": "EXEGGUTOR_ALOLA",
+            "form": 78
         },
         {
-            "id": 326,
-            "template": "GRUMPIG"
+            "id": 113,
+            "template": "CHANSEY"
         },
         {
-            "id": 628,
-            "template": "BRAVIARY_NORMAL",
-            "form": 2276
+            "id": 176,
+            "template": "TOGETIC"
         }
     ],
     "5": [
@@ -53,9 +47,8 @@
     ],
     "6": [
         {
-            "id": 65,
-            "template": "ALAKAZAM_NORMAL",
-            "form": 310,
+            "id": 428,
+            "template": "LOPUNNY",
             "temp_evolution_id": 1
         }
     ]
