@@ -1,19 +1,5 @@
 [
     {
-        "name": "Exeggcute Spotlight Hour",
-        "type": "spotlight-hour",
-        "start": "2023-04-04 18:00",
-        "end": "2023-04-04 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": true
-    },
-    {
         "name": "Lugia Raid Hour",
         "type": "raid-hour",
         "start": "2023-04-05 18:00",
@@ -247,9 +233,24 @@
         "eggs": [],
         "raids": [],
         "shinies": [],
-        "bonuses": [],
+        "bonuses": [
+            {
+                "text": "2x XP for evolving Pokémon",
+                "template": "increased-xp",
+                "value": 2
+            },
+            {
+                "text": "Two guaranteed Candy XL for evolving Pokémon",
+                "template": "increased-candy"
+            },
+            {
+                "text": "3-hour Lure Modules",
+                "template": "longer-lure",
+                "value": 3
+            }
+        ],
         "features": [],
-        "has_quests": false,
+        "has_quests": true,
         "has_spawnpoints": false
     },
     {
