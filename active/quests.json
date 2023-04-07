@@ -841,6 +841,19 @@
             ]
         },
         {
+            "task": "Trade a Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 64,
+                        "template": "KADABRA_NORMAL",
+                        "form": 307
+                    }
+                }
+            ]
+        },
+        {
             "task": "Play with your buddy",
             "rewards": [
                 {
@@ -886,19 +899,6 @@
                     "reward": {
                         "id": 232,
                         "template": "DONPHAN"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Trade a Pokémon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 64,
-                        "template": "KADABRA_NORMAL",
-                        "form": 307
                     }
                 }
             ]
@@ -1009,12 +1009,39 @@
                         "form": 178
                     },
                     "amount": 10
+                },
+                {
+                    "type": "energy",
+                    "reward": {
+                        "id": 9,
+                        "template": "BLASTOISE_NORMAL",
+                        "form": 187
+                    },
+                    "amount": 10
                 }
             ]
         },
         {
             "task": "Power up Pokémon 5 times",
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "energy",
+                    "reward": {
+                        "id": 15,
+                        "template": "BEEDRILL_NORMAL",
+                        "form": 622
+                    },
+                    "amount": 10
+                },
+                {
+                    "type": "energy",
+                    "reward": {
+                        "id": 18,
+                        "template": "PIDGEOT"
+                    },
+                    "amount": 10
+                }
+            ]
         },
         {
             "task": "Take a snapshot of a wild Pokémon",
