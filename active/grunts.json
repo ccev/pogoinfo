@@ -576,14 +576,14 @@
                 ],
                 [
                     {
-                        "id": 38,
-                        "template": "NINETALES_NORMAL",
-                        "form": 57
-                    },
-                    {
                         "id": 157,
                         "template": "TYPHLOSION_NORMAL",
                         "form": 1133
+                    },
+                    {
+                        "id": 38,
+                        "template": "NINETALES_NORMAL",
+                        "form": 57
                     },
                     {
                         "id": 323,
@@ -627,13 +627,13 @@
                         "template": "NATU"
                     },
                     {
+                        "id": 580,
+                        "template": "DUCKLETT"
+                    },
+                    {
                         "id": 41,
                         "template": "ZUBAT_NORMAL",
                         "form": 157
-                    },
-                    {
-                        "id": 580,
-                        "template": "DUCKLETT"
                     }
                 ],
                 [
@@ -1041,14 +1041,14 @@
                 ],
                 [
                     {
-                        "id": 110,
-                        "template": "WEEZING_NORMAL",
-                        "form": 706
-                    },
-                    {
                         "id": 89,
                         "template": "MUK_NORMAL",
                         "form": 75
+                    },
+                    {
+                        "id": 110,
+                        "template": "WEEZING_NORMAL",
+                        "form": 706
                     }
                 ]
             ]
@@ -1482,14 +1482,14 @@
                 ],
                 [
                     {
-                        "id": 229,
-                        "template": "HOUNDOOM_NORMAL",
-                        "form": 232
-                    },
-                    {
                         "id": 6,
                         "template": "CHARIZARD_NORMAL",
                         "form": 178
+                    },
+                    {
+                        "id": 229,
+                        "template": "HOUNDOOM_NORMAL",
+                        "form": 232
                     },
                     {
                         "id": 149,
@@ -1701,13 +1701,13 @@
             "team": [
                 [
                     {
+                        "id": 403,
+                        "template": "SHINX"
+                    },
+                    {
                         "id": 179,
                         "template": "MAREEP_NORMAL",
                         "form": 646
-                    },
-                    {
-                        "id": 403,
-                        "template": "SHINX"
                     },
                     {
                         "id": 522,
