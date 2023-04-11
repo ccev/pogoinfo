@@ -1,50 +1,5 @@
 {
-    "event": [
-        {
-            "task": "Event: Hatch an Egg",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 133,
-                        "template": "EEVEE"
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 25,
-                        "template": "PIKACHU_NORMAL",
-                        "form": 598
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Event: Hatch 2 Eggs",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 176,
-                        "template": "TOGETIC"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Event: Hatch 4 Eggs",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 113,
-                        "template": "CHANSEY"
-                    }
-                }
-            ]
-        }
-    ],
+    "event": [],
     "quests": [
         {
             "task": "Catch 5 Pokémon with Weather Boost",

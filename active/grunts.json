@@ -189,14 +189,14 @@
             "team": [
                 [
                     {
-                        "id": 213,
-                        "template": "SHUCKLE_NORMAL",
-                        "form": 827
-                    },
-                    {
                         "id": 451,
                         "template": "SKORUPI_NORMAL",
                         "form": 1796
+                    },
+                    {
+                        "id": 213,
+                        "template": "SHUCKLE_NORMAL",
+                        "form": 827
                     },
                     {
                         "id": 595,
