@@ -1,54 +1,62 @@
 {
     "1": [
         {
-            "id": 25,
-            "template": "PIKACHU_NORMAL",
-            "form": 598
+            "id": 86,
+            "template": "SEEL"
         },
         {
-            "id": 39,
-            "template": "JIGGLYPUFF"
+            "id": 114,
+            "template": "TANGELA_NORMAL",
+            "form": 1059
         },
         {
-            "id": 133,
-            "template": "EEVEE"
+            "id": 270,
+            "template": "LOTAD"
         },
         {
-            "id": 742,
-            "template": "CUTIEFLY"
+            "id": 363,
+            "template": "SPHEAL_NORMAL",
+            "form": 1598
+        },
+        {
+            "id": 459,
+            "template": "SNOVER_NORMAL",
+            "form": 932
         }
     ],
     "3": [
         {
-            "id": 103,
-            "template": "EXEGGUTOR_NORMAL",
-            "form": 77
+            "id": 31,
+            "template": "NIDOQUEEN_NORMAL",
+            "form": 782
         },
         {
-            "id": 103,
-            "template": "EXEGGUTOR_ALOLA",
-            "form": 78
+            "id": 105,
+            "template": "MAROWAK_NORMAL",
+            "form": 79
         },
         {
-            "id": 113,
-            "template": "CHANSEY"
+            "id": 450,
+            "template": "HIPPOWDON_NORMAL",
+            "form": 891
         },
         {
-            "id": 176,
-            "template": "TOGETIC"
+            "id": 623,
+            "template": "GOLURK"
         }
     ],
     "5": [
         {
-            "id": 249,
-            "template": "LUGIA_NORMAL",
-            "form": 1340
+            "id": 645,
+            "template": "LANDORUS_INCARNATE",
+            "form": 144
         }
     ],
     "6": [
         {
-            "id": 428,
-            "template": "LOPUNNY",
+            "id": 9,
+            "template": "BLASTOISE_NORMAL",
+            "form": 187,
             "temp_evolution_id": 1
         }
     ]
