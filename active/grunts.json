@@ -72,14 +72,14 @@
                         "form": 1130
                     },
                     {
-                        "id": 153,
-                        "template": "BAYLEEF_NORMAL",
-                        "form": 1121
-                    },
-                    {
                         "id": 159,
                         "template": "CROCONAW_NORMAL",
                         "form": 1139
+                    },
+                    {
+                        "id": 153,
+                        "template": "BAYLEEF_NORMAL",
+                        "form": 1121
                     }
                 ],
                 [
@@ -643,13 +643,13 @@
                         "form": 1661
                     },
                     {
+                        "id": 178,
+                        "template": "XATU"
+                    },
+                    {
                         "id": 42,
                         "template": "GOLBAT_NORMAL",
                         "form": 160
-                    },
-                    {
-                        "id": 178,
-                        "template": "XATU"
                     }
                 ],
                 [
@@ -746,14 +746,14 @@
                         "template": "AMOONGUSS"
                     },
                     {
-                        "id": 154,
-                        "template": "MEGANIUM_NORMAL",
-                        "form": 1124
-                    },
-                    {
                         "id": 332,
                         "template": "CACTURNE_NORMAL",
                         "form": 613
+                    },
+                    {
+                        "id": 154,
+                        "template": "MEGANIUM_NORMAL",
+                        "form": 1124
                     }
                 ]
             ]
@@ -1354,13 +1354,13 @@
                 ],
                 [
                     {
-                        "id": 254,
-                        "template": "SCEPTILE"
-                    },
-                    {
                         "id": 227,
                         "template": "SKARMORY_NORMAL",
                         "form": 1295
+                    },
+                    {
+                        "id": 254,
+                        "template": "SCEPTILE"
                     },
                     {
                         "id": 230,
