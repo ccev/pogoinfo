@@ -67,14 +67,14 @@
                 ],
                 [
                     {
-                        "id": 156,
-                        "template": "QUILAVA_NORMAL",
-                        "form": 1130
-                    },
-                    {
                         "id": 159,
                         "template": "CROCONAW_NORMAL",
                         "form": 1139
+                    },
+                    {
+                        "id": 156,
+                        "template": "QUILAVA_NORMAL",
+                        "form": 1130
                     },
                     {
                         "id": 153,
@@ -84,13 +84,13 @@
                 ],
                 [
                     {
+                        "id": 254,
+                        "template": "SCEPTILE"
+                    },
+                    {
                         "id": 260,
                         "template": "SWAMPERT_NORMAL",
                         "form": 211
-                    },
-                    {
-                        "id": 254,
-                        "template": "SCEPTILE"
                     },
                     {
                         "id": 257,
@@ -222,6 +222,11 @@
                 ],
                 [
                     {
+                        "id": 15,
+                        "template": "BEEDRILL_NORMAL",
+                        "form": 622
+                    },
+                    {
                         "id": 205,
                         "template": "FORRETRESS_NORMAL",
                         "form": 1247
@@ -230,11 +235,6 @@
                         "id": 212,
                         "template": "SCIZOR_NORMAL",
                         "form": 250
-                    },
-                    {
-                        "id": 15,
-                        "template": "BEEDRILL_NORMAL",
-                        "form": 622
                     }
                 ]
             ]
@@ -576,14 +576,14 @@
                 ],
                 [
                     {
-                        "id": 157,
-                        "template": "TYPHLOSION_NORMAL",
-                        "form": 1133
-                    },
-                    {
                         "id": 38,
                         "template": "NINETALES_NORMAL",
                         "form": 57
+                    },
+                    {
+                        "id": 157,
+                        "template": "TYPHLOSION_NORMAL",
+                        "form": 1133
                     },
                     {
                         "id": 323,
@@ -746,14 +746,14 @@
                         "template": "AMOONGUSS"
                     },
                     {
-                        "id": 332,
-                        "template": "CACTURNE_NORMAL",
-                        "form": 613
-                    },
-                    {
                         "id": 154,
                         "template": "MEGANIUM_NORMAL",
                         "form": 1124
+                    },
+                    {
+                        "id": 332,
+                        "template": "CACTURNE_NORMAL",
+                        "form": 613
                     }
                 ]
             ]
@@ -842,14 +842,14 @@
                         "form": 1277
                     },
                     {
-                        "id": 27,
-                        "template": "SANDSHREW_NORMAL",
-                        "form": 51
-                    },
-                    {
                         "id": 37,
                         "template": "VULPIX_NORMAL",
                         "form": 55
+                    },
+                    {
+                        "id": 27,
+                        "template": "SANDSHREW_NORMAL",
+                        "form": 51
                     }
                 ],
                 [
@@ -1112,13 +1112,13 @@
                 ],
                 [
                     {
+                        "id": 203,
+                        "template": "GIRAFARIG"
+                    },
+                    {
                         "id": 280,
                         "template": "RALTS_NORMAL",
                         "form": 292
-                    },
-                    {
-                        "id": 203,
-                        "template": "GIRAFARIG"
                     }
                 ],
                 [

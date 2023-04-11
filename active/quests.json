@@ -999,39 +999,6 @@
             ]
         },
         {
-            "task": "Take a snapshot of a wild Pokémon",
-            "rewards": [
-                {
-                    "type": "item",
-                    "amount": 1,
-                    "id": 1102
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 198,
-                        "template": "MURKROW_NORMAL",
-                        "form": 855
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 187,
-                        "template": "HOPPIP_NORMAL",
-                        "form": 1205
-                    }
-                },
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 193,
-                        "template": "YANMA"
-                    }
-                }
-            ]
-        },
-        {
             "task": "Spin 3 PokéStops or Gyms",
             "rewards": [
                 {
@@ -1065,6 +1032,46 @@
                     "reward": {
                         "id": 659,
                         "template": "BUNNELBY"
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 427,
+                        "template": "BUNEARY"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Take a snapshot of a wild Pokémon",
+            "rewards": [
+                {
+                    "type": "item",
+                    "amount": 1,
+                    "id": 1102
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 198,
+                        "template": "MURKROW_NORMAL",
+                        "form": 855
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 187,
+                        "template": "HOPPIP_NORMAL",
+                        "form": 1205
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 193,
+                        "template": "YANMA"
                     }
                 }
             ]
