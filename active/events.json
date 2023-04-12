@@ -1,19 +1,5 @@
 [
     {
-        "name": "Shellder Spotlight Hour",
-        "type": "spotlight-hour",
-        "start": "2023-04-11 18:00",
-        "end": "2023-04-11 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": true,
-        "has_spawnpoints": true
-    },
-    {
         "name": "Landorus Raid Hour",
         "type": "raid-hour",
         "start": "2023-04-12 18:00",
