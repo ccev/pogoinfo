@@ -210,14 +210,14 @@
                         "form": 616
                     },
                     {
-                        "id": 15,
-                        "template": "BEEDRILL_NORMAL",
-                        "form": 622
-                    },
-                    {
                         "id": 14,
                         "template": "KAKUNA_NORMAL",
                         "form": 619
+                    },
+                    {
+                        "id": 15,
+                        "template": "BEEDRILL_NORMAL",
+                        "form": 622
                     }
                 ],
                 [
@@ -227,14 +227,14 @@
                         "form": 622
                     },
                     {
-                        "id": 205,
-                        "template": "FORRETRESS_NORMAL",
-                        "form": 1247
-                    },
-                    {
                         "id": 212,
                         "template": "SCIZOR_NORMAL",
                         "form": 250
+                    },
+                    {
+                        "id": 205,
+                        "template": "FORRETRESS_NORMAL",
+                        "form": 1247
                     }
                 ]
             ]
@@ -576,14 +576,14 @@
                 ],
                 [
                     {
-                        "id": 38,
-                        "template": "NINETALES_NORMAL",
-                        "form": 57
-                    },
-                    {
                         "id": 157,
                         "template": "TYPHLOSION_NORMAL",
                         "form": 1133
+                    },
+                    {
+                        "id": 38,
+                        "template": "NINETALES_NORMAL",
+                        "form": 57
                     },
                     {
                         "id": 323,
@@ -638,13 +638,13 @@
                 ],
                 [
                     {
+                        "id": 178,
+                        "template": "XATU"
+                    },
+                    {
                         "id": 397,
                         "template": "STARAVIA_NORMAL",
                         "form": 1661
-                    },
-                    {
-                        "id": 178,
-                        "template": "XATU"
                     },
                     {
                         "id": 42,
@@ -1128,14 +1128,14 @@
                         "form": 310
                     },
                     {
-                        "id": 97,
-                        "template": "HYPNO_NORMAL",
-                        "form": 217
-                    },
-                    {
                         "id": 375,
                         "template": "METANG_NORMAL",
                         "form": 767
+                    },
+                    {
+                        "id": 97,
+                        "template": "HYPNO_NORMAL",
+                        "form": 217
                     }
                 ]
             ]
@@ -1410,14 +1410,14 @@
                 ],
                 [
                     {
-                        "id": 97,
-                        "template": "HYPNO_NORMAL",
-                        "form": 217
-                    },
-                    {
                         "id": 257,
                         "template": "BLAZIKEN_NORMAL",
                         "form": 1364
+                    },
+                    {
+                        "id": 97,
+                        "template": "HYPNO_NORMAL",
+                        "form": 217
                     },
                     {
                         "id": 623,
@@ -1733,12 +1733,12 @@
                         "form": 652
                     },
                     {
-                        "id": 523,
-                        "template": "ZEBSTRIKA"
-                    },
-                    {
                         "id": 405,
                         "template": "LUXRAY"
+                    },
+                    {
+                        "id": 523,
+                        "template": "ZEBSTRIKA"
                     }
                 ]
             ]
