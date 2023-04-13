@@ -1,19 +1,5 @@
 [
     {
-        "name": "Landorus Raid Hour",
-        "type": "raid-hour",
-        "start": "2023-04-12 18:00",
-        "end": "2023-04-12 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": true,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Togetic Community Day",
         "type": "community-day",
         "start": "2023-04-15 14:00",
