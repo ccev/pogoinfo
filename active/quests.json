@@ -6,6 +6,11 @@
                 {
                     "type": "item",
                     "amount": 1,
+                    "id": 1104
+                },
+                {
+                    "type": "item",
+                    "amount": 1,
                     "id": 1105
                 },
                 {
