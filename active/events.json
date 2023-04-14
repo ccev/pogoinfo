@@ -157,13 +157,40 @@
         "type": "event",
         "start": "2023-04-20 10:00",
         "end": "2023-04-26 20:00",
-        "spawns": [],
+        "spawns": [
+            {
+                "id": 246,
+                "template": "LARVITAR"
+            },
+            {
+                "id": 688,
+                "template": "BINACLE"
+            },
+            {
+                "id": 761,
+                "template": "BOUNSWEET"
+            }
+        ],
         "eggs": [],
         "raids": [],
         "shinies": [],
-        "bonuses": [],
+        "bonuses": [
+            {
+                "text": "If your Buddy Pokémon is an Ultra Buddy or higher, it will bring you souvenirs more frequently"
+            },
+            {
+                "text": "If your Buddy Pokémon is a Great Buddy or higher, it will bring you leaf-wrapped gifts more frequently. These gifts will contain Berries more often, and they may even contain a Silver Pinap Berry!"
+            },
+            {
+                "text": " Your Buddy Pokémon will accompany you on the map longer after being fed"
+            },
+            {
+                "text": "1/2 distance to earn hearts with your Buddy Pokémon",
+                "value": 12
+            }
+        ],
         "features": [],
-        "has_quests": false,
+        "has_quests": true,
         "has_spawnpoints": false
     },
     {
