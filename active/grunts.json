@@ -67,14 +67,14 @@
                 ],
                 [
                     {
-                        "id": 156,
-                        "template": "QUILAVA_NORMAL",
-                        "form": 1130
-                    },
-                    {
                         "id": 159,
                         "template": "CROCONAW_NORMAL",
                         "form": 1139
+                    },
+                    {
+                        "id": 156,
+                        "template": "QUILAVA_NORMAL",
+                        "form": 1130
                     },
                     {
                         "id": 153,
@@ -84,13 +84,13 @@
                 ],
                 [
                     {
-                        "id": 254,
-                        "template": "SCEPTILE"
-                    },
-                    {
                         "id": 260,
                         "template": "SWAMPERT_NORMAL",
                         "form": 211
+                    },
+                    {
+                        "id": 254,
+                        "template": "SCEPTILE"
                     },
                     {
                         "id": 257,
@@ -189,14 +189,14 @@
             "team": [
                 [
                     {
-                        "id": 451,
-                        "template": "SKORUPI_NORMAL",
-                        "form": 1796
-                    },
-                    {
                         "id": 213,
                         "template": "SHUCKLE_NORMAL",
                         "form": 827
+                    },
+                    {
+                        "id": 451,
+                        "template": "SKORUPI_NORMAL",
+                        "form": 1796
                     },
                     {
                         "id": 595,
@@ -505,14 +505,14 @@
                         "form": 815
                     },
                     {
-                        "id": 107,
-                        "template": "HITMONCHAN_NORMAL",
-                        "form": 277
-                    },
-                    {
                         "id": 106,
                         "template": "HITMONLEE_NORMAL",
                         "form": 713
+                    },
+                    {
+                        "id": 107,
+                        "template": "HITMONCHAN_NORMAL",
+                        "form": 277
                     }
                 ]
             ]
@@ -714,14 +714,14 @@
             "team": [
                 [
                     {
-                        "id": 43,
-                        "template": "ODDISH_NORMAL",
-                        "form": 265
-                    },
-                    {
                         "id": 331,
                         "template": "CACNEA_NORMAL",
                         "form": 610
+                    },
+                    {
+                        "id": 43,
+                        "template": "ODDISH_NORMAL",
+                        "form": 265
                     },
                     {
                         "id": 252,
@@ -1041,14 +1041,14 @@
                 ],
                 [
                     {
-                        "id": 89,
-                        "template": "MUK_NORMAL",
-                        "form": 75
-                    },
-                    {
                         "id": 110,
                         "template": "WEEZING_NORMAL",
                         "form": 706
+                    },
+                    {
+                        "id": 89,
+                        "template": "MUK_NORMAL",
+                        "form": 75
                     }
                 ]
             ]
@@ -1128,14 +1128,14 @@
                         "form": 310
                     },
                     {
-                        "id": 97,
-                        "template": "HYPNO_NORMAL",
-                        "form": 217
-                    },
-                    {
                         "id": 375,
                         "template": "METANG_NORMAL",
                         "form": 767
+                    },
+                    {
+                        "id": 97,
+                        "template": "HYPNO_NORMAL",
+                        "form": 217
                     }
                 ]
             ]
@@ -1482,14 +1482,14 @@
                 ],
                 [
                     {
-                        "id": 229,
-                        "template": "HOUNDOOM_NORMAL",
-                        "form": 232
-                    },
-                    {
                         "id": 6,
                         "template": "CHARIZARD_NORMAL",
                         "form": 178
+                    },
+                    {
+                        "id": 229,
+                        "template": "HOUNDOOM_NORMAL",
+                        "form": 232
                     },
                     {
                         "id": 149,
@@ -1701,13 +1701,13 @@
             "team": [
                 [
                     {
+                        "id": 403,
+                        "template": "SHINX"
+                    },
+                    {
                         "id": 179,
                         "template": "MAREEP_NORMAL",
                         "form": 646
-                    },
-                    {
-                        "id": 403,
-                        "template": "SHINX"
                     },
                     {
                         "id": 522,
