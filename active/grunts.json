@@ -189,14 +189,14 @@
             "team": [
                 [
                     {
-                        "id": 213,
-                        "template": "SHUCKLE_NORMAL",
-                        "form": 827
-                    },
-                    {
                         "id": 451,
                         "template": "SKORUPI_NORMAL",
                         "form": 1796
+                    },
+                    {
+                        "id": 213,
+                        "template": "SHUCKLE_NORMAL",
+                        "form": 827
                     },
                     {
                         "id": 595,
@@ -227,14 +227,14 @@
                         "form": 622
                     },
                     {
-                        "id": 205,
-                        "template": "FORRETRESS_NORMAL",
-                        "form": 1247
-                    },
-                    {
                         "id": 212,
                         "template": "SCIZOR_NORMAL",
                         "form": 250
+                    },
+                    {
+                        "id": 205,
+                        "template": "FORRETRESS_NORMAL",
+                        "form": 1247
                     }
                 ]
             ]
@@ -580,14 +580,14 @@
                         "template": "CAMERUPT"
                     },
                     {
-                        "id": 38,
-                        "template": "NINETALES_NORMAL",
-                        "form": 57
-                    },
-                    {
                         "id": 157,
                         "template": "TYPHLOSION_NORMAL",
                         "form": 1133
+                    },
+                    {
+                        "id": 38,
+                        "template": "NINETALES_NORMAL",
+                        "form": 57
                     }
                 ]
             ]
