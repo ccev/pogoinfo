@@ -123,14 +123,14 @@
                 ],
                 [
                     {
-                        "id": 143,
-                        "template": "SNORLAX_NORMAL",
-                        "form": 199
-                    },
-                    {
                         "id": 62,
                         "template": "POLIWRATH_NORMAL",
                         "form": 241
+                    },
+                    {
+                        "id": 143,
+                        "template": "SNORLAX_NORMAL",
+                        "form": 199
                     },
                     {
                         "id": 282,
@@ -145,14 +145,14 @@
                         "form": 199
                     },
                     {
-                        "id": 149,
-                        "template": "DRAGONITE_NORMAL",
-                        "form": 196
-                    },
-                    {
                         "id": 130,
                         "template": "GYARADOS_NORMAL",
                         "form": 256
+                    },
+                    {
+                        "id": 149,
+                        "template": "DRAGONITE_NORMAL",
+                        "form": 196
                     }
                 ]
             ]
@@ -227,14 +227,14 @@
                         "form": 622
                     },
                     {
-                        "id": 212,
-                        "template": "SCIZOR_NORMAL",
-                        "form": 250
-                    },
-                    {
                         "id": 205,
                         "template": "FORRETRESS_NORMAL",
                         "form": 1247
+                    },
+                    {
+                        "id": 212,
+                        "template": "SCIZOR_NORMAL",
+                        "form": 250
                     }
                 ]
             ]
@@ -576,13 +576,13 @@
                 ],
                 [
                     {
+                        "id": 323,
+                        "template": "CAMERUPT"
+                    },
+                    {
                         "id": 38,
                         "template": "NINETALES_NORMAL",
                         "form": 57
-                    },
-                    {
-                        "id": 323,
-                        "template": "CAMERUPT"
                     },
                     {
                         "id": 157,
@@ -1177,14 +1177,14 @@
                         "form": 902
                     },
                     {
-                        "id": 347,
-                        "template": "ANORITH_NORMAL",
-                        "form": 1574
-                    },
-                    {
                         "id": 345,
                         "template": "LILEEP_NORMAL",
                         "form": 1568
+                    },
+                    {
+                        "id": 347,
+                        "template": "ANORITH_NORMAL",
+                        "form": 1574
                     }
                 ],
                 [
@@ -1242,13 +1242,13 @@
             "team": [
                 [
                     {
+                        "id": 320,
+                        "template": "WAILMER"
+                    },
+                    {
                         "id": 54,
                         "template": "PSYDUCK_NORMAL",
                         "form": 286
-                    },
-                    {
-                        "id": 320,
-                        "template": "WAILMER"
                     },
                     {
                         "id": 258,
@@ -1637,14 +1637,14 @@
                         "template": "DRIFLOON"
                     },
                     {
-                        "id": 355,
-                        "template": "DUSKULL_NORMAL",
-                        "form": 914
-                    },
-                    {
                         "id": 353,
                         "template": "SHUPPET_NORMAL",
                         "form": 908
+                    },
+                    {
+                        "id": 355,
+                        "template": "DUSKULL_NORMAL",
+                        "form": 914
                     }
                 ],
                 [
