@@ -1,48 +1,5 @@
 [
     {
-        "name": "A Mystic Hero",
-        "type": "event",
-        "start": "2023-04-13 10:00",
-        "end": "2023-04-17 20:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [
-            {
-                "text": "2x XP for evolving Pokémon",
-                "template": "increased-xp",
-                "value": 2
-            },
-            {
-                "text": "Two guaranteed Candy XL for evolving Pokémon",
-                "template": "increased-candy"
-            },
-            {
-                "text": "3-hour Lure Modules*",
-                "template": "longer-lure",
-                "value": 3
-            }
-        ],
-        "features": [],
-        "has_quests": true,
-        "has_spawnpoints": false
-    },
-    {
-        "name": "Trapinch Spotlight Hour",
-        "type": "spotlight-hour",
-        "start": "2023-04-18 18:00",
-        "end": "2023-04-18 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": true
-    },
-    {
         "name": "Tapu Bulu Raid Hour",
         "type": "raid-hour",
         "start": "2023-04-26 18:00",
