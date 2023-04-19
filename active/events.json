@@ -14,7 +14,7 @@
         "has_spawnpoints": false
     },
     {
-        "name": "Unannounced Limited Research Event",
+        "name": "Stunfisk Limited Research Day",
         "type": "event",
         "start": "2023-04-23 14:00",
         "end": "2023-04-23 17:00",
@@ -22,7 +22,11 @@
         "eggs": [],
         "raids": [],
         "shinies": [],
-        "bonuses": [],
+        "bonuses": [
+            {
+                "text": "You’ll have an increased chance of encountering Shiny Stunfisk and Shiny Galarian Stunfisk"
+            }
+        ],
         "features": [],
         "has_quests": false,
         "has_spawnpoints": false
