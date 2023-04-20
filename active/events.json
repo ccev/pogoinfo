@@ -1,19 +1,5 @@
 [
     {
-        "name": "Tapu Bulu Raid Hour",
-        "type": "raid-hour",
-        "start": "2023-04-26 18:00",
-        "end": "2023-04-26 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Stunfisk Limited Research Day",
         "type": "event",
         "start": "2023-04-23 14:00",
@@ -44,6 +30,20 @@
         "features": [],
         "has_quests": false,
         "has_spawnpoints": true
+    },
+    {
+        "name": "Tapu Bulu Raid Hour",
+        "type": "raid-hour",
+        "start": "2023-04-26 18:00",
+        "end": "2023-04-26 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
     },
     {
         "name": "Sustainability Week",
