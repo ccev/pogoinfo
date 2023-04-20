@@ -1,5 +1,72 @@
 {
-    "event": [],
+    "event": [
+        {
+            "task": "Event: Use 5 Berries to help catch Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 529,
+                        "template": "DRILBUR"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Event: Feed your buddy 3 times",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 529,
+                        "template": "DRILBUR"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Event: Catch 3 Ground-type Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 529,
+                        "template": "DRILBUR"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Event: Catch 5 Grass-type Pokémon",
+            "rewards": [
+                {
+                    "type": "item",
+                    "amount": 4,
+                    "id": 703
+                }
+            ]
+        },
+        {
+            "task": "Event: Catch 5 Rock-type Pokémon",
+            "rewards": [
+                {
+                    "type": "item",
+                    "amount": 2,
+                    "id": 705
+                }
+            ]
+        },
+        {
+            "task": "Event: Catch 5 Water-type Pokémon",
+            "rewards": [
+                {
+                    "type": "item",
+                    "amount": 3,
+                    "id": 701
+                }
+            ]
+        }
+    ],
     "quests": [
         {
             "task": "Catch 5 Pokémon with Weather Boost",
