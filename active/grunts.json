@@ -628,13 +628,13 @@
                 ],
                 [
                     {
-                        "id": 178,
-                        "template": "XATU"
-                    },
-                    {
                         "id": 397,
                         "template": "STARAVIA_NORMAL",
                         "form": 1661
+                    },
+                    {
+                        "id": 178,
+                        "template": "XATU"
                     },
                     {
                         "id": 42,
