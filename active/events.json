@@ -116,10 +116,10 @@
         "has_spawnpoints": true
     },
     {
-        "name": "Unannounced Event - May 6",
-        "type": "event",
-        "start": "2023-05-06 00:00",
-        "end": "2023-05-06 00:00",
+        "name": "Genesect with a Shock Drive Raid Hour",
+        "type": "raid-hour",
+        "start": "2023-05-03 18:00",
+        "end": "2023-05-03 19:00",
         "spawns": [],
         "eggs": [],
         "raids": [],
@@ -150,7 +150,7 @@
                 "value": 2510
             },
             {
-                "text": "2x Catch XP",
+                "text": "2x Hatch XP",
                 "template": "increased-xp",
                 "value": 2
             },
@@ -177,6 +177,20 @@
         "features": [],
         "has_quests": false,
         "has_spawnpoints": true
+    },
+    {
+        "name": "Tapu Fini Raid Hour",
+        "type": "raid-hour",
+        "start": "2023-05-17 18:00",
+        "end": "2023-05-17 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
     },
     {
         "name": "GO Battle Day: Stardust",
@@ -207,6 +221,20 @@
         "has_spawnpoints": true
     },
     {
+        "name": "A Valorous Hero",
+        "type": "event",
+        "start": "2023-05-11 10:00",
+        "end": "2023-05-17 20:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
         "name": "May Community Day",
         "type": "community-day",
         "start": "2023-05-21 14:00",
@@ -233,6 +261,20 @@
         "features": [],
         "has_quests": false,
         "has_spawnpoints": true
+    },
+    {
+        "name": "Regigigas Raid Hour",
+        "type": "raid-hour",
+        "start": "2023-05-31 18:00",
+        "end": "2023-05-31 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
     },
     {
         "name": "Unannounced Event - May 27",
