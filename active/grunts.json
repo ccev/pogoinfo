@@ -566,13 +566,13 @@
                 ],
                 [
                     {
+                        "id": 323,
+                        "template": "CAMERUPT"
+                    },
+                    {
                         "id": 157,
                         "template": "TYPHLOSION_NORMAL",
                         "form": 1133
-                    },
-                    {
-                        "id": 323,
-                        "template": "CAMERUPT"
                     },
                     {
                         "id": 38,
@@ -832,14 +832,14 @@
                         "form": 1277
                     },
                     {
-                        "id": 37,
-                        "template": "VULPIX_NORMAL",
-                        "form": 55
-                    },
-                    {
                         "id": 27,
                         "template": "SANDSHREW_NORMAL",
                         "form": 51
+                    },
+                    {
+                        "id": 37,
+                        "template": "VULPIX_NORMAL",
+                        "form": 55
                     }
                 ],
                 [
@@ -1421,13 +1421,13 @@
                         "form": 250
                     },
                     {
-                        "id": 405,
-                        "template": "LUXRAY"
-                    },
-                    {
                         "id": 354,
                         "template": "BANETTE_NORMAL",
                         "form": 911
+                    },
+                    {
+                        "id": 405,
+                        "template": "LUXRAY"
                     }
                 ]
             ]
