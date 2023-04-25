@@ -1,23 +1,5 @@
 [
     {
-        "name": "Stunfisk Limited Research Day",
-        "type": "event",
-        "start": "2023-04-23 14:00",
-        "end": "2023-04-23 17:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [
-            {
-                "text": "You’ll have an increased chance of encountering Shiny Stunfisk and Shiny Galarian Stunfisk"
-            }
-        ],
-        "features": [],
-        "has_quests": true,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Tangela Spotlight Hour",
         "type": "spotlight-hour",
         "start": "2023-04-25 18:00",
@@ -120,6 +102,20 @@
         "has_spawnpoints": true
     },
     {
+        "name": "Alolan Geodude Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2023-05-02 18:00",
+        "end": "2023-05-02 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": true
+    },
+    {
         "name": "Unannounced Event - May 6",
         "type": "event",
         "start": "2023-05-06 00:00",
@@ -132,6 +128,55 @@
         "features": [],
         "has_quests": false,
         "has_spawnpoints": false
+    },
+    {
+        "name": "An Instinctive Hero",
+        "type": "event",
+        "start": "2023-05-02 10:00",
+        "end": "2023-05-08 20:00",
+        "spawns": [],
+        "eggs": [
+            {
+                "id": 636,
+                "template": "LARVESTA"
+            }
+        ],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [
+            {
+                "text": "Increased chance of hatching Shiny Pokémon from 2km, 5km, and 10 km Eggs",
+                "template": "reduced-hatch-distance",
+                "value": 2510
+            },
+            {
+                "text": "2x Catch XP",
+                "template": "increased-xp",
+                "value": 2
+            },
+            {
+                "text": "2x Hatch Stardust",
+                "template": "increased-stardust",
+                "value": 2
+            }
+        ],
+        "features": [],
+        "has_quests": true,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Ponyta Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2023-05-09 18:00",
+        "end": "2023-05-09 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": true
     },
     {
         "name": "GO Battle Day: Stardust",
@@ -148,6 +193,20 @@
         "has_spawnpoints": false
     },
     {
+        "name": "Bellsprout Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2023-05-16 18:00",
+        "end": "2023-05-16 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": true
+    },
+    {
         "name": "May Community Day",
         "type": "community-day",
         "start": "2023-05-21 14:00",
@@ -159,6 +218,20 @@
         "bonuses": [],
         "features": [],
         "has_quests": true,
+        "has_spawnpoints": true
+    },
+    {
+        "name": "Skorupi Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2023-05-23 18:00",
+        "end": "2023-05-23 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
         "has_spawnpoints": true
     },
     {
@@ -174,6 +247,20 @@
         "features": [],
         "has_quests": false,
         "has_spawnpoints": false
+    },
+    {
+        "name": "Houndour Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2023-05-30 18:00",
+        "end": "2023-05-30 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": true
     },
     {
         "name": "Season 10: Rising Heroes",
