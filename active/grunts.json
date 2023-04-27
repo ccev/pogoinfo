@@ -400,14 +400,14 @@
                 ],
                 [
                     {
-                        "id": 281,
-                        "template": "KIRLIA_NORMAL",
-                        "form": 295
-                    },
-                    {
                         "id": 209,
                         "template": "SNUBBULL_NORMAL",
                         "form": 1253
+                    },
+                    {
+                        "id": 281,
+                        "template": "KIRLIA_NORMAL",
+                        "form": 295
                     },
                     {
                         "id": 210,
@@ -628,13 +628,13 @@
                 ],
                 [
                     {
+                        "id": 178,
+                        "template": "XATU"
+                    },
+                    {
                         "id": 397,
                         "template": "STARAVIA_NORMAL",
                         "form": 1661
-                    },
-                    {
-                        "id": 178,
-                        "template": "XATU"
                     },
                     {
                         "id": 42,
@@ -972,14 +972,14 @@
                 ],
                 [
                     {
-                        "id": 217,
-                        "template": "URSARING_NORMAL",
-                        "form": 1268
-                    },
-                    {
                         "id": 20,
                         "template": "RATICATE_NORMAL",
                         "form": 47
+                    },
+                    {
+                        "id": 217,
+                        "template": "URSARING_NORMAL",
+                        "form": 1268
                     },
                     {
                         "id": 400,
@@ -1118,14 +1118,14 @@
                         "form": 310
                     },
                     {
-                        "id": 97,
-                        "template": "HYPNO_NORMAL",
-                        "form": 217
-                    },
-                    {
                         "id": 375,
                         "template": "METANG_NORMAL",
                         "form": 767
+                    },
+                    {
+                        "id": 97,
+                        "template": "HYPNO_NORMAL",
+                        "form": 217
                     }
                 ]
             ]
@@ -1179,14 +1179,14 @@
                 ],
                 [
                     {
-                        "id": 345,
-                        "template": "LILEEP_NORMAL",
-                        "form": 1568
-                    },
-                    {
                         "id": 347,
                         "template": "ANORITH_NORMAL",
                         "form": 1574
+                    },
+                    {
+                        "id": 345,
+                        "template": "LILEEP_NORMAL",
+                        "form": 1568
                     },
                     {
                         "id": 75,
@@ -1349,13 +1349,13 @@
                         "form": 1295
                     },
                     {
-                        "id": 254,
-                        "template": "SCEPTILE"
-                    },
-                    {
                         "id": 230,
                         "template": "KINGDRA_NORMAL",
                         "form": 1298
+                    },
+                    {
+                        "id": 254,
+                        "template": "SCEPTILE"
                     }
                 ],
                 [
@@ -1421,13 +1421,13 @@
                         "form": 250
                     },
                     {
+                        "id": 405,
+                        "template": "LUXRAY"
+                    },
+                    {
                         "id": 354,
                         "template": "BANETTE_NORMAL",
                         "form": 911
-                    },
-                    {
-                        "id": 405,
-                        "template": "LUXRAY"
                     }
                 ]
             ]
