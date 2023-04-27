@@ -1118,14 +1118,14 @@
                         "form": 310
                     },
                     {
-                        "id": 375,
-                        "template": "METANG_NORMAL",
-                        "form": 767
-                    },
-                    {
                         "id": 97,
                         "template": "HYPNO_NORMAL",
                         "form": 217
+                    },
+                    {
+                        "id": 375,
+                        "template": "METANG_NORMAL",
+                        "form": 767
                     }
                 ]
             ]
@@ -1184,14 +1184,14 @@
                         "form": 1574
                     },
                     {
-                        "id": 345,
-                        "template": "LILEEP_NORMAL",
-                        "form": 1568
-                    },
-                    {
                         "id": 75,
                         "template": "GRAVELER_NORMAL",
                         "form": 69
+                    },
+                    {
+                        "id": 345,
+                        "template": "LILEEP_NORMAL",
+                        "form": 1568
                     }
                 ],
                 [
@@ -1627,14 +1627,14 @@
                         "template": "DRIFLOON"
                     },
                     {
-                        "id": 355,
-                        "template": "DUSKULL_NORMAL",
-                        "form": 914
-                    },
-                    {
                         "id": 353,
                         "template": "SHUPPET_NORMAL",
                         "form": 908
+                    },
+                    {
+                        "id": 355,
+                        "template": "DUSKULL_NORMAL",
+                        "form": 914
                     }
                 ],
                 [
