@@ -1349,13 +1349,13 @@
                         "form": 1295
                     },
                     {
+                        "id": 254,
+                        "template": "SCEPTILE"
+                    },
+                    {
                         "id": 230,
                         "template": "KINGDRA_NORMAL",
                         "form": 1298
-                    },
-                    {
-                        "id": 254,
-                        "template": "SCEPTILE"
                     }
                 ],
                 [
