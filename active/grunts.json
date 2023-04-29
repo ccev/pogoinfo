@@ -1627,14 +1627,14 @@
                         "template": "DRIFLOON"
                     },
                     {
-                        "id": 353,
-                        "template": "SHUPPET_NORMAL",
-                        "form": 908
-                    },
-                    {
                         "id": 355,
                         "template": "DUSKULL_NORMAL",
                         "form": 914
+                    },
+                    {
+                        "id": 353,
+                        "template": "SHUPPET_NORMAL",
+                        "form": 908
                     }
                 ],
                 [
