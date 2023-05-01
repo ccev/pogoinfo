@@ -133,16 +133,66 @@
         "has_spawnpoints": false
     },
     {
-        "name": "May Community Day",
+        "name": "Fennekin Community Day",
         "type": "community-day",
         "start": "2023-05-21 14:00",
         "end": "2023-05-21 17:00",
-        "spawns": [],
+        "spawns": [
+            {
+                "id": 654,
+                "template": "BRAIXEN"
+            }
+        ],
         "eggs": [],
-        "raids": [],
+        "raids": [
+            {
+                "id": 654,
+                "template": "BRAIXEN"
+            }
+        ],
         "shinies": [],
-        "bonuses": [],
-        "features": [],
+        "bonuses": [
+            {
+                "text": "Increased Spawns"
+            },
+            {
+                "text": "3x Catch Stardust",
+                "template": "increased-stardust",
+                "value": 3
+            },
+            {
+                "text": "3-hour Incense**",
+                "template": "longer-incense",
+                "value": 3
+            },
+            {
+                "text": "3-hour Lures***",
+                "template": "longer-lure",
+                "value": 3
+            },
+            {
+                "text": "2x Catch Candy",
+                "template": "increased-candy",
+                "value": 2
+            },
+            {
+                "text": "2x Chance to receive Candy XL from catching Pokémon",
+                "value": 2
+            },
+            {
+                "text": "One additional Special Trade can be made for a maximum of two for the day*"
+            },
+            {
+                "text": "Trades made will require 50% less Stardust*",
+                "value": 50
+            }
+        ],
+        "features": [
+            "Trainer Battles: 110 power",
+            "Gyms and raids: 110 power",
+            "Trainer Battles: 60 power, and decreases your opponent’s Attack.",
+            "Gyms and raids: 60 power"
+        ],
         "has_quests": true,
         "has_spawnpoints": true
     },
