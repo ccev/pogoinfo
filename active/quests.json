@@ -9,6 +9,41 @@
                         "id": 226,
                         "template": "MANTINE"
                     }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 125,
+                        "template": "ELECTABUZZ_NORMAL",
+                        "form": 640
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 126,
+                        "template": "MAGMAR_NORMAL",
+                        "form": 634
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Event: Hatch 2 Eggs",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 113,
+                        "template": "CHANSEY"
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 358,
+                        "template": "CHIMECHO"
+                    }
                 }
             ]
         },
@@ -21,6 +56,14 @@
                         "id": 143,
                         "template": "SNORLAX_NORMAL",
                         "form": 199
+                    }
+                },
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 82,
+                        "template": "MAGNETON_NORMAL",
+                        "form": 658
                     }
                 }
             ]
@@ -712,6 +755,10 @@
             ]
         },
         {
+            "task": "Win a raid",
+            "rewards": []
+        },
+        {
             "task": "Win a three-star raid or higher",
             "rewards": [
                 {
@@ -731,10 +778,6 @@
                     }
                 }
             ]
-        },
-        {
-            "task": "Win a raid",
-            "rewards": []
         },
         {
             "task": "Win 5 raids",
@@ -788,6 +831,31 @@
             ]
         },
         {
+            "task": "Earn 2 Candies walking with your buddy",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 659,
+                        "template": "BUNNELBY"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Earn 3 Candies walking with your buddy",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 618,
+                        "template": "STUNFISK_NORMAL",
+                        "form": 2246
+                    }
+                }
+            ]
+        },
+        {
             "task": "Send 3 Gifts and add a sticker to each",
             "rewards": [
                 {
@@ -815,31 +883,6 @@
                     "reward": {
                         "id": 588,
                         "template": "KARRABLAST"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Earn 2 Candies walking with your buddy",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 659,
-                        "template": "BUNNELBY"
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Earn 3 Candies walking with your buddy",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 618,
-                        "template": "STUNFISK_NORMAL",
-                        "form": 2246
                     }
                 }
             ]

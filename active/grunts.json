@@ -1237,13 +1237,13 @@
                         "form": 286
                     },
                     {
+                        "id": 320,
+                        "template": "WAILMER"
+                    },
+                    {
                         "id": 258,
                         "template": "MUDKIP_NORMAL",
                         "form": 205
-                    },
-                    {
-                        "id": 320,
-                        "template": "WAILMER"
                     }
                 ],
                 [
