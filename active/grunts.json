@@ -1691,13 +1691,13 @@
             "team": [
                 [
                     {
-                        "id": 403,
-                        "template": "SHINX"
-                    },
-                    {
                         "id": 179,
                         "template": "MAREEP_NORMAL",
                         "form": 646
+                    },
+                    {
+                        "id": 403,
+                        "template": "SHINX"
                     },
                     {
                         "id": 522,

@@ -1,61 +1,58 @@
 {
     "1": [
         {
-            "id": 23,
-            "template": "EKANS_NORMAL",
-            "form": 697
+            "id": 165,
+            "template": "LEDYBA"
         },
         {
-            "id": 209,
-            "template": "SNUBBULL_NORMAL",
-            "form": 1253
+            "id": 213,
+            "template": "SHUCKLE_NORMAL",
+            "form": 827
         },
         {
-            "id": 434,
-            "template": "STUNKY_NORMAL",
-            "form": 791
+            "id": 557,
+            "template": "DWEBBLE"
         },
         {
-            "id": 543,
-            "template": "VENIPEDE"
+            "id": 595,
+            "template": "JOLTIK"
         },
         {
-            "id": 684,
-            "template": "SWIRLIX"
+            "id": 736,
+            "template": "GRUBBIN"
         }
     ],
     "3": [
         {
-            "id": 45,
-            "template": "VILEPLUME_NORMAL",
-            "form": 271
+            "id": 291,
+            "template": "NINJASK"
         },
         {
-            "id": 71,
-            "template": "VICTREEBEL_NORMAL",
-            "form": 670
+            "id": 303,
+            "template": "MAWILE_NORMAL",
+            "form": 833
         },
         {
-            "id": 89,
-            "template": "MUK_NORMAL",
-            "form": 75
+            "id": 530,
+            "template": "EXCADRILL"
         },
         {
-            "id": 547,
-            "template": "WHIMSICOTT"
+            "id": 662,
+            "template": "FLETCHINDER"
         }
     ],
     "5": [
         {
-            "id": 787,
-            "template": "TAPU_BULU"
+            "id": 649,
+            "template": "GENESECT_SHOCK",
+            "form": 594
         }
     ],
     "6": [
         {
-            "id": 80,
-            "template": "SLOWBRO_NORMAL",
-            "form": 1020,
+            "id": 212,
+            "template": "SCIZOR_NORMAL",
+            "form": 250,
             "temp_evolution_id": 1
         }
     ]
