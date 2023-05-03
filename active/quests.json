@@ -551,18 +551,6 @@
             ]
         },
         {
-            "task": "Make 5 Nice Curveball Throws in a row",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 287,
-                        "template": "SLAKOTH"
-                    }
-                }
-            ]
-        },
-        {
             "task": "Make 5 Great Curveball Throws in a row",
             "rewards": [
                 {
@@ -570,6 +558,18 @@
                     "reward": {
                         "id": 327,
                         "template": "SPINDA"
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Make 5 Nice Curveball Throws in a row",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 287,
+                        "template": "SLAKOTH"
                     }
                 }
             ]
@@ -777,7 +777,16 @@
         },
         {
             "task": "Win a raid",
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 83,
+                        "template": "FARFETCHD_GALARIAN",
+                        "form": 2338
+                    }
+                }
+            ]
         },
         {
             "task": "Battle in the GO Battle League",
