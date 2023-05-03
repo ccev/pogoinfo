@@ -742,23 +742,6 @@
             ]
         },
         {
-            "task": "Purify 3 Shadow Pokémon",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 30,
-                        "template": "NIDORINA_NORMAL",
-                        "form": 779
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Win a raid",
-            "rewards": []
-        },
-        {
             "task": "Win a three-star raid or higher",
             "rewards": [
                 {
@@ -780,6 +763,36 @@
             ]
         },
         {
+            "task": "Purify 3 Shadow Pokémon",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 30,
+                        "template": "NIDORINA_NORMAL",
+                        "form": 779
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Win a raid",
+            "rewards": []
+        },
+        {
+            "task": "Battle in the GO Battle League",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 67,
+                        "template": "MACHOKE_NORMAL",
+                        "form": 812
+                    }
+                }
+            ]
+        },
+        {
             "task": "Win 5 raids",
             "rewards": [
                 {
@@ -788,19 +801,6 @@
                         "id": 142,
                         "template": "AERODACTYL_NORMAL",
                         "form": 1110
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Battle in GO Battle League",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 67,
-                        "template": "MACHOKE_NORMAL",
-                        "form": 812
                     }
                 }
             ]
@@ -856,6 +856,19 @@
             ]
         },
         {
+            "task": "Walk 3 km",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 302,
+                        "template": "SABLEYE_NORMAL",
+                        "form": 923
+                    }
+                }
+            ]
+        },
+        {
             "task": "Send 3 Gifts and add a sticker to each",
             "rewards": [
                 {
@@ -888,42 +901,30 @@
             ]
         },
         {
-            "task": "Walk 3 km",
+            "task": "Power up Pokémon 3 times",
             "rewards": [
                 {
                     "type": "pokemon",
                     "reward": {
-                        "id": 302,
-                        "template": "SABLEYE_NORMAL",
-                        "form": 923
-                    }
-                }
-            ]
-        },
-        {
-            "task": "Power up Pokémon 7 times",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 252,
-                        "template": "TREECKO"
+                        "id": 1,
+                        "template": "BULBASAUR_NORMAL",
+                        "form": 163
                     }
                 },
                 {
                     "type": "pokemon",
                     "reward": {
-                        "id": 255,
-                        "template": "TORCHIC_NORMAL",
-                        "form": 1358
+                        "id": 4,
+                        "template": "CHARMANDER_NORMAL",
+                        "form": 172
                     }
                 },
                 {
                     "type": "pokemon",
                     "reward": {
-                        "id": 258,
-                        "template": "MUDKIP_NORMAL",
-                        "form": 205
+                        "id": 7,
+                        "template": "SQUIRTLE_NORMAL",
+                        "form": 181
                     }
                 }
             ]
@@ -958,30 +959,29 @@
             ]
         },
         {
-            "task": "Power up Pokémon 3 times",
+            "task": "Power up Pokémon 7 times",
             "rewards": [
                 {
                     "type": "pokemon",
                     "reward": {
-                        "id": 1,
-                        "template": "BULBASAUR_NORMAL",
-                        "form": 163
+                        "id": 252,
+                        "template": "TREECKO"
                     }
                 },
                 {
                     "type": "pokemon",
                     "reward": {
-                        "id": 4,
-                        "template": "CHARMANDER_NORMAL",
-                        "form": 172
+                        "id": 255,
+                        "template": "TORCHIC_NORMAL",
+                        "form": 1358
                     }
                 },
                 {
                     "type": "pokemon",
                     "reward": {
-                        "id": 7,
-                        "template": "SQUIRTLE_NORMAL",
-                        "form": 181
+                        "id": 258,
+                        "template": "MUDKIP_NORMAL",
+                        "form": 205
                     }
                 }
             ]

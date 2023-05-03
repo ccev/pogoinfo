@@ -347,6 +347,11 @@
                         "id": 148,
                         "template": "DRAGONAIR_NORMAL",
                         "form": 193
+                    },
+                    {
+                        "id": 330,
+                        "template": "FLYGON_NORMAL",
+                        "form": 752
                     }
                 ]
             ]
@@ -417,14 +422,14 @@
                 ],
                 [
                     {
-                        "id": 281,
-                        "template": "KIRLIA_NORMAL",
-                        "form": 295
-                    },
-                    {
                         "id": 210,
                         "template": "GRANBULL_NORMAL",
                         "form": 1256
+                    },
+                    {
+                        "id": 281,
+                        "template": "KIRLIA_NORMAL",
+                        "form": 295
                     }
                 ]
             ]
@@ -1232,13 +1237,13 @@
             "team": [
                 [
                     {
+                        "id": 320,
+                        "template": "WAILMER"
+                    },
+                    {
                         "id": 54,
                         "template": "PSYDUCK_NORMAL",
                         "form": 286
-                    },
-                    {
-                        "id": 320,
-                        "template": "WAILMER"
                     },
                     {
                         "id": 258,
