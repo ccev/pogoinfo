@@ -1,19 +1,5 @@
 [
     {
-        "name": "Genesect with a Shock Drive Raid Hour",
-        "type": "raid-hour",
-        "start": "2023-05-03 18:00",
-        "end": "2023-05-03 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
         "name": "An Instinctive Hero",
         "type": "event",
         "start": "2023-05-02 10:00",
@@ -227,11 +213,56 @@
         "end": "2023-05-17 20:00",
         "spawns": [],
         "eggs": [],
-        "raids": [],
+        "raids": [
+            {
+                "id": 77,
+                "template": "PONYTA_GALARIAN",
+                "form": 2336
+            },
+            {
+                "id": 163,
+                "template": "HOOTHOOT"
+            },
+            {
+                "id": 618,
+                "template": "STUNFISK_GALARIAN",
+                "form": 2345
+            },
+            {
+                "id": 621,
+                "template": "DRUDDIGON"
+            },
+            {
+                "id": 628,
+                "template": "BRAVIARY"
+            },
+            {
+                "id": 713,
+                "template": "AVALUGG"
+            },
+            {
+                "id": 788,
+                "template": "TAPU_FINI"
+            },
+            {
+                "id": 127,
+                "template": "PINSIR"
+            }
+        ],
         "shinies": [],
-        "bonuses": [],
+        "bonuses": [
+            {
+                "text": "2× Candy for catching Pokémon",
+                "template": "increased-candy",
+                "value": 2
+            },
+            {
+                "text": "Trainers level 31 and above will have twice the chance to obtain Candy XL from catching Pokémon",
+                "value": 31
+            }
+        ],
         "features": [],
-        "has_quests": false,
+        "has_quests": true,
         "has_spawnpoints": false
     },
     {
