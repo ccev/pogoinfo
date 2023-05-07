@@ -806,19 +806,6 @@
             ]
         },
         {
-            "task": "Battle in the GO Battle League",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 67,
-                        "template": "MACHOKE_NORMAL",
-                        "form": 812
-                    }
-                }
-            ]
-        },
-        {
             "task": "Win 5 raids",
             "rewards": [
                 {
@@ -827,6 +814,19 @@
                         "id": 142,
                         "template": "AERODACTYL_NORMAL",
                         "form": 1110
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Battle in the GO Battle League",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 67,
+                        "template": "MACHOKE_NORMAL",
+                        "form": 812
                     }
                 }
             ]
