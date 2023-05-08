@@ -580,18 +580,6 @@
             ]
         },
         {
-            "task": "Make 5 Nice Curveball Throws in a row",
-            "rewards": [
-                {
-                    "type": "pokemon",
-                    "reward": {
-                        "id": 287,
-                        "template": "SLAKOTH"
-                    }
-                }
-            ]
-        },
-        {
             "task": "Make 3 Excellent Throws in a row",
             "rewards": [
                 {
@@ -600,6 +588,18 @@
                         "id": 443,
                         "template": "GIBLE_NORMAL",
                         "form": 861
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Make 5 Nice Curveball Throws in a row",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 287,
+                        "template": "SLAKOTH"
                     }
                 }
             ]
