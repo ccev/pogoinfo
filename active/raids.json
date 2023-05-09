@@ -1,31 +1,36 @@
 {
     "1": [
         {
-            "id": 165,
-            "template": "LEDYBA"
+            "id": 35,
+            "template": "CLEFAIRY"
         },
         {
-            "id": 213,
-            "template": "SHUCKLE_NORMAL",
-            "form": 827
+            "id": 183,
+            "template": "MARILL"
         },
         {
             "id": 557,
             "template": "DWEBBLE"
         },
         {
-            "id": 595,
-            "template": "JOLTIK"
+            "id": 690,
+            "template": "SKRELP"
         },
         {
-            "id": 736,
-            "template": "GRUBBIN"
+            "id": 728,
+            "template": "POPPLIO"
         }
     ],
     "3": [
         {
-            "id": 291,
-            "template": "NINJASK"
+            "id": 82,
+            "template": "MAGNETON_NORMAL",
+            "form": 658
+        },
+        {
+            "id": 131,
+            "template": "LAPRAS_NORMAL",
+            "form": 322
         },
         {
             "id": 303,
@@ -33,23 +38,14 @@
             "form": 833
         },
         {
-            "id": 530,
-            "template": "EXCADRILL"
-        },
-        {
-            "id": 662,
-            "template": "FLETCHINDER"
-        },
-        {
-            "id": 900,
-            "template": "KLEAVOR"
+            "id": 395,
+            "template": "EMPOLEON"
         }
     ],
     "5": [
         {
-            "id": 649,
-            "template": "GENESECT_SHOCK",
-            "form": 594
+            "id": 788,
+            "template": "TAPU_FINI"
         }
     ],
     "6": [

@@ -72,14 +72,14 @@
                         "form": 1130
                     },
                     {
-                        "id": 159,
-                        "template": "CROCONAW_NORMAL",
-                        "form": 1139
-                    },
-                    {
                         "id": 153,
                         "template": "BAYLEEF_NORMAL",
                         "form": 1121
+                    },
+                    {
+                        "id": 159,
+                        "template": "CROCONAW_NORMAL",
+                        "form": 1139
                     }
                 ],
                 [
@@ -547,14 +547,14 @@
                         "template": "NUMEL"
                     },
                     {
-                        "id": 37,
-                        "template": "VULPIX_NORMAL",
-                        "form": 55
-                    },
-                    {
                         "id": 255,
                         "template": "TORCHIC_NORMAL",
                         "form": 1358
+                    },
+                    {
+                        "id": 37,
+                        "template": "VULPIX_NORMAL",
+                        "form": 55
                     }
                 ],
                 [
@@ -571,13 +571,13 @@
                 ],
                 [
                     {
+                        "id": 323,
+                        "template": "CAMERUPT"
+                    },
+                    {
                         "id": 157,
                         "template": "TYPHLOSION_NORMAL",
                         "form": 1133
-                    },
-                    {
-                        "id": 323,
-                        "template": "CAMERUPT"
                     },
                     {
                         "id": 38,
@@ -633,13 +633,13 @@
                 ],
                 [
                     {
+                        "id": 178,
+                        "template": "XATU"
+                    },
+                    {
                         "id": 397,
                         "template": "STARAVIA_NORMAL",
                         "form": 1661
-                    },
-                    {
-                        "id": 178,
-                        "template": "XATU"
                     },
                     {
                         "id": 42,
@@ -1696,13 +1696,13 @@
             "team": [
                 [
                     {
+                        "id": 403,
+                        "template": "SHINX"
+                    },
+                    {
                         "id": 179,
                         "template": "MAREEP_NORMAL",
                         "form": 646
-                    },
-                    {
-                        "id": 403,
-                        "template": "SHINX"
                     },
                     {
                         "id": 522,
