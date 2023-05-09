@@ -72,14 +72,14 @@
                         "form": 1130
                     },
                     {
-                        "id": 153,
-                        "template": "BAYLEEF_NORMAL",
-                        "form": 1121
-                    },
-                    {
                         "id": 159,
                         "template": "CROCONAW_NORMAL",
                         "form": 1139
+                    },
+                    {
+                        "id": 153,
+                        "template": "BAYLEEF_NORMAL",
+                        "form": 1121
                     }
                 ],
                 [
@@ -422,14 +422,14 @@
                 ],
                 [
                     {
-                        "id": 210,
-                        "template": "GRANBULL_NORMAL",
-                        "form": 1256
-                    },
-                    {
                         "id": 281,
                         "template": "KIRLIA_NORMAL",
                         "form": 295
+                    },
+                    {
+                        "id": 210,
+                        "template": "GRANBULL_NORMAL",
+                        "form": 1256
                     }
                 ]
             ]
@@ -737,13 +737,13 @@
                 ],
                 [
                     {
+                        "id": 591,
+                        "template": "AMOONGUSS"
+                    },
+                    {
                         "id": 154,
                         "template": "MEGANIUM_NORMAL",
                         "form": 1124
-                    },
-                    {
-                        "id": 591,
-                        "template": "AMOONGUSS"
                     },
                     {
                         "id": 332,
@@ -945,12 +945,12 @@
             "team": [
                 [
                     {
-                        "id": 519,
-                        "template": "PIDOVE"
-                    },
-                    {
                         "id": 504,
                         "template": "PATRAT"
+                    },
+                    {
+                        "id": 519,
+                        "template": "PIDOVE"
                     },
                     {
                         "id": 293,
@@ -1237,8 +1237,9 @@
             "team": [
                 [
                     {
-                        "id": 320,
-                        "template": "WAILMER"
+                        "id": 258,
+                        "template": "MUDKIP_NORMAL",
+                        "form": 205
                     },
                     {
                         "id": 54,
@@ -1246,9 +1247,8 @@
                         "form": 286
                     },
                     {
-                        "id": 258,
-                        "template": "MUDKIP_NORMAL",
-                        "form": 205
+                        "id": 320,
+                        "template": "WAILMER"
                     }
                 ],
                 [
@@ -1632,14 +1632,14 @@
                         "template": "DRIFLOON"
                     },
                     {
-                        "id": 353,
-                        "template": "SHUPPET_NORMAL",
-                        "form": 908
-                    },
-                    {
                         "id": 355,
                         "template": "DUSKULL_NORMAL",
                         "form": 914
+                    },
+                    {
+                        "id": 353,
+                        "template": "SHUPPET_NORMAL",
+                        "form": 908
                     }
                 ],
                 [
@@ -1696,13 +1696,13 @@
             "team": [
                 [
                     {
-                        "id": 403,
-                        "template": "SHINX"
-                    },
-                    {
                         "id": 179,
                         "template": "MAREEP_NORMAL",
                         "form": 646
+                    },
+                    {
+                        "id": 403,
+                        "template": "SHINX"
                     },
                     {
                         "id": 522,
