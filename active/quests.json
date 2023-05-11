@@ -1,6 +1,19 @@
 {
     "event": [
         {
+            "task": "Event: Power up Pokémon 10 times",
+            "rewards": [
+                {
+                    "type": "pokemon",
+                    "reward": {
+                        "id": 77,
+                        "template": "PONYTA_NORMAL",
+                        "form": 1011
+                    }
+                }
+            ]
+        },
+        {
             "task": "Event: Battle in a Gym",
             "rewards": [
                 {
@@ -33,7 +46,7 @@
             "rewards": [
                 {
                     "type": "item",
-                    "amount": 3,
+                    "amount": 5,
                     "id": 201
                 }
             ]
