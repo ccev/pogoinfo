@@ -1,19 +1,5 @@
 [
     {
-        "name": "Tapu Fini Raid Hour",
-        "type": "raid-hour",
-        "start": "2023-05-17 18:00",
-        "end": "2023-05-17 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
         "name": "GO Battle Day: Stardust",
         "type": "event",
         "start": "2023-05-14 00:00",
@@ -40,6 +26,20 @@
         "features": [],
         "has_quests": false,
         "has_spawnpoints": true
+    },
+    {
+        "name": "Tapu Fini Raid Hour",
+        "type": "raid-hour",
+        "start": "2023-05-17 18:00",
+        "end": "2023-05-17 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
     },
     {
         "name": "A Valorous Hero",
