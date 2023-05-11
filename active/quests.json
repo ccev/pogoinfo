@@ -1,5 +1,44 @@
 {
-    "event": [],
+    "event": [
+        {
+            "task": "Event: Battle in a Gym",
+            "rewards": [
+                {
+                    "type": "item",
+                    "amount": 3,
+                    "id": 103
+                }
+            ]
+        },
+        {
+            "task": "Event: Power up a Pokémon",
+            "rewards": [
+                {
+                    "type": "stardust",
+                    "amount": 300
+                }
+            ]
+        },
+        {
+            "task": "Event: Power up Pokémon 5 times",
+            "rewards": [
+                {
+                    "type": "stardust",
+                    "amount": 1000
+                }
+            ]
+        },
+        {
+            "task": "Event: Battle 3 Team GO Rocket Grunts",
+            "rewards": [
+                {
+                    "type": "item",
+                    "amount": 3,
+                    "id": 201
+                }
+            ]
+        }
+    ],
     "quests": [
         {
             "task": "Catch 5 Pokémon with Weather Boost",
