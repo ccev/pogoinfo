@@ -14,6 +14,16 @@
             ]
         },
         {
+            "task": "Event: Battle 3 Team GO Rocket Grunts",
+            "rewards": [
+                {
+                    "type": "item",
+                    "amount": 5,
+                    "id": 201
+                }
+            ]
+        },
+        {
             "task": "Event: Battle in a Gym",
             "rewards": [
                 {
@@ -38,16 +48,6 @@
                 {
                     "type": "stardust",
                     "amount": 1000
-                }
-            ]
-        },
-        {
-            "task": "Event: Battle 3 Team GO Rocket Grunts",
-            "rewards": [
-                {
-                    "type": "item",
-                    "amount": 5,
-                    "id": 201
                 }
             ]
         }
