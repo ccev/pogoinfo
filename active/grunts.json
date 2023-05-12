@@ -123,14 +123,14 @@
                 ],
                 [
                     {
-                        "id": 143,
-                        "template": "SNORLAX_NORMAL",
-                        "form": 199
-                    },
-                    {
                         "id": 62,
                         "template": "POLIWRATH_NORMAL",
                         "form": 241
+                    },
+                    {
+                        "id": 143,
+                        "template": "SNORLAX_NORMAL",
+                        "form": 199
                     },
                     {
                         "id": 282,
@@ -422,14 +422,14 @@
                 ],
                 [
                     {
-                        "id": 210,
-                        "template": "GRANBULL_NORMAL",
-                        "form": 1256
-                    },
-                    {
                         "id": 281,
                         "template": "KIRLIA_NORMAL",
                         "form": 295
+                    },
+                    {
+                        "id": 210,
+                        "template": "GRANBULL_NORMAL",
+                        "form": 1256
                     }
                 ]
             ]
@@ -737,13 +737,13 @@
                 ],
                 [
                     {
+                        "id": 591,
+                        "template": "AMOONGUSS"
+                    },
+                    {
                         "id": 154,
                         "template": "MEGANIUM_NORMAL",
                         "form": 1124
-                    },
-                    {
-                        "id": 591,
-                        "template": "AMOONGUSS"
                     },
                     {
                         "id": 332,
@@ -945,12 +945,12 @@
             "team": [
                 [
                     {
-                        "id": 519,
-                        "template": "PIDOVE"
-                    },
-                    {
                         "id": 504,
                         "template": "PATRAT"
+                    },
+                    {
+                        "id": 519,
+                        "template": "PIDOVE"
                     },
                     {
                         "id": 293,
@@ -1242,13 +1242,13 @@
                         "form": 205
                     },
                     {
-                        "id": 320,
-                        "template": "WAILMER"
-                    },
-                    {
                         "id": 54,
                         "template": "PSYDUCK_NORMAL",
                         "form": 286
+                    },
+                    {
+                        "id": 320,
+                        "template": "WAILMER"
                     }
                 ],
                 [
