@@ -1,85 +1,5 @@
 [
     {
-        "name": "Tapu Fini Raid Hour",
-        "type": "raid-hour",
-        "start": "2023-05-17 18:00",
-        "end": "2023-05-17 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
-        "name": "A Valorous Hero",
-        "type": "event",
-        "start": "2023-05-11 10:00",
-        "end": "2023-05-17 20:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [
-            {
-                "id": 77,
-                "template": "PONYTA_GALARIAN",
-                "form": 2336
-            },
-            {
-                "id": 163,
-                "template": "HOOTHOOT"
-            },
-            {
-                "id": 618,
-                "template": "STUNFISK_GALARIAN",
-                "form": 2345
-            },
-            {
-                "id": 621,
-                "template": "DRUDDIGON"
-            },
-            {
-                "id": 628,
-                "template": "BRAVIARY"
-            },
-            {
-                "id": 713,
-                "template": "AVALUGG"
-            },
-            {
-                "id": 788,
-                "template": "TAPU_FINI"
-            },
-            {
-                "id": 127,
-                "template": "PINSIR"
-            }
-        ],
-        "shinies": [],
-        "bonuses": [
-            {
-                "text": "2× Candy for catching Pokémon",
-                "template": "increased-candy",
-                "value": 2
-            },
-            {
-                "text": "Trainers level 31 and above will have twice the chance to obtain Candy XL from catching Pokémon",
-                "value": 31
-            },
-            {
-                "text": "2x Mysterious Components from Team GO Rocket",
-                "value": 2
-            },
-            {
-                "text": "Up to two free Raid Passes per day by spinning Gym Photo Discs"
-            }
-        ],
-        "features": [],
-        "has_quests": true,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Fennekin Community Day",
         "type": "community-day",
         "start": "2023-05-21 14:00",
@@ -186,17 +106,116 @@
         "has_spawnpoints": false
     },
     {
-        "name": "Unannounced Event",
+        "name": "Rising Shadows Event",
         "type": "event",
-        "start": "2023-06-03 00:00",
-        "end": "2023-06-03 23:59",
-        "spawns": [],
+        "start": "2023-05-22 10:00",
+        "end": "2023-05-28 20:00",
+        "spawns": [
+            {
+                "id": 211,
+                "template": "QWILFISH"
+            },
+            {
+                "id": 559,
+                "template": "SCRAGGY"
+            }
+        ],
         "eggs": [],
-        "raids": [],
+        "raids": [
+            {
+                "id": 60,
+                "template": "POLIWAG"
+            },
+            {
+                "id": 66,
+                "template": "MACHOP"
+            },
+            {
+                "id": 69,
+                "template": "BELLSPROUT"
+            },
+            {
+                "id": 374,
+                "template": "BELDUM"
+            },
+            {
+                "id": 153,
+                "template": "BAYLEEF"
+            },
+            {
+                "id": 156,
+                "template": "QUILAVA"
+            },
+            {
+                "id": 159,
+                "template": "CROCONAW"
+            },
+            {
+                "id": 215,
+                "template": "SNEASEL"
+            },
+            {
+                "id": 35,
+                "template": "CLEFAIRY"
+            },
+            {
+                "id": 72,
+                "template": "TENTACOOL"
+            },
+            {
+                "id": 183,
+                "template": "MARILL"
+            },
+            {
+                "id": 690,
+                "template": "SKRELP"
+            },
+            {
+                "id": 728,
+                "template": "POPPLIO"
+            },
+            {
+                "id": 82,
+                "template": "MAGNETON"
+            },
+            {
+                "id": 131,
+                "template": "LAPRAS"
+            },
+            {
+                "id": 303,
+                "template": "MAWILE"
+            },
+            {
+                "id": 395,
+                "template": "EMPOLEON"
+            },
+            {
+                "id": 788,
+                "template": "TAPU_FINI"
+            },
+            {
+                "id": 486,
+                "template": "REGIGIGAS"
+            },
+            {
+                "id": 127,
+                "template": "PINSIR"
+            },
+            {
+                "id": 334,
+                "template": "ALTARIA",
+                "temp_evolution_id": 1
+            }
+        ],
         "shinies": [],
-        "bonuses": [],
+        "bonuses": [
+            {
+                "text": "Team GO Rocket will appear more frequently at PokéStops and in balloons."
+            }
+        ],
         "features": [],
-        "has_quests": false,
+        "has_quests": true,
         "has_spawnpoints": false
     },
     {
@@ -559,6 +578,20 @@
         ],
         "features": [],
         "has_quests": true,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Unannounced Event",
+        "type": "event",
+        "start": "2023-06-03 00:00",
+        "end": "2023-06-03 23:59",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
         "has_spawnpoints": false
     },
     {
