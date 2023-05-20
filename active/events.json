@@ -92,20 +92,6 @@
         "has_spawnpoints": false
     },
     {
-        "name": "Unannounced Event - May 27",
-        "type": "event",
-        "start": "2023-05-27 00:00",
-        "end": "2023-05-28 00:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Rising Shadows Event",
         "type": "event",
         "start": "2023-05-22 10:00",
