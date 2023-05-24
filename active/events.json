@@ -1,19 +1,5 @@
 [
     {
-        "name": "Skorupi Spotlight Hour",
-        "type": "spotlight-hour",
-        "start": "2023-05-23 18:00",
-        "end": "2023-05-23 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": true
-    },
-    {
         "name": "Regigigas Raid Hour",
         "type": "raid-hour",
         "start": "2023-05-31 18:00",
