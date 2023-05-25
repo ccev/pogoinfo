@@ -1,19 +1,5 @@
 [
     {
-        "name": "Regigigas Raid Hour",
-        "type": "raid-hour",
-        "start": "2023-05-31 18:00",
-        "end": "2023-05-31 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Rising Shadows Event",
         "type": "event",
         "start": "2023-05-22 10:00",
@@ -139,6 +125,20 @@
         "features": [],
         "has_quests": false,
         "has_spawnpoints": true
+    },
+    {
+        "name": "Regigigas Raid Hour",
+        "type": "raid-hour",
+        "start": "2023-05-31 18:00",
+        "end": "2023-05-31 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
     },
     {
         "name": "Season 10: Rising Heroes",
