@@ -1,475 +1,11 @@
 [
     {
-        "name": "Rising Shadows Event",
-        "type": "event",
-        "start": "2023-05-22 10:00",
-        "end": "2023-05-28 20:00",
-        "spawns": [
-            {
-                "id": 211,
-                "template": "QWILFISH"
-            },
-            {
-                "id": 559,
-                "template": "SCRAGGY"
-            }
-        ],
-        "eggs": [],
-        "raids": [
-            {
-                "id": 60,
-                "template": "POLIWAG"
-            },
-            {
-                "id": 66,
-                "template": "MACHOP"
-            },
-            {
-                "id": 69,
-                "template": "BELLSPROUT"
-            },
-            {
-                "id": 374,
-                "template": "BELDUM"
-            },
-            {
-                "id": 153,
-                "template": "BAYLEEF"
-            },
-            {
-                "id": 156,
-                "template": "QUILAVA"
-            },
-            {
-                "id": 159,
-                "template": "CROCONAW"
-            },
-            {
-                "id": 215,
-                "template": "SNEASEL"
-            },
-            {
-                "id": 35,
-                "template": "CLEFAIRY"
-            },
-            {
-                "id": 72,
-                "template": "TENTACOOL"
-            },
-            {
-                "id": 183,
-                "template": "MARILL"
-            },
-            {
-                "id": 690,
-                "template": "SKRELP"
-            },
-            {
-                "id": 728,
-                "template": "POPPLIO"
-            },
-            {
-                "id": 82,
-                "template": "MAGNETON"
-            },
-            {
-                "id": 131,
-                "template": "LAPRAS"
-            },
-            {
-                "id": 303,
-                "template": "MAWILE"
-            },
-            {
-                "id": 395,
-                "template": "EMPOLEON"
-            },
-            {
-                "id": 788,
-                "template": "TAPU_FINI"
-            },
-            {
-                "id": 486,
-                "template": "REGIGIGAS"
-            },
-            {
-                "id": 127,
-                "template": "PINSIR"
-            },
-            {
-                "id": 334,
-                "template": "ALTARIA",
-                "temp_evolution_id": 1
-            }
-        ],
-        "shinies": [],
-        "bonuses": [
-            {
-                "text": "Team GO Rocket will appear more frequently at PokéStops and in balloons*"
-            }
-        ],
-        "features": [],
-        "has_quests": true,
-        "has_spawnpoints": false
-    },
-    {
-        "name": "Houndour Spotlight Hour",
-        "type": "spotlight-hour",
-        "start": "2023-05-30 18:00",
-        "end": "2023-05-30 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": true
-    },
-    {
-        "name": "Regigigas Raid Hour",
-        "type": "raid-hour",
-        "start": "2023-05-31 18:00",
-        "end": "2023-05-31 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Season 10: Rising Heroes",
         "type": "season",
         "start": null,
         "end": "2023-06-01 10:00",
-        "spawns": [
-            {
-                "id": 100,
-                "template": "VOLTORB"
-            },
-            {
-                "id": 137,
-                "template": "PORYGON"
-            },
-            {
-                "id": 176,
-                "template": "TOGETIC"
-            },
-            {
-                "id": 282,
-                "template": "GARDEVOIR"
-            },
-            {
-                "id": 509,
-                "template": "PURRLOIN"
-            },
-            {
-                "id": 568,
-                "template": "TRUBBISH"
-            },
-            {
-                "id": 605,
-                "template": "ELGYEM"
-            },
-            {
-                "id": 56,
-                "template": "MANKEY"
-            },
-            {
-                "id": 103,
-                "template": "EXEGGUTOR"
-            },
-            {
-                "id": 213,
-                "template": "SHUCKLE"
-            },
-            {
-                "id": 570,
-                "template": "ZORUA"
-            },
-            {
-                "id": 618,
-                "template": "STUNFISK"
-            },
-            {
-                "id": 753,
-                "template": "FOMANTIS"
-            },
-            {
-                "id": 755,
-                "template": "MORELULL"
-            },
-            {
-                "id": 142,
-                "template": "AERODACTYL"
-            },
-            {
-                "id": 143,
-                "template": "SNORLAX"
-            },
-            {
-                "id": 293,
-                "template": "WHISMUR"
-            },
-            {
-                "id": 303,
-                "template": "MAWILE"
-            },
-            {
-                "id": 304,
-                "template": "ARON"
-            },
-            {
-                "id": 308,
-                "template": "MEDICHAM"
-            },
-            {
-                "id": 527,
-                "template": "WOOBAT"
-            },
-            {
-                "id": 54,
-                "template": "PSYDUCK"
-            },
-            {
-                "id": 79,
-                "template": "SLOWPOKE"
-            },
-            {
-                "id": 211,
-                "template": "QWILFISH"
-            },
-            {
-                "id": 226,
-                "template": "MANTINE"
-            },
-            {
-                "id": 457,
-                "template": "LUMINEON"
-            },
-            {
-                "id": 592,
-                "template": "FRILLISH"
-            },
-            {
-                "id": 704,
-                "template": "GOOMY"
-            }
-        ],
-        "eggs": [
-            {
-                "id": 69,
-                "template": "BELLSPROUT"
-            },
-            {
-                "id": 129,
-                "template": "MAGIKARP"
-            },
-            {
-                "id": 172,
-                "template": "PICHU"
-            },
-            {
-                "id": 174,
-                "template": "IGGLYBUFF"
-            },
-            {
-                "id": 328,
-                "template": "TRAPINCH"
-            },
-            {
-                "id": 546,
-                "template": "COTTONEE"
-            },
-            {
-                "id": 731,
-                "template": "PIKIPEK"
-            },
-            {
-                "id": 734,
-                "template": "YUNGOOS"
-            },
-            {
-                "id": 753,
-                "template": "FOMANTIS"
-            },
-            {
-                "id": 767,
-                "template": "WIMPOD"
-            },
-            {
-                "id": 66,
-                "template": "MACHOP"
-            },
-            {
-                "id": 207,
-                "template": "GLIGAR"
-            },
-            {
-                "id": 236,
-                "template": "TYROGUE"
-            },
-            {
-                "id": 433,
-                "template": "CHINGLING"
-            },
-            {
-                "id": 438,
-                "template": "BONSLY"
-            },
-            {
-                "id": 722,
-                "template": "ROWLET"
-            },
-            {
-                "id": 725,
-                "template": "LITTEN"
-            },
-            {
-                "id": 728,
-                "template": "POPPLIO"
-            },
-            {
-                "id": 747,
-                "template": "MAREANIE"
-            },
-            {
-                "id": 37,
-                "template": "VULPIX_ALOLA",
-                "form": 56
-            },
-            {
-                "id": 52,
-                "template": "MEOWTH_ALOLA",
-                "form": 64
-            },
-            {
-                "id": 52,
-                "template": "MEOWTH_GALARIAN",
-                "form": 2335
-            },
-            {
-                "id": 77,
-                "template": "PONYTA_GALARIAN",
-                "form": 2336
-            },
-            {
-                "id": 79,
-                "template": "SLOWPOKE_GALARIAN",
-                "form": 2582
-            },
-            {
-                "id": 83,
-                "template": "FARFETCHD_GALARIAN",
-                "form": 2338
-            },
-            {
-                "id": 100,
-                "template": "VOLTORB"
-            },
-            {
-                "id": 211,
-                "template": "QWILFISH"
-            },
-            {
-                "id": 215,
-                "template": "SNEASEL"
-            },
-            {
-                "id": 263,
-                "template": "ZIGZAGOON_GALARIAN",
-                "form": 946
-            },
-            {
-                "id": 554,
-                "template": "DARUMAKA_GALARIAN",
-                "form": 2341
-            },
-            {
-                "id": 618,
-                "template": "STUNFISK_GALARIAN",
-                "form": 2345
-            },
-            {
-                "id": 447,
-                "template": "RIOLU"
-            },
-            {
-                "id": 564,
-                "template": "TIRTOUGA"
-            },
-            {
-                "id": 566,
-                "template": "ARCHEN"
-            },
-            {
-                "id": 610,
-                "template": "AXEW"
-            },
-            {
-                "id": 696,
-                "template": "TYRUNT"
-            },
-            {
-                "id": 698,
-                "template": "AMAURA"
-            },
-            {
-                "id": 704,
-                "template": "GOOMY"
-            },
-            {
-                "id": 744,
-                "template": "ROCKRUFF"
-            },
-            {
-                "id": 777,
-                "template": "TOGEDEMARU"
-            },
-            {
-                "id": 782,
-                "template": "JANGMO_O"
-            },
-            {
-                "id": 403,
-                "template": "SHINX"
-            },
-            {
-                "id": 408,
-                "template": "CRANIDOS"
-            },
-            {
-                "id": 410,
-                "template": "SHIELDON"
-            },
-            {
-                "id": 440,
-                "template": "HAPPINY"
-            },
-            {
-                "id": 446,
-                "template": "MUNCHLAX"
-            },
-            {
-                "id": 592,
-                "template": "FRILLISH"
-            },
-            {
-                "id": 147,
-                "template": "DRATINI"
-            },
-            {
-                "id": 374,
-                "template": "BELDUM"
-            },
-            {
-                "id": 443,
-                "template": "GIBLE"
-            }
-        ],
+        "spawns": [],
+        "eggs": [],
         "raids": [],
         "shinies": [],
         "bonuses": [
@@ -489,10 +25,24 @@
         "has_spawnpoints": false
     },
     {
-        "name": "Unannounced Event",
-        "type": "event",
-        "start": "2023-07-22 00:00",
-        "end": "2023-07-22 23:59",
+        "name": "Water Festival Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2023-06-06 18:00",
+        "end": "2023-06-06 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": true
+    },
+    {
+        "name": "Uxie, Mesprit, and Azelf Raid Hour",
+        "type": "raid-hour",
+        "start": "2023-06-14 18:00",
+        "end": "2023-06-14 19:00",
         "spawns": [],
         "eggs": [],
         "raids": [],
@@ -511,10 +61,161 @@
         "eggs": [],
         "raids": [],
         "shinies": [],
-        "bonuses": [],
-        "features": [],
+        "bonuses": [
+            {
+                "text": "Increased Spawns"
+            },
+            {
+                "text": "3x Catch XP",
+                "template": "increased-xp",
+                "value": 3
+            },
+            {
+                "text": "3-hour Incense**",
+                "template": "longer-incense",
+                "value": 3
+            },
+            {
+                "text": "3-hour Lures***",
+                "template": "longer-lure",
+                "value": 3
+            },
+            {
+                "text": "2x Catch Candy",
+                "template": "increased-candy",
+                "value": 2
+            },
+            {
+                "text": "2x Chance to receive Candy XL from catching Pokémon",
+                "value": 2
+            },
+            {
+                "text": "One additional Special Trade can be made for a maximum of three for the day*"
+            },
+            {
+                "text": "Trades made will require 50% less Stardust*",
+                "template": "increased-stardust",
+                "value": 50
+            }
+        ],
+        "features": [
+            "Trainer Battles: 50 power and guaranteed to lower the opponent’s attack",
+            "Gyms and raids: 35 power"
+        ],
         "has_quests": true,
         "has_spawnpoints": true
+    },
+    {
+        "name": "Water Festival: Beach Week",
+        "type": "event",
+        "start": "2023-06-06 10:00",
+        "end": "2023-06-12 20:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [
+            {
+                "text": "4× Rainy Lure duration",
+                "template": "longer-lure",
+                "value": 4
+            },
+            {
+                "text": "Increased Candy for Nice, Great, and Excellent Throws",
+                "template": "increased-candy"
+            },
+            {
+                "text": "Increased chance for Trainers level 31 and up to receive Candy XL for successfully catching Pokémon with Nice, Great, and Excellent Throws",
+                "value": 31
+            }
+        ],
+        "features": [],
+        "has_quests": true,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Binacle Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2023-06-13 18:00",
+        "end": "2023-06-13 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": true
+    },
+    {
+        "name": "Sunkern Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2023-06-20 18:00",
+        "end": "2023-06-20 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": true
+    },
+    {
+        "name": "Nihilego Raid Hour",
+        "type": "raid-hour",
+        "start": "2023-06-28 18:00",
+        "end": "2023-06-28 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Solstice Horizons",
+        "type": "event",
+        "start": "2023-06-16 10:00",
+        "end": "2023-06-25 20:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Doduo Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2023-06-27 18:00",
+        "end": "2023-06-27 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": true
+    },
+    {
+        "name": "Dark Flames",
+        "type": "event",
+        "start": "2023-06-29 10:00",
+        "end": "2023-07-02 20:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
     },
     {
         "name": "July Community Day Classic",
@@ -529,6 +230,20 @@
         "features": [],
         "has_quests": true,
         "has_spawnpoints": true
+    },
+    {
+        "name": "Unannounced Event",
+        "type": "event",
+        "start": "2023-07-22 00:00",
+        "end": "2023-07-22 23:59",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
     },
     {
         "name": "July Community Day",
@@ -733,6 +448,32 @@
         "raids": [],
         "shinies": [],
         "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Season 11: Hidden Gems",
+        "type": "season",
+        "start": "2023-06-01 10:00",
+        "end": "2023-09-01 10:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [
+            {
+                "text": "One additional Special Trade per day"
+            },
+            {
+                "text": "One additional Pokémon Candy when trading Pokémon",
+                "template": "increased-candy"
+            },
+            {
+                "text": "Trainers level 31 and above will receive one guaranteed Candy XL when trading Pokémon",
+                "value": 31
+            }
+        ],
         "features": [],
         "has_quests": false,
         "has_spawnpoints": false
