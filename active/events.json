@@ -1,30 +1,5 @@
 [
     {
-        "name": "Season 10: Rising Heroes",
-        "type": "season",
-        "start": null,
-        "end": "2023-06-01 10:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [
-            {
-                "text": "Increased damage for Pokémon participating in raids remotely"
-            },
-            {
-                "text": "Team GO Rocket will appear more frequently at PokéStops"
-            },
-            {
-                "text": "Extra Stardust earned from Team GO Rocket encounters",
-                "template": "increased-stardust"
-            }
-        ],
-        "features": [],
-        "has_quests": true,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Water Festival Spotlight Hour",
         "type": "spotlight-hour",
         "start": "2023-06-06 18:00",
