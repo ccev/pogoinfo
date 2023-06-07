@@ -245,6 +245,28 @@
         "shinies": [],
         "bonuses": [
             {
+                "text": "1/2 Hatch Distance for Eggs placed in Incubators during the event",
+                "template": "reduced-hatch-distance",
+                "value": 12
+            },
+            {
+                "text": "Up to 6 Special Trades can be made during the day on your ticket—no matter where you are in Suita City and Osaka City!",
+                "value": 6
+            },
+            {
+                "text": "Reduced Stardust cost for Trades",
+                "template": "increased-stardust"
+            },
+            {
+                "text": "Up to 9 free Raid Passes from spinning Photo Discs at Gyms",
+                "value": 9
+            },
+            {
+                "text": "2× Catch Candy",
+                "template": "increased-candy",
+                "value": 2
+            },
+            {
                 "text": "Up to 18 free Raid Passes per day by spinning Photo Discs at Gyms",
                 "value": 18
             },
@@ -255,7 +277,6 @@
             },
             {
                 "text": "6 additional Candy for catching Pokémon in 5-star and Mega Raids",
-                "template": "increased-candy",
                 "value": 65
             },
             {
@@ -264,7 +285,6 @@
             },
             {
                 "text": "1/4 Egg Hatch Distance",
-                "template": "reduced-hatch-distance",
                 "value": 14
             },
             {
@@ -273,7 +293,6 @@
             },
             {
                 "text": "3× Hatch Stardust",
-                "template": "increased-stardust",
                 "value": 3
             },
             {
@@ -286,7 +305,7 @@
             }
         ],
         "features": [],
-        "has_quests": false,
+        "has_quests": true,
         "has_spawnpoints": false
     },
     {
@@ -300,6 +319,28 @@
         "shinies": [],
         "bonuses": [
             {
+                "text": "1/2 Hatch Distance for Eggs placed in Incubators during the event",
+                "template": "reduced-hatch-distance",
+                "value": 12
+            },
+            {
+                "text": "Up to 6 Special Trades can be made during the day on your ticket—no matter where you are in Greater London!",
+                "value": 6
+            },
+            {
+                "text": "Reduced Stardust cost for Trades",
+                "template": "increased-stardust"
+            },
+            {
+                "text": "Up to 9 free Raid Passes from spinning Photo Discs at Gyms",
+                "value": 9
+            },
+            {
+                "text": "2× Catch Candy",
+                "template": "increased-candy",
+                "value": 2
+            },
+            {
                 "text": "Up to 18 free Raid Passes per day by spinning Photo Discs at Gyms",
                 "value": 18
             },
@@ -310,7 +351,6 @@
             },
             {
                 "text": "6 additional Candy for catching Pokémon in 5-star and Mega Raids",
-                "template": "increased-candy",
                 "value": 65
             },
             {
@@ -319,7 +359,6 @@
             },
             {
                 "text": "1/4 Egg Hatch Distance",
-                "template": "reduced-hatch-distance",
                 "value": 14
             },
             {
@@ -328,7 +367,6 @@
             },
             {
                 "text": "3× Hatch Stardust",
-                "template": "increased-stardust",
                 "value": 3
             },
             {
@@ -341,7 +379,7 @@
             }
         ],
         "features": [],
-        "has_quests": false,
+        "has_quests": true,
         "has_spawnpoints": false
     },
     {
@@ -369,6 +407,28 @@
         "shinies": [],
         "bonuses": [
             {
+                "text": "1/2 Hatch Distance for Eggs placed in Incubators during the event",
+                "template": "reduced-hatch-distance",
+                "value": 12
+            },
+            {
+                "text": "Up to 6 Special Trades can be made during the day on your ticket—no matter where you are in New York City!",
+                "value": 6
+            },
+            {
+                "text": "Reduced Stardust cost for Trades",
+                "template": "increased-stardust"
+            },
+            {
+                "text": "Up to 9 free Raid Passes from spinning Photo Discs at Gyms",
+                "value": 9
+            },
+            {
+                "text": "2× Catch Candy",
+                "template": "increased-candy",
+                "value": 2
+            },
+            {
                 "text": "Up to 18 free Raid Passes per day by spinning Photo Discs at Gyms",
                 "value": 18
             },
@@ -379,7 +439,6 @@
             },
             {
                 "text": "6 additional Candy for catching Pokémon in 5-star and Mega Raids",
-                "template": "increased-candy",
                 "value": 65
             },
             {
@@ -388,7 +447,6 @@
             },
             {
                 "text": "1/4 Egg Hatch Distance",
-                "template": "reduced-hatch-distance",
                 "value": 14
             },
             {
@@ -397,7 +455,6 @@
             },
             {
                 "text": "3× Hatch Stardust",
-                "template": "increased-stardust",
                 "value": 3
             },
             {
@@ -410,7 +467,7 @@
             }
         ],
         "features": [],
-        "has_quests": false,
+        "has_quests": true,
         "has_spawnpoints": false
     },
     {
@@ -422,9 +479,41 @@
         "eggs": [],
         "raids": [],
         "shinies": [],
-        "bonuses": [],
+        "bonuses": [
+            {
+                "text": "Lure Modules activated will last for one hour",
+                "template": "longer-lure"
+            },
+            {
+                "text": "Trainers will be able to enjoy Field Research themed around the different Pokémon habitats"
+            },
+            {
+                "text": "The Remote Raid Pass limit will be increased to 20 per day from Saturday, August 26 at 12:00 a.m. to Sunday, August 27, 2023, at 11:59 p.m. local time",
+                "value": 202612002720231159
+            },
+            {
+                "text": "Take snapshots during the event—you never know who might show up!"
+            },
+            {
+                "text": "Increased chance of encountering Shiny Pokémon"
+            },
+            {
+                "text": "Up to six Special Trades can be made each day"
+            },
+            {
+                "text": "Level up your Elite Collector medal by completing habitat-themed Collection Challenges!"
+            },
+            {
+                "text": "Up to 9 free Raid Passes from spinning Photo Discs at Gyms",
+                "value": 9
+            },
+            {
+                "text": "Special 7 km Eggs",
+                "value": 7
+            }
+        ],
         "features": [],
-        "has_quests": false,
+        "has_quests": true,
         "has_spawnpoints": false
     },
     {
