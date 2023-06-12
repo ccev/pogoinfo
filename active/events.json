@@ -126,7 +126,21 @@
         "has_spawnpoints": false
     },
     {
-        "name": "July Community Day Classic",
+        "name": "GO Battle Day: Clay",
+        "type": "event",
+        "start": "2023-07-02 00:00",
+        "end": "2023-07-02 23:59",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": true,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Squirtle Community Day Classic",
         "type": "community-day",
         "start": "2023-07-09 14:00",
         "end": "2023-07-09 17:00",
@@ -134,8 +148,30 @@
         "eggs": [],
         "raids": [],
         "shinies": [],
-        "bonuses": [],
-        "features": [],
+        "bonuses": [
+            {
+                "text": "Increased Spawns"
+            },
+            {
+                "text": "1/4 Hatch Distance",
+                "template": "reduced-hatch-distance",
+                "value": 14
+            },
+            {
+                "text": "3-hour Incense*",
+                "template": "longer-incense",
+                "value": 3
+            },
+            {
+                "text": "3-hour Lures**",
+                "template": "longer-lure",
+                "value": 3
+            }
+        ],
+        "features": [
+            "Trainer Battles: 80 power",
+            "Gyms and Raids: 90 power"
+        ],
         "has_quests": true,
         "has_spawnpoints": true
     },
