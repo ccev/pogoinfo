@@ -1,33 +1,5 @@
 [
     {
-        "name": "Water Festival: Beach Week",
-        "type": "event",
-        "start": "2023-06-06 10:00",
-        "end": "2023-06-12 20:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [
-            {
-                "text": "4× Rainy Lure duration",
-                "template": "longer-lure",
-                "value": 4
-            },
-            {
-                "text": "Increased Candy for Nice, Great, and Excellent Throws",
-                "template": "increased-candy"
-            },
-            {
-                "text": "Increased chance for Trainers level 31 and up to receive Candy XL for successfully catching Pokémon with Nice, Great, and Excellent Throws",
-                "value": 31
-            }
-        ],
-        "features": [],
-        "has_quests": true,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Binacle Spotlight Hour",
         "type": "spotlight-hour",
         "start": "2023-06-13 18:00",
