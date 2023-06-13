@@ -64,9 +64,18 @@
         "eggs": [],
         "raids": [],
         "shinies": [],
-        "bonuses": [],
+        "bonuses": [
+            {
+                "text": "2x Catch Stardust",
+                "template": "increased-stardust",
+                "value": 2
+            },
+            {
+                "text": "Lunatone and Solrock will both appear in the wild during the event, regardless of your location"
+            }
+        ],
         "features": [],
-        "has_quests": false,
+        "has_quests": true,
         "has_spawnpoints": false
     },
     {
