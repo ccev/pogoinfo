@@ -1,28 +1,5 @@
 [
     {
-        "name": "Solstice Horizons",
-        "type": "event",
-        "start": "2023-06-16 10:00",
-        "end": "2023-06-25 20:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [
-            {
-                "text": "2x Catch Stardust",
-                "template": "increased-stardust",
-                "value": 2
-            },
-            {
-                "text": "Lunatone and Solrock will both appear in the wild during the event, regardless of your location"
-            }
-        ],
-        "features": [],
-        "has_quests": true,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Doduo Spotlight Hour",
         "type": "spotlight-hour",
         "start": "2023-06-27 18:00",
