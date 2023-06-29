@@ -1,19 +1,5 @@
 [
     {
-        "name": "Nihilego Raid Hour",
-        "type": "raid-hour",
-        "start": "2023-06-28 18:00",
-        "end": "2023-06-28 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Dark Flames",
         "type": "event",
         "start": "2023-06-29 10:00",
