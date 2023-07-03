@@ -1,43 +1,5 @@
 [
     {
-        "name": "Dark Flames",
-        "type": "event",
-        "start": "2023-06-29 10:00",
-        "end": "2023-07-02 20:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [
-            {
-                "text": "Additional 25% XP for completing raids",
-                "template": "increased-xp",
-                "value": 25
-            },
-            {
-                "text": "Three additional Candy for completing raids",
-                "template": "increased-candy"
-            },
-            {
-                "text": "Trainers level 31 and above will receive one additional Candy XL for completing raids",
-                "value": 31
-            },
-            {
-                "text": "Team GO Rocket Grunts using Fire-type and Dark-type Pokémon will appear more frequently at PokéStops and in balloons"
-            },
-            {
-                "text": "Incense is more likely to attract Dark-type Pokémon (excluding Daily Adventure Incense)",
-                "template": "longer-incense"
-            },
-            {
-                "text": "Incense is more likely to attract Fire-type Pokémon (excluding Daily Adventure Incense)"
-            }
-        ],
-        "features": [],
-        "has_quests": true,
-        "has_spawnpoints": false
-    },
-    {
         "name": "GO Battle Day: Clay",
         "type": "event",
         "start": "2023-07-01 00:00",
