@@ -1,19 +1,5 @@
 [
     {
-        "name": "GO Battle Day: Clay",
-        "type": "event",
-        "start": "2023-07-01 00:00",
-        "end": "2023-07-02 23:59",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": true,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Rufflet Spotlight Hour",
         "type": "spotlight-hour",
         "start": "2023-07-04 18:00",
@@ -106,7 +92,7 @@
         "has_spawnpoints": false
     },
     {
-        "name": "7th Anniversary Party",
+        "name": "Pokémon GO’s 7th Anniversary Party",
         "type": "event",
         "start": "2023-07-06 10:00",
         "end": "2023-07-12 20:00",
@@ -114,9 +100,67 @@
         "eggs": [],
         "raids": [],
         "shinies": [],
-        "bonuses": [],
+        "bonuses": [
+            {
+                "text": "Increased chance of becoming Lucky Friends",
+                "template": "increased-lucky-chance"
+            },
+            {
+                "text": "Increased chance of Pokémon becoming Lucky through trades"
+            },
+            {
+                "text": "Chance of finding 7, 77—or more!—Gimmighoul Coins when you spin a PokéStop with a Golden Lure Module",
+                "template": "longer-lure",
+                "value": 777
+            },
+            {
+                "text": "July 6: 2× XP for catching Pokémon",
+                "template": "increased-xp",
+                "value": 62
+            },
+            {
+                "text": "July 7: 2× Stardust for catching Pokémon",
+                "template": "increased-stardust",
+                "value": 72
+            },
+            {
+                "text": "July 8: 2× Candy for catching Pokémon",
+                "template": "increased-candy",
+                "value": 82
+            },
+            {
+                "text": "July 9: 1/2 Egg Hatch Distance when Eggs are placed in an Incubator on this day",
+                "template": "reduced-hatch-distance",
+                "value": 912
+            },
+            {
+                "text": "July 10: Friendship levels will increase twice as fast",
+                "value": 10
+            },
+            {
+                "text": "July 11: 2× Candy for transferring Pokémon",
+                "value": 112
+            },
+            {
+                "text": "July 12: 2× XP for evolving Pokémon",
+                "value": 122
+            },
+            {
+                "text": "2× Incense duration",
+                "template": "longer-incense",
+                "value": 2
+            },
+            {
+                "text": "2× Daily Adventure Incense duration",
+                "value": 2
+            },
+            {
+                "text": "2× Lure Duration",
+                "value": 2
+            }
+        ],
         "features": [],
-        "has_quests": false,
+        "has_quests": true,
         "has_spawnpoints": false
     },
     {
