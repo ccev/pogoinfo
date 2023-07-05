@@ -143,6 +143,18 @@
             {
                 "text": "2× Lure Duration",
                 "value": 2
+            },
+            {
+                "text": "2× Incense duration",
+                "value": 2
+            },
+            {
+                "text": "2× Daily Adventure Incense duration",
+                "value": 2
+            },
+            {
+                "text": "2× Lure Duration",
+                "value": 2
             }
         ],
         "features": [],
