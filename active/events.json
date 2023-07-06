@@ -1,19 +1,5 @@
 [
     {
-        "name": "Heatran Raid Hour",
-        "type": "raid-hour",
-        "start": "2023-07-05 18:00",
-        "end": "2023-07-05 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Squirtle Community Day Classic",
         "type": "community-day",
         "start": "2023-07-09 14:00",
