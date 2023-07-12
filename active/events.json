@@ -1,19 +1,5 @@
 [
     {
-        "name": "Wailmer Spotlight Hour",
-        "type": "spotlight-hour",
-        "start": "2023-07-11 18:00",
-        "end": "2023-07-11 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": true
-    },
-    {
         "name": "Articuno, Zapdos, and Moltres Raid Hour",
         "type": "raid-hour",
         "start": "2023-07-12 18:00",
@@ -162,7 +148,21 @@
         "eggs": [],
         "raids": [],
         "shinies": [],
-        "bonuses": [],
+        "bonuses": [
+            {
+                "text": "Increased Chance of hatching Shiny Riolu",
+                "template": "reduced-hatch-distance"
+            },
+            {
+                "text": "2x Stardust from hatching Eggs",
+                "template": "increased-stardust",
+                "value": 2
+            },
+            {
+                "text": "2 km Eggs will drop much more frequently from PokéStops",
+                "value": 2
+            }
+        ],
         "features": [],
         "has_quests": false,
         "has_spawnpoints": false
@@ -259,9 +259,24 @@
         "eggs": [],
         "raids": [],
         "shinies": [],
-        "bonuses": [],
+        "bonuses": [
+            {
+                "text": "2× XP for spinning PokéStops",
+                "template": "increased-xp",
+                "value": 2
+            },
+            {
+                "text": "5× XP for spinning a PokéStop for the first time",
+                "value": 5
+            },
+            {
+                "text": "1/2 Hatch Distance when Eggs are placed into Incubators during the event",
+                "template": "reduced-hatch-distance",
+                "value": 12
+            }
+        ],
         "features": [],
-        "has_quests": false,
+        "has_quests": true,
         "has_spawnpoints": false
     },
     {
