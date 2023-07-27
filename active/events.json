@@ -1,19 +1,5 @@
 [
     {
-        "name": "Regidrago Raid Hour",
-        "type": "raid-hour",
-        "start": "2023-07-26 18:00",
-        "end": "2023-07-26 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Poliwag Community Day",
         "type": "community-day",
         "start": "2023-07-30 14:00",
