@@ -116,6 +116,18 @@
                 "value": 2
             },
             {
+                "text": "1.5× Hatch Stardust",
+                "value": 15
+            },
+            {
+                "text": "1.5× Hatch Candy",
+                "value": 15
+            },
+            {
+                "text": "2× friendship bonus damage in raids",
+                "value": 2
+            },
+            {
                 "text": "Up to 18 free Raid Passes per day by spinning Photo Discs at Gyms",
                 "value": 18
             },
@@ -187,6 +199,18 @@
             {
                 "text": "2× Catch Candy",
                 "template": "increased-candy",
+                "value": 2
+            },
+            {
+                "text": "1.5× Hatch Stardust",
+                "value": 15
+            },
+            {
+                "text": "1.5× Hatch Candy",
+                "value": 15
+            },
+            {
+                "text": "2× friendship bonus damage in raids",
                 "value": 2
             },
             {
@@ -322,6 +346,18 @@
             {
                 "text": "2× Catch Candy",
                 "template": "increased-candy",
+                "value": 2
+            },
+            {
+                "text": "1.5× Hatch Stardust",
+                "value": 15
+            },
+            {
+                "text": "1.5× Hatch Candy",
+                "value": 15
+            },
+            {
+                "text": "2× friendship bonus damage in raids",
                 "value": 2
             },
             {
