@@ -76,7 +76,15 @@
         "eggs": [],
         "raids": [],
         "shinies": [],
-        "bonuses": [],
+        "bonuses": [
+            {
+                "text": "The maximum number of sets you can play per day in the GO Battle League will go up from 5 to 10",
+                "value": 510
+            },
+            {
+                "text": "Pokémon encountered via GO Battle League rewards will have a wider variance of Attack, Defense, and HP"
+            }
+        ],
         "features": [],
         "has_quests": true,
         "has_spawnpoints": false
