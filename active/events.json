@@ -158,9 +158,21 @@
         "eggs": [],
         "raids": [],
         "shinies": [],
-        "bonuses": [],
+        "bonuses": [
+            {
+                "text": "2× Catch Candy",
+                "template": "increased-candy",
+                "value": 2
+            },
+            {
+                "text": "Team GO Rocket balloons appear more frequently"
+            },
+            {
+                "text": "One additional free Raid Pass per day from spinning Gym Photo Discs"
+            }
+        ],
         "features": [],
-        "has_quests": false,
+        "has_quests": true,
         "has_spawnpoints": false
     },
     {
