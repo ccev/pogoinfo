@@ -1,41 +1,5 @@
 [
     {
-        "name": "Stufful Spotlight Hour",
-        "type": "spotlight-hour",
-        "start": "2023-08-15 18:00",
-        "end": "2023-08-15 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": true
-    },
-    {
-        "name": "Pokémon GO World Championships Event",
-        "type": "event",
-        "start": "2023-08-11 10:00",
-        "end": "2023-08-15 20:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [
-            {
-                "text": "The maximum number of sets you can play per day in the GO Battle League will go up from 5 to 10",
-                "value": 510
-            },
-            {
-                "text": "Pokémon encountered via GO Battle League rewards will have a wider variance of Attack, Defense, and HP"
-            }
-        ],
-        "features": [],
-        "has_quests": true,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Xerneas Raid Hour",
         "type": "raid-hour",
         "start": "2023-08-16 18:00",
