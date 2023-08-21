@@ -1,91 +1,5 @@
 [
     {
-        "name": "Pokémon GO Fest 2023: New York City",
-        "type": "event",
-        "start": "2023-08-18 15:00",
-        "end": "2023-08-21 00:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [
-            {
-                "text": "1/2 Hatch Distance for Eggs placed in Incubators during the event",
-                "template": "reduced-hatch-distance",
-                "value": 12
-            },
-            {
-                "text": "Up to 6 Special Trades can be made during the day on your ticket—no matter where you are in New York City!",
-                "value": 6
-            },
-            {
-                "text": "Reduced Stardust cost for Trades",
-                "template": "increased-stardust"
-            },
-            {
-                "text": "Up to 9 free Raid Passes from spinning Photo Discs at Gyms",
-                "value": 9
-            },
-            {
-                "text": "2× Catch Candy",
-                "template": "increased-candy",
-                "value": 2
-            },
-            {
-                "text": "1.5× Hatch Stardust",
-                "value": 15
-            },
-            {
-                "text": "1.5× Hatch Candy",
-                "value": 15
-            },
-            {
-                "text": "2× friendship bonus damage in raids",
-                "value": 2
-            },
-            {
-                "text": "Up to 18 free Raid Passes per day by spinning Photo Discs at Gyms",
-                "value": 18
-            },
-            {
-                "text": "5,000 additional XP awarded for completed raids",
-                "template": "increased-xp",
-                "value": 5000
-            },
-            {
-                "text": "6 additional Candy for catching Pokémon in 5-star and Mega Raids",
-                "value": 65
-            },
-            {
-                "text": "3 additional Candy XL for catching Pokémon in 5-star and Mega Raids (Trainers level 31+)",
-                "value": 3531
-            },
-            {
-                "text": "1/4 Egg Hatch Distance",
-                "value": 14
-            },
-            {
-                "text": "Increased chance of receiving 10 km Eggs from spinning PokéStops and Gyms",
-                "value": 10
-            },
-            {
-                "text": "3× Hatch Stardust",
-                "value": 3
-            },
-            {
-                "text": "3× Hatch XP",
-                "value": 3
-            },
-            {
-                "text": "3× Hatch Candy",
-                "value": 3
-            }
-        ],
-        "features": [],
-        "has_quests": true,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Venonat Spotlight Hour",
         "type": "spotlight-hour",
         "start": "2023-08-22 18:00",
@@ -171,8 +85,8 @@
                 "text": "Trainers will be able to enjoy Field Research themed around the different Pokémon habitats"
             },
             {
-                "text": "The Remote Raid Pass limit will be increased to 20 per day from Saturday, August 26 at 12:00 a.m. to Sunday, August 27, 2023, at 11:59 p.m. local time",
-                "value": 202612002720231159
+                "text": "There will be no daily Remote Raid Pass limit from Saturday, August 26 at 12:00 a.m. to Sunday, August 27, 2023, at 11:59 p.m. local time",
+                "value": 2612002720231159
             },
             {
                 "text": "Take snapshots during the event—you never know who might show up!"
@@ -217,8 +131,8 @@
                 "text": "Trainers will be able to enjoy Field Research themed around the different Pokémon habitats"
             },
             {
-                "text": "The Remote Raid Pass limit will be increased to 20 per day from Saturday, August 26 at 12:00 a.m. to Sunday, August 27, 2023, at 11:59 p.m. local time",
-                "value": 202612002720231159
+                "text": "There will be no daily Remote Raid Pass limit from Saturday, August 26 at 12:00 a.m. to Sunday, August 27, 2023, at 11:59 p.m. local time",
+                "value": 2612002720231159
             },
             {
                 "text": "Take snapshots during the event—you never know who might show up!"
