@@ -214,6 +214,20 @@
         "has_spawnpoints": false
     },
     {
+        "name": "September Community Day Classic",
+        "type": "community-day",
+        "start": "2023-09-02 14:00",
+        "end": "2023-09-02 17:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": true,
+        "has_spawnpoints": true
+    },
+    {
         "name": "Unannounced Event - September 17",
         "type": "event",
         "start": "2023-09-17 14:00",
@@ -324,5 +338,19 @@
         "features": [],
         "has_quests": false,
         "has_spawnpoints": false
+    },
+    {
+        "name": "November Community Day Classic",
+        "type": "community-day",
+        "start": "2023-11-25 14:00",
+        "end": "2023-11-25 17:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": true,
+        "has_spawnpoints": true
     }
 ]
