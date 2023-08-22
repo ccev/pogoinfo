@@ -92,6 +92,10 @@
                 "text": "Take snapshots during the event—you never know who might show up!"
             },
             {
+                "text": "On Saturday, August 26, Trainers will be able to collect new Field Research tasks from PokéStops each hour from 10:00 a.m. to 6:00 p.m. local time!",
+                "value": 261000600
+            },
+            {
                 "text": "Increased chance of encountering Shiny Pokémon"
             },
             {
@@ -107,6 +111,16 @@
             {
                 "text": "Special 7 km Eggs",
                 "value": 7
+            },
+            {
+                "text": "4× Catch XP",
+                "template": "increased-xp",
+                "value": 4
+            },
+            {
+                "text": "4× Catch Stardust",
+                "template": "increased-stardust",
+                "value": 4
             }
         ],
         "features": [],
