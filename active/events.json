@@ -1,45 +1,5 @@
 [
     {
-        "name": "Venonat Spotlight Hour",
-        "type": "spotlight-hour",
-        "start": "2023-08-22 18:00",
-        "end": "2023-08-22 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": true
-    },
-    {
-        "name": "Noxious Swamp",
-        "type": "event",
-        "start": "2023-08-19 10:00",
-        "end": "2023-08-22 20:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [
-            {
-                "text": "2× Catch Candy",
-                "template": "increased-candy",
-                "value": 2
-            },
-            {
-                "text": "Team GO Rocket balloons appear more frequently"
-            },
-            {
-                "text": "One additional free Raid Pass per day from spinning Gym Photo Discs"
-            }
-        ],
-        "features": [],
-        "has_quests": true,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Primal Kyogre Raid Hour",
         "type": "raid-hour",
         "start": "2023-08-23 18:00",
