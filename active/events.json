@@ -24,10 +24,6 @@
                 "text": "Collect new Field Research tasks from PokéStops each hour during the event"
             },
             {
-                "text": "Pokémon will appear more frequently from Incense even when Stationary",
-                "template": "longer-incense"
-            },
-            {
                 "text": "Increased chance of encountering Shiny Pokémon"
             },
             {
@@ -40,6 +36,10 @@
             {
                 "text": "Special 7 km Eggs",
                 "value": 7
+            },
+            {
+                "text": "Pokémon will appear more frequently from Incense even when Stationary",
+                "template": "longer-incense"
             },
             {
                 "text": "2× Catch Stardust",
