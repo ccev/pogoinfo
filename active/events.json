@@ -42,13 +42,26 @@
                 "value": 7
             },
             {
-                "text": "4× Catch XP",
+                "text": "2× Catch Stardust",
+                "template": "increased-stardust",
+                "value": 2
+            },
+            {
+                "text": "2× Catch Candy",
+                "template": "increased-candy",
+                "value": 2
+            },
+            {
+                "text": "2× Catch XP",
                 "template": "increased-xp",
+                "value": 2
+            },
+            {
+                "text": "4× Catch XP",
                 "value": 4
             },
             {
                 "text": "4× Catch Stardust",
-                "template": "increased-stardust",
                 "value": 4
             }
         ],
