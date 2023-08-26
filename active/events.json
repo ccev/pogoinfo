@@ -17,24 +17,21 @@
                 "text": "Trainers will be able to enjoy Field Research themed around the different Pokémon habitats"
             },
             {
-                "text": "There will be no daily Remote Raid Pass limit from Saturday, August 26 at 12:00 a.m. to Sunday, August 27, 2023, at 11:59 p.m. local time",
+                "text": "There will be no daily Remote Raid Pass limit from Saturday, August 26 at 12:00 a.m. to Sunday, August 27, 2023, at 11:59 p.m. local time*",
                 "value": 2612002720231159
             },
             {
-                "text": "Take snapshots during the event—you never know who might show up!"
+                "text": "Collect new Field Research tasks from PokéStops each hour during the event"
             },
             {
-                "text": "On Saturday, August 26, Trainers will be able to collect new Field Research tasks from PokéStops each hour from 10:00 a.m. to 6:00 p.m. local time!",
-                "value": 261000600
+                "text": "Pokémon will appear more frequently from Incense even when Stationary",
+                "template": "longer-incense"
             },
             {
                 "text": "Increased chance of encountering Shiny Pokémon"
             },
             {
                 "text": "Up to six Special Trades can be made each day"
-            },
-            {
-                "text": "Level up your Elite Collector medal by completing habitat-themed Collection Challenges!"
             },
             {
                 "text": "Up to 9 free Raid Passes from spinning Photo Discs at Gyms per day",
@@ -74,10 +71,7 @@
                 "template": "longer-lure"
             },
             {
-                "text": "Trainers will be able to enjoy Field Research themed around the different Pokémon habitats"
-            },
-            {
-                "text": "There will be no daily Remote Raid Pass limit from Saturday, August 26 at 12:00 a.m. to Sunday, August 27, 2023, at 11:59 p.m. local time",
+                "text": "There will be no daily Remote Raid Pass limit from Saturday, August 26 at 12:00 a.m. to Sunday, August 27, 2023, at 11:59 p.m. local time*",
                 "value": 2612002720231159
             },
             {
@@ -88,9 +82,6 @@
             },
             {
                 "text": "Up to six Special Trades can be made each day"
-            },
-            {
-                "text": "Level up your Elite Collector medal by completing habitat-themed Collection Challenges!"
             },
             {
                 "text": "Up to 9 free Raid Passes from spinning Photo Discs at Gyms per day",
