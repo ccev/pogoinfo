@@ -54,7 +54,7 @@
         "has_spawnpoints": false
     },
     {
-        "name": "September Community Day Classic",
+        "name": "Charmander Community Day Classic",
         "type": "community-day",
         "start": "2023-09-02 14:00",
         "end": "2023-09-02 17:00",
@@ -80,10 +80,7 @@
                 "value": 3
             }
         ],
-        "features": [
-            "Trainer Battles: 110 power",
-            "Gyms and Raids: 110 power"
-        ],
+        "features": [],
         "has_quests": true,
         "has_spawnpoints": true
     },
