@@ -62,28 +62,8 @@
         "eggs": [],
         "raids": [],
         "shinies": [],
-        "bonuses": [
-            {
-                "text": "Increased Spawns"
-            },
-            {
-                "text": "???"
-            },
-            {
-                "text": "3-hour Incense*",
-                "template": "longer-incense",
-                "value": 3
-            },
-            {
-                "text": "3-hour Lures**",
-                "template": "longer-lure",
-                "value": 3
-            }
-        ],
-        "features": [
-            "Trainer Battles: 110 power",
-            "Gyms and Raids: 110 power"
-        ],
+        "bonuses": [],
+        "features": [],
         "has_quests": true,
         "has_spawnpoints": true
     },
