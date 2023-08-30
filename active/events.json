@@ -1,19 +1,5 @@
 [
     {
-        "name": "Tentacool Spotlight Hour",
-        "type": "spotlight-hour",
-        "start": "2023-08-29 18:00",
-        "end": "2023-08-29 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": true
-    },
-    {
         "name": "Yveltal Raid Hour",
         "type": "raid-hour",
         "start": "2023-08-30 18:00",
@@ -67,7 +53,9 @@
                 "text": "Increased Spawns"
             },
             {
-                "text": "???"
+                "text": "3x Catch Stardust",
+                "template": "increased-stardust",
+                "value": 3
             },
             {
                 "text": "3-hour Incense*",
@@ -80,7 +68,12 @@
                 "value": 3
             }
         ],
-        "features": [],
+        "features": [
+            "Trainer Battles: 4 power",
+            "Gyms and Raids: 6 power",
+            "Trainer Battles: 110 power",
+            "Gyms and Raids: 110 power"
+        ],
         "has_quests": true,
         "has_spawnpoints": true
     },
