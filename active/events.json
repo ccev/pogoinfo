@@ -78,6 +78,34 @@
         "has_spawnpoints": true
     },
     {
+        "name": "Wooper Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2023-09-05 18:00",
+        "end": "2023-09-05 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": true
+    },
+    {
+        "name": "Mankey Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2023-09-12 18:00",
+        "end": "2023-09-12 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": true
+    },
+    {
         "name": "Unannounced Event - September 17",
         "type": "event",
         "start": "2023-09-17 14:00",
@@ -90,6 +118,34 @@
         "features": [],
         "has_quests": false,
         "has_spawnpoints": false
+    },
+    {
+        "name": "Girafarig Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2023-09-19 18:00",
+        "end": "2023-09-19 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": true
+    },
+    {
+        "name": "Growlithe Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2023-09-19 18:00",
+        "end": "2023-09-19 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": true
     },
     {
         "name": "September Community Day",
@@ -204,7 +260,7 @@
         "has_spawnpoints": true
     },
     {
-        "name": "Season 12: Adventures Abound",
+        "name": "Adventures Abound",
         "type": "season",
         "start": "2023-09-01 10:00",
         "end": "2023-12-01 10:00",
@@ -212,9 +268,25 @@
         "eggs": [],
         "raids": [],
         "shinies": [],
-        "bonuses": [],
+        "bonuses": [
+            {
+                "text": "Trainers can open up to 40 Gifts daily",
+                "value": 40
+            },
+            {
+                "text": "Trainers can send up to 40 Gifts daily",
+                "value": 40
+            },
+            {
+                "text": "Increased damage when participating in raids with a friend"
+            },
+            {
+                "text": "Increased XP from going up a Friendship level",
+                "template": "increased-xp"
+            }
+        ],
         "features": [],
-        "has_quests": false,
+        "has_quests": true,
         "has_spawnpoints": false
     }
 ]
