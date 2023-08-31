@@ -1,19 +1,5 @@
 [
     {
-        "name": "Yveltal Raid Hour",
-        "type": "raid-hour",
-        "start": "2023-08-30 18:00",
-        "end": "2023-08-30 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Season 11: Hidden Gems",
         "type": "season",
         "start": "2023-06-01 10:00",
@@ -402,7 +388,7 @@
                 "value": 40
             },
             {
-                "text": "Trainers can send up to 40 Gifts daily",
+                "text": "Trainers can hold up to 40 Gifts in their Item Bag",
                 "value": 40
             },
             {
