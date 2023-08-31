@@ -106,6 +106,35 @@
         "has_spawnpoints": false
     },
     {
+        "name": "A Paldean Adventure",
+        "type": "event",
+        "start": "2023-09-05 10:00",
+        "end": "2023-09-10 20:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [
+            {
+                "text": "4× XP for catching Pokémon",
+                "template": "increased-xp",
+                "value": 4
+            },
+            {
+                "text": "4× Stardust for catching Pokémon",
+                "template": "increased-stardust",
+                "value": 4
+            },
+            {
+                "text": "PokéStops may turn gold without a Golden Lure Module*",
+                "template": "longer-lure"
+            }
+        ],
+        "features": [],
+        "has_quests": true,
+        "has_spawnpoints": false
+    },
+    {
         "name": "Mankey Spotlight Hour",
         "type": "spotlight-hour",
         "start": "2023-09-12 18:00",
@@ -120,7 +149,36 @@
         "has_spawnpoints": true
     },
     {
-        "name": "Unannounced Event - September 17",
+        "name": "Ultra Unlock: Paldea",
+        "type": "event",
+        "start": "2023-09-10 10:00",
+        "end": "2023-09-15 20:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [
+            {
+                "text": "4× XP for catching Pokémon",
+                "template": "increased-xp",
+                "value": 4
+            },
+            {
+                "text": "4× Stardust for catching Pokémon",
+                "template": "increased-stardust",
+                "value": 4
+            },
+            {
+                "text": "PokéStops may turn gold without a Golden Lure Module*",
+                "template": "longer-lure"
+            }
+        ],
+        "features": [],
+        "has_quests": true,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Oddish Research Day",
         "type": "event",
         "start": "2023-09-17 14:00",
         "end": "2023-09-17 17:00",
@@ -176,6 +234,20 @@
         "has_spawnpoints": true
     },
     {
+        "name": "Psychic Spectacular",
+        "type": "event",
+        "start": "2023-09-20 10:00",
+        "end": "2023-09-24 20:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
         "name": "Growlithe Spotlight Hour",
         "type": "spotlight-hour",
         "start": "2023-09-26 18:00",
@@ -204,10 +276,24 @@
         "has_spawnpoints": false
     },
     {
-        "name": "Unannounced Event - September 30",
+        "name": "Azurill Hatch Day",
         "type": "event",
         "start": "2023-09-30 14:00",
         "end": "2023-09-30 17:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Out to Play",
+        "type": "event",
+        "start": "2023-09-27 10:00",
+        "end": "2023-10-02 20:00",
         "spawns": [],
         "eggs": [],
         "raids": [],
