@@ -395,8 +395,9 @@
                 "text": "Increased damage when participating in raids with a friend"
             },
             {
-                "text": "Increased XP from going up a Friendship level",
-                "template": "increased-xp"
+                "text": "1.5x XP from going up a Friendship level",
+                "template": "increased-xp",
+                "value": 15
             }
         ],
         "features": [],
