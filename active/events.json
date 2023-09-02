@@ -1,31 +1,5 @@
 [
     {
-        "name": "Season 11: Hidden Gems",
-        "type": "season",
-        "start": "2023-06-01 10:00",
-        "end": "2023-09-01 10:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [
-            {
-                "text": "One additional Special Trade per day"
-            },
-            {
-                "text": "One additional Pokémon Candy when trading Pokémon",
-                "template": "increased-candy"
-            },
-            {
-                "text": "Trainers level 31 and above will receive one guaranteed Candy XL when trading Pokémon",
-                "value": 31
-            }
-        ],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Charmander Community Day Classic",
         "type": "community-day",
         "start": "2023-09-02 14:00",
