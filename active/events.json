@@ -1,43 +1,5 @@
 [
     {
-        "name": "Charmander Community Day Classic",
-        "type": "community-day",
-        "start": "2023-09-02 14:00",
-        "end": "2023-09-02 17:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [
-            {
-                "text": "Increased Spawns"
-            },
-            {
-                "text": "3x Catch Stardust",
-                "template": "increased-stardust",
-                "value": 3
-            },
-            {
-                "text": "3-hour Incense*",
-                "template": "longer-incense",
-                "value": 3
-            },
-            {
-                "text": "3-hour Lures**",
-                "template": "longer-lure",
-                "value": 3
-            }
-        ],
-        "features": [
-            "Trainer Battles: 4 power",
-            "Gyms and Raids: 6 power",
-            "Trainer Battles: 110 power",
-            "Gyms and Raids: 110 power"
-        ],
-        "has_quests": true,
-        "has_spawnpoints": true
-    },
-    {
         "name": "Wooper Spotlight Hour",
         "type": "spotlight-hour",
         "start": "2023-09-05 18:00",
