@@ -1,19 +1,5 @@
 [
     {
-        "name": "Kartana and Celesteela Raid Hour",
-        "type": "raid-hour",
-        "start": "2023-09-13 18:00",
-        "end": "2023-09-13 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
         "name": "A Paldean Adventure",
         "type": "event",
         "start": "2023-09-05 10:00",
@@ -57,6 +43,20 @@
         "has_spawnpoints": true
     },
     {
+        "name": "Kartana and Celesteela Raid Hour",
+        "type": "raid-hour",
+        "start": "2023-09-13 18:00",
+        "end": "2023-09-13 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
         "name": "Ultra Unlock: Paldea",
         "type": "event",
         "start": "2023-09-10 10:00",
@@ -94,9 +94,24 @@
         "eggs": [],
         "raids": [],
         "shinies": [],
-        "bonuses": [],
+        "bonuses": [
+            {
+                "text": "2× Stardust for catching Pokémon",
+                "template": "increased-stardust",
+                "value": 2
+            },
+            {
+                "text": "Increased chance of finding XXS or XXL Oddish"
+            },
+            {
+                "text": "Wild Oddish may be holding a Sun Stone"
+            },
+            {
+                "text": "Increased chance of encountering Shiny Oddish"
+            }
+        ],
         "features": [],
-        "has_quests": false,
+        "has_quests": true,
         "has_spawnpoints": false
     },
     {
