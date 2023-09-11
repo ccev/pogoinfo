@@ -1,34 +1,5 @@
 [
     {
-        "name": "A Paldean Adventure",
-        "type": "event",
-        "start": "2023-09-05 10:00",
-        "end": "2023-09-10 10:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [
-            {
-                "text": "4× XP for catching Pokémon",
-                "template": "increased-xp",
-                "value": 4
-            },
-            {
-                "text": "4× Stardust for catching Pokémon",
-                "template": "increased-stardust",
-                "value": 4
-            },
-            {
-                "text": "PokéStops may turn gold without a Golden Lure Module*",
-                "template": "longer-lure"
-            }
-        ],
-        "features": [],
-        "has_quests": true,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Mankey Spotlight Hour",
         "type": "spotlight-hour",
         "start": "2023-09-12 18:00",
@@ -204,9 +175,14 @@
         "eggs": [],
         "raids": [],
         "shinies": [],
-        "bonuses": [],
+        "bonuses": [
+            {
+                "text": "Increased XP for successfully catching Pokémon with Curveball Throws",
+                "template": "increased-xp"
+            }
+        ],
         "features": [],
-        "has_quests": false,
+        "has_quests": true,
         "has_spawnpoints": false
     },
     {
