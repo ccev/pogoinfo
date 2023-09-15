@@ -1,33 +1,5 @@
 [
     {
-        "name": "Mankey Spotlight Hour",
-        "type": "spotlight-hour",
-        "start": "2023-09-12 18:00",
-        "end": "2023-09-12 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": true
-    },
-    {
-        "name": "Kartana and Celesteela Raid Hour",
-        "type": "raid-hour",
-        "start": "2023-09-13 18:00",
-        "end": "2023-09-13 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Ultra Unlock: Paldea",
         "type": "event",
         "start": "2023-09-10 10:00",
