@@ -1,34 +1,5 @@
 [
     {
-        "name": "Oddish Research Day",
-        "type": "event",
-        "start": "2023-09-17 14:00",
-        "end": "2023-09-17 17:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [
-            {
-                "text": "2× Stardust for catching Pokémon",
-                "template": "increased-stardust",
-                "value": 2
-            },
-            {
-                "text": "Increased chance of finding XXS or XXL Oddish"
-            },
-            {
-                "text": "Oddish you encounter may drop a Sun Stone upon capture"
-            },
-            {
-                "text": "Increased chance of encountering Shiny Oddish"
-            }
-        ],
-        "features": [],
-        "has_quests": true,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Girafarig Spotlight Hour",
         "type": "spotlight-hour",
         "start": "2023-09-19 18:00",
