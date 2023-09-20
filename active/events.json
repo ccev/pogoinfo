@@ -1,19 +1,5 @@
 [
     {
-        "name": "Girafarig Spotlight Hour",
-        "type": "spotlight-hour",
-        "start": "2023-09-19 18:00",
-        "end": "2023-09-19 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": true
-    },
-    {
         "name": "Genesect with a Burn Drive Raid Hour",
         "type": "raid-hour",
         "start": "2023-09-20 18:00",
@@ -136,9 +122,28 @@
         "eggs": [],
         "raids": [],
         "shinies": [],
-        "bonuses": [],
+        "bonuses": [
+            {
+                "text": "Increased Chance of hatching Shiny Azurill",
+                "template": "reduced-hatch-distance"
+            },
+            {
+                "text": "2x Candy from hatching Eggs",
+                "template": "increased-candy",
+                "value": 2
+            },
+            {
+                "text": "2x Stardust from hatching Eggs",
+                "template": "increased-stardust",
+                "value": 2
+            },
+            {
+                "text": "2 km Eggs will drop much more frequently from PokéStops",
+                "value": 2
+            }
+        ],
         "features": [],
-        "has_quests": false,
+        "has_quests": true,
         "has_spawnpoints": false
     },
     {
@@ -150,9 +155,30 @@
         "eggs": [],
         "raids": [],
         "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
+        "bonuses": [
+            {
+                "text": "Kecleon will be appearing more frequently at PokéStops"
+            },
+            {
+                "text": "3× XP for completing a Route",
+                "template": "increased-xp",
+                "value": 3
+            },
+            {
+                "text": "Earn Buddy Candy faster while exploring Routes with your buddy",
+                "template": "increased-candy"
+            }
+        ],
+        "features": [
+            "Increased Route availability across the globe.",
+            "A lower level requirement for Trainers to create Routes.",
+            "Several quality of life improvements, including seeing more Routes listed in the Nearby menu, directional arrows on Routes, and a running count of the Zygarde Cells you’ve collected in the Zygarde Cube details.",
+            "More Trainers will be able to create Routes.",
+            "Trainers will be able to find Zygarde Cells more often while exploring Routes.",
+            "A new notification will be available to inform Trainers when there are Routes nearby.",
+            "Various quality of life improvements."
+        ],
+        "has_quests": true,
         "has_spawnpoints": false
     },
     {
