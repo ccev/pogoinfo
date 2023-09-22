@@ -168,6 +168,20 @@
         "has_spawnpoints": false
     },
     {
+        "name": "Slowpoke Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2023-10-03 18:00",
+        "end": "2023-10-03 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": true
+    },
+    {
         "name": "Unannounced Event - October 7-8",
         "type": "event",
         "start": "2023-10-07 10:00",
@@ -180,6 +194,20 @@
         "features": [],
         "has_quests": false,
         "has_spawnpoints": false
+    },
+    {
+        "name": "Shroomish Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2023-10-10 18:00",
+        "end": "2023-10-10 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": true
     },
     {
         "name": "October Community Day",
@@ -196,6 +224,20 @@
         "has_spawnpoints": true
     },
     {
+        "name": "Pumpkaboo Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2023-10-17 18:00",
+        "end": "2023-10-17 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": true
+    },
+    {
         "name": "Unannounced Event - October 21",
         "type": "event",
         "start": "2023-10-21 14:00",
@@ -208,6 +250,34 @@
         "features": [],
         "has_quests": false,
         "has_spawnpoints": false
+    },
+    {
+        "name": "Phantump Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2023-10-24 18:00",
+        "end": "2023-10-24 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": true
+    },
+    {
+        "name": "Yamask Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2023-10-31 18:00",
+        "end": "2023-10-31 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": true
     },
     {
         "name": "November Community Day",
