@@ -1,77 +1,5 @@
 [
     {
-        "name": "Grubbin Community Day",
-        "type": "community-day",
-        "start": "2023-09-23 14:00",
-        "end": "2023-09-23 17:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [
-            {
-                "text": "Increased Spawns"
-            },
-            {
-                "text": "3x Catch XP",
-                "template": "increased-xp",
-                "value": 3
-            },
-            {
-                "text": "3-hour Incense**",
-                "template": "longer-incense",
-                "value": 3
-            },
-            {
-                "text": "3-hour Lures***",
-                "template": "longer-lure",
-                "value": 3
-            },
-            {
-                "text": "2x Catch Candy",
-                "template": "increased-candy",
-                "value": 2
-            },
-            {
-                "text": "2x Chance to receive Candy XL from catching Pokémon",
-                "value": 2
-            },
-            {
-                "text": "One additional Special Trade can be made for a maximum of two for the day*"
-            },
-            {
-                "text": "Trades made will require 50% less Stardust*",
-                "template": "increased-stardust",
-                "value": 50
-            }
-        ],
-        "features": [
-            "Trainer Battles: 12 power",
-            "Gyms and raids: 14 power"
-        ],
-        "has_quests": true,
-        "has_spawnpoints": true
-    },
-    {
-        "name": "Psychic Spectacular",
-        "type": "event",
-        "start": "2023-09-20 10:00",
-        "end": "2023-09-24 20:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [
-            {
-                "text": "Increased XP for successfully catching Pokémon with Curveball Throws",
-                "template": "increased-xp"
-            }
-        ],
-        "features": [],
-        "has_quests": true,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Growlithe Spotlight Hour",
         "type": "spotlight-hour",
         "start": "2023-09-26 18:00",
@@ -224,7 +152,7 @@
         "has_spawnpoints": false
     },
     {
-        "name": "October Community Day",
+        "name": "Timburr Community Day",
         "type": "community-day",
         "start": "2023-10-15 14:00",
         "end": "2023-10-15 17:00",
@@ -232,8 +160,45 @@
         "eggs": [],
         "raids": [],
         "shinies": [],
-        "bonuses": [],
-        "features": [],
+        "bonuses": [
+            {
+                "text": "Increased Spawns"
+            },
+            {
+                "text": "???"
+            },
+            {
+                "text": "3-hour Incense**",
+                "template": "longer-incense",
+                "value": 3
+            },
+            {
+                "text": "3-hour Lures***",
+                "template": "longer-lure",
+                "value": 3
+            },
+            {
+                "text": "2x Catch Candy",
+                "template": "increased-candy",
+                "value": 2
+            },
+            {
+                "text": "2x Chance to receive Candy XL from catching Pokémon",
+                "value": 2
+            },
+            {
+                "text": "One additional Special Trade can be made for a maximum of two for the day*"
+            },
+            {
+                "text": "Trades made will require 50% less Stardust*",
+                "template": "increased-stardust",
+                "value": 50
+            }
+        ],
+        "features": [
+            "Trainer Battles: ???",
+            "Gyms and raids: ???"
+        ],
         "has_quests": true,
         "has_spawnpoints": true
     },
