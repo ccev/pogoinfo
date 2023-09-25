@@ -165,7 +165,9 @@
                 "text": "Increased Spawns"
             },
             {
-                "text": "???"
+                "text": "3x Catch Stardust",
+                "template": "increased-stardust",
+                "value": 3
             },
             {
                 "text": "3-hour Incense**",
@@ -191,13 +193,12 @@
             },
             {
                 "text": "Trades made will require 50% less Stardust*",
-                "template": "increased-stardust",
                 "value": 50
             }
         ],
         "features": [
-            "Trainer Battles: ???",
-            "Gyms and raids: ???"
+            "Trainer Battles: 65 power",
+            "Gyms and raids: 65 power"
         ],
         "has_quests": true,
         "has_spawnpoints": true
