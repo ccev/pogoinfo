@@ -79,8 +79,9 @@
                 "value": 3
             },
             {
-                "text": "Earn Buddy Candy faster while exploring Routes with your buddy",
-                "template": "increased-candy"
+                "text": "2/3 distance to earn Buddy Candy  while exploring Routes with your buddy",
+                "template": "increased-candy",
+                "value": 23
             }
         ],
         "features": [],
