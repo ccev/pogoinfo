@@ -83,15 +83,7 @@
                 "template": "increased-candy"
             }
         ],
-        "features": [
-            "Increased Route availability across the globe.",
-            "A lower level requirement for Trainers to create Routes.",
-            "Several quality of life improvements, including seeing more Routes listed in the Nearby menu, directional arrows on Routes, and a running count of the Zygarde Cells you’ve collected in the Zygarde Cube details.",
-            "More Trainers will be able to create Routes.",
-            "Trainers will be able to find Zygarde Cells more often while exploring Routes.",
-            "A new notification will be available to inform Trainers when there are Routes nearby.",
-            "Various quality of life improvements."
-        ],
+        "features": [],
         "has_quests": true,
         "has_spawnpoints": false
     },
