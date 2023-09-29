@@ -103,6 +103,26 @@
         "has_spawnpoints": false
     },
     {
+        "name": "Detective Pikachu Returns",
+        "type": "event",
+        "start": "2023-10-05 10:00",
+        "end": "2023-10-09 20:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [
+            {
+                "text": "2× XP for spinning PokéStops during the event",
+                "template": "increased-xp",
+                "value": 2
+            }
+        ],
+        "features": [],
+        "has_quests": true,
+        "has_spawnpoints": false
+    },
+    {
         "name": "Shroomish Spotlight Hour",
         "type": "spotlight-hour",
         "start": "2023-10-10 18:00",
