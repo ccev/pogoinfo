@@ -315,6 +315,31 @@
         "has_spawnpoints": false
     },
     {
+        "name": "Ticket of Treats",
+        "type": "event",
+        "start": "2023-10-01 00:00",
+        "end": "2023-10-31 23:59",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [
+            {
+                "text": "1.5× additional XP awarded for your first catch of the day",
+                "template": "increased-xp",
+                "value": 15
+            },
+            {
+                "text": "1.5× additional Stardust for your first catch of the day",
+                "template": "increased-stardust",
+                "value": 15
+            }
+        ],
+        "features": [],
+        "has_quests": true,
+        "has_spawnpoints": false
+    },
+    {
         "name": "November Community Day",
         "type": "community-day",
         "start": "2023-11-05 14:00",
