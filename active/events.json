@@ -1,38 +1,5 @@
 [
     {
-        "name": "Azurill Hatch Day",
-        "type": "event",
-        "start": "2023-09-30 14:00",
-        "end": "2023-09-30 17:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [
-            {
-                "text": "Increased Chance of hatching Shiny Azurill",
-                "template": "reduced-hatch-distance"
-            },
-            {
-                "text": "2x Candy from hatching Eggs",
-                "template": "increased-candy",
-                "value": 2
-            },
-            {
-                "text": "2x Stardust from hatching Eggs",
-                "template": "increased-stardust",
-                "value": 2
-            },
-            {
-                "text": "2 km Eggs will drop much more frequently from PokéStops",
-                "value": 2
-            }
-        ],
-        "features": [],
-        "has_quests": true,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Out to Play",
         "type": "event",
         "start": "2023-09-27 10:00",
