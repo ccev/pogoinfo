@@ -1,33 +1,5 @@
 [
     {
-        "name": "Out to Play",
-        "type": "event",
-        "start": "2023-09-27 10:00",
-        "end": "2023-10-02 20:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [
-            {
-                "text": "Kecleon will be appearing more frequently at PokéStops"
-            },
-            {
-                "text": "3× XP for completing a Route",
-                "template": "increased-xp",
-                "value": 3
-            },
-            {
-                "text": "2/3 distance to earn Buddy Candy  while exploring Routes with your buddy",
-                "template": "increased-candy",
-                "value": 23
-            }
-        ],
-        "features": [],
-        "has_quests": true,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Slowpoke Spotlight Hour",
         "type": "spotlight-hour",
         "start": "2023-10-03 18:00",
@@ -192,9 +164,21 @@
         "eggs": [],
         "raids": [],
         "shinies": [],
-        "bonuses": [],
+        "bonuses": [
+            {
+                "text": "Mossy Lure Modules activated during the event will last for two hours",
+                "template": "longer-lure"
+            },
+            {
+                "text": "Mossy Lure Modules have a higher chance of attracting Pumpkaboo"
+            },
+            {
+                "text": "Trainers will receive additional Pumpkaboo Candy for catching Pumpkaboo during the event",
+                "template": "increased-candy"
+            }
+        ],
         "features": [],
-        "has_quests": false,
+        "has_quests": true,
         "has_spawnpoints": false
     },
     {
