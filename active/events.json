@@ -1,19 +1,5 @@
 [
     {
-        "name": "Raikou, Entei, and Suicune Raid Hour",
-        "type": "raid-hour",
-        "start": "2023-10-04 18:00",
-        "end": "2023-10-04 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
         "name": "GO Battle Weekend: Geeta",
         "type": "event",
         "start": "2023-10-07 00:00",
