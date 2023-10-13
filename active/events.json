@@ -107,17 +107,28 @@
         "has_spawnpoints": false
     },
     {
-        "name": "Incense Day",
+        "name": "Incense Day: Skorupi",
         "type": "event",
-        "start": "2023-10-21 14:00",
+        "start": "2023-10-21 11:00",
         "end": "2023-10-21 17:00",
         "spawns": [],
         "eggs": [],
         "raids": [],
         "shinies": [],
-        "bonuses": [],
+        "bonuses": [
+            {
+                "text": "Incense is more likely to attract Skorupi",
+                "template": "longer-incense"
+            },
+            {
+                "text": "Increased chance to encounter Shiny Skorupi"
+            },
+            {
+                "text": "Daily Adventure Incense lasts twice as long when activated during the event"
+            }
+        ],
         "features": [],
-        "has_quests": false,
+        "has_quests": true,
         "has_spawnpoints": false
     },
     {
@@ -152,14 +163,31 @@
         "name": "Pokémon GO Halloween 2023 - Part I",
         "type": "event",
         "start": "2023-10-19 10:00",
-        "end": "2023-10-26 20:00",
+        "end": "2023-10-26 10:00",
         "spawns": [],
         "eggs": [],
         "raids": [],
         "shinies": [],
-        "bonuses": [],
+        "bonuses": [
+            {
+                "text": "Additional Candy for successfully catching Pokémon with Nice Throws, Great Throws, and Excellent Throws",
+                "template": "increased-candy"
+            },
+            {
+                "text": "Additional Candy XL for successfully catching Pokémon with Nice Throws, Great Throws, and Excellent Throws"
+            },
+            {
+                "text": "2× Candy for hatching Pokémon",
+                "template": "reduced-hatch-distance",
+                "value": 2
+            },
+            {
+                "text": "Trainers level 31 and above will receive additional Candy XL for hatching Eggs",
+                "value": 31
+            }
+        ],
         "features": [],
-        "has_quests": false,
+        "has_quests": true,
         "has_spawnpoints": false
     },
     {
