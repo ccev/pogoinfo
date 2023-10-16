@@ -1,57 +1,5 @@
 [
     {
-        "name": "Timburr Community Day",
-        "type": "community-day",
-        "start": "2023-10-15 14:00",
-        "end": "2023-10-15 17:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [
-            {
-                "text": "Increased Spawns"
-            },
-            {
-                "text": "3x Catch Stardust",
-                "template": "increased-stardust",
-                "value": 3
-            },
-            {
-                "text": "3-hour Incense**",
-                "template": "longer-incense",
-                "value": 3
-            },
-            {
-                "text": "3-hour Lures***",
-                "template": "longer-lure",
-                "value": 3
-            },
-            {
-                "text": "2x Catch Candy",
-                "template": "increased-candy",
-                "value": 2
-            },
-            {
-                "text": "2x Chance to receive Candy XL from catching Pokémon",
-                "value": 2
-            },
-            {
-                "text": "One additional Special Trade can be made for a maximum of two for the day*"
-            },
-            {
-                "text": "Trades made will require 50% less Stardust*",
-                "value": 50
-            }
-        ],
-        "features": [
-            "Trainer Battles: 65 power",
-            "Gyms and raids: 65 power"
-        ],
-        "has_quests": true,
-        "has_spawnpoints": true
-    },
-    {
         "name": "Pumpkaboo Spotlight Hour",
         "type": "spotlight-hour",
         "start": "2023-10-17 18:00",
@@ -244,7 +192,7 @@
         "has_spawnpoints": false
     },
     {
-        "name": "November Community Day",
+        "name": "Wooper Community Day",
         "type": "community-day",
         "start": "2023-11-05 14:00",
         "end": "2023-11-05 17:00",
@@ -252,8 +200,49 @@
         "eggs": [],
         "raids": [],
         "shinies": [],
-        "bonuses": [],
-        "features": [],
+        "bonuses": [
+            {
+                "text": "Increased Spawns"
+            },
+            {
+                "text": "1/2 Hatch Distance when Eggs are placed in Incubators during the event period",
+                "template": "reduced-hatch-distance",
+                "value": 12
+            },
+            {
+                "text": "3-hour Incense**",
+                "template": "longer-incense",
+                "value": 3
+            },
+            {
+                "text": "3-hour Lures***",
+                "template": "longer-lure",
+                "value": 3
+            },
+            {
+                "text": "2x Catch Candy",
+                "template": "increased-candy",
+                "value": 2
+            },
+            {
+                "text": "2x Chance to receive Candy XL from catching Pokémon",
+                "value": 2
+            },
+            {
+                "text": "One additional Special Trade can be made for a maximum of two for the day*"
+            },
+            {
+                "text": "Trades made will require 50% less Stardust*",
+                "template": "increased-stardust",
+                "value": 50
+            }
+        ],
+        "features": [
+            "Trainer Battles: 50 power",
+            "Gyms and raids: 50 power",
+            "Trainer Battles: 110 power",
+            "Gyms and raids: 110 power"
+        ],
         "has_quests": true,
         "has_spawnpoints": true
     },
