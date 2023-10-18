@@ -1,19 +1,5 @@
 [
     {
-        "name": "Pumpkaboo Spotlight Hour",
-        "type": "spotlight-hour",
-        "start": "2023-10-17 18:00",
-        "end": "2023-10-17 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": true
-    },
-    {
         "name": "Guzzlord Raid Hour",
         "type": "raid-hour",
         "start": "2023-10-18 18:00",
