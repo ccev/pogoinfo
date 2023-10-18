@@ -120,9 +120,24 @@
         "eggs": [],
         "raids": [],
         "shinies": [],
-        "bonuses": [],
+        "bonuses": [
+            {
+                "text": "Additional Candy for successfully catching Pokémon with Nice Throws, Great Throws, and Excellent Throws",
+                "template": "increased-candy"
+            },
+            {
+                "text": "Additional Candy XL for successfully catching Pokémon with Nice Throws, Great Throws, and Excellent Throws"
+            },
+            {
+                "text": "Costumed Pokémon have a chance to give additional Candy when caught"
+            },
+            {
+                "text": "On October 31, costumed Pokémon will have a chance to give Rare Candy or Rare Candy XL when caught",
+                "value": 31
+            }
+        ],
         "features": [],
-        "has_quests": false,
+        "has_quests": true,
         "has_spawnpoints": false
     },
     {
