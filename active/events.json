@@ -1,19 +1,5 @@
 [
     {
-        "name": "Guzzlord Raid Hour",
-        "type": "raid-hour",
-        "start": "2023-10-18 18:00",
-        "end": "2023-10-18 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Incense Day: Skorupi",
         "type": "event",
         "start": "2023-10-21 11:00",
