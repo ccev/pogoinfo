@@ -152,6 +152,39 @@
         "has_spawnpoints": false
     },
     {
+        "name": "Día de Muertos 2023",
+        "type": "event",
+        "start": "2023-11-01 10:00",
+        "end": "2023-11-02 20:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [
+            {
+                "text": "Lure Modules activated during the event will last for 90 minutes",
+                "template": "longer-lure",
+                "value": 90
+            },
+            {
+                "text": "Incense (excluding Daily Adventure Incense) activated during the event will last for 90 minutes",
+                "template": "longer-incense",
+                "value": 90
+            },
+            {
+                "text": "2× Catch Candy",
+                "template": "increased-candy",
+                "value": 2
+            },
+            {
+                "text": "Additional Candy for transferring Pokémon"
+            }
+        ],
+        "features": [],
+        "has_quests": true,
+        "has_spawnpoints": false
+    },
+    {
         "name": "Wooper Community Day",
         "type": "community-day",
         "start": "2023-11-05 14:00",
