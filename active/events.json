@@ -1,30 +1,5 @@
 [
     {
-        "name": "Incense Day: Skorupi",
-        "type": "event",
-        "start": "2023-10-21 11:00",
-        "end": "2023-10-21 17:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [
-            {
-                "text": "Incense is more likely to attract Skorupi",
-                "template": "longer-incense"
-            },
-            {
-                "text": "Increased chance to encounter Shiny Skorupi"
-            },
-            {
-                "text": "Daily Adventure Incense lasts twice as long when activated during the event"
-            }
-        ],
-        "features": [],
-        "has_quests": true,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Phantump Spotlight Hour",
         "type": "spotlight-hour",
         "start": "2023-10-24 18:00",
