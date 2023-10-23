@@ -215,6 +215,20 @@
         "has_spawnpoints": true
     },
     {
+        "name": "Chinchou Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2023-11-07 18:00",
+        "end": "2023-11-07 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": true
+    },
+    {
         "name": "Unannounced Event - November 11",
         "type": "event",
         "start": "2023-11-11 14:00",
@@ -229,6 +243,34 @@
         "has_spawnpoints": false
     },
     {
+        "name": "Buneary Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2023-11-14 18:00",
+        "end": "2023-11-14 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": true
+    },
+    {
+        "name": "Dunsparce Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2023-11-21 18:00",
+        "end": "2023-11-21 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": true
+    },
+    {
         "name": "November Community Day Classic",
         "type": "community-day",
         "start": "2023-11-25 14:00",
@@ -240,6 +282,20 @@
         "bonuses": [],
         "features": [],
         "has_quests": true,
+        "has_spawnpoints": true
+    },
+    {
+        "name": "Lechonk Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2023-11-28 18:00",
+        "end": "2023-11-28 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
         "has_spawnpoints": true
     },
     {
