@@ -229,10 +229,10 @@
         "has_spawnpoints": true
     },
     {
-        "name": "Unannounced Event - November 11",
+        "name": "Festival of Lights",
         "type": "event",
-        "start": "2023-11-11 14:00",
-        "end": "2023-11-11 17:00",
+        "start": "2023-11-07 10:00",
+        "end": "2023-11-12 20:00",
         "spawns": [],
         "eggs": [],
         "raids": [],
@@ -255,6 +255,20 @@
         "features": [],
         "has_quests": false,
         "has_spawnpoints": true
+    },
+    {
+        "name": "Fashion Week",
+        "type": "event",
+        "start": "2023-11-15 10:00",
+        "end": "2023-11-19 20:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
     },
     {
         "name": "Dunsparce Spotlight Hour",
@@ -283,6 +297,20 @@
         "features": [],
         "has_quests": true,
         "has_spawnpoints": true
+    },
+    {
+        "name": "Party Up!",
+        "type": "event",
+        "start": "2023-11-22 10:00",
+        "end": "2023-11-27 20:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
     },
     {
         "name": "Lechonk Spotlight Hour",
