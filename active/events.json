@@ -1,19 +1,5 @@
 [
     {
-        "name": "Phantump Spotlight Hour",
-        "type": "spotlight-hour",
-        "start": "2023-10-24 18:00",
-        "end": "2023-10-24 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": true
-    },
-    {
         "name": "Darkrai Raid Hour",
         "type": "raid-hour",
         "start": "2023-10-25 18:00",
@@ -237,9 +223,24 @@
         "eggs": [],
         "raids": [],
         "shinies": [],
-        "bonuses": [],
+        "bonuses": [
+            {
+                "text": "2× Stardust for hatching Pokémon",
+                "template": "increased-stardust",
+                "value": 2
+            },
+            {
+                "text": "2× Candy for hatching Pokémon",
+                "template": "increased-candy",
+                "value": 2
+            },
+            {
+                "text": "Incense (excluding Daily Adventure Incense) activated during the event will last twice as long",
+                "template": "longer-incense"
+            }
+        ],
         "features": [],
-        "has_quests": false,
+        "has_quests": true,
         "has_spawnpoints": false
     },
     {
