@@ -1,19 +1,5 @@
 [
     {
-        "name": "Darkrai Raid Hour",
-        "type": "raid-hour",
-        "start": "2023-10-25 18:00",
-        "end": "2023-10-25 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Pokémon GO Halloween 2023 - Part I",
         "type": "event",
         "start": "2023-10-19 10:00",
