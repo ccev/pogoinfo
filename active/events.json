@@ -68,6 +68,20 @@
         "has_spawnpoints": false
     },
     {
+        "name": "Darkrai Raid Hour",
+        "type": "raid-hour",
+        "start": "2023-11-01 18:00",
+        "end": "2023-11-01 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
         "name": "Día de Muertos 2023",
         "type": "event",
         "start": "2023-11-01 10:00",
@@ -170,6 +184,20 @@
         "has_spawnpoints": true
     },
     {
+        "name": "Genesect with a Douse Drive Raid Hour",
+        "type": "raid-hour",
+        "start": "2023-11-08 18:00",
+        "end": "2023-11-08 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
         "name": "Festival of Lights",
         "type": "event",
         "start": "2023-11-07 10:00",
@@ -213,6 +241,20 @@
         "has_spawnpoints": true
     },
     {
+        "name": "Virizion Raid Hour",
+        "type": "raid-hour",
+        "start": "2023-11-15 18:00",
+        "end": "2023-11-15 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
         "name": "Fashion Week",
         "type": "event",
         "start": "2023-11-15 10:00",
@@ -239,6 +281,20 @@
         "features": [],
         "has_quests": false,
         "has_spawnpoints": true
+    },
+    {
+        "name": "Cobalion Raid Hour",
+        "type": "raid-hour",
+        "start": "2023-11-22 18:00",
+        "end": "2023-11-22 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
     },
     {
         "name": "November Community Day Classic",
@@ -281,6 +337,20 @@
         "features": [],
         "has_quests": false,
         "has_spawnpoints": true
+    },
+    {
+        "name": "Terrakion Raid Hour",
+        "type": "raid-hour",
+        "start": "2023-11-29 18:00",
+        "end": "2023-11-29 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
     },
     {
         "name": "Adventures Abound",
