@@ -46,9 +46,9 @@
                 "text": "Increased Spawns"
             },
             {
-                "text": "1/2 Hatch Distance when Eggs are placed in Incubators during the event period",
+                "text": "1/4 Hatch Distance when Eggs are placed in Incubators during the event period",
                 "template": "reduced-hatch-distance",
-                "value": 12
+                "value": 14
             },
             {
                 "text": "3-hour Incense**",
