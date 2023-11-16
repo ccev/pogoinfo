@@ -99,9 +99,26 @@
         "eggs": [],
         "raids": [],
         "shinies": [],
-        "bonuses": [],
+        "bonuses": [
+            {
+                "text": "Up to five Special Trades can be made a day"
+            },
+            {
+                "text": "Two additional Candy for trading Pokémon",
+                "template": "increased-candy"
+            },
+            {
+                "text": "Trainers level 31 and up are guaranteed to recieve Candy XL for trading Pokémon",
+                "value": 31
+            },
+            {
+                "text": "2x XP for winning Raid Battles",
+                "template": "increased-xp",
+                "value": 2
+            }
+        ],
         "features": [],
-        "has_quests": false,
+        "has_quests": true,
         "has_spawnpoints": false
     },
     {
