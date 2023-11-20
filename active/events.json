@@ -1,32 +1,5 @@
 [
     {
-        "name": "Fashion Week",
-        "type": "event",
-        "start": "2023-11-15 10:00",
-        "end": "2023-11-19 20:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [
-            {
-                "text": "Select avatar items will be on sale during Fashion Week"
-            },
-            {
-                "text": "2× Candy for catching Pokémon",
-                "template": "increased-candy",
-                "value": 2
-            },
-            {
-                "text": "Increased chance for Trainers level 31 and up to receive Candy XL for successfully catching Pokémon",
-                "value": 31
-            }
-        ],
-        "features": [],
-        "has_quests": true,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Dunsparce Spotlight Hour",
         "type": "spotlight-hour",
         "start": "2023-11-21 18:00",
