@@ -1,36 +1,5 @@
 [
     {
-        "name": "Party Up!",
-        "type": "event",
-        "start": "2023-11-22 10:00",
-        "end": "2023-11-27 20:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [
-            {
-                "text": "Up to five Special Trades can be made a day"
-            },
-            {
-                "text": "Two additional Candy for trading Pokémon",
-                "template": "increased-candy"
-            },
-            {
-                "text": "Trainers level 31 and up are guaranteed to recieve Candy XL for trading Pokémon",
-                "value": 31
-            },
-            {
-                "text": "2x XP for winning Raid Battles",
-                "template": "increased-xp",
-                "value": 2
-            }
-        ],
-        "features": [],
-        "has_quests": true,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Lechonk Spotlight Hour",
         "type": "spotlight-hour",
         "start": "2023-11-28 18:00",
@@ -90,7 +59,7 @@
         "has_spawnpoints": false
     },
     {
-        "name": "Unannounced Event - December 3",
+        "name": "Hisuian Samurott Raid Day",
         "type": "event",
         "start": "2023-12-03 14:00",
         "end": "2023-12-03 17:00",
@@ -98,7 +67,39 @@
         "eggs": [],
         "raids": [],
         "shinies": [],
-        "bonuses": [],
+        "bonuses": [
+            {
+                "text": "Receive up to five additional free Raid Passes from spinning Gym Photo Discs"
+            },
+            {
+                "text": "The Remote Raid limit will be increased to 20 from Saturday, December 2, 2023, at 4:00 p.m. to Sunday, December 3, 2023, at 7:00 p.m. PST",
+                "value": 202202340032023700
+            },
+            {
+                "text": "Increased chance to encounter Shiny Hisuian Samurott"
+            },
+            {
+                "text": "Hisuian Samurott will appear more frequently in raids"
+            },
+            {
+                "text": "Eight additional Raid Passes from spinning Gym Photo Discs (for a daily total of 14)",
+                "value": 14
+            },
+            {
+                "text": "Increased chance to get Rare Candy XL",
+                "template": "increased-candy"
+            },
+            {
+                "text": "50% more XP from Raid Battles",
+                "template": "increased-xp",
+                "value": 50
+            },
+            {
+                "text": "2× Stardust from Raid Battles",
+                "template": "increased-stardust",
+                "value": 2
+            }
+        ],
         "features": [],
         "has_quests": false,
         "has_spawnpoints": false
@@ -120,13 +121,58 @@
     {
         "name": "December Community Day",
         "type": "community-day",
-        "start": "2023-12-16 10:00",
-        "end": "2023-12-17 20:00",
+        "start": "2023-12-16 09:00",
+        "end": "2023-12-17 21:00",
         "spawns": [],
         "eggs": [],
         "raids": [],
         "shinies": [],
-        "bonuses": [],
+        "bonuses": [
+            {
+                "text": "Increased Spawns"
+            },
+            {
+                "text": "2x XP for catching Pokémon",
+                "template": "increased-xp",
+                "value": 2
+            },
+            {
+                "text": "2x Stardust for catching Pokémon",
+                "template": "increased-stardust",
+                "value": 2
+            },
+            {
+                "text": "1/2 Hatch Distance when Eggs are placed into Incubators during the event period",
+                "template": "reduced-hatch-distance",
+                "value": 12
+            },
+            {
+                "text": "2x Catch Candy",
+                "template": "increased-candy",
+                "value": 2
+            },
+            {
+                "text": "2x Chance to receive Candy XL from catching Pokémon",
+                "value": 2
+            },
+            {
+                "text": "3-hour Incense",
+                "template": "longer-incense",
+                "value": 3
+            },
+            {
+                "text": "3-hour Lures",
+                "template": "longer-lure",
+                "value": 3
+            },
+            {
+                "text": "One additional Special Trade can be made for a maximum of two for the day*"
+            },
+            {
+                "text": "Trades made will require 50% less Stardust*",
+                "value": 50
+            }
+        ],
         "features": [],
         "has_quests": true,
         "has_spawnpoints": true
@@ -245,6 +291,41 @@
         "raids": [],
         "shinies": [],
         "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Timeless Travels",
+        "type": "season",
+        "start": "2023-12-01 10:00",
+        "end": "2024-03-01 10:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [
+            {
+                "text": "Trainers level 31 and above will receive one guaranteed Candy XL when trading Pokémon",
+                "template": "increased-candy",
+                "value": 31
+            },
+            {
+                "text": "One additional Candy when trading Pokémon"
+            },
+            {
+                "text": "Trainers level 31 and above will have a higher chance to receive Rare Candy XL from in-person five-star raids",
+                "value": 31
+            },
+            {
+                "text": "Increased XP for a seven-day PokéStop spin streak",
+                "template": "increased-xp"
+            },
+            {
+                "text": "Increased XP and Stardust for a seven-day Pokémon catch streak",
+                "template": "increased-stardust"
+            }
+        ],
         "features": [],
         "has_quests": false,
         "has_spawnpoints": false
