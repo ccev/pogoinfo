@@ -1,19 +1,5 @@
 [
     {
-        "name": "Lechonk Spotlight Hour",
-        "type": "spotlight-hour",
-        "start": "2023-11-28 18:00",
-        "end": "2023-11-28 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": true
-    },
-    {
         "name": "Terrakion Raid Hour",
         "type": "raid-hour",
         "start": "2023-11-29 18:00",
@@ -59,52 +45,6 @@
         "has_spawnpoints": false
     },
     {
-        "name": "Hisuian Samurott Raid Day",
-        "type": "event",
-        "start": "2023-12-03 14:00",
-        "end": "2023-12-03 17:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [
-            {
-                "text": "Receive up to five additional free Raid Passes from spinning Gym Photo Discs"
-            },
-            {
-                "text": "The Remote Raid limit will be increased to 20 from Saturday, December 2, 2023, at 4:00 p.m. to Sunday, December 3, 2023, at 7:00 p.m. PST",
-                "value": 202202340032023700
-            },
-            {
-                "text": "Increased chance to encounter Shiny Hisuian Samurott"
-            },
-            {
-                "text": "Hisuian Samurott will appear more frequently in raids"
-            },
-            {
-                "text": "Eight additional Raid Passes from spinning Gym Photo Discs (for a daily total of 14)",
-                "value": 14
-            },
-            {
-                "text": "Increased chance to get Rare Candy XL",
-                "template": "increased-candy"
-            },
-            {
-                "text": "50% more XP from Raid Battles",
-                "template": "increased-xp",
-                "value": 50
-            },
-            {
-                "text": "2× Stardust from Raid Battles",
-                "template": "increased-stardust",
-                "value": 2
-            }
-        ],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Feebas Spotlight Hour",
         "type": "spotlight-hour",
         "start": "2023-12-05 18:00",
@@ -133,7 +73,21 @@
         "has_spawnpoints": false
     },
     {
-        "name": "Unannounced Event - December 9",
+        "name": "Along the Routes",
+        "type": "event",
+        "start": "2023-12-05 10:00",
+        "end": "2023-12-08 20:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Catch Mastery: Ice",
         "type": "event",
         "start": "2023-12-09 14:00",
         "end": "2023-12-09 17:00",
@@ -165,6 +119,20 @@
         "type": "raid-hour",
         "start": "2023-12-13 18:00",
         "end": "2023-12-13 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Adamant Time",
+        "type": "event",
+        "start": "2023-12-11 10:00",
+        "end": "2023-12-15 20:00",
         "spawns": [],
         "eggs": [],
         "raids": [],
@@ -262,10 +230,24 @@
         "has_spawnpoints": false
     },
     {
-        "name": "Unannounced Event - December 23",
+        "name": "Winter Wonderland",
         "type": "event",
-        "start": "2023-12-23 14:00",
-        "end": "2023-12-23 17:00",
+        "start": "2023-12-23 10:00",
+        "end": "2023-12-24 20:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Winter Holiday: Part 1",
+        "type": "event",
+        "start": "2023-12-18 10:00",
+        "end": "2023-12-25 20:00",
         "spawns": [],
         "eggs": [],
         "raids": [],
@@ -294,6 +276,20 @@
         "type": "raid-hour",
         "start": "2023-12-27 18:00",
         "end": "2023-12-27 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Winter Holiday: Part 2",
+        "type": "event",
+        "start": "2023-12-25 10:00",
+        "end": "2023-12-31 20:00",
         "spawns": [],
         "eggs": [],
         "raids": [],
