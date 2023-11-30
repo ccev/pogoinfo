@@ -67,9 +67,29 @@
         "eggs": [],
         "raids": [],
         "shinies": [],
-        "bonuses": [],
+        "bonuses": [
+            {
+                "text": "1/2 Egg Hatch Distance when Eggs are placed in an Incubator during the event period",
+                "template": "reduced-hatch-distance",
+                "value": 12
+            },
+            {
+                "text": "3× XP for spinning PokéStops",
+                "template": "increased-xp",
+                "value": 3
+            },
+            {
+                "text": "5× XP for spinning a PokéStop for the first time",
+                "value": 5
+            },
+            {
+                "text": "2× Stardust from opening Gifts",
+                "template": "increased-stardust",
+                "value": 2
+            }
+        ],
         "features": [],
-        "has_quests": false,
+        "has_quests": true,
         "has_spawnpoints": false
     },
     {
