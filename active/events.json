@@ -1,36 +1,5 @@
 [
     {
-        "name": "Adventures Abound",
-        "type": "season",
-        "start": "2023-09-01 10:00",
-        "end": "2023-12-01 10:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [
-            {
-                "text": "Trainers can open up to 40 Gifts daily",
-                "value": 40
-            },
-            {
-                "text": "Trainers can hold up to 40 Gifts in their Item Bag",
-                "value": 40
-            },
-            {
-                "text": "Increased damage when participating in raids with a friend"
-            },
-            {
-                "text": "1.5x XP from going up a Friendship level",
-                "template": "increased-xp",
-                "value": 15
-            }
-        ],
-        "features": [],
-        "has_quests": true,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Feebas Spotlight Hour",
         "type": "spotlight-hour",
         "start": "2023-12-05 18:00",
