@@ -70,9 +70,18 @@
         "eggs": [],
         "raids": [],
         "shinies": [],
-        "bonuses": [],
+        "bonuses": [
+            {
+                "text": "You’ll have an increased chance of encountering Shiny Snorunt, Shiny Cryogonal, and Shiny Bergmite"
+            },
+            {
+                "text": "2× XP for successfully catching Pokémon with Nice Throws, Great Throws, and Excellent Throws",
+                "template": "increased-xp",
+                "value": 2
+            }
+        ],
         "features": [],
-        "has_quests": false,
+        "has_quests": true,
         "has_spawnpoints": false
     },
     {
