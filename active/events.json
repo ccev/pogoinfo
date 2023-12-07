@@ -1,19 +1,5 @@
 [
     {
-        "name": "Feebas Spotlight Hour",
-        "type": "spotlight-hour",
-        "start": "2023-12-05 18:00",
-        "end": "2023-12-05 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": true
-    },
-    {
         "name": "Reshiram Raid Hour",
         "type": "raid-hour",
         "start": "2023-12-06 18:00",
