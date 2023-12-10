@@ -1,28 +1,5 @@
 [
     {
-        "name": "Catch Mastery: Ice",
-        "type": "event",
-        "start": "2023-12-09 10:00",
-        "end": "2023-12-09 20:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [
-            {
-                "text": "You’ll have an increased chance of encountering Shiny Snorunt, Shiny Cryogonal, and Shiny Bergmite"
-            },
-            {
-                "text": "2× XP for successfully catching Pokémon with Nice Throws, Great Throws, and Excellent Throws",
-                "template": "increased-xp",
-                "value": 2
-            }
-        ],
-        "features": [],
-        "has_quests": true,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Seel Spotlight Hour",
         "type": "spotlight-hour",
         "start": "2023-12-12 18:00",
