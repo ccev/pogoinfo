@@ -1,33 +1,5 @@
 [
     {
-        "name": "Seel Spotlight Hour",
-        "type": "spotlight-hour",
-        "start": "2023-12-12 18:00",
-        "end": "2023-12-12 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": true
-    },
-    {
-        "name": "Zekrom Raid Hour",
-        "type": "raid-hour",
-        "start": "2023-12-13 18:00",
-        "end": "2023-12-13 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Adamant Time",
         "type": "event",
         "start": "2023-12-11 10:00",
@@ -143,23 +115,51 @@
         "eggs": [],
         "raids": [],
         "shinies": [],
-        "bonuses": [],
+        "bonuses": [
+            {
+                "text": "Up to five Special Trades can be made a day"
+            },
+            {
+                "text": "Trades made during the event will require 50% less Stardust",
+                "template": "increased-stardust",
+                "value": 50
+            },
+            {
+                "text": "2× XP for winning Raid Battles",
+                "template": "increased-xp",
+                "value": 2
+            }
+        ],
         "features": [],
-        "has_quests": false,
+        "has_quests": true,
         "has_spawnpoints": false
     },
     {
         "name": "Winter Holiday: Part 1",
         "type": "event",
         "start": "2023-12-18 10:00",
-        "end": "2023-12-25 20:00",
+        "end": "2023-12-25 10:00",
         "spawns": [],
         "eggs": [],
         "raids": [],
         "shinies": [],
-        "bonuses": [],
+        "bonuses": [
+            {
+                "text": "2x Catch XP",
+                "template": "increased-xp",
+                "value": 2
+            },
+            {
+                "text": "2x Catch Stardust",
+                "template": "increased-stardust",
+                "value": 2
+            },
+            {
+                "text": "Increased XP and Stardust from opening Gifts"
+            }
+        ],
         "features": [],
-        "has_quests": false,
+        "has_quests": true,
         "has_spawnpoints": false
     },
     {
@@ -239,9 +239,23 @@
         "eggs": [],
         "raids": [],
         "shinies": [],
-        "bonuses": [],
+        "bonuses": [
+            {
+                "text": "2x Catch XP",
+                "template": "increased-xp",
+                "value": 2
+            },
+            {
+                "text": "2x Catch Stardust",
+                "template": "increased-stardust",
+                "value": 2
+            },
+            {
+                "text": "Increased XP and Stardust from opening Gifts"
+            }
+        ],
         "features": [],
-        "has_quests": false,
+        "has_quests": true,
         "has_spawnpoints": false
     },
     {
