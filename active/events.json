@@ -1,25 +1,5 @@
 [
     {
-        "name": "Adamant Time",
-        "type": "event",
-        "start": "2023-12-11 10:00",
-        "end": "2023-12-15 20:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [
-            {
-                "text": "3× XP for catching Pokémon",
-                "template": "increased-xp",
-                "value": 3
-            }
-        ],
-        "features": [],
-        "has_quests": true,
-        "has_spawnpoints": false
-    },
-    {
         "name": "December Community Day",
         "type": "community-day",
         "start": "2023-12-16 09:00",
