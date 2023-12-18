@@ -202,8 +202,48 @@
         "eggs": [],
         "raids": [],
         "shinies": [],
-        "bonuses": [],
-        "features": [],
+        "bonuses": [
+            {
+                "text": "Increased Spawns"
+            },
+            {
+                "text": "3x Catch Stardust",
+                "template": "increased-stardust",
+                "value": 3
+            },
+            {
+                "text": "3-hour Incense**",
+                "template": "longer-incense",
+                "value": 3
+            },
+            {
+                "text": "3-hour Lures***",
+                "template": "longer-lure",
+                "value": 3
+            },
+            {
+                "text": "2x Catch Candy",
+                "template": "increased-candy",
+                "value": 2
+            },
+            {
+                "text": "2x Chance to receive Candy XL from catching Pokémon",
+                "value": 2
+            },
+            {
+                "text": "One additional Special Trade can be made for a maximum of two for the day*"
+            },
+            {
+                "text": "Trades made will require 50% less Stardust*",
+                "value": 50
+            }
+        ],
+        "features": [
+            "Trainer Battles: 100 power",
+            "Gyms and raids: 100 power",
+            "Trainer Battles: 50 power and a chance to lower the opposing Pokémon’s Defense by one stage",
+            "Gyms and raids: 70 power"
+        ],
         "has_quests": true,
         "has_spawnpoints": true
     },
