@@ -1,19 +1,5 @@
 [
     {
-        "name": "Hidden Surprise: Kecleon",
-        "type": "event",
-        "start": "2023-12-18 17:00",
-        "end": "2023-12-18 20:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Snorunt Spotlight Hour",
         "type": "spotlight-hour",
         "start": "2023-12-19 18:00",
