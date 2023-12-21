@@ -1,19 +1,5 @@
 [
     {
-        "name": "Kyurem Raid Hour",
-        "type": "raid-hour",
-        "start": "2023-12-20 18:00",
-        "end": "2023-12-20 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Winter Wonderland",
         "type": "event",
         "start": "2023-12-23 10:00",
@@ -159,6 +145,30 @@
             },
             {
                 "text": "Increased XP and Stardust from opening Gifts"
+            }
+        ],
+        "features": [],
+        "has_quests": true,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Pokémon GO New Year's 2024",
+        "type": "event",
+        "start": "2024-01-01 10:00",
+        "end": "2024-01-03 20:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [
+            {
+                "text": "1/2 Egg Hatch Distance when Eggs are placed into Incubators during the event",
+                "template": "reduced-hatch-distance",
+                "value": 12
+            },
+            {
+                "text": "1/4 Hatch Distance for the first three Eggs hatched during the event using the Pokémon GO Egg hatching widget*",
+                "value": 14
             }
         ],
         "features": [],
