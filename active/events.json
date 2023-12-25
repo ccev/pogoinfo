@@ -1,33 +1,5 @@
 [
     {
-        "name": "Winter Wonderland",
-        "type": "event",
-        "start": "2023-12-23 10:00",
-        "end": "2023-12-24 20:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [
-            {
-                "text": "Up to five Special Trades can be made a day"
-            },
-            {
-                "text": "Trades made during the event will require 50% less Stardust",
-                "template": "increased-stardust",
-                "value": 50
-            },
-            {
-                "text": "2× XP for winning Raid Battles",
-                "template": "increased-xp",
-                "value": 2
-            }
-        ],
-        "features": [],
-        "has_quests": true,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Winter Holiday: Part 1",
         "type": "event",
         "start": "2023-12-18 10:00",
