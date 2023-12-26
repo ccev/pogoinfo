@@ -1,33 +1,5 @@
 [
     {
-        "name": "Winter Holiday: Part 1",
-        "type": "event",
-        "start": "2023-12-18 10:00",
-        "end": "2023-12-25 10:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [
-            {
-                "text": "2x Catch XP",
-                "template": "increased-xp",
-                "value": 2
-            },
-            {
-                "text": "2x Catch Stardust",
-                "template": "increased-stardust",
-                "value": 2
-            },
-            {
-                "text": "Increased XP and Stardust from opening Gifts"
-            }
-        ],
-        "features": [],
-        "has_quests": true,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Vanillite Spotlight Hour",
         "type": "spotlight-hour",
         "start": "2023-12-26 18:00",
