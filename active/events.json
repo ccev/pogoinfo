@@ -376,6 +376,46 @@
         "has_spawnpoints": true
     },
     {
+        "name": "Eggs-pedition Access: January",
+        "type": "event",
+        "start": "2024-01-01 10:00",
+        "end": "2024-01-31 20:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [
+            {
+                "text": "1 single-use Incubator awarded for your first spin of the day",
+                "value": 1
+            },
+            {
+                "text": "3× XP awarded for your first catch of the day",
+                "template": "increased-xp",
+                "value": 3
+            },
+            {
+                "text": "3× XP awarded for your first spin of the day",
+                "value": 3
+            },
+            {
+                "text": "Open up to 50 Gifts per day",
+                "value": 50
+            },
+            {
+                "text": "Send up to 150 Gifts per day",
+                "value": 150
+            },
+            {
+                "text": "Hold up to 40 Gifts in your Item Bag",
+                "value": 40
+            }
+        ],
+        "features": [],
+        "has_quests": true,
+        "has_spawnpoints": false
+    },
+    {
         "name": "Taken Treasure",
         "type": "event",
         "start": "2024-01-27 00:00",
