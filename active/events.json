@@ -1,19 +1,5 @@
 [
     {
-        "name": "Castform Spotlight Hour",
-        "type": "spotlight-hour",
-        "start": "2024-01-02 18:00",
-        "end": "2024-01-02 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": true
-    },
-    {
         "name": "Buzzwole, Xurkitree, and Pheromosa Raid Hour",
         "type": "raid-hour",
         "start": "2024-01-03 18:00",
