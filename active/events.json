@@ -217,7 +217,9 @@
                 "text": "Increased Spawns"
             },
             {
-                "text": "???"
+                "text": "3x Catch XP",
+                "template": "increased-xp",
+                "value": 3
             },
             {
                 "text": "3-hour Incense*",
@@ -230,10 +232,7 @@
                 "value": 3
             }
         ],
-        "features": [
-            "Trainer Battles: 90 power",
-            "Gyms and Raids: 90 power"
-        ],
+        "features": [],
         "has_quests": true,
         "has_spawnpoints": true
     },
