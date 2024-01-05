@@ -132,9 +132,20 @@
         "eggs": [],
         "raids": [],
         "shinies": [],
-        "bonuses": [],
+        "bonuses": [
+            {
+                "text": "2× Stardust for catching Pokémon",
+                "template": "increased-stardust",
+                "value": 2
+            },
+            {
+                "text": "2× Stardust for hatching Pokémon",
+                "template": "reduced-hatch-distance",
+                "value": 2
+            }
+        ],
         "features": [],
-        "has_quests": false,
+        "has_quests": true,
         "has_spawnpoints": false
     },
     {
