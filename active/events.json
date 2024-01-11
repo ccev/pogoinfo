@@ -136,9 +136,16 @@
         "eggs": [],
         "raids": [],
         "shinies": [],
-        "bonuses": [],
+        "bonuses": [
+            {
+                "text": "Team GO Rocket will appear more frequently at PokéStops and in balloons"
+            },
+            {
+                "text": "Throh and Sawk will both appear in the wild during the event, regardless of your location"
+            }
+        ],
         "features": [],
-        "has_quests": false,
+        "has_quests": true,
         "has_spawnpoints": false
     },
     {
