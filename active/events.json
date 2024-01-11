@@ -1,47 +1,5 @@
 [
     {
-        "name": "Tornadus (Therian Forme) Raid Hour",
-        "type": "raid-hour",
-        "start": "2024-01-10 18:00",
-        "end": "2024-01-10 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
-        "name": "Lustrous Odyssey",
-        "type": "event",
-        "start": "2024-01-06 10:00",
-        "end": "2024-01-10 20:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [
-            {
-                "text": "Increased frequency of Buddy Pokémon bringing you Souvenirs"
-            },
-            {
-                "text": "Increased frequency of Buddy Pokémon bringing you presents"
-            },
-            {
-                "text": "Your buddy will spend more time on the map after being fed Berries or Poffins"
-            },
-            {
-                "text": "Rockruff hatched from Eggs received as Adventure Sync rewards during Pokémon GO: Timeless Travels may have a chance to evolve into Dusk Form Lycanroc",
-                "template": "reduced-hatch-distance"
-            }
-        ],
-        "features": [],
-        "has_quests": true,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Ralts Spotlight Hour",
         "type": "spotlight-hour",
         "start": "2024-01-16 18:00",
