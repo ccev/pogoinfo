@@ -225,9 +225,16 @@
         "eggs": [],
         "raids": [],
         "shinies": [],
-        "bonuses": [],
+        "bonuses": [
+            {
+                "text": "Team GO Rocket will be appearing more frequently at PokéStops and in balloons*"
+            },
+            {
+                "text": "You can use a Charged TM to help a Shadow Pokémon forget the Charged Attack Frustration"
+            }
+        ],
         "features": [],
-        "has_quests": false,
+        "has_quests": true,
         "has_spawnpoints": false
     },
     {
