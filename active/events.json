@@ -1,38 +1,5 @@
 [
     {
-        "name": "Porygon Community Day Classic",
-        "type": "community-day",
-        "start": "2024-01-20 14:00",
-        "end": "2024-01-20 17:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [
-            {
-                "text": "Increased Spawns"
-            },
-            {
-                "text": "3x Catch XP",
-                "template": "increased-xp",
-                "value": 3
-            },
-            {
-                "text": "3-hour Incense*",
-                "template": "longer-incense",
-                "value": 3
-            },
-            {
-                "text": "3-hour Lures**",
-                "template": "longer-lure",
-                "value": 3
-            }
-        ],
-        "features": [],
-        "has_quests": true,
-        "has_spawnpoints": true
-    },
-    {
         "name": "Barboach Spotlight Hour",
         "type": "spotlight-hour",
         "start": "2024-01-23 18:00",
@@ -255,6 +222,61 @@
         "bonuses": [],
         "features": [],
         "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Road to Sinnoh",
+        "type": "event",
+        "start": "2024-02-19 10:00",
+        "end": "2024-02-23 22:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [
+            {
+                "text": "1/2 Egg Hatch Distance when Eggs are placed in an Incubator during the event period",
+                "template": "reduced-hatch-distance",
+                "value": 12
+            },
+            {
+                "text": "The Remote Raid Pass limit will be increased to 10 from Monday, February 19 to Thursday, February 22, 2024",
+                "value": 1019222024
+            },
+            {
+                "text": "There will be no limit on Remote Raids from Friday, February 23 to Sunday, February 25, 2024",
+                "value": 23252024
+            },
+            {
+                "text": "Additional 5,000 XP from completed raids",
+                "template": "increased-xp",
+                "value": 5000
+            },
+            {
+                "text": "1 additional Candy awarded for catching Pokémon in raids",
+                "template": "increased-candy",
+                "value": 1
+            },
+            {
+                "text": "2 additional Raid Passes from spinning Photo Discs at Gyms each day",
+                "value": 2
+            },
+            {
+                "text": "2× Hatch XP",
+                "value": 2
+            },
+            {
+                "text": "2× Hatch Candy",
+                "value": 2
+            },
+            {
+                "text": "2× Hatch Stardust",
+                "template": "increased-stardust",
+                "value": 2
+            }
+        ],
+        "features": [],
+        "has_quests": true,
         "has_spawnpoints": false
     },
     {
