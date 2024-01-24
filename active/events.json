@@ -1,19 +1,5 @@
 [
     {
-        "name": "Barboach Spotlight Hour",
-        "type": "spotlight-hour",
-        "start": "2024-01-23 18:00",
-        "end": "2024-01-23 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": true
-    },
-    {
         "name": "Landorus (Therian Forme) Raid Hour",
         "type": "raid-hour",
         "start": "2024-01-24 18:00",
