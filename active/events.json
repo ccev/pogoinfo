@@ -1,80 +1,5 @@
 [
     {
-        "name": "Foongus Spotlight Hour",
-        "type": "spotlight-hour",
-        "start": "2024-01-30 18:00",
-        "end": "2024-01-30 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": true
-    },
-    {
-        "name": "Eggs-pedition Access: January",
-        "type": "event",
-        "start": "2024-01-01 10:00",
-        "end": "2024-01-31 20:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [
-            {
-                "text": "1 single-use Incubator awarded for your first spin of the day",
-                "value": 1
-            },
-            {
-                "text": "3× XP awarded for your first catch of the day",
-                "template": "increased-xp",
-                "value": 3
-            },
-            {
-                "text": "3× XP awarded for your first spin of the day",
-                "value": 3
-            },
-            {
-                "text": "Open up to 50 Gifts per day",
-                "value": 50
-            },
-            {
-                "text": "Send up to 150 Gifts per day",
-                "value": 150
-            },
-            {
-                "text": "Hold up to 40 Gifts in your Item Bag",
-                "value": 40
-            }
-        ],
-        "features": [],
-        "has_quests": true,
-        "has_spawnpoints": false
-    },
-    {
-        "name": "Taken Treasure",
-        "type": "event",
-        "start": "2024-01-27 00:00",
-        "end": "2024-02-01 23:59",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [
-            {
-                "text": "Team GO Rocket will be appearing more frequently at PokéStops and in balloons*"
-            },
-            {
-                "text": "You can use a Charged TM to help a Shadow Pokémon forget the Charged Attack Frustration"
-            }
-        ],
-        "features": [],
-        "has_quests": true,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Chansey Community Day",
         "type": "community-day",
         "start": "2024-02-04 14:00",
@@ -125,6 +50,34 @@
         "has_spawnpoints": true
     },
     {
+        "name": "Dratini Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2024-02-06 18:00",
+        "end": "2024-02-06 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": true
+    },
+    {
+        "name": "Mega Latios Raid Hour",
+        "type": "raid-hour",
+        "start": "2024-02-07 18:00",
+        "end": "2024-02-07 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
         "name": "Timeless Travels: GO Battle Day",
         "type": "event",
         "start": "2024-02-10 00:00",
@@ -139,10 +92,132 @@
         "has_spawnpoints": false
     },
     {
-        "name": "Unannounced Event - February 11",
+        "name": "Lunar New Year: Dragons Unleashed",
         "type": "event",
-        "start": "2024-02-11 14:00",
-        "end": "2024-02-11 17:00",
+        "start": "2024-02-05 10:00",
+        "end": "2024-02-11 20:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [
+            {
+                "text": "Increased chance for Lucky Pokémon in trades",
+                "template": "increased-lucky-chance"
+            },
+            {
+                "text": "Increased chance to become Lucky Friends"
+            },
+            {
+                "text": "Additional Candy for successfully catching Pokémon with Nice Throws, Great Throws, and Excellent Throws",
+                "template": "increased-candy"
+            },
+            {
+                "text": "Increased chance for Trainers level 31 and up to receive Candy XL for successfully catching Pokémon with Nice Throws, Great Throws, and Excellent Throws",
+                "value": 31
+            }
+        ],
+        "features": [],
+        "has_quests": true,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Munna Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2024-02-13 18:00",
+        "end": "2024-02-13 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": true
+    },
+    {
+        "name": "Carnival of Love",
+        "type": "event",
+        "start": "2024-02-13 10:00",
+        "end": "2024-02-15 20:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [
+            {
+                "text": "Increased chance of receiving Candy XL when walking with your buddy",
+                "template": "increased-candy"
+            },
+            {
+                "text": "Two guaranteed Candy XL for evolving Pokémon"
+            }
+        ],
+        "features": [],
+        "has_quests": true,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Darkrai Raid Hour",
+        "type": "raid-hour",
+        "start": "2024-02-19 18:00",
+        "end": "2024-02-19 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Cresselia Raid Hour",
+        "type": "raid-hour",
+        "start": "2024-02-20 18:00",
+        "end": "2024-02-20 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Uxie, Mesprit, and Azelf Raid Hour",
+        "type": "raid-hour",
+        "start": "2024-02-21 18:00",
+        "end": "2024-02-21 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Heatran Raid Hour",
+        "type": "raid-hour",
+        "start": "2024-02-22 18:00",
+        "end": "2024-02-22 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Origin Forme Giratina Raid Hour",
+        "type": "raid-hour",
+        "start": "2024-02-23 18:00",
+        "end": "2024-02-23 19:00",
         "spawns": [],
         "eggs": [],
         "raids": [],
@@ -201,6 +276,74 @@
                 "text": "2× Hatch Stardust",
                 "template": "increased-stardust",
                 "value": 2
+            }
+        ],
+        "features": [],
+        "has_quests": true,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Sandshrew and Alolan Sandshrew Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2024-02-27 18:00",
+        "end": "2024-02-27 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": true
+    },
+    {
+        "name": "Cresselia and Heatran Raid Hour",
+        "type": "raid-hour",
+        "start": "2024-02-28 18:00",
+        "end": "2024-02-28 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Eggs-pedition Access: February",
+        "type": "event",
+        "start": null,
+        "end": "2024-02-29 20:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [
+            {
+                "text": "1 single-use Incubator awarded for your first spin of the day",
+                "value": 1
+            },
+            {
+                "text": "3× XP awarded for your first catch of the day",
+                "template": "increased-xp",
+                "value": 3
+            },
+            {
+                "text": "3× XP awarded for your first spin of the day",
+                "value": 3
+            },
+            {
+                "text": "Open up to 50 Gifts per day",
+                "value": 50
+            },
+            {
+                "text": "Send up to 150 Gifts per day",
+                "value": 150
+            },
+            {
+                "text": "Hold up to 40 Gifts in your Item Bag",
+                "value": 40
             }
         ],
         "features": [],
