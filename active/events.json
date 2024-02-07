@@ -1,19 +1,5 @@
 [
     {
-        "name": "Dratini Spotlight Hour",
-        "type": "spotlight-hour",
-        "start": "2024-02-06 18:00",
-        "end": "2024-02-06 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": true
-    },
-    {
         "name": "Mega Latios Raid Hour",
         "type": "raid-hour",
         "start": "2024-02-07 18:00",
