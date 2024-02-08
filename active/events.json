@@ -1,19 +1,5 @@
 [
     {
-        "name": "Mega Latios Raid Hour",
-        "type": "raid-hour",
-        "start": "2024-02-07 18:00",
-        "end": "2024-02-07 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Timeless Travels: GO Battle Day",
         "type": "event",
         "start": "2024-02-10 00:00",
