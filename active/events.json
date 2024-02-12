@@ -1,19 +1,5 @@
 [
     {
-        "name": "Timeless Travels: GO Battle Day",
-        "type": "event",
-        "start": "2024-02-10 00:00",
-        "end": "2024-02-10 23:59",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": true,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Lunar New Year: Dragons Unleashed",
         "type": "event",
         "start": "2024-02-05 10:00",
