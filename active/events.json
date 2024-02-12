@@ -1,35 +1,5 @@
 [
     {
-        "name": "Lunar New Year: Dragons Unleashed",
-        "type": "event",
-        "start": "2024-02-05 10:00",
-        "end": "2024-02-12 08:59",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [
-            {
-                "text": "Increased chance for Lucky Pokémon in trades",
-                "template": "increased-lucky-chance"
-            },
-            {
-                "text": "Increased chance to become Lucky Friends"
-            },
-            {
-                "text": "Additional Candy for successfully catching Pokémon with Nice Throws, Great Throws, and Excellent Throws",
-                "template": "increased-candy"
-            },
-            {
-                "text": "Increased chance for Trainers level 31 and up to receive Candy XL for successfully catching Pokémon with Nice Throws, Great Throws, and Excellent Throws",
-                "value": 31
-            }
-        ],
-        "features": [],
-        "has_quests": true,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Munna Spotlight Hour",
         "type": "spotlight-hour",
         "start": "2024-02-13 18:00",
