@@ -1,19 +1,5 @@
 [
     {
-        "name": "Munna Spotlight Hour",
-        "type": "spotlight-hour",
-        "start": "2024-02-13 18:00",
-        "end": "2024-02-13 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": true
-    },
-    {
         "name": "Carnival of Love",
         "type": "event",
         "start": "2024-02-13 10:00",
