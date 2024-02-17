@@ -228,6 +228,20 @@
         "has_spawnpoints": false
     },
     {
+        "name": "Unannounced Event on March 3",
+        "type": "event",
+        "start": "2024-03-03 14:00",
+        "end": "2024-03-03 17:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
         "name": "March Community Day",
         "type": "community-day",
         "start": "2024-03-16 14:00",
