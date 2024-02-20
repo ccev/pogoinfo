@@ -1,19 +1,5 @@
 [
     {
-        "name": "Darkrai Raid Hour",
-        "type": "raid-hour",
-        "start": "2024-02-19 18:00",
-        "end": "2024-02-19 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Cresselia Raid Hour",
         "type": "raid-hour",
         "start": "2024-02-20 18:00",
