@@ -1,19 +1,5 @@
 [
     {
-        "name": "Cresselia Raid Hour",
-        "type": "raid-hour",
-        "start": "2024-02-20 18:00",
-        "end": "2024-02-20 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Uxie, Mesprit, and Azelf Raid Hour",
         "type": "raid-hour",
         "start": "2024-02-21 18:00",
