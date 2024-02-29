@@ -1,33 +1,5 @@
 [
     {
-        "name": "Sandshrew and Alolan Sandshrew Spotlight Hour",
-        "type": "spotlight-hour",
-        "start": "2024-02-27 18:00",
-        "end": "2024-02-27 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": true
-    },
-    {
-        "name": "Cresselia and Heatran Raid Hour",
-        "type": "raid-hour",
-        "start": "2024-02-28 18:00",
-        "end": "2024-02-28 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Eggs-pedition Access: February",
         "type": "event",
         "start": null,
@@ -103,10 +75,38 @@
         "has_spawnpoints": false
     },
     {
-        "name": "Unannounced Event on March 3",
+        "name": "Charged-Up Research Day",
         "type": "event",
         "start": "2024-03-03 14:00",
         "end": "2024-03-03 17:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": true,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Pawmi Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2024-03-05 18:00",
+        "end": "2024-03-05 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": true
+    },
+    {
+        "name": "Tapu Koko Raid Hour",
+        "type": "raid-hour",
+        "start": "2024-03-13 18:00",
+        "end": "2024-03-13 19:00",
         "spawns": [],
         "eggs": [],
         "raids": [],
@@ -117,7 +117,44 @@
         "has_spawnpoints": false
     },
     {
-        "name": "March Community Day",
+        "name": "Pokémon Horizons: The Series Celebration Event",
+        "type": "event",
+        "start": "2024-03-05 10:00",
+        "end": "2024-03-11 20:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [
+            {
+                "text": "2× XP for hatching Pokémon",
+                "template": "increased-xp",
+                "value": 2
+            },
+            {
+                "text": "Team GO Rocket balloons will appear more frequently"
+            }
+        ],
+        "features": [],
+        "has_quests": true,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Nidoran♀ Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2024-03-12 18:00",
+        "end": "2024-03-12 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": true
+    },
+    {
+        "name": "Litten Community Day",
         "type": "community-day",
         "start": "2024-03-16 14:00",
         "end": "2024-03-16 17:00",
@@ -125,10 +162,149 @@
         "eggs": [],
         "raids": [],
         "shinies": [],
-        "bonuses": [],
-        "features": [],
+        "bonuses": [
+            {
+                "text": "Increased Spawns"
+            },
+            {
+                "text": "3x Catch XP",
+                "template": "increased-xp",
+                "value": 3
+            },
+            {
+                "text": "3-hour Incense**",
+                "template": "longer-incense",
+                "value": 3
+            },
+            {
+                "text": "3-hour Lures***",
+                "template": "longer-lure",
+                "value": 3
+            },
+            {
+                "text": "2x Catch Candy",
+                "template": "increased-candy",
+                "value": 2
+            },
+            {
+                "text": "2x Chance to receive Candy XL from catching Pokémon",
+                "value": 2
+            },
+            {
+                "text": "One additional Special Trade can be made for a maximum of two for the day*"
+            },
+            {
+                "text": "Trades made will require 50% less Stardust*",
+                "template": "increased-stardust",
+                "value": 50
+            }
+        ],
+        "features": [
+            "Trainer Battles: 110 power",
+            "Gyms and raids: 110 power",
+            "Trainer Battles: 120 power",
+            "Gyms and raids: 80 power"
+        ],
         "has_quests": true,
         "has_spawnpoints": true
+    },
+    {
+        "name": "Weather Week",
+        "type": "event",
+        "start": "2024-03-14 10:00",
+        "end": "2024-03-18 20:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Vulpix, Poliwag, Snorunt, and Hippopotas Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2024-03-19 18:00",
+        "end": "2024-03-19 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": true
+    },
+    {
+        "name": "Regice Raid Hour",
+        "type": "raid-hour",
+        "start": "2024-03-20 18:00",
+        "end": "2024-03-20 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Verdant Wonders & Zarude Ticketed Event",
+        "type": "event",
+        "start": "2024-03-21 10:00",
+        "end": "2024-03-25 20:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "Hoppip Spotlight Hour",
+        "type": "spotlight-hour",
+        "start": "2024-03-26 18:00",
+        "end": "2024-03-26 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": true
+    },
+    {
+        "name": "Tapu Lele Raid Hour",
+        "type": "raid-hour",
+        "start": "2024-04-03 18:00",
+        "end": "2024-04-03 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "World of Wonders: Taken Over",
+        "type": "event",
+        "start": "2024-03-27 10:00",
+        "end": "2024-03-31 20:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
     },
     {
         "name": "April Community Day Classic",
@@ -213,5 +389,30 @@
         "features": [],
         "has_quests": true,
         "has_spawnpoints": true
+    },
+    {
+        "name": "World of Wonders",
+        "type": "season",
+        "start": "2024-03-01 10:00",
+        "end": "2024-06-01 10:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [
+            {
+                "text": "Increased damage dealt by Pokémon participating in raids with Friends"
+            },
+            {
+                "text": "One additional free Raid Pass per day by spinning Gym Photo Discs"
+            },
+            {
+                "text": "Increased XP for defeating one-star and three-star Raids, including one-star and three-star Shadow Raids",
+                "template": "increased-xp"
+            }
+        ],
+        "features": [],
+        "has_quests": true,
+        "has_spawnpoints": false
     }
 ]
