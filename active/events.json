@@ -1,45 +1,5 @@
 [
     {
-        "name": "Eggs-pedition Access: February",
-        "type": "event",
-        "start": null,
-        "end": "2024-02-29 20:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [
-            {
-                "text": "1 single-use Incubator awarded for your first spin of the day",
-                "value": 1
-            },
-            {
-                "text": "3× XP awarded for your first catch of the day",
-                "template": "increased-xp",
-                "value": 3
-            },
-            {
-                "text": "3× XP awarded for your first spin of the day",
-                "value": 3
-            },
-            {
-                "text": "Open up to 50 Gifts per day",
-                "value": 50
-            },
-            {
-                "text": "Send up to 150 Gifts per day",
-                "value": 150
-            },
-            {
-                "text": "Hold up to 40 Gifts in your Item Bag",
-                "value": 40
-            }
-        ],
-        "features": [],
-        "has_quests": true,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Timeless Travels",
         "type": "season",
         "start": "2023-12-01 10:00",
