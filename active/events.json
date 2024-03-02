@@ -1,40 +1,5 @@
 [
     {
-        "name": "Timeless Travels",
-        "type": "season",
-        "start": "2023-12-01 10:00",
-        "end": "2024-03-01 10:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [
-            {
-                "text": "Trainers level 31 and above will receive one guaranteed Candy XL when trading Pokémon",
-                "template": "increased-candy",
-                "value": 31
-            },
-            {
-                "text": "One additional Candy when trading Pokémon"
-            },
-            {
-                "text": "Trainers level 31 and above will have a higher chance to receive Rare Candy XL from in-person five-star raids",
-                "value": 31
-            },
-            {
-                "text": "Increased XP for a seven-day PokéStop spin streak",
-                "template": "increased-xp"
-            },
-            {
-                "text": "Increased XP and Stardust for a seven-day Pokémon catch streak",
-                "template": "increased-stardust"
-            }
-        ],
-        "features": [],
-        "has_quests": true,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Charged-Up Research Day",
         "type": "event",
         "start": "2024-03-03 14:00",
