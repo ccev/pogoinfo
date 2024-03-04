@@ -1,19 +1,5 @@
 [
     {
-        "name": "Charged-Up Research Day",
-        "type": "event",
-        "start": "2024-03-03 14:00",
-        "end": "2024-03-03 17:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": true,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Pawmi Spotlight Hour",
         "type": "spotlight-hour",
         "start": "2024-03-05 18:00",
