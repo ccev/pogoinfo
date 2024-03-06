@@ -114,9 +114,21 @@
         "eggs": [],
         "raids": [],
         "shinies": [],
-        "bonuses": [],
+        "bonuses": [
+            {
+                "text": "Catch Pokémon with Weather Boost to earn extra Stardust",
+                "template": "increased-stardust"
+            },
+            {
+                "text": "2× Stardust for catching Pokémon",
+                "value": 2
+            },
+            {
+                "text": "Increased chance to encounter Shiny Castform!"
+            }
+        ],
         "features": [],
-        "has_quests": false,
+        "has_quests": true,
         "has_spawnpoints": false
     },
     {
@@ -276,8 +288,8 @@
     {
         "name": "GO Battle Week: World of Wonder",
         "type": "event",
-        "start": "2024-05-04 10:00",
-        "end": "2024-05-05 20:00",
+        "start": "2024-05-04 00:00",
+        "end": "2024-05-05 23:59",
         "spawns": [],
         "eggs": [],
         "raids": [],
