@@ -1,19 +1,5 @@
 [
     {
-        "name": "Pawmi Spotlight Hour",
-        "type": "spotlight-hour",
-        "start": "2024-03-05 18:00",
-        "end": "2024-03-05 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": true
-    },
-    {
         "name": "Tapu Koko Raid Hour",
         "type": "raid-hour",
         "start": "2024-03-13 18:00",
@@ -232,6 +218,20 @@
         "has_spawnpoints": true
     },
     {
+        "name": "2024 Pokémon Europe International Championships Bonus",
+        "type": "event",
+        "start": "2024-04-03 00:00",
+        "end": "2024-04-07 23:59",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
         "name": "Unannounced Event on April 13",
         "type": "event",
         "start": "2024-04-13 14:00",
@@ -271,6 +271,20 @@
         "bonuses": [],
         "features": [],
         "has_quests": false,
+        "has_spawnpoints": false
+    },
+    {
+        "name": "GO Battle Week: World of Wonder",
+        "type": "event",
+        "start": "2024-05-04 10:00",
+        "end": "2024-05-05 20:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": true,
         "has_spawnpoints": false
     },
     {
