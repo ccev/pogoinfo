@@ -1,19 +1,5 @@
 [
     {
-        "name": "Tapu Koko Raid Hour",
-        "type": "raid-hour",
-        "start": "2024-03-13 18:00",
-        "end": "2024-03-13 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Pokémon Horizons: The Series Celebration Event",
         "type": "event",
         "start": "2024-03-05 10:00",
@@ -49,6 +35,20 @@
         "features": [],
         "has_quests": false,
         "has_spawnpoints": true
+    },
+    {
+        "name": "Tapu Koko Raid Hour",
+        "type": "raid-hour",
+        "start": "2024-03-13 18:00",
+        "end": "2024-03-13 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
     },
     {
         "name": "Litten Community Day",
