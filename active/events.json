@@ -361,7 +361,36 @@
         "eggs": [],
         "raids": [],
         "shinies": [],
-        "bonuses": [],
+        "bonuses": [
+            {
+                "text": "1-hour Lure Module Duration",
+                "template": "longer-lure",
+                "value": 1
+            },
+            {
+                "text": "Field Research themed around the different Pokémon habitats"
+            },
+            {
+                "text": "Surprise encounters in GO Snapshot—when taking snapshots during the event, you never know who might show up!"
+            },
+            {
+                "text": "Increased chance of encountering Shiny Pokémon"
+            },
+            {
+                "text": "Up to six Special Trades can be made each day"
+            },
+            {
+                "text": "Level up your Elite Collector medal by completing habitat-themed Collection Challenges!"
+            },
+            {
+                "text": "Up to 9 free Raid Passes from spinning Photo Discs at Gyms",
+                "value": 9
+            },
+            {
+                "text": "Special 7 km Eggs",
+                "value": 7
+            }
+        ],
         "features": [],
         "has_quests": true,
         "has_spawnpoints": false
