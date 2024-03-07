@@ -351,5 +351,19 @@
         "features": [],
         "has_quests": true,
         "has_spawnpoints": false
+    },
+    {
+        "name": "Pokémon GO Fest 2024: Global",
+        "type": "event",
+        "start": "2024-07-13 10:00",
+        "end": "2024-07-14 18:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": true,
+        "has_spawnpoints": false
     }
 ]
