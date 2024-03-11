@@ -160,7 +160,7 @@
         "has_spawnpoints": false
     },
     {
-        "name": "Verdant Wonders & Zarude Ticketed Event",
+        "name": "Verdant Wonders Event & Zarude Ticketed Research",
         "type": "event",
         "start": "2024-03-21 10:00",
         "end": "2024-03-25 20:00",
@@ -170,7 +170,7 @@
         "shinies": [],
         "bonuses": [],
         "features": [],
-        "has_quests": false,
+        "has_quests": true,
         "has_spawnpoints": false
     },
     {
