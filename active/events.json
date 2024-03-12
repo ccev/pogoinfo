@@ -1,28 +1,5 @@
 [
     {
-        "name": "Pokémon Horizons: The Series Celebration Event",
-        "type": "event",
-        "start": "2024-03-05 10:00",
-        "end": "2024-03-11 20:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [
-            {
-                "text": "2× XP for hatching Pokémon",
-                "template": "increased-xp",
-                "value": 2
-            },
-            {
-                "text": "Team GO Rocket balloons will appear more frequently"
-            }
-        ],
-        "features": [],
-        "has_quests": true,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Nidoran♀ Spotlight Hour",
         "type": "spotlight-hour",
         "start": "2024-03-12 18:00",
