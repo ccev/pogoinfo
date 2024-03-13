@@ -1,19 +1,5 @@
 [
     {
-        "name": "Nidoran♀ Spotlight Hour",
-        "type": "spotlight-hour",
-        "start": "2024-03-12 18:00",
-        "end": "2024-03-12 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": true
-    },
-    {
         "name": "Tapu Koko Raid Hour",
         "type": "raid-hour",
         "start": "2024-03-13 18:00",
@@ -187,9 +173,16 @@
         "eggs": [],
         "raids": [],
         "shinies": [],
-        "bonuses": [],
+        "bonuses": [
+            {
+                "text": "Team GO Rocket will be appearing more frequently at PokéStops and in balloons"
+            },
+            {
+                "text": "You can use a Charged TM to help a Shadow Pokémon forget the Charged Attack Frustration"
+            }
+        ],
         "features": [],
-        "has_quests": false,
+        "has_quests": true,
         "has_spawnpoints": false
     },
     {
