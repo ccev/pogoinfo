@@ -117,7 +117,7 @@
         "has_spawnpoints": false
     },
     {
-        "name": "April Community Day Classic",
+        "name": "Bagon Community Day Classic",
         "type": "community-day",
         "start": "2024-04-07 14:00",
         "end": "2024-04-07 17:00",
@@ -125,7 +125,25 @@
         "eggs": [],
         "raids": [],
         "shinies": [],
-        "bonuses": [],
+        "bonuses": [
+            {
+                "text": "Increased Spawns"
+            },
+            {
+                "text": "3x ???",
+                "value": 3
+            },
+            {
+                "text": "3-hour Incense*",
+                "template": "longer-incense",
+                "value": 3
+            },
+            {
+                "text": "3-hour Lures**",
+                "template": "longer-lure",
+                "value": 3
+            }
+        ],
         "features": [],
         "has_quests": true,
         "has_spawnpoints": true
