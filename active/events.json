@@ -104,7 +104,8 @@
                 "text": "Increased Spawns"
             },
             {
-                "text": "3x ???",
+                "text": "3x Catch XP",
+                "template": "increased-xp",
                 "value": 3
             },
             {
