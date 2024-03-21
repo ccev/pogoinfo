@@ -110,6 +110,32 @@
         "has_spawnpoints": false
     },
     {
+        "name": "Sizeable Surprises",
+        "type": "event",
+        "start": "2024-04-04 10:00",
+        "end": "2024-04-09 20:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [
+            {
+                "text": "2× XP for successfully catching Pokémon with Nice Throws or better*",
+                "template": "increased-xp",
+                "value": 2
+            },
+            {
+                "text": "Increased chance to encounter XXS and XXL Pokémon in the wild"
+            },
+            {
+                "text": "Increased chance to encounter Shiny Wailmer"
+            }
+        ],
+        "features": [],
+        "has_quests": true,
+        "has_spawnpoints": false
+    },
+    {
         "name": "Unannounced Event on April 13",
         "type": "event",
         "start": "2024-04-13 14:00",
