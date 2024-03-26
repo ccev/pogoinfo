@@ -1,19 +1,5 @@
 [
     {
-        "name": "Verdant Wonders Event & Zarude Ticketed Research",
-        "type": "event",
-        "start": "2024-03-21 10:00",
-        "end": "2024-03-25 20:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": true,
-        "has_spawnpoints": false
-    },
-    {
         "name": "Hoppip Spotlight Hour",
         "type": "spotlight-hour",
         "start": "2024-03-26 18:00",
