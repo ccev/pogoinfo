@@ -1,19 +1,5 @@
 [
     {
-        "name": "Tapu Lele Raid Hour",
-        "type": "raid-hour",
-        "start": "2024-04-03 18:00",
-        "end": "2024-04-03 19:00",
-        "spawns": [],
-        "eggs": [],
-        "raids": [],
-        "shinies": [],
-        "bonuses": [],
-        "features": [],
-        "has_quests": false,
-        "has_spawnpoints": false
-    },
-    {
         "name": "World of Wonders: Taken Over",
         "type": "event",
         "start": "2024-03-27 00:00",
@@ -47,6 +33,20 @@
         "features": [],
         "has_quests": false,
         "has_spawnpoints": true
+    },
+    {
+        "name": "Tapu Lele Raid Hour",
+        "type": "raid-hour",
+        "start": "2024-04-03 18:00",
+        "end": "2024-04-03 19:00",
+        "spawns": [],
+        "eggs": [],
+        "raids": [],
+        "shinies": [],
+        "bonuses": [],
+        "features": [],
+        "has_quests": false,
+        "has_spawnpoints": false
     },
     {
         "name": "Bagon Community Day Classic",
